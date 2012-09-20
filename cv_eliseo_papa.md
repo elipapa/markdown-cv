@@ -1,62 +1,64 @@
-Eliseo Papa\
-\
-Phone: `` or ``\
-[](mailto:\myemail)\
-Skype: `eliseo.papa`\
-[](\myweb)\
+# Eliseo Papa
+## Biomedical Engineer, Computational Biologist, Data Scientist
 
-Born: September 16, 1982 — Belleville, Canada\
-Nationality: Italian Canadian citizen
+>[Download PDF](resume.pdf)
+>[elipapa@alum.mit.edu](elipapa@alum.mit.edu)
+>[eliseopapa.org](http://eliseopapa.org)
+> +44 7503 858936
+> + 1 347 635 4736
+> skype: eliseo.papa
 
-Current position
-================
+
+>Born: September 16, 1982 — Belleville, Canada\
+>Nationality: Italian & Canadian citizen
+
+### Current position
 
 *Ph.D Candidate*, Health Science Technology Inst., Harvard/MIT\
 *MBBS Candidate*, Graduate Entry Medicine, Imperial College London
 
-Areas of specialization
------------------------
-
+#### Areas of specialization
 Medical Engineering, Analysis of large data sets, Microbiome, Machine
 learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
 
-Research interests
-------------------
-
+#### Research interests
 Host-pathogen interactions at the level of microbiome and single cells.
 Human Microbiome Project. Emerging properties of networks in a
 biological and social context. Self-organized systems.\
 
-Languages
-=========
+### Languages
+- Italian: Mother tongue
+- English: Perfect oral written fluency; Canadian inflection\
+- French: Working knowledge\
 
-Italian: Mother tongue\
-English: Perfect oral written fluency; Canadian inflection\
-French: Working knowledge\
+### Education
+Imperial College London
+: MBBS Graduate Entry Medicine Programme
+  __2009-present__
 
-Education
-=========
+Harvard Medical School & Massachusets Institute of Technology
+: PhD, [Harvard/MIT Health Science & Technology institute](hst.mit.edu)
+  __2006 - 2012__
+  Biomedical Engineering
 
-2009 - presentMBBS Graduate Entry Medicine Programme, Imperial College
-London\
-2006 - presentPhD Candidate, MEMP Ph.D program, Harvard/MIT Health
-Science Technology Institute
-
-Harvard Medical School: pathology, renal pathophysiology, respiratory
+* Harvard Medical School: pathology, renal pathophysiology, respiratory
 pathophysiology, cardiac pathophysiology
 
-MIT: biomechanics, forces fields and flows in biological systems, fluid
+* MIT: biomechanics, forces fields and flows in biological systems, fluid
 mechanics, numerical modeling, heat transfer, statistical learning,
 systems microbiology\
 
-2006-2008SM in Mechanical Engineering, MIT\
+Massachusets Institute of Technology
+: SM in Mechanical Engineering
+  __2006-2008__
 
-2001-2005BASc with Honors in Engineering Science (Biomedical Option),
-University of Toronto\
+University of Toronto
+: BASc (Honors)
+  __2001-2005__
+  Engineering Science (Biomedical Option)
 
-Fellowships
-===========
 
+### Fellowships
 2010-2011NSERC Postgraduate D Scholarship, National Science Engineering
 Research Council, Canada\
 Poitras Pre-doctoral Fellowship2008-2009\
@@ -69,8 +71,7 @@ Council, Canada\
 \#2 Canadian Army University Course Undergrad Scholarship,University of
 Toronto2003\
 
-Honors awards
-=============
+###Honors awards
 
 2008Martha Gray Prizes for Excellence in Research, Annual Forum,
 Harvard/MIT Health Science Tech. Inst.\
@@ -80,11 +81,10 @@ Silver T – academic athletic excellence, University of Toronto2002-2004\
 OUA Academic Achievement Award 2003, Ontario, Canada\
 Ontario Scholar, 2001Government of Ontario, Canada\
 
-Publications
-============
+### Publications
 
-Journal articles
-----------------
+
+#### Journal articles
 
 2011**Eliseo Papa**, Michael Docktor, Christopher Smillie, Dirk Gevers,
 Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B
@@ -128,9 +128,7 @@ with Whole Blood Components. *SPIE Proceedings*, 5969,54\
 Chan. Semiconductor quantum dots as contrast agents for whole animal
 imaging. *Trends in Biotechnology [Impact Factor: 6.624]*, 22:12\
 
-Posters
--------
-
+#### Posters
 2008AIChE annual meeting, Nanoscale Science Engineering Forum,
 *High-Throughput and High-Content Screening of Antibody Responses from
 Single Cells*\
@@ -141,14 +139,11 @@ mapping of humoral responses*\
 2008Novartis Vaccine Symposium, *Multi-variate profiling of B cell
 immune responses*\
 
-Patent applications
--------------------
-
+#### Patent applications
 2009Composition of an Array of Microwells with an Integrated
 Microfluidic System, USA Serial No. 12/390279\
 
-Research experience
-===================
+### Research experience
 
 2009 - presentResearcher, Alm Laboratory for Microbiology, Prof. Eric J.
 Alm, MIT
@@ -189,8 +184,7 @@ applications.
 Morphological, mechanical and functional characterization of
 polyurethane scaffolds.\
 
-Other employment experience
-===========================
+### Other employment experience
 
 2006 ESL Teacher, Inlingua Language School, Brescia, Italy
 
@@ -219,8 +213,8 @@ Graphic Designer, Photo Image Studio, Brescia, Italy 2000
 Assisted artists in the preparation and coordination of gallery
 expositions\
 
-Extracurricular activities
-==========================
+### Extracurricular activities
+
 
 Competitive Cycling. MIT Cycling Team
 
@@ -253,9 +247,7 @@ OUA Conference Champions2002\
 
 Competitive Swimming. Nuoto Club Brescia Swimming Club1998-2001\
 
-Volunteering Experiences
-========================
-
+### Volunteering Experiences
 2005Field Operative, AISPO, San Raffaele del Monte Tabor Foundation,
 Milan, Italy
 
@@ -263,12 +255,10 @@ ID Laboratory Operative, Kampala’s Hospital Gulu’s outpost, Uganda
 
 Assessed the infrastructure and human resources of Kampala’s hospital\
 
-Interests
-=========
-
+### Interests
 Listening avidly to Jazz music. International relations. Semiotics and
 its implications on mass psychology. Buddhism, Zen and oriental
 philosophies. Reading classics of Italian and English literature.
 Travelled by kayak along the major European rivers. Rock Climbing.
 
-[elipapa@mit.edu](mailto:elipapa@mit.edu) — Last updated:
+[elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) — Last updated:
