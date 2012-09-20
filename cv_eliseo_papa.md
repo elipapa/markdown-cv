@@ -13,23 +13,22 @@
 >Nationality: Italian & Canadian citizen
 
 ### Current position
+: *MBBS Candidate* 
+  Graduate Entry Medicine, Imperial College London
 
-*Ph.D Candidate*, Health Science Technology Inst., Harvard/MIT\
-*MBBS Candidate*, Graduate Entry Medicine, Imperial College London
+: Researcher
+  Alm lab @ MIT
 
 #### Areas of specialization
-Medical Engineering, Analysis of large data sets, Microbiome, Machine
-learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
+Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
 
 #### Research interests
-Host-pathogen interactions at the level of microbiome and single cells.
-Human Microbiome Project. Emerging properties of networks in a
-biological and social context. Self-organized systems.\
+Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
 
 ### Languages
 - Italian: Mother tongue
-- English: Perfect oral written fluency; Canadian inflection\
-- French: Working knowledge\
+- English: Perfect oral written fluency; Canadian inflection
+- French: Working knowledge
 
 ### Education
 Imperial College London
@@ -40,13 +39,9 @@ Harvard Medical School & Massachusets Institute of Technology
 : PhD, [Harvard/MIT Health Science & Technology institute](hst.mit.edu)
   __2006 - 2012__
   Biomedical Engineering
-
-* Harvard Medical School: pathology, renal pathophysiology, respiratory
-pathophysiology, cardiac pathophysiology
-
-* MIT: biomechanics, forces fields and flows in biological systems, fluid
-mechanics, numerical modeling, heat transfer, statistical learning,
-systems microbiology\
+  Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)
+  * Harvard Medical School: pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology
+  * MIT: biomechanics,statistical learning, systems microbiology forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
 
 Massachusets Institute of Technology
 : SM in Mechanical Engineering
@@ -59,22 +54,30 @@ University of Toronto
 
 
 ### Fellowships
-2010-2011NSERC Postgraduate D Scholarship, National Science Engineering
-Research Council, Canada\
-Poitras Pre-doctoral Fellowship2008-2009\
-Martino Scholar, Harvard/MIT Health Science Tech. Inst.2007\
-NSERC Postgraduate M Scholarship,National Science Engineering Research
-Council, Canada2005-2008\
-OGS Postgraduate Scholarship (declined), Ontario Government, Canada2005\
-NSERC Summer Research Award2004,National Science Engineering Research
-Council, Canada\
-\#2 Canadian Army University Course Undergrad Scholarship,University of
-Toronto2003\
+- NSERC Postgraduate D Scholarship, National Science Engineering Research Council, Canada
+__2010-2011__
+- Poitras Pre-doctoral Fellowship
+__2008-2009__
+
+: Martino Scholar
+  Harvard/MIT Health Science Tech. Inst.
+  __2007__
+  
+: NSERC Postgraduate M Scholarship
+  National Science Engineering Research Council, Canada
+  __2005-2008__
+
+: OGS Postgraduate Scholarship
+  (declined), Ontario Government, Canada2005
+
+- __2004__ NSERC Summer Research Award, National Science Engineering Research Council, Canada
+- __2003__ #2 Canadian Army University Course Undergrad Scholarship,University of
+Toronto
 
 ###Honors awards
+__2012__ Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
+__2008__ Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science Tech. Inst.
 
-2008Martha Gray Prizes for Excellence in Research, Annual Forum,
-Harvard/MIT Health Science Tech. Inst.\
 Competition Semifinalist, MIT 100k Business Plan2008\
 University of Toronto Life Sciences Award, University of Toronto2004\
 Silver T – academic athletic excellence, University of Toronto2002-2004\
@@ -83,22 +86,20 @@ Ontario Scholar, 2001Government of Ontario, Canada\
 
 ### Publications
 
+[A list is also available online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 #### Journal articles
 
-2011**Eliseo Papa**, Michael Docktor, Christopher Smillie, Dirk Gevers,
-Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B
-Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos
-Bousvaros, Eric J Alm. Non-invasive Mapping of the Gut Microbiota as a
-Screening Method for Inflammatory Bowel Disease in Children and Young
-Adults. *Gastroenterology - under review*\
-\
+**Eliseo Papa**, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B
+Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.
+Non-invasive mapping of the gastrointestinal microbiota
+identifies children with inflammatory bowel disease. *PLoS One*. 2012;7(6):e39242.
+
 2011Rhiannon White, Sachiko Miyata, **Eliseo Papa**, Eric Spooner,
 Kleoniki Gounaris, Murray Selkirk, Katerina Artavanis-Tsakonas.
 Characterisation of the Trichinella spiralis deubiquitinating enzyme,
-TsUCH37, an evolutionarily conserved proteasome interaction partner.
-*PLOS Neglected tropical diseases - accepted*\
-\
+TsUCH37, an evolutionarily conserved proteasome interaction partner. *PLoS Negl Trop Dis.* 2011 Oct;5(10):e1340.
+
 2011Katerina Artavanis-Tsakonas, Pia V Kasperkovitz, **Eliseo Papa**,
 Michael L Cardenas, Nida S Khan, Annemarthe G Van der Veen, Hidde L
 Ploegh and Jatin M Vyas. The Tetraspanin CD82 is Specifically Recruited
@@ -129,6 +130,14 @@ Chan. Semiconductor quantum dots as contrast agents for whole animal
 imaging. *Trends in Biotechnology [Impact Factor: 6.624]*, 22:12\
 
 #### Posters
+White RR, Morrow M, Miyata S, Papa E, Spooner E, Selkirk M, Gounaris K, Das C, Artavanis-Tsakonas K
+Characterisation of the Trichinella Spiralis Deubiquitinating Enzyme, TsUCH37
+__2012__ Hydra 2012, Molecular and Cellular Biology of Helminth Parasites VII
+
+Eliseo Papa, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah P. Preheim, Dirk Gevers, Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.
+Diagnosing IBD from the fecal microbiome.(http://eliseopapa.org/downloads/documents/ibdML-poster.pdf)
+__2012__ *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
+
 2008AIChE annual meeting, Nanoscale Science Engineering Forum,
 *High-Throughput and High-Content Screening of Antibody Responses from
 Single Cells*\
@@ -145,9 +154,9 @@ Microfluidic System, USA Serial No. 12/390279\
 
 ### Research experience
 
-2009 - presentResearcher, Alm Laboratory for Microbiology, Prof. Eric J.
+Researcher, Alm Laboratory for Microbiology, Prof. Eric J.
 Alm, MIT
-
+__2009 - present__
 Human Microbiome Project
 
 Bioinformatics, microbial evolution, phylogenetics\
@@ -261,4 +270,5 @@ its implications on mass psychology. Buddhism, Zen and oriental
 philosophies. Reading classics of Italian and English literature.
 Travelled by kayak along the major European rivers. Rock Climbing.
 
-[elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) — Last updated:
+### Footer
+Last updated:
