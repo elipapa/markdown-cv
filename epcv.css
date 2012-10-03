@@ -1,0 +1,97 @@
+body {
+	color: #222;
+	font: normal normal 400 100%/1.5em;
+	font-family: Gill,sans-serif;
+	margin: 3em auto;
+	width: 40em
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: 400;
+	font-family: Cousine,Verdana,sans-serif;
+}
+
+h1 {
+	font-size: 225%;
+	line-height: 1.3334em;
+	margin: 0 0 .1666em
+}
+
+h2 {
+	font-size: 175%;
+	line-height: 1.28571429em;
+	margin: 0 0 .35714286em
+}
+
+h3 {
+	font-size: 137.5%;
+	line-height: 1.3636em;
+	margin: 0 0 .5em;
+}
+
+h4,h5,h6 {
+	font-size: 112.5%;
+	line-height: 1.3334em;
+	margin: 0 0 .7778em
+}
+
+
+a:link {
+	color: #666
+}
+
+a:visited {
+	color: #666
+}
+
+blockquote,ol,p,ul {
+	display: block;
+	margin: 0 0 1.5em
+}
+
+blockquote {
+	border-left: solid .1em #E4E4E4;
+	color: #919191;
+	padding: 0 1.5em 0 1.4em
+}
+
+code {
+	font: normal normal 87.5%/1.71428571em monospace,sans-serif
+}
+
+img {
+	display: block;
+	margin: 1.5em auto
+}
+
+pre {
+	display: block;
+	font: normal normal 87.5%/1.71428571em monospace,sans-serif;
+	margin: 1.71428571em
+}
+
+
+
+ol,ul {
+	list-style-position: outside;
+	padding: 0
+}
+
+ol ol,ol ul,ul ol,ul ul {
+	margin: 0 0 .75em 2em
+}
+
+table {
+	border-collapse: collapse;
+	margin: 1.5em 0;
+	width: 100%
+}
+
+td,th {
+	border: solid .1em #000;
+	font-family: sans-serif;
+	font-size: 87.5%;
+	line-height: 1.71428571em;
+	text-align: center
+}
