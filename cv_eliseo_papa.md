@@ -1,17 +1,20 @@
 # Eliseo Papa
-## Biomedical Engineer, Computational Biologist, Data Scientist
+_Biomedical Engineer, Computational Biologist, Data Scientist_
 
 >[Download PDF](resume.pdf)  
->[LinkedIn](http://uk.linkedin.com/in/eliseopapa)  
->[elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu)  
->[eliseopapa.org](http://eliseopapa.org)  
+
+> [elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
+[eliseopapa.org](http://eliseopapa.org)  
+>[LinkedIn](http://uk.linkedin.com/in/eliseopapa) | [@elipapa](http://twitter.com/elipapa)
+
 > +44 7503 858936  
-> + 1 347 635 4736  
+> +1 347 635 4736  
 > skype: eliseo.papa  
->
+
+<!--
 >Born: September 16, 1982 — Belleville, Canada  
 >Nationality: Italian & Canadian citizen
-
+-->
 
 ### Current position
 
@@ -24,33 +27,36 @@ Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, 
 
 #### Research interests
 
-Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
+Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. High-throughput diagnostics. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
 
 ### Languages
 
-- Italian: Mother tongue
-- English: Perfect oral written fluency; Canadian inflection
-- French: Working knowledge
+Italian: Mother tongue  
+English: Perfect oral & written fluency  
+French: Working knowledge  
 
 ### Education
 
 Imperial College London
-: MBBS Graduate Entry Medicine Programme
-  __2009-present__
+: __2009-present__  
+MBBS Graduate Entry Medicine Programme
+  
 
 Harvard Medical School & Massachusets Institute of Technology
 : PhD, [Harvard/MIT Health Science & Technology institute](hst.mit.edu)
   __2006 - 2012__  
   Biomedical Engineering  
-  Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)
+  Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)  
   
   Courses:
+  
   * Harvard Medical School: pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology
   * MIT: biomechanics,statistical learning, systems microbiology forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
 
+  `2006-2008`
 Massachusets Institute of Technology
-: SM in Mechanical Engineering
-  __2006-2008__
+: SM in Mechanical Engineering  
+  `2006-2008`
 
 University of Toronto
 : BASc (Honors)
@@ -60,9 +66,11 @@ University of Toronto
 
 ### Fellowships
 
-__2010-2011__ NSERC Postgraduate D Scholarship, National Science Engineering Research Council, Canada
+`2010-2011`  
+NSERC Postgraduate D Scholarship, National Science Engineering Research Council, Canada
 
-__2008-2009__ Poitras pre-doctoral fellowship 
+__2008-2009__  
+Poitras pre-doctoral fellowship 
   
 __2007__ Martino Scholar, Harvard/MIT Health Science Tech. Inst.
   
