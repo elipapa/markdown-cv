@@ -1,10 +1,39 @@
 body {
-	color: #222;
+	-webkit-font-smoothing: antialiased;
 	font: normal normal 400 100%/1.5em;
-	font-family: Gill,sans-serif;
-	margin: 3em auto;
-	width: 40em
+	font-family: Verdana,sans-serif;
+	margin: 1em;
 }
+
+
+hr {
+  clear: both;
+  visibility: hidden;
+  border: 0px;
+  height: 1.5em;
+}
+
+p {
+	position: relative;
+	left: 24em;
+	width: 40em;
+}
+
+p code {
+	font-weight: bold;
+	color: #aaa;
+	position: absolute;
+	left: -8em;
+}
+
+
+ul { 
+	position: relative;
+	left: 21.5em;
+	list-style-type: none;
+	list-style-position: 
+}
+
 
 
 h1,h2,h3,h4,h5,h6 {
@@ -13,9 +42,14 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-	font-size: 225%;
+	font-size: 300%;
 	line-height: 1.3334em;
 	margin: 0 0 .1666em
+}
+
+h1+p {
+	position: relative;
+	left: 0em;
 }
 
 h2 {
@@ -26,8 +60,15 @@ h2 {
 
 h3 {
 	font-size: 137.5%;
+	font-weight: bold;
 	line-height: 1.3636em;
-	margin: 0 0 .5em;
+	margin-top: 1em;
+	position: relative;
+	top: 2.25em;
+}
+
+h3[title^="Footer"] {
+	visibility: hidden;
 }
 
 h4,h5,h6 {
@@ -36,30 +77,84 @@ h4,h5,h6 {
 	margin: 0 0 .7778em
 }
 
-
-a:link {
-	color: #666
+h4 {
+	position: relative;
+	left: 1.5em;
+	top: 2.25em;
 }
 
-a:visited {
-	color: #666
+a
+{
+    -webkit-transition:color .2s ease-in-out;
+    color:#09f;
+    text-decoration:none
 }
 
-blockquote,ol,p,ul {
+a:hover
+{
+    color:#39f
+}
+
+
+
+/*blockquote,ol,p,ul {
 	display: block;
 	margin: 0 0 1.5em
-}
+}*/
 
 blockquote {
-	border-left: solid .1em #E4E4E4;
+	/*border-left: solid .1em #E4E4E4;*/
 	color: #919191;
-	padding: 0 1.5em 0 1.4em
+	font-size: 0.75em;
+	padding: 0;
 }
 
 code {
 	font: normal normal 87.5%/1.71428571em monospace,sans-serif
 }
 
+dl {
+	position: relative;
+	left: 24em;
+	width: 40em;
+}
+
+dl p {
+	margin-top: 0em;
+}
+
+dt code {
+	font-weight: bold;
+	color: #aaa;
+	position: relative;
+	left: -8em;
+	top: -1.5em;
+	line-height: 0.5em;
+}
+
+dd {
+	margin-bottom: 1em;
+}
+
+dl ul {
+	position: relative;
+	left: -4em;
+	top: -1.5em;
+}
+
+dt {
+	margin-bottom: 0;
+}
+
+address {
+	position: absolute;
+	left: 12em;
+	top: -0.5em;
+}
+
+
+
+/*
 img {
 	display: block;
 	margin: 1.5em auto
@@ -69,20 +164,20 @@ pre {
 	display: block;
 	font: normal normal 87.5%/1.71428571em monospace,sans-serif;
 	margin: 1.71428571em
-}
+}*/
 
 
 
-ol,ul {
+/*ol,ul,dl {
 	list-style-position: outside;
 	padding: 0
 }
 
 ol ol,ol ul,ul ol,ul ul {
 	margin: 0 0 .75em 2em
-}
+}*/
 
-table {
+/*table {
 	border-collapse: collapse;
 	margin: 1.5em 0;
 	width: 100%
@@ -94,4 +189,4 @@ td,th {
 	font-size: 87.5%;
 	line-height: 1.71428571em;
 	text-align: center
-}
+}*/
