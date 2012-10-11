@@ -9,7 +9,7 @@ body {
 hr {
   clear: both;
   visibility: hidden;
-  border: 0px;
+  border: 0;
   height: 1.5em;
 }
 
@@ -20,6 +20,7 @@ p {
 }
 
 p code {
+	font: normal normal 87.5%/1.71428571em Menlo, monospace,sans-serif;
 	font-weight: bold;
 	color: #aaa;
 	position: absolute;
@@ -31,7 +32,6 @@ ul {
 	position: relative;
 	left: 21.5em;
 	list-style-type: none;
-	list-style-position: 
 }
 
 
@@ -49,7 +49,8 @@ h1 {
 
 h1+p {
 	position: relative;
-	left: 0em;
+	left: 0;
+	font-size: 110%;
 }
 
 h2 {
@@ -60,24 +61,18 @@ h2 {
 
 h3 {
 	font-size: 137.5%;
-	font-weight: bold;
-	line-height: 1.3636em;
+	/*font-weight: bold;*/
+	color: #a00;
+	line-height: 1em;
 	margin-top: 1em;
 	position: relative;
-	top: 2.25em;
-}
-
-h3[title^="Footer"] {
-	visibility: hidden;
-}
-
-h4,h5,h6 {
-	font-size: 112.5%;
-	line-height: 1.3334em;
-	margin: 0 0 .7778em
+	top: 2em;
 }
 
 h4 {
+	font-size: 112.5%;
+	line-height: 1em; 
+	margin: 0;
 	position: relative;
 	left: 1.5em;
 	top: 2.25em;
@@ -86,7 +81,7 @@ h4 {
 a
 {
     -webkit-transition:color .2s ease-in-out;
-    color:#09f;
+    color:#555;
     text-decoration:none
 }
 
@@ -109,10 +104,6 @@ blockquote {
 	padding: 0;
 }
 
-code {
-	font: normal normal 87.5%/1.71428571em monospace,sans-serif
-}
-
 dl {
 	position: relative;
 	left: 24em;
@@ -120,7 +111,7 @@ dl {
 }
 
 dl p {
-	margin-top: 0em;
+	margin-top: 0;
 }
 
 dt code {
@@ -152,41 +143,3 @@ address {
 	top: -0.5em;
 }
 
-
-
-/*
-img {
-	display: block;
-	margin: 1.5em auto
-}
-
-pre {
-	display: block;
-	font: normal normal 87.5%/1.71428571em monospace,sans-serif;
-	margin: 1.71428571em
-}*/
-
-
-
-/*ol,ul,dl {
-	list-style-position: outside;
-	padding: 0
-}
-
-ol ol,ol ul,ul ol,ul ul {
-	margin: 0 0 .75em 2em
-}*/
-
-/*table {
-	border-collapse: collapse;
-	margin: 1.5em 0;
-	width: 100%
-}
-
-td,th {
-	border: solid .1em #000;
-	font-family: sans-serif;
-	font-size: 87.5%;
-	line-height: 1.71428571em;
-	text-align: center
-}*/

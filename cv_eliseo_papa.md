@@ -40,12 +40,12 @@ Host-pathogen interactions at the level of microbiome and single cells. Human Mi
 
 ### Education
 
-Imperial College London
+__Imperial College London__
 `2009-now`
 :  MBBS Graduate Entry Medicine Programme
 
 
-Harvard Medical School & Massachusets Institute of Technology
+__Harvard Medical School & Massachusets Institute of Technology__
 `2006-2012`
 :  PhD, Biomedical Engineering,  
    [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)  
@@ -54,11 +54,11 @@ Harvard Medical School & Massachusets Institute of Technology
    _Harvard Medical School_ - pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology.  
    _MIT_ - biomechanics, statistical learning, systems microbiology, forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
 
-Massachusets Institute of Technology
+__Massachusets Institute of Technology__
 `2006-2008`
 :  SM in Mechanical Engineering
 
-University of Toronto
+__University of Toronto__
 `2001-2005`
 :  BASc (Honors)
    Engineering Science (Biomedical Option)
@@ -186,26 +186,26 @@ Composition of an Array of Microwells with an Integrated Microfluidic System, US
 
 ### Research experience
 
-Researcher, Alm Laboratory for Microbiology, Prof. Eric J. Alm, MIT
+__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
 `2009-present`
 :  - Human Microbiome Project 
    - Bioinformatic analysis of large datasets
    - Microbial evolution, phylogenetics
 
-Researcher, Laboratory of Hidde L. Ploegh, Whitehead Institute, MIT
+__Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
 `2006-2009`
 :  - Affinity and isotype mapping of antibody secretion in individual primary B cells.
    - Development of computational and statistical tools to monitor and predict evolution of immune responses
    - Murine antibody cloning and expression; fluorescence tagging
    - Real time fluorescence microcopy; advanced image analysis
 
-Researcher, Biomedical Nanotechnology Group, Prof. W C. Chan, University of Toronto
+__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
 `2004-2005`
 :  - Nanoparticles cytotoxicity
    - Quantum Dots synthesis and characterization (TEM, Absorption, PL, X-IRD)
    - Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
 
-Researcher, Biomaterials Group, Prof. M.C.Tanzi, Politecnico di Milano, Italy
+__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
 `2003`
 :  - Synthesis of biocompatible polymeric scaffolds for tissue engineering applications.
    - Morphological, mechanical and functional characterization of polyurethane scaffolds.

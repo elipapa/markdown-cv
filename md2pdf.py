@@ -45,5 +45,5 @@ html = ''.join([head, body])
 output_file = codecs.open("%s.html" % filename, "w", encoding="utf8")
 output_file.write(html)
 print ">>> first writing out %s.html" % filename
-print ">>> calling wkthmltopdf" % filename
+print ">>> calling wkthmltopdf"
 call(["wkhtmltopdf", "%s.html" % filename, "%s.pdf" % filename])
