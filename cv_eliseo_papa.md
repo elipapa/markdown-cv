@@ -17,28 +17,28 @@ _Biomedical Engineer, Computational Biologist, Data Scientist_
 -->
 
 
-### Current position
+## Current position
 
 MBBS Candidate, Graduate Entry Medicine, Imperial College London
 
 Researcher, [Alm lab](http://almlab.mit.edu), MIT
 
-#### Areas of specialization
+### Areas of specialization
 
 Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
 
-#### Research interests
+### Research interests
 
 Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. High-throughput diagnostics. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
 
-### Languages
+## Languages
 
 - Italian: Mother tongue
 - English: Perfect oral & written fluency  
 - French:  Working knowledge  
 
 
-### Education
+## Education
 
 __Imperial College London__
 `2009-now`
@@ -64,7 +64,7 @@ __University of Toronto__
    Engineering Science (Biomedical Option)
 
 
-### Fellowships
+## Fellowships
 
 `2010-2011`
 NSERC Postgraduate D Scholarship, National Science Engineering Research Council, Canada
@@ -87,7 +87,7 @@ NSERC Summer Research Award, National Science Engineering Research Council, Cana
 `2003` 
 \#2 Canadian Army University Course Undergrad Scholarship,University of Toronto
 
-### Honors & awards
+## Honors & awards
 
 `2012`
 Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
@@ -110,11 +110,11 @@ OUA Academic Achievement Award, Ontario, Canada
 `2001`
 Ontario Scholar, Government of Ontario, Canada
 
-### Publications
+## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-#### Journal articles
+### Journal articles
 
 *Eliseo Papa*, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.  
 [Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039242) 
@@ -149,7 +149,7 @@ Semiconductor quantum dots as contrast agents for whole animal imaging.
 **Trends in Biotechnology** 2004 22:12
 
 
-#### Posters
+### Posters
 
 `2012`
 White RR, Morrow M, Miyata S, Papa E, Spooner E, Selkirk M, Gounaris K, Das C, Artavanis-Tsakonas K  
@@ -178,16 +178,16 @@ Multi-variate profiling of B cell immune responses
 *Novartis Vaccine Symposium*
 
 
-#### Patents
+### Patents
 
 `2009`
 Composition of an Array of Microwells with an Integrated Microfluidic System, USA Serial No. 12/390279 
 
 
-### Research experience
+## Research experience
 
 __Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
-`2009-present`
+`2009-now`
 :  - Human Microbiome Project 
    - Bioinformatic analysis of large datasets
    - Microbial evolution, phylogenetics
@@ -211,7 +211,7 @@ __Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
    - Morphological, mechanical and functional characterization of polyurethane scaffolds.
 
 
-### Other employment
+## Other employment
 
 __ESL Teacher, Inlingua Language School, Brescia, Italy__
 `2006`
@@ -237,7 +237,7 @@ __Graphic Designer, Photo Image Studio, Brescia, Italy__
 :  - Assisted photographers in the preparation of gallery exhibitions and openings
 
 
-### Extracurricular
+## Extracurricular
 
 __Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)__
 `2006-2008`
@@ -272,7 +272,7 @@ __Nuoto Club Brescia Swimming Club__
 `1998-2001`
 :  - Regional level competitions
 
-### Volunteering
+## Volunteering
 
 Field Operative, AISPO, San Raffaele del Monte Tabor Foundation, Milan, Italy
 `2005`
@@ -280,7 +280,7 @@ Field Operative, AISPO, San Raffaele del Monte Tabor Foundation, Milan, Italy
    - Consulted regarding the infrastructure, human resources and logistics of the Kampala’s hospital
 
 
-### Interests
+## Interests
 
 Jazz music. International relations. Semiotics and
 its implications on mass psychology. Buddhism, Zen and oriental
