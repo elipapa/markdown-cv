@@ -57,12 +57,15 @@ body {
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
+	/*width: 75%;*/
 }
 
 p {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 75%;
 }
 
 code {
@@ -74,23 +77,26 @@ code {
 
 p code {
 	position: absolute;
-	left: -8%;
+	left: -10%;
 }
 
 
 ul { 
 	position: relative;
 	left: 25%;
+	width: 75%;
 }
 
 dl {
 	position: relative;
 	left: 25%;
+	width: 75%;
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
+	width: 75%;
 }
 
 h1 {
@@ -99,7 +105,6 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
-	/*margin: 0 0 .1666em*/
 }
 
 h1+p { 
@@ -139,6 +144,7 @@ address {
 	left: 25%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
+	width: 75%;
 }
 
 address a {
@@ -161,19 +167,18 @@ strong {
 	font-weight: bold;
 }
 
-dt code {
-	/*font-weight: bold;*/
+dl code {
 	color: #aaa;
 	position: relative;
-	left: -8em;
+	left: -10%;
 	top: -1.5em;
-	line-height: 0.5em;
 }
 
 dd {
 	margin-bottom: 1em;
 	position: relative;
 	top: -1.5em;
+	width: 75%;
 }
 
 dl ul {
