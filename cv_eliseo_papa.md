@@ -47,7 +47,7 @@ __Imperial College London__
 
 __Harvard Medical School & Massachusets Institute of Technology__
 `2006-2012`
-:  PhD, Biomedical Engineering,  
+:  PhD, Biomedical Engineering,
    [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)  
    Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)  
    Representative courses:  
@@ -213,33 +213,33 @@ __Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
 
 ### Other employment
 
-ESL Teacher, Inlingua Language School, Brescia, Italy
+__ESL Teacher, Inlingua Language School, Brescia, Italy__
 `2006`
 :  - Teaching approx. 12hrs/week on individual basis and to large groups
    - Provided on site focussed training for companies
 
 
-Residence Don, St.Michael’s College Residence, University of Toronto
+__Residence Don, St.Michael’s College Residence, University of Toronto__
 `2004-2005`
 :  - Mediate conflicts and provide academic or personal consulting.
    - Trained in cultural competence and conflict resolution
    - Responsible to enforce rules and to foster an accepting community
 
 
-IT Consultant System Admin, Ital Engineering s.a.s., Brescia, Italy
+__IT Consultant System Admin, Ital Engineering s.a.s., Brescia, Italy__
 `2000-2002`
 :  - Interviewed the customer and performed an organizational analysis
    - Regularly performed formal presentations to the management
 
 
-Graphic Designer, Photo Image Studio, Brescia, Italy
+__Graphic Designer, Photo Image Studio, Brescia, Italy__
 `2000`
 :  - Assisted photographers in the preparation of gallery exhibitions and openings
 
 
 ### Extracurricular
 
-Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)
+__Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)__
 `2006-2008`
 :  - National Collegiate Road Champions
    - Eastern Collegiate Cycling Conference Road Champions
@@ -248,27 +248,27 @@ Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)
    - Cyclocross, US National Champions
 
 
-Competitive Triathlon. Team Atletica Desenzano
+__Competitive Triathlon. Team Atletica Desenzano__
 `2006`
 :  - 9th cat. at ITU Bardolino’s International Triathlon
 
 
-Competitive Sailing. Italian sailing federation (FIV).
+__Competitive Sailing. Italian sailing federation (FIV).__
 `2003-2004`
 :  - 12th at European IMS Sailing Championship
    - 6th at Canadian J105 Championship
 
 
-Engineers Without Borders.
+__Engineers Without Borders.__
 `2004`
 :  - University of Toronto Conference delegate
 
 
-University of Toronto Varsity Waterpolo.
+__University of Toronto Varsity Waterpolo.__
 `2002`
 :  - OUA Conference Champions
 
-Nuoto Club Brescia Swimming Club
+__Nuoto Club Brescia Swimming Club__
 `1998-2001`
 :  - Regional level competitions
 
@@ -282,7 +282,7 @@ Field Operative, AISPO, San Raffaele del Monte Tabor Foundation, Milan, Italy
 
 ### Interests
 
-Listening avidly to Jazz music. International relations. Semiotics and
+Jazz music. International relations. Semiotics and
 its implications on mass psychology. Buddhism, Zen and oriental
 philosophies. Reading classics of Italian and English literature.
 Travelled by kayak along the major European rivers. Rock Climbing.
