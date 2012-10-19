@@ -47,45 +47,39 @@ table {
 	border-spacing: 0;
 }
 
-
 /* end of reset */
 
 
 
 body {
-	-webkit-font-smoothing: antialiased;
-	font: normal normal 400 100%/1.5em;
+	font: normal normal 400;
+	font-size: 100%;
+	line-height: 1.5em;
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	margin: 1em;
-}
-
-
-hr {
-	clear: both;
-	visibility: hidden;
-	border: 0;
-	height: 1.5em;
 }
 
 p {
 	position: relative;
-	left: 24em;
-	width: 40em;
+	left: 20%;
+}
+
+code {
+	font: normal normal;
+	font-size: 1em;
+	font-family: Menlo,monospace,sans-serif;
+	color: #aaa;
 }
 
 p code {
-	font: normal normal 87.5%/1.71428571em Menlo, monospace,sans-serif;
-	font-weight: bold;
-	color: #aaa;
 	position: absolute;
-	left: -8em;
+	left: -8%;
 }
 
 
 ul { 
 	position: relative;
-	left: 21.5em;
-	list-style-type: none;
+	left: 20%;
 }
 
 
@@ -96,8 +90,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-	font-size: 300%;
-	line-height: 1.3334em;
+	font-size: 3em;
+	line-height: 1em;
 	margin: 0 0 .1666em
 }
 
@@ -107,13 +101,8 @@ h1+p {
 	font-size: 110%;
 }
 
-h2 {
-	font-size: 175%;
-	line-height: 1.28571429em;
-	margin: 0 0 .35714286em
-}
 
-h3 {
+h2 {
 	font-size: 137.5%;
 	/*font-weight: bold;*/
 	color: #a00;
@@ -123,7 +112,7 @@ h3 {
 	top: 2em;
 }
 
-h4 {
+h3 {
 	font-size: 112.5%;
 	line-height: 1em; 
 	margin: 0;
@@ -134,7 +123,6 @@ h4 {
 
 a
 {
-	-webkit-transition:color .2s ease-in-out;
 	color:#555;
 	text-decoration:none
 }
@@ -145,31 +133,25 @@ a:hover
 }
 
 
-
-/*blockquote,ol,p,ul {
-	display: block;
-	margin: 0 0 1.5em
-	}*/
-
-	blockquote {
+blockquote {
 		/*border-left: solid .1em #E4E4E4;*/
-		color: #919191;
+		color: #999;
 		font-size: 0.75em;
 		padding: 0;
-	}
+}
 
-	dl {
-		position: relative;
-		left: 24em;
-		width: 40em;
-	}
+dl {
+	position: relative;
+	left: 24em;
+	width: 40em;
+}
 
 	dl p {
 		margin-top: 0;
 	}
 
 	dt code {
-		font-weight: bold;
+		/*font-weight: bold;*/
 		color: #aaa;
 		position: relative;
 		left: -8em;
@@ -191,9 +173,10 @@ a:hover
 		margin-bottom: 0;
 	}
 
-	address {
+	/*address {
 		position: absolute;
 		left: 12em;
 		top: -0.5em;
-	}
+	}*/
+
 
