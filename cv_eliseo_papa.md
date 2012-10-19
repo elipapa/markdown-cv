@@ -1,12 +1,12 @@
 # Eliseo Papa
-_Biomedical Engineer, Computational Biologist, Data Scientist_
+Biomedical Engineer, Computational Biologist, Data Scientist
 
 <address markdown=1>
-> [elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
+[elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
 [eliseopapa.org](http://eliseopapa.org) |
-> [LinkedIn](http://uk.linkedin.com/in/eliseopapa) |
+[LinkedIn](http://uk.linkedin.com/in/eliseopapa) |
 <!-- > skype: eliseo.papa   -->
-> +44 7503 858936
++44 7503 858936
 <!-- > +1 347 635 4736   -->
 </address>
 
@@ -19,9 +19,8 @@ _Biomedical Engineer, Computational Biologist, Data Scientist_
 
 ## Current position
 
-MBBS Candidate, Graduate Entry Medicine, Imperial College London
-
-Researcher, [Alm lab](http://almlab.mit.edu), MIT
+- MBBS Candidate, Graduate Entry Medicine, Imperial College London  
+- Researcher, [Alm lab](http://almlab.mit.edu), MIT
 
 ### Areas of specialization
 
@@ -116,34 +115,42 @@ Ontario Scholar, Government of Ontario, Canada
 
 ### Journal articles
 
+`2012`
 *Eliseo Papa*, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.  
 [Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039242) 
-**PLoS One**. 2012;7(6):e39242.
+**PLoS ONE** 2012;7(6):e39242.
 
+`2011`
 Rhiannon White, Sachiko Miyata, *Eliseo Papa*, Eric Spooner, Kleoniki Gounaris, Murray Selkirk, Katerina Artavanis-Tsakonas.  
 Characterisation of the Trichinella spiralis deubiquitinating enzyme, TsUCH37, an evolutionarily conserved proteasome interaction partner. 
 **PLoS Negl Trop Dis.** 2011 Oct;5(10):e1340.
 
+`2011`
 Katerina Artavanis-Tsakonas, Pia V Kasperkovitz, *Eliseo Papa*, Michael L Cardenas, Nida S Khan, Annemarthe G Van der Veen, Hidde L Ploegh and Jatin M Vyas.  
 The Tetraspanin CD82 is Specifically Recruited to Fungal and Bacterial Phagosomes Prior to Acidification. 
 **Infection and Immunity** 2011 79(3):1098-106\
 
+`2009`
 Adebola Ogunniyi, Craig Story, *Eliseo Papa*, Eduardo Guillen, J. Christopher Love.  
 Screening Individual Hybridomas by Microengraving to Discover Monoclonal Antibodies.
 **Nature Protocols** 2009 4(5):767-82
 
+`2009`
 Jehnna L. Ronan, Craig Story, *Eliseo Papa*, J. Christopher Love.
 Optimization of the surfaces used to capture antibodies from single hybridomas reduces the time required for microengraving. 
 **Journal of Immunological Methods** 2009, 340(2):164-9\
 
+`2008`
 Craig Story\*, *Eliseo Papa\* (co-author)*, Chih-Chi Andrew Hu, Jehnna L Ronan, Hidde L Ploegh, J.Christopher Love.  
 Profiling Antibody Responses by Multiparametric Analysis of Single B Cells. 
 **PNAS** 2008 105(46):17902-7
 
+`2005`
 Hans Fischer, *Eli Papa*, Lichuan Liu, K. Sandy Pang, Warren C. W. Chan.  
 Preliminary Results: Exploring the Interactions of Quantum Dots with Whole Blood Components. 
 **SPIE Proceedings** 2005 5969,54
 
+`2004`
 Wen Jiang, *Eli Papa*, Hans Fischer, Sawitri Mardyani, Warren C.W. Chan. 
 Semiconductor quantum dots as contrast agents for whole animal imaging. 
 **Trends in Biotechnology** 2004 22:12
@@ -213,26 +220,26 @@ __Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
 
 ## Other employment
 
-__ESL Teacher, Inlingua Language School, Brescia, Italy__
+__ESL Teacher, Inlingua Language School,__ Brescia, Italy
 `2006`
 :  - Teaching approx. 12hrs/week on individual basis and to large groups
    - Provided on site focussed training for companies
 
 
-__Residence Don, St.Michael’s College Residence, University of Toronto__
+__Residence Don, St.Michael’s College Residence,__ University of Toronto
 `2004-2005`
 :  - Mediate conflicts and provide academic or personal consulting.
    - Trained in cultural competence and conflict resolution
    - Responsible to enforce rules and to foster an accepting community
 
 
-__IT Consultant System Admin, Ital Engineering s.a.s., Brescia, Italy__
+__IT Consultant System Admin, Ital Engineering s.a.s.,__ Brescia, Italy
 `2000-2002`
 :  - Interviewed the customer and performed an organizational analysis
    - Regularly performed formal presentations to the management
 
 
-__Graphic Designer, Photo Image Studio, Brescia, Italy__
+__Graphic Designer, Photo Image Studio,__ Brescia, Italy
 `2000`
 :  - Assisted photographers in the preparation of gallery exhibitions and openings
 
@@ -274,14 +281,13 @@ __Nuoto Club Brescia Swimming Club__
 
 ## Volunteering
 
-Field Operative, AISPO, San Raffaele del Monte Tabor Foundation, Milan, Italy
+__Field Operative, AISPO, San Raffaele del Monte Tabor Foundation.__ Milan, Italy
 `2005`
 :  - Streamlined diagnostic routines, Kampala’s Hospital & Gulu’s outpost, Uganda
    - Consulted regarding the infrastructure, human resources and logistics of the Kampala’s hospital
 
 
 ## Interests
-
 Jazz music. International relations. Semiotics and
 its implications on mass psychology. Buddhism, Zen and oriental
 philosophies. Reading classics of Italian and English literature.
@@ -290,3 +296,14 @@ Travelled by kayak along the major European rivers. Rock Climbing.
 <!-- ### Footer
 
 Last updated: October 2012 -->
+
+<address markdown=1>
+
+[elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
+[eliseopapa.org](http://eliseopapa.org) |
+[LinkedIn](http://uk.linkedin.com/in/eliseopapa) |
+<!-- > skype: eliseo.papa   -->
++44 7503 858936
+<!-- > +1 347 635 4736   -->
+</address>
+

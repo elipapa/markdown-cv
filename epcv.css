@@ -61,7 +61,8 @@ body {
 
 p {
 	position: relative;
-	left: 20%;
+	left: 25%;
+	margin-bottom: 0.7em;
 }
 
 code {
@@ -79,57 +80,69 @@ p code {
 
 ul { 
 	position: relative;
-	left: 20%;
+	left: 25%;
 }
 
+dl {
+	position: relative;
+	left: 25%;
+}
 
-
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 }
 
 h1 {
+	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
-	margin: 0 0 .1666em
+	position: relative;
+	left: 25%;
+	/*margin: 0 0 .1666em*/
 }
 
-h1+p {
-	position: relative;
-	left: 0;
+h1+p { 
+	/*subtitle*/
+	font-style: italic;
 	font-size: 110%;
 }
 
-
 h2 {
-	font-size: 137.5%;
-	/*font-weight: bold;*/
+	font-size: 1.35em;
 	color: #a00;
-	line-height: 1em;
-	margin-top: 1em;
+	margin-top: 3em;
 	position: relative;
-	top: 2em;
+	top: 1.1em;
 }
 
 h3 {
-	font-size: 112.5%;
-	line-height: 1em; 
-	margin: 0;
+	font-size: 1.1em;
+	line-height: 2em; 
 	position: relative;
-	left: 1.5em;
-	top: 2.25em;
+	left: 2%;
+	top: 1.7em;
 }
 
-a
-{
-	color:#555;
-	text-decoration:none
+a {
+	color: inherit;
+	/*text-decoration:none*/
 }
 
-a:hover
-{
+a:hover {
 	color:#39f
+}
+
+address {
+	margin-top: 1em;
+	position: relative;
+	left: 25%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+}
+
+address a {
+	text-decoration: none;
 }
 
 
@@ -137,46 +150,36 @@ blockquote {
 		/*border-left: solid .1em #E4E4E4;*/
 		color: #999;
 		font-size: 0.75em;
-		padding: 0;
+		/*padding: 0;*/
 }
 
-dl {
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+dt code {
+	/*font-weight: bold;*/
+	color: #aaa;
 	position: relative;
-	left: 24em;
-	width: 40em;
+	left: -8em;
+	top: -1.5em;
+	line-height: 0.5em;
 }
 
-	dl p {
-		margin-top: 0;
-	}
+dd {
+	margin-bottom: 1em;
+	position: relative;
+	top: -1.5em;
+}
 
-	dt code {
-		/*font-weight: bold;*/
-		color: #aaa;
-		position: relative;
-		left: -8em;
-		top: -1.5em;
-		line-height: 0.5em;
-	}
+dl ul {
+	position: relative;
+	left: 0;
+}
 
-	dd {
-		margin-bottom: 1em;
-	}
-
-	dl ul {
-		position: relative;
-		left: -4em;
-		top: -1.5em;
-	}
-
-	dt {
-		margin-bottom: 0;
-	}
-
-	/*address {
-		position: absolute;
-		left: 12em;
-		top: -0.5em;
-	}*/
 
 
