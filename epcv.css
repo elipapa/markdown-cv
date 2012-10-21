@@ -104,11 +104,6 @@ li {
 	text-indent: -1.25em;
 }
 
-dl {
-	position: relative;
-	left: 33%;
-	width: 75%;
-}
 
 h1,h2,h3,h4 {
 	font-weight: 400;
@@ -121,7 +116,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 30%;
+	left: 33%;
 }
 
 h1+p { 
@@ -158,7 +153,7 @@ a:hover {
 address {
 	margin-top: 1em;
 	position: relative;
-	left: 30%;
+	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	width: 75%;
@@ -166,14 +161,6 @@ address {
 
 address a {
 	text-decoration: none;
-}
-
-
-blockquote {
-		/*border-left: solid .1em #E4E4E4;*/
-		color: #999;
-		font-size: 0.75em;
-		/*padding: 0;*/
 }
 
 em {
@@ -184,24 +171,6 @@ strong {
 	font-weight: bold;
 }
 
-dl code {
-	color: #aaa;
-	position: relative;
-	left: -12%;
-	top: -2.5em;
-}
-
-dd {
-	margin-bottom: 1em;
-	position: relative;
-	top: -1.5em;
-	width: 75%;
-}
-
-dl ul {
-	position: relative;
-	left: 0;
-}
 
 
 

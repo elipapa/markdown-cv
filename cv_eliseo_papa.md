@@ -4,9 +4,9 @@ Biomedical Engineer, Computational Biologist, Data Scientist
 <address markdown=1>
 [elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
 [eliseopapa.org](http://eliseopapa.org) |
-[LinkedIn](http://uk.linkedin.com/in/eliseopapa) |
+[LinkedIn](http://uk.linkedin.com/in/eliseopapa)
 <!-- > skype: eliseo.papa   -->
-+44 7503 858936
+<!-- +44 7503 858936 -->
 <!-- > +1 347 635 4736   -->
 </address>
 
@@ -19,10 +19,10 @@ Biomedical Engineer, Computational Biologist, Data Scientist
 
 ## Current position
 
-- MBBS Candidate, Graduate Entry Medicine, Imperial College London  
-- Researcher, [Alm lab](http://almlab.mit.edu), MIT
+MBBS Candidate, Graduate Entry Medicine, Imperial College London  
+Researcher, [Alm lab](http://almlab.mit.edu), MIT
 
-### Areas of specialization
+### Specialized in
 
 Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
 
@@ -32,20 +32,20 @@ Host-pathogen interactions at the level of microbiome and single cells. Human Mi
 
 ## Languages
 
-- Italian: Mother tongue
-- English: Perfect oral & written fluency  
-- French:  Working knowledge  
+Italian: Mother tongue  
+English: Perfect oral & written fluency  
+French:  Working knowledge  
 
 
 ## Education
 
-__Imperial College London__
 `2009-now`
+__Imperial College London__
 :  MBBS Graduate Entry Medicine Programme
 
 
-__Harvard Medical School & Massachusets Institute of Technology__
 `2006-2012`
+__Harvard Medical School & Massachusets Institute of Technology__
 :  PhD, Biomedical Engineering,
    [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)  
    Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)  
@@ -53,12 +53,14 @@ __Harvard Medical School & Massachusets Institute of Technology__
    _Harvard Medical School_ - pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology.  
    _MIT_ - biomechanics, statistical learning, systems microbiology, forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
 
-__Massachusets Institute of Technology__
+
 `2006-2008`
+__Massachusets Institute of Technology__
 :  SM in Mechanical Engineering
 
-__University of Toronto__
+
 `2001-2005`
+__University of Toronto__
 :  BASc (Honors)
    Engineering Science (Biomedical Option)
 
@@ -86,7 +88,7 @@ NSERC Summer Research Award, National Science Engineering Research Council, Cana
 `2003` 
 \#2 Canadian Army University Course Undergrad Scholarship,University of Toronto
 
-## Honors & awards
+## Awards
 
 `2012`
 Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
@@ -113,7 +115,7 @@ Ontario Scholar, Government of Ontario, Canada
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journal articles
+### Journals
 
 `2012`
 *Eliseo Papa*, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.  
@@ -191,100 +193,121 @@ Multi-variate profiling of B cell immune responses
 Composition of an Array of Microwells with an Integrated Microfluidic System, USA Serial No. 12/390279 
 
 
-## Research experience
+## Research
 
-__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
 `2009-now`
-:  - Human Microbiome Project 
-   - Bioinformatic analysis of large datasets
-   - Microbial evolution, phylogenetics
+__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
 
-__Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
+- Human Microbiome Project 
+- Bioinformatic analysis of large datasets
+- Microbial evolution, phylogenetics
+
+
 `2006-2009`
-:  - Affinity and isotype mapping of antibody secretion in individual primary B cells.
-   - Development of computational and statistical tools to monitor and predict evolution of immune responses
-   - Murine antibody cloning and expression; fluorescence tagging
-   - Real time fluorescence microcopy; advanced image analysis
+__Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
 
-__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
+- Affinity and isotype mapping of antibody secretion in individual primary B cells.
+- Development of computational and statistical tools to monitor and predict evolution of immune responses
+- Murine antibody cloning and expression; fluorescence tagging
+- Real time fluorescence microcopy; advanced image analysis
+
+
 `2004-2005`
-:  - Nanoparticles cytotoxicity
-   - Quantum Dots synthesis and characterization (TEM, Absorption, PL, X-IRD)
-   - Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
+__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
 
-__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
+- Nanoparticles cytotoxicity
+- Quantum Dots synthesis and characterization (TEM, Absorption, PL, X-IRD)
+- Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
+
+
 `2003`
-:  - Synthesis of biocompatible polymeric scaffolds for tissue engineering applications.
-   - Morphological, mechanical and functional characterization of polyurethane scaffolds.
+__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
+
+- Synthesis of biocompatible polymeric scaffolds for tissue engineering applications.
+- Morphological, mechanical and functional characterization of polyurethane scaffolds.
 
 
 ## Other employment
 
-__ESL Teacher, Inlingua Language School,__ Brescia, Italy
 `2006`
-:  - Teaching approx. 12hrs/week on individual basis and to large groups
-   - Provided on site focussed training for companies
+__ESL Teacher, Inlingua Language School,__ Brescia, Italy
+
+- Teaching approx. 12hrs/week on individual basis and to large groups
+- Provided on site focussed training for companies
 
 
-__Residence Don, St.Michael’s College Residence,__ University of Toronto
 `2004-2005`
-:  - Mediate conflicts and provide academic or personal consulting.
-   - Trained in cultural competence and conflict resolution
-   - Responsible to enforce rules and to foster an accepting community
+__Residence Don, St.Michael’s College Residence,__ University of Toronto, Canada
+
+- Mediate conflicts and provide academic or personal consulting.
+- Trained in cultural competence and conflict resolution
+- Responsible to enforce rules and to foster an accepting community
 
 
-__IT Consultant System Admin, Ital Engineering s.a.s.,__ Brescia, Italy
 `2000-2002`
-:  - Interviewed the customer and performed an organizational analysis
-   - Regularly performed formal presentations to the management
+__IT Consultant System Admin, Ital Engineering s.a.s.,__ Brescia, Italy
+
+- Interviewed the customer and performed an organizational analysis
+- Regularly performed formal presentations to the management
 
 
-__Graphic Designer, Photo Image Studio,__ Brescia, Italy
 `2000`
-:  - Assisted photographers in the preparation of gallery exhibitions and openings
+__Graphic Designer, Photo Image Studio,__ Brescia, Italy
+
+- Assisted photographers in the preparation of gallery exhibitions and openings
 
 
 ## Extracurricular
 
-__Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)__
 `2006-2008`
-:  - National Collegiate Road Champions
-   - Eastern Collegiate Cycling Conference Road Champions
-   - *Captain*, Cyclocross, $2^{nd}$ US National Championship
-   - Eastern Collegiate Cycling Conference Road Champions
-   - Cyclocross, US National Champions
+__Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)__
+
+- National Collegiate Road Champions
+- Eastern Collegiate Cycling Conference Road Champions
+- *Captain*, Cyclocross, 2nd US National Championship
+- Eastern Collegiate Cycling Conference Road Champions
+- Cyclocross, US National Champions
 
 
-__Competitive Triathlon. Team Atletica Desenzano__
 `2006`
-:  - 9th cat. at ITU Bardolino’s International Triathlon
+__Competitive Triathlon. Team Atletica Desenzano__
+
+- 9th cat. at ITU Bardolino’s International Triathlon
 
 
-__Competitive Sailing. Italian sailing federation (FIV).__
 `2003-2004`
-:  - 12th at European IMS Sailing Championship
-   - 6th at Canadian J105 Championship
+__Competitive Sailing. Italian sailing federation (FIV).__
+
+- 12th at European IMS Sailing Championship
+- 6th at Canadian J105 Championship
 
 
-__Engineers Without Borders.__
 `2004`
-:  - University of Toronto Conference delegate
+__Engineers Without Borders.__
+
+- University of Toronto Conference delegate
 
 
-__University of Toronto Varsity Waterpolo.__
 `2002`
-:  - OUA Conference Champions
+__University of Toronto Varsity Waterpolo.__
 
-__Nuoto Club Brescia Swimming Club__
+- OUA Conference Champions
+
+
 `1998-2001`
-:  - Regional level competitions
+__Nuoto Club Brescia Swimming Club__
+
+- Regional level competitions
+
+
 
 ## Volunteering
 
-__Field Operative, AISPO, San Raffaele del Monte Tabor Foundation.__ Milan, Italy
 `2005`
-:  - Streamlined diagnostic routines, Kampala’s Hospital & Gulu’s outpost, Uganda
-   - Consulted regarding the infrastructure, human resources and logistics of the Kampala’s hospital
+__Field Operative, AISPO, San Raffaele del Monte Tabor Foundation.__ Milan, Italy
+
+- Streamlined diagnostic routines, Kampala’s Hospital & Gulu’s outpost, Uganda
+- Consulted regarding the infrastructure, human resources and logistics of the Kampala’s hospital
 
 
 ## Interests
