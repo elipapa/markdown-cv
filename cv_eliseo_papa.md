@@ -41,28 +41,32 @@ French:  Working knowledge
 
 `2009-now`
 __Imperial College London__
-:  MBBS Graduate Entry Medicine Programme
+
+- MBBS Graduate Entry Medicine Programme
 
 
 `2006-2012`
 __Harvard Medical School & Massachusets Institute of Technology__
-:  PhD, Biomedical Engineering,
+
+- PhD, Biomedical Engineering,
    [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)  
-   Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)  
-   Representative courses:  
-   _Harvard Medical School_ - pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology.  
-   _MIT_ - biomechanics, statistical learning, systems microbiology, forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
+- Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)  
+- Representative courses:  
+    - _Harvard Medical School_ - pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology.  
+    - _MIT_ - biomechanics, statistical learning, systems microbiology, forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
 
 
 `2006-2008`
 __Massachusets Institute of Technology__
-:  SM in Mechanical Engineering
+
+- SM in Mechanical Engineering
 
 
 `2001-2005`
 __University of Toronto__
-:  BASc (Honors)
-   Engineering Science (Biomedical Option)
+
+- BASc (Honors)
+- Engineering Science, Biomedical Option
 
 
 ## Fellowships

@@ -102,8 +102,15 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	/*color: #777;*/
 }
 
+li ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.25em;
+}
 
 h1,h2,h3,h4 {
 	font-weight: 400;
@@ -156,7 +163,7 @@ address {
 	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	width: 75%;
+	width: 65%;
 }
 
 address a {
