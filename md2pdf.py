@@ -39,7 +39,7 @@ else:
 
 # convert the markdown file to html
 mdsourcef = codecs.open(args.mdsource, mode="r", encoding="utf8")
-body = markdown.markdown(mdsourcef.read())
+body = markdown.markdown(mdsourcef.read(),['def_list'])
 html = ''.join([head, body])
 
 output_file = codecs.open("%s.html" % filename, "w", encoding="utf8")
