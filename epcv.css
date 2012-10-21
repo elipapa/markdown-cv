@@ -53,50 +53,67 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
+	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	/*width: 75%;*/
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 25%;
+	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 75%;
+	width: 65%;
 }
 
 code {
 	font: normal normal;
-	font-size: 1em;
+	font-size: 60%;
+	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
 }
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -14%;
 }
 
 
 ul { 
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 33%;
+	width: 65%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
+}
+
+/*uncomment to get dashes in the list*/
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}*/
+
+li {
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
 }
 
 dl {
 	position: relative;
-	left: 25%;
+	left: 33%;
 	width: 75%;
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 75%;
+	width: 65%;
 }
 
 h1 {
@@ -104,7 +121,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 30%;
 }
 
 h1+p { 
@@ -114,15 +131,15 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.35em;
+	font-size: 1.1em;
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
-	top: 1.1em;
+	top: 1.4em;
 }
 
 h3 {
-	font-size: 1.1em;
+	font-size: 1em;
 	line-height: 2em; 
 	position: relative;
 	left: 2%;
@@ -141,7 +158,7 @@ a:hover {
 address {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 30%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	width: 75%;
@@ -170,8 +187,8 @@ strong {
 dl code {
 	color: #aaa;
 	position: relative;
-	left: -10%;
-	top: -1.5em;
+	left: -12%;
+	top: -2.5em;
 }
 
 dd {
