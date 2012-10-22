@@ -157,16 +157,16 @@ a:hover {
 	color:#39f
 }
 
-address {
+blockquote {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: 12%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	width: 65%;
 }
 
-address a {
+blockquote a {
 	text-decoration: none;
 }
 
