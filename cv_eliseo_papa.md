@@ -9,10 +9,8 @@ Biomedical Engineer, Computational Biologist, Data Scientist
 <!-- > +1 347 635 4736   -->
 
 
-<!--
->Born: September 16, 1982 — Belleville, Canada  
->Nationality: Italian & Canadian citizen
--->
+<!--Born: September 16, 1982 — Belleville, Canada  
+Nationality: Italian & Canadian citizen -->
 
 
 ## Current position
