@@ -1,14 +1,12 @@
 # Eliseo Papa
 Biomedical Engineer, Computational Biologist, Data Scientist
 
-<address markdown=1>
-[elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
-[eliseopapa.org](http://eliseopapa.org) |
-[LinkedIn](http://uk.linkedin.com/in/eliseopapa)
+> [elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
+> [eliseopapa.org](http://eliseopapa.org) |
+> [LinkedIn](http://uk.linkedin.com/in/eliseopapa)
 <!-- > skype: eliseo.papa   -->
 <!-- +44 7503 858936 -->
 <!-- > +1 347 635 4736   -->
-</address>
 
 
 <!--
