@@ -1,3 +1,6 @@
+---
+layout: cv
+---
 # Eliseo Papa
 Biomedical Engineer, Computational Biologist, Data Scientist
 
