@@ -1,19 +1,32 @@
 ---
 layout: cv
+title: eliseo papa's CV
 ---
 # Eliseo Papa
 Biomedical Engineer, Computational Biologist, Data Scientist
 
-> [elipapa@alum.mit.edu](mailto:elipapa@alum.mit.edu) |
-> [eliseopapa.org](http://eliseopapa.org) |
-> [LinkedIn](http://uk.linkedin.com/in/eliseopapa)
-<!-- > skype: eliseo.papa   -->
-<!-- +44 7503 858936 -->
-<!-- > +1 347 635 4736   -->
 
+> | <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!08{)rt{y+xx=l;=+;" +
+"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+"\"(4),9\\\"\\\\}ubwwhh)0z& 5lR)20\\\\0P\\\\WIy[GYEW_]7W01\\\\\\\\22\\\\0s\\" +
+"\\DBFMtO\\\\\\\\SG06\\\\0N\\\\JGBN02\\\\0C\\\\x#opms58`Jvpe<by` gyIkwiugom;" +
+"gno\\\\\\\\21\\\\05\\\\02\\\\\\\\32\\\\07\\\\02\\\\\\\\$[0J02\\\\\\\\20\\\\" +
+"06\\\\00\\\\\\\\33\\\\0R\\\\20\\\\0L\\\\FM03\\\\00\\\\00\\\\\\\\16\\\\06\\\\"+
+"03\\\\\\\\00\\\\02\\\\03\\\\\\\\20\\\\0H\\\\21\\\\0n\\\\\\\\\\\\06\\\\07\\\\"+
+"01\\\\\\\\24\\\\03\\\\00\\\\\\\\:0\\\"\\\\f(;} ornture;}))++(y)^(iAtdeCoarc" +
+"hx.e(odrChamCro.fngriSt+=;o27=1y%2;*=)yy)4+(9i>f({i+)i+l;i<0;i=r(foh;gten.l" +
+"=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fontincfu)\\\"\")"                        ;
+while(x=eval(x));
+//-->
+//]]> </script>
+> | [eliseopapa.org](http://eliseopapa.org) |
+> [LinkedIn](http://uk.linkedin.com/in/eliseopapa) |
 
-<!--Born: September 16, 1982 — Belleville, Canada  
-Nationality: Italian & Canadian citizen -->
 
 
 ## Current position
