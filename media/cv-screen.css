@@ -138,14 +138,17 @@ h2 {
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
+	text-align: right;
+	width: 20%;
 }
 
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
 	position: relative;
-	left: 2%;
 	top: 1.7em;
+	text-align: right;
+	width: 20%;
 }
 
 a {
@@ -157,17 +160,16 @@ a:hover {
 	color:#39f
 }
 
-blockquote {
+#webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 12%;
+	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
-	width: 65%;
 }
 
-blockquote a {
+#webaddress a {
 	text-decoration: none;
 }
 
@@ -183,4 +185,7 @@ strong {
 	display: none;
 }
 
-
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/

@@ -5,8 +5,8 @@ title: Eliseo Papa's CV
 # Eliseo Papa
 Biomedical Engineer, Computational Biologist, Data Scientist
 
-
-> | <script type="text/javascript">
+<div id="webaddress">
+<script type="text/javascript">
 //<![CDATA[
 <!--
 var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
@@ -24,16 +24,13 @@ var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
 while(x=eval(x));
 //-->
 //]]> </script>
-> | [eliseopapa.org](http://eliseopapa.org) |
-> [LinkedIn](http://uk.linkedin.com/in/eliseopapa) |
 
-<div id="address">
-    eliseopapa.org<br>
-    elipapa@alum.mit.edu<br>
+| <a href="http://eliseopapa.org">eliseopapa.org</a>
+| <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
 </div>
 
 
-## Current position
+## Currently
 
 MBBS Candidate, Graduate Entry Medicine, Imperial College London  
 Researcher, [Alm lab](http://almlab.mit.edu), MIT
