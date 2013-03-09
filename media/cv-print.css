@@ -123,7 +123,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 33%;
+	left: 25%;
 }
 
 h1+p { 
@@ -158,12 +158,7 @@ a:hover {
 }
 
 blockquote {
-	margin-top: 1em;
-	position: relative;
-	left: 12%;
-	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
-	width: 65%;
+	display: none;
 }
 
 blockquote a {
@@ -176,6 +171,11 @@ em {
 
 strong {
 	font-weight: bold;
+}
+
+#address {
+	position: relative;
+	left: 25%;
 }
 
 

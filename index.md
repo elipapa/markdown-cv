@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: eliseo papa's CV
+title: Eliseo Papa's CV
 ---
 # Eliseo Papa
 Biomedical Engineer, Computational Biologist, Data Scientist
@@ -27,6 +27,10 @@ while(x=eval(x));
 > | [eliseopapa.org](http://eliseopapa.org) |
 > [LinkedIn](http://uk.linkedin.com/in/eliseopapa) |
 
+<div id="address">
+    eliseopapa.org<br>
+    elipapa@alum.mit.edu<br>
+</div>
 
 
 ## Current position

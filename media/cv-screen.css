@@ -163,6 +163,7 @@ blockquote {
 	left: 12%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
 	width: 65%;
 }
 
@@ -178,6 +179,8 @@ strong {
 	font-weight: bold;
 }
 
-
+#address {
+	display: none;
+}
 
 
