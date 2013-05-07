@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Eliseo Papa's CV - data
 ---
 # Eliseo Papa
-Biomedical Engineer, Computational Biologist, Data Scientist
+Data Scientist, Biomedical Engineer, Computational Biologist, Physician.
 
 <div id="webaddress">
 <script type="text/javascript">
