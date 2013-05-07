@@ -197,8 +197,8 @@ http://codepo8.github.io/css-fork-on-github-ribbon/
 	text-align:center;
 	font-weight:bold;
 	padding:5px 40px;
-	font-size:1rem;
-	line-height:2rem;
+	font-size:0.5rem;
+	line-height:1rem;
 	position:relative;
 	transition:0.5s;
 }
