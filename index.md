@@ -3,7 +3,7 @@ layout: cv
 title: Eliseo Papa's CV
 ---
 # Isaac Newton
-Physicist, mathematician, giant.
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, mathematician, giant.
 
 ## Currently
 
-subject to my first law
+Standing on the shoulders of giants
 
 ### Specialized in
 
