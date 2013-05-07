@@ -39,31 +39,17 @@ __Trinity College, Cambridge__
 __Trinity College, Cambridge__
 
 - Fellow
-Option
+
 
 
 ## Awards
 
 `2012`
-Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
+President, *Royal Society*, London, UK
 
-`2008`
-Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science Tech. Inst.
+Associate, *French Academy of Science*, Paris, France
 
-`2008`
-Competition Semifinalist, MIT 100k Business Plan
 
-`2004`
-University of Toronto Life Sciences Award, University of Toronto
-
-`2002-04`
-Silver T – academic athletic excellence, University of Toronto
-
-`2003`
-OUA Academic Achievement Award, Ontario, Canada
-
-`2001`
-Ontario Scholar, Government of Ontario, Canada
 
 ## Publications
 
@@ -71,38 +57,32 @@ Ontario Scholar, Government of Ontario, Canada
 
 ### Journals
 
-`2012`
-*Eliseo Papa*, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.  
-[Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039242) 
-**PLoS ONE** 2012;7(6):e39242.
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
 
 ### Patents
 
-`2009`
-Composition of an Array of Microwells with an Integrated Microfluidic System, USA Serial No. 12/390279 
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Research
+## Occupation
 
-`2009-now`
-__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
+`1600`
+__Royal Mint__, London
 
-- Human Microbiome Project 
-- Bioinformatic analysis of large datasets
-- Microbial evolution, phylogenetics
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
 
-
-## Extracurricular
-
-`2006-2008`
-__Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)__
-
-- National Collegiate Road Champions
-- Eastern Collegiate Cycling Conference Road Champions
-- *Captain*, Cyclocross, 2nd US National Championship
-- Eastern Collegiate Cycling Conference Road Champions
-- Cyclocross, US National Champions
 
 <!-- ### Footer
 
