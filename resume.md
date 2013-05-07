@@ -39,67 +39,55 @@ Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, 
 
 Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. High-throughput diagnostics. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
 
-## Languages
+### Languages
 
-Italian: Mother tongue  
-English: Perfect oral & written fluency  
-French:  Working knowledge  
+English, Italian, French
 
 
 ## Education
 
-`2009-2013`
-__Imperial College London__
+`2013`
+__MBBS, Imperial College London__
 
-- MBBS Graduate Entry Medicine Programme
+`2012`
+__Ph.D, [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)__
 
+- Biomedical Engineering
 
-`2006-2012`
-__Harvard Medical School & Massachusets Institute of Technology__
+`2008`
+__S.M., Massachusets Institute of Technology__
 
-- PhD, Biomedical Engineering,
-   [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)  
-- Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)  
-- Representative courses:  
-    - _Harvard Medical School_ - pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology.  
-    - _MIT_ - biomechanics, statistical learning, systems microbiology, forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
+- Mechanical Engineering
 
 
-`2006-2008`
-__Massachusets Institute of Technology__
+`2005`
+__BASc (Honors), University of Toronto__
 
-- SM in Mechanical Engineering
-
-
-`2001-2005`
-__University of Toronto__
-
-- BASc (Honors)
 - Engineering Science, Biomedical Option
 
 
 ## Fellowships
 
 `2010-2011`
-NSERC Postgraduate D Scholarship, National Science Engineering Research Council, Canada
+NSERC Postgraduate D Scholarship, Canada
 
 `2008-2009`
-Poitras pre-doctoral fellowship 
+Poitras pre-doctoral fellowship, MIT
   
 `2007`
-Martino Scholar, Harvard/MIT Health Science Tech. Inst.
+Martino Scholar, Harvard/MIT Health Science & Tech. Inst.
 
 `2005-2008`
-NSERC Postgraduate M Scholarship, National Science Engineering Research Council, Canada
+NSERC Postgraduate M Scholarship, Canada
 
 `2005` 
-OGS Postgraduate Scholarship (declined), Ontario Government, Canada
+OGS Postgraduate Scholarship (declined), Canada
 
 `2004` 
-NSERC Summer Research Award, National Science Engineering Research Council, Canada
+NSERC Summer Research Award, Canada
 
 `2003` 
-\#2 Canadian Army University Course Undergrad Scholarship,University of Toronto
+\#2 Canadian Army University Course Scholarship, University of Toronto
 
 ## Awards
 
@@ -107,13 +95,13 @@ NSERC Summer Research Award, National Science Engineering Research Council, Cana
 Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
 
 `2008`
-Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science Tech. Inst.
+Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science & Tech. Inst.
 
 `2008`
 Competition Semifinalist, MIT 100k Business Plan
 
 `2004`
-University of Toronto Life Sciences Award, University of Toronto
+University of Toronto Life Sciences Award
 
 `2002-04`
 Silver T – academic athletic excellence, University of Toronto
@@ -122,7 +110,7 @@ Silver T – academic athletic excellence, University of Toronto
 OUA Academic Achievement Award, Ontario, Canada
 
 `2001`
-Ontario Scholar, Government of Ontario, Canada
+Ontario Scholar, Canada
 
 ## Publications
 
@@ -208,7 +196,14 @@ Composition of an Array of Microwells with an Integrated Microfluidic System, US
 
 ## Research
 
-`2009-now`
+`2013`
+__Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
+
+- Integrative analysis of nitrogen stress response in e.coli
+- Chip-seq, RNAseq and transcriptomics analysis
+
+
+`2009-2012`
 __Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
 
 - Human Microbiome Project 
@@ -284,42 +279,25 @@ __Graphic Designer, Photo Image Studio,__ Brescia, Italy
 `2006-2008`
 __Collegiate Cycling. [MIT Cycling Team](http://cycling.mit.edu/www/home)__
 
-- National Collegiate Road Champions
-- Eastern Collegiate Cycling Conference Road Champions
-- *Captain*, Cyclocross, 2nd US National Championship
-- Eastern Collegiate Cycling Conference Road Champions
-- Cyclocross, US National Champions
-
 
 `2006`
 __Competitive Triathlon. Team Atletica Desenzano__
-
-- 9th cat. at ITU Bardolino’s International Triathlon
 
 
 `2003-2004`
 __Competitive Sailing. Italian sailing federation (FIV).__
 
-- 12th at European IMS Sailing Championship
-- 6th at Canadian J105 Championship
-
 
 `2004`
 __Engineers Without Borders.__
-
-- University of Toronto Conference delegate
 
 
 `2002`
 __University of Toronto Varsity Waterpolo.__
 
-- OUA Conference Champions
-
 
 `1998-2001`
 __Nuoto Club Brescia Swimming Club__
-
-- Regional level competitions
 
 
 
@@ -328,15 +306,7 @@ __Nuoto Club Brescia Swimming Club__
 `2005`
 __Field Operative, AISPO, San Raffaele del Monte Tabor Foundation.__ Milan, Italy
 
-- Streamlined diagnostic routines, Kampala’s Hospital & Gulu’s outpost, Uganda
-- Consulted regarding the infrastructure, human resources and logistics of the Kampala’s hospital
 
-
-## Interests
-Jazz music. International relations. Semiotics and
-its implications on mass psychology. Buddhism, Zen and oriental
-philosophies. Reading classics of Italian and English literature.
-Travelled by kayak along the major European rivers. Rock Climbing.
 
 <!-- ### Footer
 
