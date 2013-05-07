@@ -3,7 +3,7 @@ layout: cv
 title: Eliseo Papa's CV
 ---
 # Eliseo Papa
-Biomedical Engineer, Computational Biologist, Data Scientist
+Biomedical Engineer, Physician, Computational Biologist, Data Scientist
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -48,7 +48,7 @@ French:  Working knowledge
 
 ## Education
 
-`2009-now`
+`2009-2013`
 __Imperial College London__
 
 - MBBS Graduate Entry Medicine Programme
