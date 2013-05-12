@@ -182,6 +182,10 @@ strong {
 	font-weight: bold;
 }
 
+#ghbutton {
+	display: none;
+	visibility: hidden;
+}
 
 
 
