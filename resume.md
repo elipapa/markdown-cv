@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Eliseo Papa's resume
 ---
 # Eliseo Papa
 Biomedical Engineer, Physician, Computational Biologist, Data Scientist
