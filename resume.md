@@ -30,12 +30,15 @@ while(x=eval(x));
 </div>
 
 
+### Objective
 
-### Specialized in
+Impact/transform the delivery of health care.
+
+### Specialties
 
 Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
 
-### Research interests
+### Interested in
 
 Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. High-throughput diagnostics. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
 
@@ -66,51 +69,65 @@ __BASc (Honors), University of Toronto__
 - Engineering Science, Biomedical Option
 
 
-## Fellowships
 
-`2010-2011`
-NSERC Postgraduate D Scholarship, Canada
 
-`2008-2009`
-Poitras pre-doctoral fellowship, MIT
-  
-`2007`
-Martino Scholar, Harvard/MIT Health Science & Tech. Inst.
+## Experience
 
-`2005-2008`
-NSERC Postgraduate M Scholarship, Canada
-
-`2005` 
-OGS Postgraduate Scholarship (declined), Canada
-
-`2004` 
-NSERC Summer Research Award, Canada
-
-`2003` 
-\#2 Canadian Army University Course Scholarship, University of Toronto
-
-## Awards
+### Industry
 
 `2012`
-Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
+__Consultant, SERES Health, Flagship Ventures Lab,__ Cambridge, MA
 
-`2008`
-Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science & Tech. Inst.
+- Developed methods for the computational design and fitness prediction of microbial population intended for therapeutic human transplant
+- Acted as strategic and scientific advisor
 
-`2008`
-Competition Semifinalist, MIT 100k Business Plan
+`2009`
+__Founder, Enumeral diagnostics,__ Cambridge, MA
 
-`2004`
-University of Toronto Life Sciences Award
+- MIT $100K Entrepreneurship competition semifinalist
+- Developed 
 
-`2002-04`
-Silver T – academic athletic excellence, University of Toronto
+### Research
+
+`2013`
+__Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
+
+- Integrative analysis of nitrogen stress response in e.coli
+- Chip-seq, RNAseq and transcriptomics analysis
+
+
+`2009-2012`
+__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
+
+- Human Microbiome Project 
+- Bioinformatic analysis of large datasets
+- Microbial evolution, phylogenetics
+
+
+`2006-2009`
+__Laboratory of Prof. Hidde L. Ploegh__, Whitehead Institute, MIT
+
+- Affinity and isotype mapping of antibody secretion in individual primary B cells.
+- Development of computational and statistical tools to monitor and predict evolution of immune responses
+- Murine antibody cloning and expression; fluorescence tagging
+- Real time fluorescence microcopy; advanced image analysis
+
+
+`2004-2005`
+__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
+
+- Nanoparticles cytotoxicity
+- Quantum Dots synthesis and characterization (TEM, Absorption, PL, X-IRD)
+- Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
+
 
 `2003`
-OUA Academic Achievement Award, Ontario, Canada
+__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
 
-`2001`
-Ontario Scholar, Canada
+- Synthesis of biocompatible polymeric scaffolds for tissue engineering applications.
+- Morphological, mechanical and functional characterization of polyurethane scaffolds.
+
+
 
 ## Publications
 
@@ -159,34 +176,6 @@ Semiconductor quantum dots as contrast agents for whole animal imaging.
 **Trends in Biotechnology** 2004 22:12
 
 
-### Posters
-
-`2012`
-White RR, Morrow M, Miyata S, Papa E, Spooner E, Selkirk M, Gounaris K, Das C, Artavanis-Tsakonas K  
-Characterisation of the Trichinella Spiralis Deubiquitinating Enzyme, TsUCH37  
-*Molecular and Cellular Biology of Helminth Parasites VII*
-
-`2012`
-Eliseo Papa, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah P. Preheim, Dirk Gevers, Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.  
-[Diagnosing IBD from the fecal microbiome](http://eliseopapa.org/downloads/documents/ibdML-poster.pdf)  
-*Exploring Human Host-Microbiome Interactions in Health and Disease, Wellcome Trust Scientific Conferences*
-
-`2008`
-High-Throughput and High-Content Screening of Antibody Responses from Single Cells  
-*AIChE annual meeting, Nanoscale Science Engineering Forum*
-
-`2008`
-Applying Ligands to B Cell Receptors by Microfluidics  
-*AIChE annual meeting, Engineering Fundamentals in Life Sciences*
-
-`2008`
-Microengraving for high-throughput affinity mapping of humoral responses  
-*Harvard/MIT HST Forum*
-
-`2008`
-Multi-variate profiling of B cell immune responses  
-*Novartis Vaccine Symposium*
-
 
 ### Patents
 
@@ -194,84 +183,82 @@ Multi-variate profiling of B cell immune responses
 Composition of an Array of Microwells with an Integrated Microfluidic System, USA Serial No. 12/390279 
 
 
-## Research
+## Fellowships
 
-`2013`
-__Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
+`2010-2011`
+NSERC Postgraduate D Scholarship, Canada
 
-- Integrative analysis of nitrogen stress response in e.coli
-- Chip-seq, RNAseq and transcriptomics analysis
+`2008-2009`
+Poitras pre-doctoral fellowship, MIT
+  
+`2007`
+Martino Scholar, Harvard/MIT Health Science & Tech. Inst.
 
+`2005-2008`
+NSERC Postgraduate M Scholarship, Canada
 
-`2009-2012`
-__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
+`2005` 
+OGS Postgraduate Scholarship (declined), Canada
 
-- Human Microbiome Project 
-- Bioinformatic analysis of large datasets
-- Microbial evolution, phylogenetics
+`2004` 
+NSERC Summer Research Award, Canada
 
+`2003` 
+\#2 Canadian Army University Course Scholarship, University of Toronto
 
-`2006-2009`
-__Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
-
-- Affinity and isotype mapping of antibody secretion in individual primary B cells.
-- Development of computational and statistical tools to monitor and predict evolution of immune responses
-- Murine antibody cloning and expression; fluorescence tagging
-- Real time fluorescence microcopy; advanced image analysis
-
-
-`2004-2005`
-__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
-
-- Nanoparticles cytotoxicity
-- Quantum Dots synthesis and characterization (TEM, Absorption, PL, X-IRD)
-- Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
-
-
-`2003`
-__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
-
-- Synthesis of biocompatible polymeric scaffolds for tissue engineering applications.
-- Morphological, mechanical and functional characterization of polyurethane scaffolds.
-
-
-## Other employment
+## Awards
 
 `2012`
-__Consultant, SERES Health,__ Cambridge, MA
+Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
 
-- Fitness analysis for synthetic microbial communities
-- Strategic input
+`2008`
+Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science & Tech. Inst.
 
-`2009`
-__Founder, Enumeral diagnostics,__ Cambridge, MA
+`2008`
+Competition Semifinalist, MIT 100k Business Plan
+
+`2004`
+University of Toronto Life Sciences Award
+
+`2002-04`
+Silver T – academic athletic excellence, University of Toronto
+
+`2003`
+OUA Academic Achievement Award, Ontario, Canada
+
+`2001`
+Ontario Scholar, Canada
+
+## Other employment
 
 `2006`
 __ESL Teacher, Inlingua Language School,__ Brescia, Italy
 
 - Teaching approx. 12hrs/week on individual basis and to large groups
-- Provided on site focussed training for companies
+- Provided on-site training for companies
 
 
 `2004-2005`
 __Residence Don, St.Michael’s College Residence,__ University of Toronto, Canada
 
-- Mediate conflicts and provide academic or personal consulting.
+- Mediated conflicts and provided academic and personal mentoring.
 - Trained in cultural competence and conflict resolution
-- Responsible to enforce rules and to foster an accepting community
+- Leadership role, with the responsibility to enforce residence rules while fostering a close-knit and welcoming community
 
 
 `2000-2002`
 __IT Consultant System Admin, Ital Engineering s.a.s.,__ Brescia, Italy
 
 - Interviewed the customer and performed an organizational analysis
-- Regularly performed formal presentations to the management
+- Designed IT and data warehousing infrastructure (UNIX/NAS/SMB)
+- Performed regular mainteinance of the 
 
 
 `2000`
 __Graphic Designer, Photo Image Studio,__ Brescia, Italy
 
 - Assisted photographers in the preparation of gallery exhibitions and openings
+- Designed large-format promotional material (Illustrator/Photoshop)
 
 
 ## Extracurricular
