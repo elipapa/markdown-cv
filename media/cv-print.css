@@ -53,8 +53,8 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 65%;
-	line-height: 1.3em;
+	font-size: 10pt;
+	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	/*margin-top: 1em;
@@ -63,33 +63,32 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
-	margin-bottom: 0.5em;
+	left: 28%;
+	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 65%;
+	width: 70%;
 }
 
 code {
-	/* these are the dates */
 	font: normal normal;
-	font-size: 55%;
+	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #9a9a9a;
+	color: #ccc;
 }
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -11%;
 }
 
 
 ul { 
 	position: relative;
-	left: 25%;
+	left: 28%;
 	width: 65%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	margin-bottom: 1em;
+	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
@@ -124,7 +123,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 28%;
 }
 
 h1+p { 
@@ -136,20 +135,25 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 3em;
+	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 15%;
+	width: 18%;
+}
+
+h2+p {
+	margin-top: 2.5em;
 }
 
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
+	color: #ccc;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 15%;
+	width: 18%;
 }
 
 a {
@@ -164,8 +168,8 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
-	color: #aaa;
+	left: 28%;
+	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -175,13 +179,18 @@ a:hover {
 }
 
 em {
-	font-style: italic;
+	font-style: normal;
+	color: #2d4e5e 
 }
 
 strong {
 	font-weight: bold;
 }
 
+#ghbutton {
+	display: none;
+	visibility: hidden;
+}
 
 
 
