@@ -64,14 +64,14 @@ body {
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.5em;
 	margin-right: 0;
 	width: 65%;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 70%;11
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -114,7 +114,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Lucida Console;
 	width: 65%;
 }
 
