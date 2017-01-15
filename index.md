@@ -35,7 +35,7 @@ __Trinity College, Cambridge__
 
 - Sizar
 
-`1667 - 
+`1667 - death`
 __Trinity College, Cambridge__
 
 - Fellow
