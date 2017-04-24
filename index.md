@@ -9,8 +9,19 @@ title: Isaac Newtons's CV
 
 `2009-2012`
 __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
+* __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
+* __Hirakata Program__ - 8 month of intense japanese language classes followed by 6 months of internship in the Tokyo area
+* __Bachelor in Business Administration__
 
-__Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
+`2011` (4 months)
+__Tuck Business School, Dartmouth College__, Hanover NH
+
+Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
+
+`2010` (3 months)
+__ESSEC Global Manager in Asia Program__, Singapore
+
+Asia-focused courses on regional cultures, economies and geopolitcs, business deals negociation and management
 
 ### Specialized in
 
