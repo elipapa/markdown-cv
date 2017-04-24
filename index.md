@@ -3,6 +3,7 @@ layout: dover
 title: Isaac Newtons's CV
 ---
 # Louis-Marie de Langlois
+French citizen and resident alien / work permit / driving license
 (860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
 
 ## Education
@@ -15,14 +16,31 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 * __Bachelor in Business Administration__
 
 `2011` (4 months)
-__Tuck Business School, Dartmouth College__, Hanover NH
+__Tuck Business School, Dartmouth College__, Hanover NH, USA
 
 Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
 
-### Specialized in
+`2005 - 2007`
+__Lycée Lakanal__, Sceaux, France
+
+Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
+
+`2005`
+__Lycée Emile Zola__, Rennes, France
+High School Diploma (French scientific « Baccalauréat »)
+
+### Work experience
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+`2015-2017`
+__Editioneo__, West Hartford CT, USA
+- co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
+- developed and maintained the service web site, interfaces and database
+- analyzed web data and user experience metrics
+- implemented new features based on said analysis and users feedbacks
+- built partenships and contributed to business development
+- valued the service, negociated the agreement of cession and closed a six-figure deal
 
 ### Research interests
 
