@@ -41,13 +41,17 @@ __Editioneo__, West Hartford CT, USA - Co-founder
 - built partenships and contributed to business development
 - valued the service, negociated the agreement of cession and closed a six-figure deal
 
-`2013-2014`
+`2013-2015` (27 months)
 __Converteo__, Paris, France - Senior consultant
 I helped small, medium and top 40 quoted French companies to :
 - figure their marketing digital "status" and define a strategy (goals, internal and external resources and tools, growth opportunities)
 - analyze their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
 - manage data-tracking optimization projects (website tracking plan / implementation specs, data-tracking best practices, tag managers)
 - manage digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
+
+`2011` (3 months)
+__Stratorg__, Paris, France - Junior consultant
+Analyzed data and helped in drafting business proposals to draw up strategy recommendations for top 40 quoted French companies
 
 ### Research interests
 
