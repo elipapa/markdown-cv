@@ -1,13 +1,12 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Louis-Marie de Langlois
+(860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
 
-## Currently
+## Education
 
-Standing on the shoulders of giants
+`2009-2012`
+__ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
+
+__Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
 
 ### Specialized in
 
