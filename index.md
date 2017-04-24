@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Isaac Newtons's CV
+---
 # Louis-Marie de Langlois
 (860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
 
