@@ -33,14 +33,21 @@ High School Diploma (French scientific « Baccalauréat »)
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-`2015-2017`
-__Editioneo__, West Hartford CT, USA
+`2015-2017` (24 months)
+__Editioneo__, West Hartford CT, USA - Co-founder
 - co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
 - developed and maintained the service web site, interfaces and database
-- analyzed web data and user experience metrics
-- implemented new features based on said analysis and users feedbacks
+- optimized the service based on web data and user experience analysis
 - built partenships and contributed to business development
 - valued the service, negociated the agreement of cession and closed a six-figure deal
+
+`2013-2014`
+__Converteo__, Paris, France - Senior consultant
+I helped small, medium and top 40 quoted French companies to :
+- figure their marketing digital "status" and define a strategy (goals, internal and external resources and tools, growth opportunities)
+- analyze their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
+- manage data-tracking optimization projects (website tracking plan / implementation specs, data-tracking best practices, tag managers)
+- manage digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
 
 ### Research interests
 
