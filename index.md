@@ -1,5 +1,5 @@
 ---
-layout: dover
+layout: cv
 title: Isaac Newtons's CV
 ---
 # Louis-Marie de Langlois
