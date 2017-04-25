@@ -93,16 +93,12 @@ __Tools and certifications : analytics, testing and customer experience__
 
 Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite.
 
-*Languages*
-
 __French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__.
-
+<!--
 ## Sport and leisure
 
-Avid reader, played the piano for several years, underwater hockey, hiking, scuba (autonomous diver certification) and free diving.
-
+Avid reader and traveler, played the piano for several years, underwater hockey, hiking, scuba (autonomous diver certification) and free diving.
+-->
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
