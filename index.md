@@ -21,9 +21,11 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
 - Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
 
+<!--
 `2011 - 2012`
 __Paris-Sorbonne University__, Paris, France - Philosphy department
 - Third (non-graduating) year of undergraduate studies in philosophy
+-->
 
 `2005 - 2007`
 __Lycée Lakanal__, Sceaux, France
@@ -61,9 +63,11 @@ __Evadoc__, Paris, France - Co-founder & CTO, digital library
 - grew the service up to 200k visits and 400k pageviews per month
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
+<!--
 `2009`
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
 - web content integration in corporate and e-commerce websites for top 40 quoted French companies
+-->
 
 `2008` (3 months)
 __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
