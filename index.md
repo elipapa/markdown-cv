@@ -45,7 +45,7 @@ __Converteo__, Paris, France - Senior e-business consultant, digital marketing &
 - managed digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
 
 `2011` (3 months)
-__Stratorg__, Paris, France - Junior consultant, top management consulting firm
+__Stratorg__, Paris, France - Intern consultant, top management consulting firm
 - analyzed data and helped in drafting business proposals to draw up strategy recommendations for top 40 quoted French companies
 
 `2009-2011` (24 months)
@@ -54,6 +54,18 @@ __Evadoc__, Paris, France - Co-founder & CTO, digital library
 - built partnerships and contributed to business development
 - grew the service up to 200k visits and 400k pageviews per month
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
+
+`2009`
+__WordAppeal__, Paris, France - Freelance, online communications consulting agency
+- Web content integration in corporate and e-commerce websites for top 40 quoted French companies
+
+`2008` (3 months)
+__Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
+- gathered and analyzed data to benchmark corporate strategies of nuclear manufacturing & railway business companies
+
+`2008` (3 months)
+__IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
+- helped develop, review and optimize a phonetic transcription software between French and Japanese
 
 ### Research interests
 
