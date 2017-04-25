@@ -75,8 +75,7 @@ Full stack web development (server-side and client-side scripting, database and 
 
 Languages :
 - French - native speaker
-- English - fluent, 2008 TOEIC score of 980/990
-- German - working knowledge
+- English - fluent, 2008 TOEIC score of 980/990 - German - working knowledge
 - Japanese - basic communication skills
 
 
