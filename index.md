@@ -40,7 +40,7 @@ __Lycée Emile Zola__, Rennes, France
 `2015-2017` (24 months)
 __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
 <!--
-- co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
+co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
 -->
 - developed and maintained the service web site, interfaces and database
 - optimized the service based on web data and user experience analysis
