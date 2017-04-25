@@ -92,7 +92,7 @@ __French__: native speaker `//` __English__: fluent `//` __German__: working kno
 
 ## Sport and leisure
 
-Avid reader, played the piano for several years, hiking, scuba and free diving
+Avid reader, played the piano for several years, underwater hockey, hiking, scuba and free diving
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
