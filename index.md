@@ -3,7 +3,7 @@ layout: dover
 title: Isaac Newtons's CV
 ---
 # Louis-Marie de Langlois
-<!-- [LinkedIn](https://linkedin.com/in/louismariedelanglois/?locale=en_US) -->
+[LinkedIn](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
 
 French citizen and resident alien / work permit / driving license
 (860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
