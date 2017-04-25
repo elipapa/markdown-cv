@@ -10,48 +10,50 @@ French citizen and resident alien / work permit / driving license
 
 `2009-2012`
 __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
-* __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
-* __Global Manager in Asia Program__, Singapore - 3 month of Asia-focused business and courses
-* __Hirakata Program__ - 8 month of intense Japanese classes followed by 6 months of internship in the Tokyo area
-* __Bachelor in Business Administration__
+- __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
+- __Global Manager in Asia Program__, Singapore - 3 month of Asia-focused business and courses
+- __Hirakata Program__ - 8 month of intense Japanese classes followed by 6 months of internship in the Tokyo area
+- __Bachelor in Business Administration__
 
 `2011` (4 months)
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
-
-Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
+- Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
 
 `2005 - 2007`
 __Lycée Lakanal__, Sceaux, France
-
-Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
+- Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
 
 `2005`
 __Lycée Emile Zola__, Rennes, France
-High School Diploma (French scientific « Baccalauréat »)
+- High School Diploma (French scientific « Baccalauréat »)
 
-### Work experience
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Work experience
 
 `2015-2017` (24 months)
-__Editioneo__, West Hartford CT, USA - Co-founder
+__Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
 - co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
 - developed and maintained the service web site, interfaces and database
 - optimized the service based on web data and user experience analysis
-- built partenships and contributed to business development
+- built partnerships and contributed to business development
 - valued the service, negociated the agreement of cession and closed a six-figure deal
 
 `2013-2015` (27 months)
-__Converteo__, Paris, France - Senior consultant
-I helped small, medium and top 40 quoted French companies to :
-- figure their marketing digital "status" and define a strategy (goals, internal and external resources and tools, growth opportunities)
-- analyze their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
-- manage data-tracking optimization projects (website tracking plan / implementation specs, data-tracking best practices, tag managers)
-- manage digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
+__Converteo__, Paris, France - Senior e-business consultant, digital marketing & strategy consulting firm
+- helped small and top 40 quoted French companies to figure out their marketing digital status and define a strategy (goals, internal and external resources and tools, growth opportunities)
+- analyzed their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
+- managed data-tracking optimization projects (website tracking plan / implementation specs, data-tracking best practices, tag managers)
+- managed digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
 
 `2011` (3 months)
-__Stratorg__, Paris, France - Junior consultant
-Analyzed data and helped in drafting business proposals to draw up strategy recommendations for top 40 quoted French companies
+__Stratorg__, Paris, France - Junior consultant, top management consulting firm
+- analyzed data and helped in drafting business proposals to draw up strategy recommendations for top 40 quoted French companies
+
+`2009-2011` (24 months)
+__Evadoc__, Paris, France - Co-founder & CTO, digital library
+- developed and maintained the service web site, interfaces and database
+- built partnerships and contributed to business development
+- grew the service up to 200k visits and 400k pageviews per month
+- valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
 ### Research interests
 
