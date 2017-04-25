@@ -39,7 +39,9 @@ __Lycée Emile Zola__, Rennes, France
 
 `2015-2017` (24 months)
 __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
+<!--
 - co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
+-->
 - developed and maintained the service web site, interfaces and database
 - optimized the service based on web data and user experience analysis
 - built partnerships and contributed to business development
@@ -47,19 +49,18 @@ __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
 
 `2013-2015` (27 months)
 __Converteo__, Paris, France - Senior e-business consultant, digital marketing & strategy consulting firm
-- helped small and top 40 quoted French companies to figure out their marketing digital status and define a strategy (goals, internal and external resources and tools, growth opportunities)
+- advised small and top 40 quoted French companies on their digital marketing strategy
 - analyzed their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
-- managed data-tracking optimization projects (website tracking plan / implementation specs, data-tracking best practices, tag managers)
+- managed data-tracking optimization projects (implementation specs, best practices, tag managers)
 - managed digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
 
 `2011` (3 months)
 __Stratorg__, Paris, France - Intern consultant, top management consulting firm
-- analyzed data and helped in drafting business proposals to draw up strategy recommendations for top 40 quoted French companies
+- helped draft business proposals and strategy recommendations for top 40 quoted French companies
 
 `2009-2011` (24 months)
 __Evadoc__, Paris, France - Co-founder & CTO, digital library
 - developed and maintained the service web site, interfaces and database
-- built partnerships and contributed to business development
 - grew the service up to 200k visits and 400k pageviews per month
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
@@ -85,16 +86,16 @@ __Full stack web development__
 
 __Tools and certifications : analytics, testing and customer experience__
 
-- Adobe Analytics (Omniture), Google Analytics (*GAIQ* in 2014), IBM Analytics (*DMO Sales Mastery* in 2013)
+- Adobe Analytics (Omniture), Google Analytics (*GAIQ* in 2014)
 - AB Tasty (*AB Tasty certified Partner* in 2013), Visual Website Optimizer, Kameleoon
-- IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf Customer Experience Management* in 2014)
+- IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf Customer Experience Management* in 2014) and IBM Analytics (*DMO Sales Mastery* in 2013)
 - UserReplay (*UserReplay Certification* in 2013)
 
 Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite.
 
 *Languages*
 
-__French__: native speaker `//` __English__: fluent `//` __German__: working knowledge `//` __Japanese__: basic communication skills
+__French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__.
 
 ## Sport and leisure
 
