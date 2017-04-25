@@ -73,7 +73,9 @@ __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Re
 Proficient in Microsoft Office Word, Excel, Powerpoint and Access
 Full stack web development (server-side and client-side scripting, database and server management) : PHP, JavaScript & jQuery, SQL
 
-__Languages :__ French - native speaker `//` English - fluent `//` German - working knowledge `//` Japanese - basic communication skills
+*Languages*
+
+__French__: native speaker `//` __English__: fluent `//` __German__: working knowledge `//` __Japanese__: basic communication skills
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
