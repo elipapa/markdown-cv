@@ -57,7 +57,7 @@ __Evadoc__, Paris, France - Co-founder & CTO, digital library
 
 `2009`
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
-- Web content integration in corporate and e-commerce websites for top 40 quoted French companies
+- web content integration in corporate and e-commerce websites for top 40 quoted French companies
 
 `2008` (3 months)
 __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
@@ -66,6 +66,19 @@ __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 `2008` (3 months)
 __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
 - helped develop, review and optimize a phonetic transcription software between French and Japanese
+
+## Computer skills, certifications and languages
+
+
+Proficient in Microsoft Office Word, Excel, Powerpoint and Access
+Full stack web development (server-side and client-side scripting, database and server management) : PHP, JavaScript & jQuery, SQL
+
+Languages :
+- French - native speaker
+- English - fluent, 2008 TOEIC score of 980/990
+- German - working knowledge
+- Japanese - basic communication skills
+
 
 ### Research interests
 
