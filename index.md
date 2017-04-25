@@ -31,9 +31,11 @@ __Paris-Sorbonne University__, Paris, France - Philosphy department
 __Lycée Lakanal__, Sceaux, France
 - Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
 
+<!--
 `2005`
 __Lycée Emile Zola__, Rennes, France
 - High School Diploma (French scientific « Baccalauréat »)
+-->
 
 ## Work experience
 
@@ -98,7 +100,7 @@ __French__: native speaker `//` __English__: fluent `//` __German__: working kno
 
 ## Sport and leisure
 
-Avid reader, played the piano for several years, underwater hockey, hiking, scuba and free diving
+Avid reader, played the piano for several years, underwater hockey, hiking, scuba (autonomous diver certification) and free diving.
 
 <!-- ### Footer
 
