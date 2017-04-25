@@ -14,7 +14,7 @@ French citizen and resident alien / work permit / driving license
 __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 - __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
 - __Global Manager in Asia Program__, Singapore - 3 month of Asia-focused business and courses
-- __Hirakata Program__ - 8 month of intense Japanese classes followed by 6 months of internship in the Tokyo area
+- __Hirakata Program__ - 8 months of intense Japanese classes and 6 months of internship in Tokyo
 - __Bachelor in Business Administration__ - *GMAT* score 710/800
 
 `2011` (4 months)
@@ -25,13 +25,11 @@ __Tuck Business School, Dartmouth College__, Hanover NH, USA
 `2011 - 2012`
 __Paris-Sorbonne University__, Paris, France - Philosphy department
 - Third (non-graduating) year of undergraduate studies in philosophy
--->
 
 `2005 - 2007`
 __Lycée Lakanal__, Sceaux, France
 - Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
 
-<!--
 `2005`
 __Lycée Emile Zola__, Rennes, France
 - High School Diploma (French scientific « Baccalauréat »)
