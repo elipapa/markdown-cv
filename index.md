@@ -71,16 +71,16 @@ __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Re
 
 __Full stack web development__
 
- Server-side and client-side scripting, database and server management - PHP, JavaScript & jQuery, SQL
+ Server-side and client-side scripting, database and server management - PHP, JavaScript & jQuery, SQL.
 
 __Tools and certifications : analytics, testing and customer experience__
 
-- Adobe Analytics (Omniture), Google Analytics (*GAIQ*, 2014), IBM Analytics (*DMO Sales Mastery*, 2013)
-- AB Tasty (*AB Tasty certified Partner*, 2013), Visual Website Optimizer, Kameleoon
-- IBM Tealeaf (*Technical Mastery* 2013, *Certified Business Analyst - Tealeaf Customer Experience Management*, 2014)
-- UserReplay (*UserReplay Certification*, 2013)
+- Adobe Analytics (Omniture), Google Analytics (*GAIQ* in 2014), IBM Analytics (*DMO Sales Mastery* in 2013)
+- AB Tasty (*AB Tasty certified Partner* in 2013), Visual Website Optimizer, Kameleoon
+- IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf Customer Experience Management* in 2014)
+- UserReplay (*UserReplay Certification* in 2013)
 
-Proficient in Microsoft Office Word, Excel (VBA), Powerpoint and Access
+Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite.
 
 *Languages*
 
