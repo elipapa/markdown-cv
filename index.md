@@ -13,7 +13,7 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 - __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
 - __Global Manager in Asia Program__, Singapore - 3 month of Asia-focused business and courses
 - __Hirakata Program__ - 8 month of intense Japanese classes followed by 6 months of internship in the Tokyo area
-- __Bachelor in Business Administration__
+- __Bachelor in Business Administration__ - *GMAT* score 710/800
 
 `2011` (4 months)
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
@@ -67,11 +67,20 @@ __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
 - helped develop, review and optimize a phonetic transcription software between French and Japanese
 
-## Computer skills, certifications and languages
+## Skills, certifications and languages
+
+__Full stack web development__
+
+ Server-side and client-side scripting, database and server management - PHP, JavaScript & jQuery, SQL
+
+__Digital marketing and analytics tools__
+
+- web analytics tools - Adobe Analytics / Omniture, Google Analytics (*GAIQ*, 2014), IBM Analytics (*DMO Sales Mastery*, 2013)
+- testing tools - Visual Website Optimizer, Kameleoon, AB Tasty (*AB Tasty certified Partner*, 2013)
+- customer experience tools - IBM Tealeaf (*Technical Mastery* 2013, *Certified Business Analyst - Tealeaf Customer Experience Management*, 2014), UserReplay (*UserReplay Certification*, 2013)
 
 
-Proficient in Microsoft Office Word, Excel, Powerpoint and Access
-Full stack web development (server-side and client-side scripting, database and server management) : PHP, JavaScript & jQuery, SQL
+Proficient in Microsoft Office Word, Excel (VBA), Powerpoint and Access
 
 *Languages*
 
