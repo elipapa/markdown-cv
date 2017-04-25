@@ -56,9 +56,9 @@ __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Re
 `2007-2012`
 __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 - __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
-- __Global Manager in Asia Program__, Singapore - 3 month of Asia-focused business and courses
-- __Hirakata Program__ - 8 months of intense Japanese classes and 6 months of internship in Tokyo
-- __Bachelor in Business Administration__ - *GMAT* score 710/800
+- *Global Manager in Asia Program*, Singapore - 3 month of Asia-focused business and courses
+- *Hirakata Program* - 8 months of intense Japanese classes and 6 months of internship in Tokyo
+- *Bachelor in Business Administration* - GMAT score 710/800
 
 `2011` (4 months)
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
