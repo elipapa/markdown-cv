@@ -19,6 +19,10 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
 - Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
 
+`2011 - 2012`
+__Paris-Sorbonne University__, Paris, France - Philosphy department
+- Third (non-graduating) year of undergraduate studies in philosophy
+
 `2005 - 2007`
 __Lycée Lakanal__, Sceaux, France
 - Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
@@ -85,6 +89,10 @@ Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and 
 *Languages*
 
 __French__: native speaker `//` __English__: fluent `//` __German__: working knowledge `//` __Japanese__: basic communication skills
+
+## Sport and leisure
+
+Avid reader, played the piano for several years, hiking, scuba and free diving
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
