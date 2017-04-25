@@ -8,33 +8,6 @@ title: Isaac Newtons's CV
 French citizen and resident alien / work permit / driving license
 (860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
 
-## Education
-
-`2007-2012`
-__ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
-- __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
-- __Global Manager in Asia Program__, Singapore - 3 month of Asia-focused business and courses
-- __Hirakata Program__ - 8 months of intense Japanese classes and 6 months of internship in Tokyo
-- __Bachelor in Business Administration__ - *GMAT* score 710/800
-
-`2011` (4 months)
-__Tuck Business School, Dartmouth College__, Hanover NH, USA
-- Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
-
-<!--
-`2011 - 2012`
-__Paris-Sorbonne University__, Paris, France - Philosphy department
-- Third (non-graduating) year of undergraduate studies in philosophy
-
-`2005 - 2007`
-__Lycée Lakanal__, Sceaux, France
-- Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
-
-`2005`
-__Lycée Emile Zola__, Rennes, France
-- High School Diploma (French scientific « Baccalauréat »)
--->
-
 ## Work experience
 
 `2015-2017`
@@ -76,6 +49,33 @@ __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 `2008` (3 months)
 __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
 - helped develop, review and optimize a phonetic transcription software between French and Japanese
+-->
+
+## Education
+
+`2007-2012`
+__ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
+- __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
+- __Global Manager in Asia Program__, Singapore - 3 month of Asia-focused business and courses
+- __Hirakata Program__ - 8 months of intense Japanese classes and 6 months of internship in Tokyo
+- __Bachelor in Business Administration__ - *GMAT* score 710/800
+
+`2011` (4 months)
+__Tuck Business School, Dartmouth College__, Hanover NH, USA
+- Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
+
+<!--
+`2011 - 2012`
+__Paris-Sorbonne University__, Paris, France - Philosphy department
+- Third (non-graduating) year of undergraduate studies in philosophy
+
+`2005 - 2007`
+__Lycée Lakanal__, Sceaux, France
+- Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
+
+`2005`
+__Lycée Emile Zola__, Rennes, France
+- High School Diploma (French scientific « Baccalauréat »)
 -->
 
 ## Skills, certifications and languages
