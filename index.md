@@ -42,7 +42,7 @@ __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
 <!--
 co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
 -->
-- developed and maintained the service web site, interfaces and database
+- developed and maintained the service's website, interfaces and database
 - optimized the service based on web data and user experience analysis
 - built partnerships and contributed to business development
 - valued the service, negociated the agreement of cession and closed a six-figure deal
@@ -60,7 +60,7 @@ __Stratorg__, Paris, France - Intern consultant, top management consulting firm
 
 `2009-2011` (24 months)
 __Evadoc__, Paris, France - Co-founder & CTO, digital library
-- developed and maintained the service web site, interfaces and database
+- developed and maintained the service's website, interfaces and database
 - grew the service up to 200k visits and 400k pageviews per month
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
