@@ -31,6 +31,20 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+
+em {
+	font-weight: bold;
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+}
+
 ul li {
 	margin-left: 1.6em
 }
@@ -76,6 +90,7 @@ blockquote {
 blockquote em {
 	display: block;
 	color: #aaa;
+	font-weight:
 }
 
 blockquote {
@@ -168,15 +183,6 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
-}
-
-em {
-	font-weight: bold;
-	font-style: italic;
-}
-
-strong {
-	font-weight: bold;
 }
 
 #address {
