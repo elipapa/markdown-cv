@@ -53,7 +53,7 @@ __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 
 > 2008 _(3 months)_
 
-__IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
+__IBM Japan__, Yamato, Japan - Intern, Information Management Dpt, IBM Research laboratory
 - helped develop and and optimize a phonetic transcription software (French from/to Japanese)
 
 ## Education
