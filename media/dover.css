@@ -85,15 +85,18 @@ blockquote em {
 
 h1 + blockquote {
 	right: initial;
+	color: white;
 }
 
 h1 + blockquote + blockquote {
 	width: 220px;
+	color: white;
 }
 
 p+ul {
 	margin-top: 
 }
+
 ul { 
 	position: relative;
 	left: 20%;
@@ -125,6 +128,7 @@ h1 {
 	float: left;
 	margin-left: 20%;
 	margin-bottom: 10mm;
+	color: white;
 }
 
 h1+p { 
