@@ -55,15 +55,15 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 - *Hirakata Program* - 8 months of intense Japanese classes and 6 months of internship in Tokyo
 - *Bachelor in Business Administration* - GMAT score 710/800
 
-`2011 _4 months_`
+> 2011 _4 months_
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
 - Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
 
-`2011 - 2012`
+> 2011 - 2012
 __Paris-Sorbonne University__, Paris, France - Philosphy department
 - Third (non-graduating) year of undergraduate studies in philosophy
 
-`2005 - 2007`
+> 2005 - 2007
 __Lycée Lakanal__, Sceaux, France
 - Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
 
