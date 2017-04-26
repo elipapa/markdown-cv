@@ -96,6 +96,7 @@ blockquote {
 ul { 
 	position: relative;
 	left: 20%;
+	width: 80%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -121,8 +122,6 @@ h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
-	position: relative;
-	left: 33%;
 }
 
 h1+p { 
