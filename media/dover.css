@@ -91,9 +91,13 @@ blockquote em {
 	font-weight: normal;
 }
 
-h1+blockquote {
+h1 + blockquote {
 	right: initial;
 	left: 0%;
+}
+
+h1 + blockquote + blockquote {
+	width: 300px;
 }
 
 p+ul {
