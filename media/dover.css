@@ -134,9 +134,9 @@ h1+p {
 
 h2 {
 	font-size: 1.6em;
-	margin-top: 2em;
-	/*position: relative;
-	top: 1.4em;*/
+	margin-top: 1em;
+	position: relative;
+	top: 1em;
 }
 
 h3 {
