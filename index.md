@@ -24,7 +24,7 @@ __Converteo__, Paris - Senior e-business consultant, digital marketing & strateg
 - advised small and top 40 quoted French companies on their digital marketing strategy
 - analyzed their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
 - managed data-tracking optimization projects (implementation specs, best practices, tag managers)
-- managed digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
+- managed digital performance optimization projects (user experience, A/B and multivariate testing, mailing strategy)
 
 > 2011 _(3 months)_
 
@@ -47,7 +47,7 @@ __WordAppeal__, Paris, France - Freelance, online communications consulting agen
 > 2008 _(3 months)_
 
 __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
-- gathered and analyzed data to benchmark corporate strategies of nuclear manufacturing & railway business companies
+- benchmarked corporate strategies of nuclear power plants construction & railway business companies
 
 > 2008 _(3 months)_
 
@@ -76,8 +76,8 @@ __Paris-Sorbonne University__, Paris, France - Philosphy department
 
 > 2005 - 2007
 
-__Lycée Lakanal__, Sceaux, France
-- Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
+__Lycée Lakanal__, Sceaux, France - Classe préparatoire
+- Two-year intensive preparation courses for entrance exams to the top French business schools
 
 <!--
 > 2005
