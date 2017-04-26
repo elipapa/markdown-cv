@@ -81,17 +81,14 @@ blockquote {
 	font: normal normal;
 	font-size: 1em;
 	white-space: nowrap;
+	position: absolute;
+	right: 0%;
+	width: 100px;
 }
 
 blockquote em {
 	color: #aaa;
 	font-weight: normal;
-}
-
-blockquote {
-	position: absolute;
-	right: 0%;
-	width: 100px;
 }
 
 p+ul {
@@ -128,9 +125,9 @@ h1 {
 }
 
 h1+p { 
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	position: absolute;
+	right: 0%;
+	width: 200px;
 }
 
 h2 {
