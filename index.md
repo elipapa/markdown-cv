@@ -92,7 +92,7 @@ __Lycée Emile Zola__, Rennes, France
 
 __Full stack web development__
 
- Server-side and client-side scripting, database and server management - PHP, JavaScript & jQuery, SQL.
+ Server-side and client-side scripting, database and server management - PHP, JavaScript & jQuery, SQL
 
 __Tools and certifications : analytics, testing and customer experience__
 
@@ -102,9 +102,9 @@ __Tools and certifications : analytics, testing and customer experience__
 - IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf CEM* in 2014)
 - UserReplay (*UserReplay Certification* in 2013)
 
-Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite.
+Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite
 
-__French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__.
+__French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__
 
 ## Extra
 
