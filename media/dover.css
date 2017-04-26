@@ -54,7 +54,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 60%;
+	font-size: 70%;
 	line-height: 1.5em;
 	font-family: Verdana,sans-serif;
 	margin: 10mm;
@@ -64,7 +64,7 @@ body {
 
 div#content > p {
 	position: relative;
-	left: 20%;
+	left: 15%;
 	width: 80%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
@@ -102,7 +102,7 @@ p+ul {
 
 ul { 
 	position: relative;
-	left: 20%;
+	left: 15%;
 	width: 80%;
 	margin-bottom: 1.5em;
 }
@@ -135,11 +135,11 @@ h1 {
 	color: white;
 }
 
-h1+p { 
+/*h1+p { 
 	position: relative;
-	right: 20%;
+	right: 15%;
 	width: 80%;
-}
+}*/
 
 h2 {
 	clear: both;
