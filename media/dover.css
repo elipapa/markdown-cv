@@ -49,8 +49,6 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
 	font-size: 50%;
@@ -93,12 +91,11 @@ ul {
 	margin-top: -0.5em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
