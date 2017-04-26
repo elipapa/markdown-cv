@@ -91,7 +91,8 @@ blockquote em {
 
 blockquote {
 	position: absolute;
-	right: 10%;
+	right: 0%;
+	width: 100px;
 }
 
 
