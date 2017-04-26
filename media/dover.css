@@ -96,7 +96,7 @@ h1 + blockquote {
 }
 
 h1 + blockquote + blockquote {
-	width: 300px;
+	width: 250px;
 }
 
 p+ul {
