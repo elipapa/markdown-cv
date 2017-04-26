@@ -61,10 +61,7 @@ table {
 /* end of reset */
 
 body {
-	font: normal normal 400;
-	font-size: 60%;
-	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	font: normal normal 400 100%/1.5em;
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
@@ -87,7 +84,7 @@ blockquote {
 blockquote em {
 	display: block;
 	color: #aaa;
-	font-weight:
+	font-weight: normal;
 }
 
 blockquote {
@@ -99,7 +96,6 @@ blockquote {
 ul { 
 	position: relative;
 	left: 20%;
-	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -110,24 +106,15 @@ li:before {
 	left: -0.25em;
 }
 
-li {
-	/*second line indent
-	padding-left: 1.25em;
-	text-indent: -1.25em;*/
-	/*color: #777;*/
-}
-
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
 	margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 65%;
 }
 
 h1 {
@@ -147,8 +134,8 @@ h1+p {
 h2 {
 	font-size: 1.6em;
 	margin-top: 2em;
-	position: relative;
-	top: 1.4em;
+	/*position: relative;
+	top: 1.4em;*/
 }
 
 h3 {
