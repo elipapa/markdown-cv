@@ -121,10 +121,10 @@ h1,h2,h3,h4 {
 h1 {
 	text-align: left;
 	font-size: 3em;
-	line-height: 1em;
+	line-height: 10mm;
 	float: left;
 	margin-left: 20%;
-	margin-bottom: .5em;
+	margin-bottom: 10mm;
 }
 
 h1+p { 
