@@ -39,6 +39,7 @@ __Evadoc__, Paris - Co-founder & CTO, digital library
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
 > 2009
+
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
 - web content integration in corporate and e-commerce websites for top 40 quoted French companies
 
