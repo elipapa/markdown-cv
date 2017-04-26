@@ -2,7 +2,7 @@
 layout: dover
 title: Resume - Louis-Marie de Langlois
 ---
-# Louis-Marie de Langlois
+# Louis de Langlois
 
 >U.S. resident alien<br/>
 >Work permit
