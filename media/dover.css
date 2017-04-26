@@ -144,21 +144,11 @@ h1+p {
 h2 {
 	clear: both;
 	font-size: 1.6em;
-	margin-top: 1em;
 	position: relative;
-	top: .6em;
+	top: 1em;
 }
 
 a {
 	color: inherit;
 	text-decoration:none
 }
-
-/*#content > p:last-child {
-	margin: 0;
-	left: 50mm;
-	width: initial;
-	position: absolute;
-	line-height: 10mm;
-	bottom: 0mm;
-}*/
