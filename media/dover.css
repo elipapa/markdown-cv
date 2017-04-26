@@ -79,7 +79,7 @@ blockquote strong {
 	color: #aaa;
 }
 
-p blockquote {
+blockquote {
 	position: absolute;
 	right: 0%;
 }
