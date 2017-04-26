@@ -132,6 +132,7 @@ h1 {
 	line-height: 1em;
 	float: left;
 	margin-left: 20%;
+	margin-bottom: .5em;
 }
 
 h1+p { 
