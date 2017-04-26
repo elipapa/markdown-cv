@@ -7,7 +7,7 @@ title: Resume - Louis-Marie de Langlois
 >U.S. resident alien<br/>
 >Work permit
 
-> (860) 218-0821 / lm.de.langlois@gmail.com
+> (860) 218-0821 / lm.de.langlois@gmail.com<br/>
 > 111 Dover Road, West Hartford 06119 CT
 
 ## Experience
