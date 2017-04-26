@@ -59,7 +59,7 @@ body {
 	font-family: Verdana,sans-serif;
 	margin: 5mm;
 	height: 259mm;
-	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm/*, white 269mm, #53A6EE 269mm*/) no-repeat
+	background: linear-gradient(to bottom, #53A6EE 20mm, white 20mm) no-repeat
 }
 
 div#content > p {
