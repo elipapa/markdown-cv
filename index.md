@@ -10,45 +10,52 @@ French citizen and resident alien / work permit / driving license
 
 ## Work experience
 
-`2015-2017`
+> 2015-2017
+
 __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
 - developed and maintained the service's website, interfaces and database
 - optimized the service based on web data and user experience analysis
 - built partnerships and contributed to business development
 - valued the service, negociated the agreement of cession and closed a six-figure deal
 
-`2013-2015`
+> 2013-2015
+
 __Converteo__, Paris - Senior e-business consultant, digital marketing & strategy consulting firm
 - advised small and top 40 quoted French companies on their digital marketing strategy
 - analyzed their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
 - managed data-tracking optimization projects (implementation specs, best practices, tag managers)
 - managed digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
 
-`2011 _3 months_`
+> 2011 _3 months_
+
 __Stratorg__, Paris - Intern consultant, top management consulting firm
 - helped draft business proposals and strategy recommendations for top 40 quoted French companies
 
-`2009-2011`
+> 2009-2011
+
 __Evadoc__, Paris - Co-founder & CTO, digital library
 - developed and maintained the service's website, interfaces and database
 - grew the service up to 200k visits and 400k pageviews per month
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
-`2009`
+> 2009
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
 - web content integration in corporate and e-commerce websites for top 40 quoted French companies
 
-`2008 _3 months_`
+> 2008 _3 months_
+
 __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 - gathered and analyzed data to benchmark corporate strategies of nuclear manufacturing & railway business companies
 
-`2008 _3 months_`
+> 2008 _3 months_
+
 __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
 - helped develop, review and optimize a phonetic transcription software between French and Japanese
 
 ## Education
 
-`2007-2012`
+> 2007-2012
+
 __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 - __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
 - *Global Manager in Asia Program*, Singapore - 3 month of Asia-focused business and courses
@@ -70,7 +77,8 @@ __Paris-Sorbonne University__, Paris, France - Philosphy department
 __Lycée Lakanal__, Sceaux, France
 - Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
 
-`2005`
+> 2005
+
 __Lycée Emile Zola__, Rennes, France
 - High School Diploma (French scientific « Baccalauréat »)
 
