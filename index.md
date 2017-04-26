@@ -1,6 +1,6 @@
 ---
 layout: dover
-title: Isaac Newtons's CV
+title: Resume - Louis-Marie de Langlois
 ---
 # Louis-Marie de Langlois
 [LinkedIn](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
@@ -37,7 +37,6 @@ __Evadoc__, Paris - Co-founder & CTO, digital library
 - grew the service up to 200k visits and 400k pageviews per month
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
-<!--
 `2009`
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
 - web content integration in corporate and e-commerce websites for top 40 quoted French companies
@@ -49,7 +48,6 @@ __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 `2008` (3 months)
 __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
 - helped develop, review and optimize a phonetic transcription software between French and Japanese
--->
 
 ## Education
 
@@ -64,7 +62,6 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
 - Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
 
-<!--
 `2011 - 2012`
 __Paris-Sorbonne University__, Paris, France - Philosphy department
 - Third (non-graduating) year of undergraduate studies in philosophy
@@ -76,9 +73,8 @@ __Lycée Lakanal__, Sceaux, France
 `2005`
 __Lycée Emile Zola__, Rennes, France
 - High School Diploma (French scientific « Baccalauréat »)
--->
 
-## Skills, certifications and languages
+## Skills
 
 __Full stack web development__
 
@@ -95,7 +91,6 @@ Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and 
 
 __French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__.
 
-<!--
 ## Sport and leisure
+
 Avid reader and traveler, played the piano for several years, underwater hockey, hiking, scuba (autonomous diver certification) and free diving.
--->
