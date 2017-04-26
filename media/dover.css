@@ -57,7 +57,8 @@ body {
 	font-size: 60%;
 	line-height: 1.5em;
 	font-family: Verdana,sans-serif;
-	margin-top: 1em 0 0 1em;
+	margin: 10mm;
+	background: linear-gradient(#53A6EE 25mm, white 25mm) no-repeat;
 }
 
 div#content > p {
