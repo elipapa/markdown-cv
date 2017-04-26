@@ -84,7 +84,6 @@ blockquote {
 }
 
 blockquote em {
-	display: block;
 	color: #aaa;
 	font-weight: normal;
 }
