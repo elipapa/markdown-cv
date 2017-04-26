@@ -2,7 +2,6 @@
 layout: dover
 title: Resume - Louis-Marie de Langlois
 ---
-<div id="header">
 
 # Louis de Langlois
 
@@ -11,8 +10,6 @@ title: Resume - Louis-Marie de Langlois
 
 > 860-218-0821 | lm.de.langlois@gmail.com<br/>
 > 111 Dover Road, West Hartford 06119 CT
-
-</div>
 
 ## Experience
 
