@@ -86,11 +86,13 @@ blockquote em {
 h1 + blockquote {
 	right: initial;
 	color: white;
+	line-height: 5mm;
 }
 
 h1 + blockquote + blockquote {
 	width: 220px;
 	color: white;
+	line-height: 5mm;
 }
 
 p+ul {
