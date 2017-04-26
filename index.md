@@ -8,7 +8,7 @@ title: Resume - Louis-Marie de Langlois
 French citizen and resident alien / work permit / driving license
 (860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
 
-## Work experience
+## Experience
 
 > 2015-2017
 
@@ -38,11 +38,12 @@ __Evadoc__, Paris - Co-founder & CTO, digital library
 - grew the service up to 200k visits and 400k pageviews per month
 - valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
 
+<!--
 > 2009
 
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
 - content integration in websites for top 40 quoted French companies
-
+-->
 > 2008 _3 months_
 
 __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
@@ -78,11 +79,12 @@ __Paris-Sorbonne University__, Paris, France - Philosphy department
 __Lycée Lakanal__, Sceaux, France
 - Two-year intensive preparation courses for entrance exams to the top French business schools (French « classe préparatoire »)
 
+<!--
 > 2005
 
 __Lycée Emile Zola__, Rennes, France
 - High School Diploma (French scientific « Baccalauréat »)
-
+-->
 ## Skills
 
 __Full stack web development__
@@ -100,6 +102,8 @@ Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and 
 
 __French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__.
 
+<!--
 ## Sport and leisure
 
 Avid reader and traveler, played the piano for several years, underwater hockey, hiking, scuba (autonomous diver certification) and free diving.
+-->
