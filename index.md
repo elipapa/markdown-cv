@@ -106,10 +106,7 @@ Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and 
 
 __French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__.
 
----
-
 LinkedIn profile : [linkedin.com/in/louismariedelanglois/](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
-
 
 <!--
 ## Sport and leisure
