@@ -70,6 +70,7 @@ p {
 blockquote {
 	font: normal normal;
 	font-size: 1em;
+	white-space: nowrap;
 }
 
 blockquote strong {
