@@ -41,7 +41,7 @@ __Evadoc__, Paris - Co-founder & CTO, digital library
 > 2009
 
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
-- web content integration in corporate and e-commerce websites for top 40 quoted French companies
+- content integration in websites for top 40 quoted French companies
 
 > 2008 _3 months_
 
@@ -51,7 +51,7 @@ __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 > 2008 _3 months_
 
 __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
-- helped develop, review and optimize a phonetic transcription software between French and Japanese
+- helped develop and and optimize a phonetic transcription software (French from/to Japanese)
 
 ## Education
 
