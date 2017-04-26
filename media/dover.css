@@ -59,7 +59,7 @@ body {
 	font-family: Verdana,sans-serif;
 	margin: 10mm;
 	height: 259mm;
-	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm, white 250mm, #53A6EE 250mm, #53A6EE 259mm) no-repeat;
+	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm, white 269mm, #53A6EE 269mm) no-repeat
 }
 
 div#content > p {
@@ -183,12 +183,11 @@ a:hover {
 	display: none;
 }
 
-hr {
-	border: 0;
-	border-bottom: dashed 1px #aaa;
-	margin: 5mm 0;	
-}
-
-hr + p {
-	text-align: center;
+p:last-child {
+	margin: 0;
+	left: 50mm;
+	width: initial;
+	position: absolute;
+	line-height: 10mm;
+	bottom: 0mm;
 }
