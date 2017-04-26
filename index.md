@@ -29,14 +29,14 @@ __Converteo__, Paris - Senior e-business consultant, digital marketing & strateg
 > 2011 _3 months_
 
 __Stratorg__, Paris - Intern consultant, top management consulting firm
-- helped draft business proposals and strategy recommendations for top 40 quoted French companies
+- helped draft business proposals and recommendations for top 40 quoted French companies
 
 > 2009-2011
 
 __Evadoc__, Paris - Co-founder & CTO, digital library
 - developed and maintained the service's website, interfaces and database
 - grew the service up to 200k visits and 400k pageviews per month
-- valued the service and negociated the sale to YouScribe (now the largest digital library in Europe)
+- valued, negociated and sold the service to YouScribe (now the largest digital library in Europe)
 
 <!--
 > 2009
