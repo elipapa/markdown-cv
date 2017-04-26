@@ -181,3 +181,13 @@ a:hover {
 #address {
 	display: none;
 }
+
+hr {
+	border: 0;
+	border-bottom: dashed 1px #aaa;
+	margin: 5mm 0;	
+}
+
+hr + p {
+	text-align: center;
+}
