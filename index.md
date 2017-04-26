@@ -108,4 +108,4 @@ __French__ native speaker, fluent __English__, basic communication skills in __G
 
 ## Extra
 
-Reading, traveling, underwater hockey, hiking, scuba & free diving. ![Image of Yaktocat](https://heleme.github.io/markdown-cv/media/1493253876_linkedin.pngg)[Linkedin.com/in/louismariedelanglois/](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
+Reading, traveling, underwater hockey, hiking, scuba & free diving. ![Image of Yaktocat](https://heleme.github.io/markdown-cv/media/1493253876_linkedin.png)[Linkedin.com/in/louismariedelanglois/](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
