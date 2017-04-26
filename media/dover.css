@@ -69,17 +69,17 @@ p {
 	margin-right: 0;
 }
 
-code {
+blockquote {
 	font: normal normal;
 	font-size: 1em;
 }
 
-code strong {
+blockquote strong {
 	display: block;
 	color: #aaa;
 }
 
-p code {
+p blockquote {
 	position: absolute;
 	right: 0%;
 }
