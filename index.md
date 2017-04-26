@@ -3,10 +3,13 @@ layout: dover
 title: Resume - Louis-Marie de Langlois
 ---
 # Louis-Marie de Langlois
-[LinkedIn](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
 
-French citizen and resident alien / work permit / driving license
+
+French citizen and resident alien | Work permit | Driving license
+
 (860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
+
+[LinkedIn](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
 
 ## Experience
 
@@ -24,7 +27,7 @@ __Converteo__, Paris - Senior e-business consultant, digital marketing & strateg
 - advised small and top 40 quoted French companies on their digital marketing strategy
 - analyzed their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
 - managed data-tracking optimization projects (implementation specs, best practices, tag managers)
-- managed digital performance optimization projects (user experience, A/B and multivariate testing, mailing strategy)
+- managed digital performance optimization projects (user experience, A/B testing, mailing strategy)
 
 > 2011 _(3 months)_
 
@@ -94,8 +97,9 @@ __Full stack web development__
 __Tools and certifications : analytics, testing and customer experience__
 
 - Adobe Analytics (Omniture), Google Analytics (*GAIQ* in 2014)
+- IBM Analytics (*DMO Sales Mastery* in 2013)
 - AB Tasty (*AB Tasty certified Partner* in 2013), Visual Website Optimizer, Kameleoon
-- IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf Customer Experience Management* in 2014) and IBM Analytics (*DMO Sales Mastery* in 2013)
+- IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf CEM* in 2014)
 - UserReplay (*UserReplay Certification* in 2013)
 
 Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite.
