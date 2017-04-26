@@ -59,7 +59,7 @@ body {
 	font-family: Verdana,sans-serif;
 	margin: 10mm;
 	height: 259mm;
-	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm, white 269mm, #53A6EE 269mm) no-repeat
+	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm/*, white 269mm, #53A6EE 269mm*/) no-repeat
 }
 
 div#content > p {
@@ -148,42 +148,16 @@ h2 {
 	top: 1em;
 }
 
-h3 {
-	font-size: 1em;
-	line-height: 2em; 
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
-}
-
 a {
 	color: inherit;
 	text-decoration:none
 }
 
-#webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 33%;
-	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
-}
-
-#webaddress a {
-	text-decoration: none;
-}
-
-#address {
-	display: none;
-}
-
-#content > p:last-child {
+/*#content > p:last-child {
 	margin: 0;
 	left: 50mm;
 	width: initial;
 	position: absolute;
 	line-height: 10mm;
 	bottom: 0mm;
-}
+}*/
