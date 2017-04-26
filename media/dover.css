@@ -130,8 +130,8 @@ h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
-	position: relative;
-	left: 20%;
+	float: left;
+	margin-left: 20%;
 }
 
 h1+p { 
