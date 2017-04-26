@@ -61,7 +61,9 @@ table {
 /* end of reset */
 
 body {
-	font: normal normal 400 60%/1.5em;
+	font: normal normal 400;
+	font-size: 60%;
+	line-height: 1.5em;
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
