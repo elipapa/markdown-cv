@@ -58,7 +58,8 @@ body {
 	line-height: 1.5em;
 	font-family: Verdana,sans-serif;
 	margin: 10mm;
-	background: linear-gradient(#53A6EE 25mm, white 25mm) no-repeat;
+	height: 259mm;
+	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm, white 250mm, #53A6EE 250mm, #53A6EE 259mm) no-repeat;
 }
 
 div#content > p {
