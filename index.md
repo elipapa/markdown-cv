@@ -25,9 +25,9 @@ __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
 
 __Converteo__, Paris - Senior e-business consultant, digital marketing & strategy consulting firm
 - advised small and top 40 quoted French companies on their digital marketing strategy
-- analyzed their digital performance (web data analysis, cleaning, reprocessing and cross-referencing)
-- managed data-tracking optimization projects (implementation specs, best practices, tag managers)
-- managed digital performance optimization projects (user experience, A/B testing, mailing strategy)
+- analyzed their digital performance - web data analysis, cleaning, reprocessing and cross-referencing
+- managed data-tracking optimization projects - implementation specs, best practices, tag managers
+- managed digital performance optimization projects - user experience, A/B testing, mailing strategy
 
 > 2011 _(3 months)_
 
@@ -39,7 +39,7 @@ __Stratorg__, Paris - Intern consultant, top management consulting firm
 __Evadoc__, Paris - Co-founder & CTO, digital library
 - developed and maintained the service's website, interfaces and database
 - grew the service up to 200k visits and 400k pageviews per month
-- valued, negociated and sold the service to YouScribe (now the largest digital library in Europe)
+- valued, negociated and sold the service to YouScribe - now the largest digital library in Europe
 
 <!--
 > 2009
@@ -70,12 +70,12 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 > 2011 _(4 months)_
 
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
-- Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
+- Exchange student in the MBA program - focus on entrepreneurship, innovation and strategy courses
 
 > 2011 - 2012
 
-__Paris-Sorbonne University__, Paris, France - Philosphy department
-- Third (non-graduating) year of undergraduate studies in philosophy
+__Paris-Sorbonne University__, Paris, France - Philosophy department
+- Third non-graduating year of undergraduate studies in philosophy
 
 > 2005 - 2007
 
