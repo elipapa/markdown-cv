@@ -12,9 +12,6 @@ French citizen and resident alien / work permit / driving license
 
 `2015-2017`
 __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
-<!--
-co-founded Editioneo, a digital service providing French e-merchants and entrepreneurs with an array of legal documents to customize online through a simple step-by-step process
--->
 - developed and maintained the service's website, interfaces and database
 - optimized the service based on web data and user experience analysis
 - built partnerships and contributed to business development
@@ -27,7 +24,7 @@ __Converteo__, Paris - Senior e-business consultant, digital marketing & strateg
 - managed data-tracking optimization projects (implementation specs, best practices, tag managers)
 - managed digital performance optimization projects (usability and user experience, A/B and multivariate testing, mailing strategy, etc.)
 
-`2011` (3 months)
+`2011 _3 months_`
 __Stratorg__, Paris - Intern consultant, top management consulting firm
 - helped draft business proposals and strategy recommendations for top 40 quoted French companies
 
@@ -41,11 +38,11 @@ __Evadoc__, Paris - Co-founder & CTO, digital library
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
 - web content integration in corporate and e-commerce websites for top 40 quoted French companies
 
-`2008` (3 months)
+`2008 _3 months_`
 __Hitachi__, Tokyo, Japan - Intern, Planning & Development Office
 - gathered and analyzed data to benchmark corporate strategies of nuclear manufacturing & railway business companies
 
-`2008` (3 months)
+`2008 _3 months_`
 __IBM Japan__, Yamato, Japan - Intern, Information Management Department, IBM Research laboratory
 - helped develop, review and optimize a phonetic transcription software between French and Japanese
 
@@ -58,7 +55,7 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 - *Hirakata Program* - 8 months of intense Japanese classes and 6 months of internship in Tokyo
 - *Bachelor in Business Administration* - GMAT score 710/800
 
-`2011` (4 months)
+`2011 _4 months_`
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
 - Exchange student in the MBA program ; focus on entrepreneurship, innovation and strategy courses
 
