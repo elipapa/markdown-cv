@@ -93,7 +93,6 @@ blockquote em {
 
 h1 + blockquote {
 	right: initial;
-	left: 0%;
 }
 
 h1 + blockquote + blockquote {
