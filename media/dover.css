@@ -73,7 +73,7 @@ blockquote {
 	white-space: nowrap;
 }
 
-blockquote strong {
+blockquote em {
 	display: block;
 	color: #aaa;
 }
