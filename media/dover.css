@@ -159,11 +159,7 @@ h3 {
 
 a {
 	color: inherit;
-	/*text-decoration:none*/
-}
-
-a:hover {
-	color:#39f
+	text-decoration:none
 }
 
 #webaddress {
