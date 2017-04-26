@@ -2,15 +2,13 @@
 layout: dover
 title: Resume - Louis-Marie de Langlois
 ---
-# Louis de Langlois
+# Louis-Marie de Langlois
 
 >U.S. resident alien<br/>
 >Work permit<br/>
 >Driving license
 
 (860) 218-0821 / lm.de.langlois@gmail.com / 111 Dover Road, West Hartford 06119 CT
-
-[LinkedIn](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
 
 ## Experience
 
@@ -106,6 +104,10 @@ __Tools and certifications : analytics, testing and customer experience__
 Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite.
 
 __French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__.
+
+
+LinkedIn profile : [linkedin.com/in/louismariedelanglois/](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
+
 
 <!--
 ## Sport and leisure
