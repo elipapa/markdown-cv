@@ -108,6 +108,5 @@ __French__ native speaker, fluent __English__, basic communication skills in __G
 
 ## Extra
 
-Avid reader and traveler, played the piano for several years, underwater hockey, hiking, scuba (autonomous diver certification) and free diving.
-
 LinkedIn profile : [linkedin.com/in/louismariedelanglois/](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
+Avid reader and traveler, underwater hockey, hiking, scuba (autonomous diver certification) and free diving.
