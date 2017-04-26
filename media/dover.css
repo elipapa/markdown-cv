@@ -45,9 +45,6 @@ ul {
 	list-style: none;
 }
 
-ul li {
-	margin-left: 1.6em
-}
 blockquote, q {
 	quotes: none;
 }
@@ -114,9 +111,9 @@ li:before {
 }
 
 li {
-	/*second line indent*/
+	/*second line indent
 	padding-left: 1.25em;
-	text-indent: -1.25em;
+	text-indent: -1.25em;*/
 	/*color: #777;*/
 }
 
