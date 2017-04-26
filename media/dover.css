@@ -95,13 +95,14 @@ blockquote {
 	width: 100px;
 }
 
-
+p+ul {
+	margin-top: 
+}
 ul { 
 	position: relative;
 	left: 20%;
 	width: 80%;
 	margin-bottom: 1.5em;
-	margin-top: -0.5em;
 }
 
 li:before {
