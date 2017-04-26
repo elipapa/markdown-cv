@@ -91,7 +91,7 @@ h1 + blockquote {
 }
 
 h1 + blockquote + blockquote {
-	width: 220px;
+	width: 250px;
 	color: white;
 	line-height: 5mm;
 }
