@@ -25,9 +25,9 @@ __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
 
 __Converteo__, Paris - Senior e-business consultant, digital marketing & strategy consulting firm
 - advised small and top 40 quoted French companies on their digital marketing strategy
-- analyzed their digital performance - web data analysis, cleaning, reprocessing and cross-referencing
-- managed data-tracking optimization projects - implementation specs, best practices, tag managers
-- managed digital performance optimization projects - user experience, A/B testing, mailing strategy
+- analyzed digital performance - web data analysis, cleaning, reprocessing and cross-referencing
+- managed data tracking projects - implementation specs, best practices, tag managers
+- managed performance optimization projects - user experience, A/B testing, mailing strategy
 
 > 2011 _(3 months)_
 
@@ -62,7 +62,7 @@ __IBM Japan__, Yamato, Japan - Intern, Information Management Dpt, IBM Research 
 > 2007-2012
 
 __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
-- __Master of Science (MSc) in Management__ - #3 in the Financial Times Global Rankings since 2014
+- __Master of Science in Management__ - #3 in the Financial Times Global Rankings since 2014
 - *Global Manager in Asia Program*, Singapore - 3 month of Asia-focused business and courses
 - *Hirakata Program* - 8 months of intense Japanese classes and 6 months of internship in Tokyo
 - *Bachelor in Business Administration* - GMAT score 710/800
@@ -70,7 +70,7 @@ __ESSEC Business School__, Paris, France – AACSB and EQUIS accredited
 > 2011 _(4 months)_
 
 __Tuck Business School, Dartmouth College__, Hanover NH, USA
-- Exchange student in the MBA program - focus on entrepreneurship, innovation and strategy courses
+- Exchange student in the MBA program - entrepreneurship, innovation and strategy courses
 
 > 2011 - 2012
 
@@ -92,7 +92,7 @@ __Lycée Emile Zola__, Rennes, France
 
 __Full stack web development__
 
- Server-side and client-side scripting, database and server management - PHP, JavaScript & jQuery, SQL
+ Server and client side scripting, database and server management - PHP, JavaScript & jQuery, SQL
 
 __Tools and certifications : analytics, testing and customer experience__
 
