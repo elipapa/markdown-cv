@@ -66,7 +66,14 @@ div#content > p {
 	position: relative;
 	left: 15%;
 	width: 80%;
-	margin-bottom: .7em;
+}
+
+div#content > p + p {
+	margin-top: .5em;
+}
+
+div#content > p + ul {
+	margin-top: .5em;
 }
 
 blockquote {
@@ -99,7 +106,7 @@ ul {
 	position: relative;
 	left: 15%;
 	width: 80%;
-	margin-bottom: 1.2em;
+	margin-bottom: 1.5em;
 }
 
 li:before {
@@ -129,10 +136,11 @@ h1 {
 	color: white;
 }
 
-h1+p { 
+h1 + p { 
 	position: relative;
 	right: 15%;
 	width: 80%;
+	margin-bottom: 1.5em;
 }
 
 h2 {
