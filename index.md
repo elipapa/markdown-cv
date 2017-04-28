@@ -102,10 +102,10 @@ __Tools and certifications : analytics, testing and customer experience__
 - IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf CEM* in 2014)
 - UserReplay (*UserReplay Certification* in 2013)
 
-Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite
-
 __Full stack web development__
  - Server and client side scripting, database and server management - PHP, JavaScript & jQuery, SQL
+ 
+ Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite
  
 __French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__
 
