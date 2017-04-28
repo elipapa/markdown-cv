@@ -59,15 +59,14 @@ body {
 	font-family: Verdana,sans-serif;
 	margin: 5mm;
 	height: 259mm;
-	background: linear-gradient(to bottom, #53A6EE 20mm, white 20mm) no-repeat
+	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm) no-repeat
 }
 
 div#content > p {
 	position: relative;
 	left: 15%;
 	width: 80%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
+	margin-bottom: 1em;
 }
 
 blockquote {
@@ -104,7 +103,7 @@ ul {
 	position: relative;
 	left: 15%;
 	width: 80%;
-	margin-bottom: 1.5em;
+	margin-bottom: 1.2em;
 }
 
 li:before {
@@ -129,17 +128,16 @@ h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 10mm;
-	/*float: left;*/
 	margin-left: 15%;
-	margin-bottom: 10mm;
+	margin-bottom: 3mm;
 	color: white;
 }
 
-/*h1+p { 
+h1+p { 
 	position: relative;
 	right: 15%;
 	width: 80%;
-}*/
+}
 
 h2 {
 	clear: both;
