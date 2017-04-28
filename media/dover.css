@@ -129,7 +129,7 @@ h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 10mm;
-	float: left;
+	/*float: left;*/
 	margin-left: 20%;
 	margin-bottom: 10mm;
 	color: white;
