@@ -96,7 +96,7 @@ h1 + blockquote + blockquote {
 }
 
 p+ul {
-	margin-top: 
+	margin-top: 0.5em;
 }
 
 ul { 
