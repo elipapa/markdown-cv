@@ -76,6 +76,10 @@ div#content > p + ul {
 	margin-top: .5em;
 }
 
+div#content > ul + p, div#content > ul + blockquote + p, div#content > h2 + p, div#content > h2 + blockquote + p {
+	margin-top: 1.5em;
+}
+
 blockquote {
 	font: normal normal;
 	font-size: 1em;
@@ -108,7 +112,6 @@ ul {
 	position: relative;
 	left: 15%;
 	width: 80%;
-	margin-bottom: 1.5em;
 }
 
 li:before {
@@ -117,12 +120,12 @@ li:before {
 	left: -0.25em;
 }
 
-li ul {
+/*li ul {
 	position: relative;
 	left: 0;
 	margin-top: 0.25em;
 	margin-left: 1em
-}
+}*/
 
 h1,h2,h3,h4 {
 	font-weight: 400;
