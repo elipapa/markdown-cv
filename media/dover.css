@@ -87,7 +87,9 @@ blockquote {
 
 blockquote em {
 	color: #aaa;
-	font-weight: normal;
+	font-style: normal;
+	display: block;
+	margin-top: .5em;
 }
 
 h1 + blockquote {
