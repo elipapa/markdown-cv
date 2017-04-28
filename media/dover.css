@@ -69,7 +69,7 @@ div#content > p {
 }
 
 div#content > p + p {
-	margin-top: .5em;
+	margin-top: 1.5em;
 }
 
 div#content > p + ul {
