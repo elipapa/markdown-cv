@@ -69,7 +69,7 @@ div#content > p {
 }
 
 div#content > p + p {
-	margin-top: 1.5em;
+	margin-top: 1em;
 }
 
 div#content > p + ul {
@@ -87,6 +87,7 @@ blockquote {
 	position: absolute;
 	right: 0%;
 	width: 100px;
+	margin-top: 1.5em;
 }
 
 blockquote em {
@@ -96,7 +97,7 @@ blockquote em {
 	margin-top: .5em;
 }
 
-h1 + blockquote {
+/*h1 + blockquote {
 	right: initial;
 	color: white;
 	line-height: 5mm;
@@ -106,7 +107,7 @@ h1 + blockquote + blockquote {
 	width: 250px;
 	color: white;
 	line-height: 5mm;
-}
+}*/
 
 ul { 
 	position: relative;
