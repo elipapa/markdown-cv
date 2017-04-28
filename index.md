@@ -3,15 +3,19 @@ layout: dover
 title: Resume - Louis-Marie de Langlois
 ---
 
-# Louis de Langlois
+# Louis-Marie de Langlois
 
+<!--
 >U.S. resident alien<br/>
 >Work permit
 
 > 860-218-0821 | [lm.de.langlois@gmail.com](mailto:lm.de.langlois@gmail.com)<br/>
 > 111 Dover Road, West Hartford 06119 CT
+-->
 
 ## Experience
+
+860-218-0821 | [lm.de.langlois@gmail.com](mailto:lm.de.langlois@gmail.com) | 111 Dover Road, West Hartford 06119 CT
 
 > 2015-2017
 
@@ -77,22 +81,19 @@ __Tuck Business School, Dartmouth College__, Hanover NH, USA
 __Paris-Sorbonne University__, Paris, France - Philosophy department
 - Third non-graduating year of undergraduate studies in philosophy
 
+<!--
 > 2005 - 2007
 
 __Lycée Lakanal__, Sceaux, France - Classe préparatoire
 - Two-year intensive preparation courses for entrance exams to the top French business schools
 
-<!--
+
 > 2005
 
 __Lycée Emile Zola__, Rennes, France
 - High School Diploma (French scientific « Baccalauréat »)
 -->
 ## Skills
-
-__Full stack web development__
-
- Server and client side scripting, database and server management - PHP, JavaScript & jQuery, SQL
 
 __Tools and certifications : analytics, testing and customer experience__
 
@@ -104,8 +105,14 @@ __Tools and certifications : analytics, testing and customer experience__
 
 Proficient in Microsoft Office tools (Word, Excel &VBA, Powerpoint, Access) and Google Apps Suite
 
+__Full stack web development__
+
+ Server and client side scripting, database and server management - PHP, JavaScript & jQuery, SQL
+ 
 __French__ native speaker, fluent __English__, basic communication skills in __German__ and __Japanese__
 
 ## Extra
 
-Reading, traveling, underwater hockey, hiking, scuba & free diving // [linkedin.com/in/louismariedelanglois/](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
+U.S. resident alien with work permit. LinkedIn profile : [linkedin.com/in/louismariedelanglois](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
+
+Enjoys reading, traveling, underwater hockey, hiking, scuba & free diving
