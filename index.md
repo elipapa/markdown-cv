@@ -13,9 +13,9 @@ title: Resume - Louis-Marie de Langlois
 > 111 Dover Road, West Hartford 06119 CT
 -->
 
-## Experience
+860-218-0821 - [lm.de.langlois@gmail.com](mailto:lm.de.langlois@gmail.com) - 111 Dover Road, West Hartford 06119 CT
 
-860-218-0821 | [lm.de.langlois@gmail.com](mailto:lm.de.langlois@gmail.com) | 111 Dover Road, West Hartford 06119 CT
+## Experience
 
 > 2015-2017
 
@@ -113,6 +113,6 @@ __French__ native speaker, fluent __English__, basic communication skills in __G
 
 ## Extra
 
-U.S. resident alien with work permit. LinkedIn profile : [linkedin.com/in/louismariedelanglois](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
+U.S. resident alien with work permit - LinkedIn profile : [linkedin.com/in/louismariedelanglois](https://linkedin.com/in/louismariedelanglois/?locale=en_US)
 
 Enjoys reading, traveling, underwater hockey, hiking, scuba & free diving
