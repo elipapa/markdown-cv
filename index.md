@@ -95,12 +95,12 @@ __Lycée Emile Zola__, Rennes, France
 -->
 ## Skills
 
-__Tools and certifications : analytics, testing and customer experience__
+__Tools and certifications : analytics, testing, customer experience and mailing__
 - Adobe Analytics (Omniture), Google Analytics (*GAIQ* in 2014)
 - IBM Analytics (*DMO Sales Mastery* in 2013)
 - AB Tasty (*AB Tasty certified Partner* in 2013), Visual Website Optimizer, Kameleoon
 - IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf CEM* in 2014)
-- UserReplay (*UserReplay Certification* in 2013)
+- UserReplay (*UserReplay Certification* in 2013), MailChimp & Mandrill
 
 __Full stack web development__
  - Server and client side scripting, database and server management - PHP, JavaScript & jQuery, SQL
