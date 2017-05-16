@@ -96,7 +96,7 @@ __Lycée Emile Zola__, Rennes, France
 ## Skills
 
 __Tools and certifications : analytics, testing, customer experience and mailing__
-- Adobe Analytics (Omniture), Google Analytics (*GAIQ* in 2014)
+- Adobe Analytics (Omniture), Google Analytics (*GAIQ* in 2013)
 - IBM Analytics (*DMO Sales Mastery* in 2013)
 - AB Tasty (*AB Tasty certified Partner* in 2013), Visual Website Optimizer, Kameleoon
 - IBM Tealeaf (*Technical Mastery* in 2013, *Certified Business Analyst - Tealeaf CEM* in 2014)
