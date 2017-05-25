@@ -1,0 +1,162 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+em {
+	font-weight: normal;
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end of reset */
+
+body {
+	font: normal normal 400;
+	font-size: 70%;
+	line-height: 1.5em;
+	font-family: Verdana,sans-serif;
+	margin: 5mm;
+	height: 259mm;
+	background: linear-gradient(to bottom, #53A6EE 25mm, white 25mm) no-repeat
+}
+
+div#content > p {
+	position: relative;
+	left: 15%;
+	width: 80%;
+}
+
+div#content > p + p {
+	margin-top: 1em;
+}
+
+div#content > p + ul {
+	margin-top: .5em;
+}
+
+div#content > ul + p, div#content > ul + blockquote + p, div#content > h2 + p, div#content > h2 + blockquote + p {
+	margin-top: 1.5em;
+}
+
+blockquote {
+	font: normal normal;
+	font-size: 1em;
+	white-space: nowrap;
+	position: absolute;
+	right: 0%;
+	width: 100px;
+	margin-top: 1.5em;
+}
+
+blockquote em {
+	color: #aaa;
+	font-style: normal;
+	display: block;
+	margin-top: .5em;
+}
+
+/*h1 + blockquote {
+	right: initial;
+	color: white;
+	line-height: 5mm;
+}
+
+h1 + blockquote + blockquote {
+	width: 250px;
+	color: white;
+	line-height: 5mm;
+}*/
+
+ul { 
+	position: relative;
+	left: 15%;
+	width: 80%;
+}
+
+li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}
+
+/*li ul {
+	position: relative;
+	left: 0;
+	margin-top: 0.25em;
+	margin-left: 1em
+}*/
+
+h1,h2,h3,h4 {
+	font-weight: 400;
+	font-family: Cousine,Verdana,sans-serif;
+}
+
+h1 {
+	text-align: left;
+	font-size: 3em;
+	line-height: 10mm;
+	margin-left: 15%;
+	margin-bottom: 3mm;
+	color: white;
+}
+
+h1 + p { 
+	position: relative;
+	right: 15%;
+	width: 80%;
+	margin-bottom: 2em;
+}
+
+h2 {
+	clear: both;
+	font-size: 1.4em;
+	position: relative;
+	top: 1.9em;
+}
+
+a {
+	color: inherit;
+	text-decoration:none
+}
