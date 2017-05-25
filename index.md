@@ -1,5 +1,5 @@
 ---
-layout: dover2
+layout: dover
 title: Resume - Louis-Marie de Langlois
 ---
 
