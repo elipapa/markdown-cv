@@ -5,14 +5,6 @@ title: Resume - Louis-Marie de Langlois
 
 # Louis-Marie de Langlois
 
-<!--
->U.S. resident alien<br/>
->Work permit
-
-> 860-218-0821 | [lm.de.langlois@gmail.com](mailto:lm.de.langlois@gmail.com)<br/>
-> 111 Dover Road, West Hartford 06119 CT
--->
-
 860-218-0821 - [lm.de.langlois@gmail.com](mailto:lm.de.langlois@gmail.com) - 111 Dover Road, West Hartford 06119 CT
 
 ## Experience
@@ -20,9 +12,9 @@ title: Resume - Louis-Marie de Langlois
 > 2015-2017
 
 __Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
-- developed and maintained the service's website, interfaces and database
+- developed from scratch a web service and maintained the service's website, interfaces and database
 - optimized the service based on web data and user experience analysis
-- built partnerships and contributed to business development
+- remotely grew the business over 2 years up to $80k revenue per year through SEO, Paid Search, Marketing Automation and Partnerships
 - valued the service, negociated the agreement of cession and closed a six-figure deal
 
 > 2013-2015
