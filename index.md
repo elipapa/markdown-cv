@@ -1,5 +1,5 @@
 ---
-layout: dover
+layout: dover2
 title: Resume - Louis-Marie de Langlois
 ---
 
@@ -11,11 +11,11 @@ title: Resume - Louis-Marie de Langlois
 
 > 2015-2017
 
-__Editioneo__, West Hartford CT, USA - Co-founder & CTO, legaltech service
-- developed from scratch a web service and maintained the service's website, interfaces and database
-- optimized the service based on web data and user experience analysis
-- remotely grew the business over 2 years up to $80k revenue per year through SEO, Paid Search, Marketing Automation and Partnerships
-- valued the service, negociated the agreement of cession and closed a six-figure deal
+__Editioneo__, West Hartford CT, USA - Co-founder & CTO, LegalTech service
+- passed a review by lawyers from Paris Bar Association and got the unofficial green light to launch a B2B, French LegalTech platform
+- launched and developed the web platform from scratch; technically maintained its website, interfaces and database
+- remotely grew the business over 2 years up to $80k revenue per year through SEO & Content Marketing, Paid Search, Marketing Automation and Partnerships
+- valued the service, found a buyer, negociated the agreement of cession and closed a six-figure deal
 
 > 2013-2015
 
@@ -33,15 +33,16 @@ __Stratorg__, Paris - Intern consultant, top management consulting firm
 > 2009-2011
 
 __Evadoc__, Paris - Co-founder & CTO, digital library
-- developed and maintained the service's website, interfaces and database
-- grew the service up to 200k visits and 400k pageviews per month
-- valued, negociated and sold the service to YouScribe - now the largest digital library in Europe
+- launched and developed a free digital library platform from scratch, while in business school
+- technically maintained its website, interfaces and database 
+- remotely grew the service over 2 years up to 200k visits and 400k pageviews per month, 100k subscribed users
+- valued the service, found a buyer, negociated and sold the service to YouScribe - now the largest digital library in Europe
 
 <!--
 > 2009
 
 __WordAppeal__, Paris, France - Freelance, online communications consulting agency
-- content integration in websites for top 40 quoted French companies
+- integrated approved content into test, pre-production and production websites for top 40 quoted French companies
 
 > 2008<br/>_3 months_
 
