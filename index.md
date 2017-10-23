@@ -1,18 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Peter LaValle's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Programmer, Software Engineer, Research Assistant.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="peter.lavalle@nottingham.ac.uk">peter.lavalle@nottingham.ac.uk</a>
+| <a href="http://peterlavalle.com">My Personal Blog</a>
 </div>
 
 
 ## Currently
 
+Research Programmer / Research Assistant for the ARIA and eMax projects under Dr Michel Valstar.
 Standing on the shoulders of giants
 
 ### Specialized in
@@ -22,70 +23,46 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+The role of tools and languages in Software Engineering.
 
+Bespoke languages for ????
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2002-2007`
+__Glasgow University__, BSc Computing Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2012-2013`
+__Sheffield Hallam University__, MSc Game Software ENgineering
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Jan 2015 - now`
+__University of Nottingham__, Research Programmer
 
-- Warden
-- Minted coins
+- iBit; Clinical trial of a 3D Stereoscopic Theraputic Game 
+- ARIA / eMax
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+`Jan 2013 - 2014`
+__On the Metal__, Tools Engineer
+
+????
+- iBit; Clinical trial of a 3D Stereoscopic Theraputic Game 
+- ARIA / eMax
+
+
+
+
+
+
+`Jan 2013 - 2014`
+__Games Masters__, Tools Engineer
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 19 October 2017 -->
 
 
