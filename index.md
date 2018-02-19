@@ -1,48 +1,50 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Spyros Simotas CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Spyros Simotas
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ss4ws@virginia.edu">ss4ws@virginia.edu</a>
+| <a href="https://ss4ws.github.io/lp/">Personal Page</a>
 </div>
 
 
-## Currently
+## EDUCATION
 
-Standing on the shoulders of giants
+`2013-(in progress)`
+__PhD in the Department of French at the University of Virginia__
 
-### Specialized in
+`2001-2002`
+__DEA (MA2) Texte, Imaginaire, Société, University Paris 8, Dissertation: Vies d’artistes dans l’oeuvre de Pierre Michon__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`1999-2000`
+__Maîtrise (MA1) Lettres Modernes, University Paris 8, Dissertation: L’invention de la biographie dans l’oeuvre de Pierre Michon__
 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+### RESEARCH INTERESTS
+- 20th & 21st Century French literature and Cultural Studies from the Revolution to present.
+- Digital Humanities, teaching with technology, e-portfolios in second language acquisition.
+- Visual Studies.
 
 
 
-## Awards
+
+## PUBLICATIONS
+
+### Scholarsphip
+`Forthcoming`
+“Entées par ordre alphabétique dans l’espace du dedans.” In _Contemporary French & Francophone Studies: Sites_, (Forthcoming)
+
+`2003`
+“Pierre Michon et la question de la filiation.” In _Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_, Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76
+
+### Fiction
+`2009`
+“Past Life.” In 19 new steps, The winning stories from the 2nd National Short Story Contest. Athens: Eleftheroudakis.
+
+
+### Awards
 
 `2012`
 President, *Royal Society*, London, UK
@@ -53,9 +55,8 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
