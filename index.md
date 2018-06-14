@@ -60,7 +60,8 @@ template](https://github.com/kjhealy/kjh-vita)
 
 <img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
 
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates right aligned
+- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
+  right aligned, authored by [David Whipp](https://davewhipp.github.io/markdown-cv/)
 
 <img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
 
