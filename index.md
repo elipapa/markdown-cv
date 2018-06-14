@@ -10,11 +10,11 @@ Tired of using LaTeX to make your CV look pretty? Can't remember how to set marg
 
 Write your CV like this...
 
-<img src="img/mdown.png" style="width: 50%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
 
 and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
 
-<img src="img/output.png" style="width: 50%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
 
 
 
@@ -34,7 +34,7 @@ adding your skills, jobs and education.
 
 To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
 
-## Using Github Pages to publish it online
+### 1) Using Github Pages to publish it online
 
 1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
 2. Create a new branch called `gh-pages` (which will then be a copy of master)
@@ -42,19 +42,33 @@ To transform your plain text CV into a beautiful looking HTML page and share it 
 
 Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-## Build it locally
+### 2) Build it locally
 1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
 2. Clone your fork on your computer
 3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
 4. You can edit the `index.md` file and see changes live in your browser.
 
-## Print the PDF
+## How do I print the PDF?
 Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
 
-### is this the only style available?
+## is this the only style available?
 
-For the moment, yes.
-The included CSS renders CV in a style inspired by [kjhealy's vita template](https://github.com/kjhealy/kjh-vita), but any styling is possible. Contributions and forks are welcome!
+The included CSS renders your CV in different styles:
+
+- `kjhealy` the original default, inspired by [kjhealy's vita
+template](https://github.com/kjhealy/kjh-vita)
+
+<img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+
+- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates right aligned
+
+<img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+
+To change the default style, one needs to simply change `site` the variable in the
+`_config.yml` file.
+
+Any other styling is possible. More CSS style contributions and forks are welcome!
+
 
 
 ### Author
