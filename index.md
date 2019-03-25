@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nick Sherefkin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nick Sherefkin
+Stanford graduate sociology student.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
