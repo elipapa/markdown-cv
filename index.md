@@ -6,46 +6,33 @@ title: Nick Sherefkin's CV
 Stanford graduate sociology student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a>
+| <a href="https://sociology.stanford.edu/people/nick-sherefkin">My sociology department page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Studying for PhD in sociology at Stanford
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Organizations, innovation, culture, economic excess and satiation.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017`
+__Relay Graduate School of Education,__ M.A.T.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2012`
+__Brown University__ B.A., Economics and Public Policy, magna cum laude
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2015 - 2017`
+New York City Teaching Fellow, New York, Fall 2015 – Summer 2017 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
@@ -86,6 +73,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2019 -->
 
 
