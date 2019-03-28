@@ -7,7 +7,7 @@ Stanford graduate sociology student.
 
 <div id="webaddress">
 <a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a>
-| <a href="https://sociology.stanford.edu/people/nick-sherefkin">My sociology department page</a>
+| <a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
 </div>
 
 
@@ -23,10 +23,10 @@ Organizations, innovation, culture, economic excess and satiation.
 ## Education
 
 `2017`
-__Relay Graduate School of Education,__ M.A.T.
+M.A.T., __Relay Graduate School of Education__ 
 
 `2012`
-__Brown University__ B.A., Economics and Public Policy, magna cum laude
+B.A., __Brown University__, Economics and Public Policy, *magna cum laude*
 
 
 ## Awards
