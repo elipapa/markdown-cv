@@ -34,7 +34,7 @@ Sherefkin, Nick. "Culture and Market Reproduction: The Evolution of Board Games 
 ## Work experience
 
 ### Research
-`2018-2019`
+`2018-19`
 __Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
 
 `2012-15`
@@ -48,7 +48,7 @@ __Teaching Assistant__, Stanford University, Stanford, CA
 SOC 202: Preparation for Senior Research; Instructor: Doug McAdam.
 SOC 114: Economic Sociology; Instructor: Mark Granovetter.
 
-`2015-2017`
+`2015-17`
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
 Facilitated over 1,000 hours of classroom time with a focus on learning through collaborative group work, structured discussion, and problem solving. Designed a 10th grade curriculum for math covering 9 units and over 160 lessons. Lessons were student-centered and emphasized mathematical inquiry and conceptual understanding. I also led 10th grade Inquiry Team, which sought to integrate acadermic research findings into pedagogical practice.
 
@@ -72,9 +72,10 @@ First-Year Representative, Association of Sociology Graduate Students, Stanford 
 
 ## Honors and awards
 
-`2015-2017`
+`2015-17`
 New York City Teaching Fellow, New York, NY
-`2015-2016`
+
+`2015-16`
 AmeriCorps Member, New York, NY
 
 <!-- ### Footer Last updated: March 2019 -->
