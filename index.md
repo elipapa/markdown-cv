@@ -8,18 +8,9 @@ Stanford graduate sociology student.
 <div id="webaddress">
 <a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | 802-376-1841
 </div>
+<div id="webaddress">
 <a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
-
-
-## Research interests
-
-Organizations, innovation, culture, economic excess and satiation.
-
-
-## Working papers <!--- Publications and working papers --->
-
-Sherefkin, Nick. "Culture and Market Reproduction: The Evolution of Board Games Since 1980."
-
+</div>
 
 ## Education
 
@@ -30,17 +21,27 @@ __M.A.T.__, Relay Graduate School of Education
 __B.A.__, Economics and Public Policy, *magna cum laude*, Brown University 
 
 
+## Research interests
+
+Innovation and culture inside organizations, economic excess and satiation.
+
+
+## Working papers <!--- Publications and working papers --->
+
+Sherefkin, Nick. "Culture and Market Reproduction: The Evolution of Board Games Since 1980."
+
+
 ## Work experience
 
 ### Research
 `2018-present`
 __Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
 
-`2012-2015`
+`2012-15`
 __Research Assistant in P-12 Policy__, MDRC, New York, NY
 
 ### Teaching
-`2018-2019`
+`2018-19`
 __Teaching Assistant__, Stanford University, Stanford, CA
 SOC 202: Preparation for Senior Research; Instructor: Doug McAdam.
 SOC 114: Economic Sociology; Instructor: Mark Granovetter.
@@ -52,6 +53,18 @@ __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
 ## Programming languages
 
 R, Python, STATA, and SAS
+
+
+## Service
+
+`2018-19`
+Co-Chair, Association of Sociology Graduate Students, Stanford University
+
+`2017-18` 
+Graduate Student Mentor, Stanford Undergraduate Research Association
+
+`2017-18` 
+First-Year Representative, Association of Sociology Graduate Students, Stanford University
 
 
 ## Honors and awards
