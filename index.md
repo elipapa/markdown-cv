@@ -7,72 +7,60 @@ Stanford graduate sociology student.
 
 <div id="webaddress">
 <a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a>
-| <a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
-</div>
+// <a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
+</div> // 802-376-1841
 
 
-## Currently
-
-Studying for PhD in sociology at Stanford
-
-### Research interests
+## Research interests
 
 Organizations, innovation, culture, economic excess and satiation.
+
+
+## Working papers <!--- Publications and working papers --->
+
+Sherefkin, Nick. "Culture and Market Reproduction: The Evolution of Board Games Since 1980."
 
 
 ## Education
 
 `2017`
-M.A.T., __Relay Graduate School of Education__ 
+__M.A.T.__, Relay Graduate School of Education
 
 `2012`
-B.A., __Brown University__, Economics and Public Policy, *magna cum laude*
+__B.A.__, Economics and Public Policy, *magna cum laude*, Brown University 
 
 
-## Awards
+## Work experience
 
-`2015 - 2017`
-New York City Teaching Fellow, New York, Fall 2015 – Summer 2017 President, *Royal Society*, London, UK
+### Research
+`2018-present`
+__Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
 
-Associate, *French Academy of Science*, Paris, France
+`2012-2015`
+__Research Assistant in P-12 Policy__, MDRC, New York, NY
 
+### Teaching
+`2018-2019`
+__Teaching Assistant__, Stanford University, Stanford, CA
+SOC 202: Preparation for Senior Research; Instructor: Doug McAdam.
+SOC 114: Economic Sociology; Instructor: Mark Granovetter.
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2015-2017`
+__High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
 
 
-## Occupation
+## Programming languages
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+R, Python, STATA, and SAS
 
 
+## Honors and awards
 
-<!-- ### Footer
+`2015-2017`
+New York City Teaching Fellow, New York, NY
+`2015-2016`
+AmeriCorps Member, New York, NY
 
-Last updated: March 2019 -->
+<!-- ### Footer Last updated: March 2019 -->
 
 
