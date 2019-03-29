@@ -7,9 +7,8 @@ Stanford graduate sociology student.
 
 <div id="webaddress">
 <a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | 802-376-1841
-
-<a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
 </div>
+<a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
 
 
 ## Research interests
