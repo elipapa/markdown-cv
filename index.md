@@ -34,11 +34,13 @@ Sherefkin, Nick. "Culture and Market Reproduction: The Evolution of Board Games 
 ## Work experience
 
 ### Research
-`2018-present`
+`2018-2019`
 __Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
 
 `2012-15`
 __Research Assistant in P-12 Policy__, MDRC, New York, NY
+Managed and analysed data for P-12 research projects studying topics ranging from the effectiveness of tiered reading intervention to trends in high school college-going behavior. During my time at MDRC, I led more instructional presentations at company-wide programmer forums than any other employee of comparable tenure. I worked on datasets containing up to 60 million records and hundreds of variables. One program I wrote replaced 143 programs written by three previous programmers.
+
 
 ### Teaching
 `2018-19`
@@ -48,6 +50,7 @@ SOC 114: Economic Sociology; Instructor: Mark Granovetter.
 
 `2015-2017`
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
+Facilitated over 1,000 hours of classroom time with a focus on learning through collaborative group work, structured discussion, and problem solving. Designed a 10th grade curriculum for math covering 9 units and over 160 lessons. Lessons were student-centered and emphasized mathematical inquiry and conceptual understanding. I also led 10th grade Inquiry Team, which sought to integrate acadermic research findings into pedagogical practice.
 
 
 ## Programming languages
