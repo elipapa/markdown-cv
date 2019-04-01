@@ -3,7 +3,7 @@ layout: cv
 title: Nick Sherefkin's CV
 ---
 # Nick Sherefkin
-Stanford graduate sociology student.
+Stanford sociology PhD student.
 
 <div id="webaddress">
 <a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | 802-376-1841
