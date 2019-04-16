@@ -66,6 +66,9 @@ R, Python, STATA, and SAS
 
 ## Service
 
+`2017-19`
+Teacher, Stanford Prison Education Program, Stanford University
+
 `2018-19`
 Co-Chair, Association of Sociology Graduate Students, Stanford University
 
