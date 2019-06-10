@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Connor Rothschild
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
