@@ -2,12 +2,12 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Matt Hazley
+<br>
+Senior Embedded Engineer specialising in IoT
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hello@matthazley.com">hello@matthazley.com</a>
+| <a href="http://matthazley.com">matthazley.com</a>
 </div>
 
 
@@ -15,77 +15,45 @@ Physicist, Mathematician, Cambridge professor.
 
 Standing on the shoulders of giants
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004 - 2009`
+__Queen's University, Belfast__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- MEng Electronic and Software Engineering [First Class Honours]
+- Thesis: ‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’
 
-- Sizar
+`2001 - 2003`
+__Portadown College, Portadown__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- A-Levels [Maths, Physics, Computing]
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2009`
+OpenFX Award for Engineering Software, *EEECS Faculty, Queen's University, Belfast*
 
-Associate, *French Academy of Science*, Paris, France
+## Occupation History
 
+### Dyson
+`2017-2019`
+__Senior Connectivity Research Engineer__, Bristol
 
+`2016-2017`
+__Advanced Firmware Engineer__, Malmesbury
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Brewbot
+`2015-2016`
+__Firmware Lead__, Belfast
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Sensata
+`2009 - 2013`
+__Lead Embedded Engineer__, Belfast
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
