@@ -3,34 +3,18 @@ layout: cv
 title: Erik Enbody's CV
 ---
 # Erik Enbody
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="erik.enbody@gmail.com">erik.enbody@gmail.com</a>
+| <a href="erikenbody.github.io">erikenbody.github.io</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
+`2018-`
 __The King's School, Grantham.__
 
-`June 1661 - now`
+`2013 - now`
 __Trinity College, Cambridge__
 
 - Sizar
