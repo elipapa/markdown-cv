@@ -12,7 +12,7 @@ title: Erik Enbody's CV
 ## Education
 
 `2018-`
-__The King's School, Grantham.__
+__Uppsala University__: Postdoctoral Researcher in Bioinformatics
 
 `2013 - now`
 __Trinity College, Cambridge__
