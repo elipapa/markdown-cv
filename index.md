@@ -5,7 +5,7 @@ title: Erik Enbody's CV
 # Erik Enbody
 
 <div id="webaddress">
-<a href="erik.enbody@gmail.com">erik.enbody@gmail.com</a>
+<a href="erik.enbody [at] gmail.com">erik.enbody@gmail.com</a>
 | <a href="erikenbody.github.io">erikenbody.github.io</a>
 </div>
 
