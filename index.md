@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Erik Enbody's CV
 ---
-# Isaac Newton
+# Erik Enbody
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
