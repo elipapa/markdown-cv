@@ -1,2 +1,7 @@
-markdown:   kramdown
-style:  kjhealy
+markdown: kramdown
+style: davewhipp
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

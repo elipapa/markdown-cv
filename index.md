@@ -1,88 +1,94 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: William Fish
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# William Fish
+Software Engineer
+![](/assets/img/WilliamFish.png)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="william.michael.fish@gmail.com">william.michael.fish@gmail.com</a>
+| <a href="https://wills.fish">Personal Site</a>
 </div>
 
 
-## Currently
+## Currently 
 
-Standing on the shoulders of giants
+Senior Software Engineer with 6 years experience in Insurance and Fintech startups
+specialising in telematics, behavioural profiling and e-commerce. I take a multidisciplined
+approach to solving technical problems and am happy to get my hands dirty building production-ready
+infrastructure in AWS, asynchronous pipelines, fully-tested RESTful APIs and simple frontends.
 
-### Specialized in
+I have production experience building products using Ruby, Rails, RSpec, Postgres, Redis, Terraform, Chef, Docker, AWS and Linux
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+I have personal experience of working with Elixir, Phoenix and Ecto.
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`January 2018 - now`
+__Senior Software Engineer__
+- MyDrive Solutions Ltd, London
+- _Responsibilities_
+  * Support and educate developers
+  * Mentor junior developers
+  * Speak with customers about integrations and requirements
+  * Consult with product owner on technical priorities in the backlog
+  * Razor focus on how refined work complements overarching business strategy
+  * Keep third party software up-to-date
+  * Make sure standups, refinements and retrospectives are effective
+- _Achievements_
+  * Shaved as much as 90% off of the time it takes to run unit tests
+  * Enabled first day commits for new developers by automating developer setup with docker-compose
+  * Drastically improved the redis memory needs of our asynchronous profiler 
+  * Standardised coding standards to speed up developer review process
+  * Helped SRE team migrate from Amazon EC2 to ECS, Codebuild and Codepipeline
 
-- Warden
-- Minted coins
+`January 2015 - January 2018`
+__Software Engineer__
+- MyDrive Solutions Ltd, London
+- _Responsibilities_
+  * Working in cross-functional teams to deliver product features
+  * Refining future work
+  * Writing unit, integration, acceptance and end-to-end tests
+  * Running standups, refinements and retrospectives
+- _Achievements_
+  * 100% code test coverage of all new code
+  * Rationalised and documented reporting service
+  * Defined and implemented entire end-to-end testing process to test changes to algorithms
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`July 2014 - January 2015`
+__Linux Systems Administrator__
+- MyDrive Solutions Ltd, London
+- _Responsibilities_
+  * Keeping the lights on
+  * Rolling new infrastructure services based on product need
+  * Out of hours support and pager rota
+- _Achievements_
+  * Implemented a process for validating map database changes
+  * Migrated all chef scripts to a more modular/easily maintained pattern
+
+`December 2013 - July 2014`
+__Linux Systems Administrator__
+- Powa Technologies Ltd, London
+- _Responsibilities_
+  * Maintaining infrastructure
+  * Resolving live issues
+  * Supporting developers
+- _Achievements_
+  * Migrating from manual to automated deployment processes
+
+## Education
+
+`2010 - 2011`
+__King's College London, London__, MSc Philosophy of Psychiatry (2.1)
+
+`2007 - 2009`
+__Swansea University__, BSc Psychology (2.1)
 
 
+## Interests
+
+- __Reading__, __Cycling__, __Walking__
 
 <!-- ### Footer
 
