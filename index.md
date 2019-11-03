@@ -11,78 +11,85 @@ Senior Infrastructure / DevOps Engineer.
 **GitHub**: [https://github.com/driosalido](https://github.com/driosalido)
 
 ## Profile 
-Senior-level infrastructure engineer with almost 20 years of experience in designing, implementing and managing IT infrastructure. DevOps since before it has a name for it.
+Senior-level infrastructure engineer with almost 20 years of experience in designing, implementing and managing IT infrastructure.
 
 ## Experience
 
 **Source{d}, Senior DevOps Engineer, Madrid-Remote** `December 2018 - Present`
 
-Design, implementation and maintenance of several Kubernetes clusters where to deploy online services and internal workflows for data retrieval and machine learning. Clusters are deployed in both bare metal servers and cloud infrastructure (GKE/AWS). Developing and maintaining all infra as infrastructure as code. Packaging apps using Helm. Pipelines for CI/CD using Travis and Jenkins.
+Designed, implemented and maintained the appropriate infrastructure where develop, test and deploy online services and internal workflows for data retrieval and machine learning teams. 
 
-Main technologies used: Kubernetes, Docker, GlusterFS, Jenkins, Terraform, Helm, GitHub, Python, Bash, Prometheus, Grafana, Kibana, CoreOS, Operator Framework, Ansible, PostgreSQL, MySQL, AWS, Travis, Jenkins. 
+Fully automation of infrastructure using Ansible and a stack of Terraform and Helm for the Kubernetes clusters. Packaged our deployments writing helm charts. Automated of bare-metal provisioning using Matchbox and Ignition. All our infrastructure was declared using code.
+
+Created and maintained a fully automated CI/CD pipelines for code deployment using Travis and Drone.
+
+Deployed Kubernetes monitoring using Prometheus, Grafana, ElasticSearch and Kibana. 
+
+Main technologies used: Kubernetes, Docker, GlusterFS, Jenkins, Terraform, Helm, Python, Bash, Prometheus, Grafana, Kibana, CoreOS, Operator Framework, Ansible, PostgreSQL, MySQL, AWS, Travis, Jenkins, Spark. 
 
 **Qindel, Senior Infrastructure Engineer and Technical Lead, Madrid** `December 2007 - December 2018`
 
-High I.T level implementation and project leading for different projects
+Involved in the design, implementation and project leading for different business-critical platforms projects for Vodafone Spain.
+Requirements analysis with the client to define the best architecture and technologies involved. Design and technical implementation of the solution.
+Continuous tracking with the client the phases of the project.
+Designed and implemented automating, packing and monitoring for every project. 
+Provide second and third-level support to all the production environments.
 
-- Technical Lead of the “Vodafone en tu Casa” and “Vodafone Access Gateway” service master platforms for Vodafone Spain.
-- Technical Lead of the Address Normalization and Geolocalitation Plattform for Vodafone Spain. Design and Implementation of the Migration to a Big Data Oriented Arquitecture decreasing data processing time by 1000%.
-- System Engineer and Developer of the Migration of geo-localization platform from and LDAP backend based proprietary solution to a MySQL – Perl open source solution
-- System Engineer and Developer of a Platform to provision benefits to prepaid customers, built using custom and extendable rules engine and a queue, as workflow and external system interaction was requested.
-- System Engineer and Developer for the Gateway platform to provision ADSL to users for Vodafone Spain.
-The following responsibilities have been held:
-- Requirements analysis and involvement in the definition of the global product, analysing and offering the best solutions to the problems set by and in the customer with cost, scalability and delivery at the forefront of the propositions
-- Design and architecture of business critical platforms
-- Successful commercial launch of products, within strict time-lines and complying with the customer requirements.
-- Providing advise and leading new products and projects.
-- RFI and RFP answers and proposals creation.
-- Provide second and third level support to all the production environments.
+Main projects and responsibilities held: 
 
-Technologies used: Solaris, Red Hat Enterprise Linux, Suse Linux, VMWare ESX, KVM/QEMU,Pacemaker Cluster, DRBD, MySQL Cluster, MySQL, Sun Directory Server, Perl, Python, Nagios, LogStash, ELK, Graphite, Apache, Tomcate, Hadoop, HDFS, Hive, Oozie. 
+- Technical lead of the “Vodafone en tu Casa” and “Vodafone Access Gateway” service master platforms for Vodafone Spain. The project allows fixed-line service through mobile devices providing a geolocation dependant billing. (Technologies: Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, Tomcat, Apache, NFS, ELK stack, Graphite, Grafana)
+
+- Technical lead of the address normalization and geolocation platform for Vodafone Spain. Migrated the platform from and LDAP backend based proprietary solution to a MySQL – Perl open source solution. Designed and Implemented the data ingestion to a Big Data oriented architecture 100 times faster. (Technologies: Oracle Linux, MySQL, Tomcat, Hadoop, HDFS, Hive, Pig, Oozie, Spark, Graphite, Grafana, LDAP)
+
+- System engineer and developer for an MMS and MMS Gateway and Filtering platform (Technologies: Suse Enterprise Linux, MongoDB, Perl, Python, nginx, Sendmail, ELK stack, Beanstalkd, Redis, API REST, Graphite, VMWare)
+
+- System engineer and developer for a promotions management platform to provide benefits to top-up subscribers. Built using a custom and extendable rules engine (Technologies: Oracle hardware, Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, ELK stack, Graphite)
+
+- System engineer and developer for an integration platform between provisioning systems of ADSL products. (Technologies: Solaris 10, Solaris Zones, MySQL Cluster, Perl, Apache, Cacti, Net-SNMP)
 
 **Vodafone, Integration/Support Systems Engineer, Newbury(UK)** `June 2006 - December 2007`
 
-First working in the Vodafone Live! Integration department. My job involved deploying applications into preproduction and then launching them on live. Also fixing several day*to-day problems on the live! platform, and developing scripts to improve the routine tasks.
+As part of the Vodafone Live! Integration department. My job involved deploying applications into preproduction and then launching them on live. Fixed several day-to-day problems on the live! platform, and implemented and developed tools to automatize and improve the routine tasks.
 
-Then as part of the Vodafone Live! Portal Support Team as the Unix systems specialist. My work involves supporting a wide range of production systems as well as supporting the live applications running on them.
+Later as part of the Vodafone Live! Portal Support Team as the Unix systems specialist. My work involved supporting a wide range of production systems as well as supporting the critical live applications running on them.
 
-Main technologies used: Perl, Bash, RPM packaging, Linux, Solaris, Apache, Tomcat, Jboss, Weblogic, Oracle Database, Helix Streaming Servers, SNMP, Cacti, HA.
+Main technologies used: Perl, Bash, RPM packaging, Linux, Solaris, Apache, Tomcat, Jboss, Weblogic, Oracle Database, Helix Streaming Servers, SNMP, Cacti, CDR Billing systems.
 
 **Telefónica Data, Senior Consultant in Unix environment, Madrid** `April 2006 - June 2006`
 
-Responsible of the Unix environment of all the intranet and external sites of TELEFONICA. Involved in the planning, configuration, management and support of all enviroments in high availability.
+Responsible for the Unix environment of all the intranet and external sites of TELEFONICA. Involved in the planning, configuration, management and support of all high-availability environments.
 
 Main technologies used: Solaris, Veritas Volume Manager, Veritas Cluster, Weblogic, Jboss, Sun One, Netscape Messaging Server, Netscape Directory Server, Oracle Database. 
 
 **CESTEL, Systems and Network Administrator / Lead, Madrid** `March 2001 - April 2006`
 
-In charge of planning, evolving and managing the systems and network infrastructure. Providing IT solutions to clients and offering support - both internally within the company, and externally to clients.
+Responsible for designing, implementing and managing the systems and networks company infrastructure. Providing IT solutions to clients and offering support - both internally within the company, and externally to clients.
 
-Evolved to Lead of infrastructure department [FIXME] in charge of one person. Focusing on consulting services to clients to design, implement and support solutions based on infrastructure systems and networks.
+Evolved to lead of infrastructure department in charge of one person. Focused on consulting services to external clients to design, implement and support solutions based on infrastructure systems and networks.
 
 Main technologies used: Solaris, Linux, Windows NT/200, Active Directory, Open LDAP, Netfilter firewalls, VPN, network infrastructure, PHP, Perl, Bash, Postfix, Qmail, Apache, SQL Server, MySQL.
 
 **TIREA, Data processing centre operator, Madrid** `June 2000 - November 2000`
 
-Support and management of the Data Proccessing Centre infrastructure (systems,networks,monitoring,backup, batch processes, etc). Telephone support to external and internal users.
+Supported and managed the Data Processing Centre infrastructure (systems, networks, monitoring, backup, batch processes, etc) running critical-business processes for the insurance sector. Provided telephone support to external and internal users.
 
 Main technologies used: Solaris, Windows NT, OpenView, Veritas Backup, EDI communications. 
 
-## Non industry experience
+## Non-industry experience
 
 **Savia Joven (Sociedad Cooperativa), Founder and Chairman** `January 2004 - January 2013`
 
 House building cooperative project based on private initiative of a group of young residents of Rivas-Vaciamadrid to promote the construction of housing oriented to young residents of the municipality.
 
-The project was successfully completed with the construction of 170 homes well below market price.
-I was one of the founders of the project and was elected two times (4 years periods) as the Chairman of the Governing Council.
+The project was completed with the construction of 170 homes well below market price.
+I was among the founders and I was elected two times (4 years periods) as the Chairman of the Governing Council.
 
-My main goal as the chairman of the council was to manage whole project from the beginning to the final 170 homes delivery. I had to take key decisions, monitor the budget (25 Million €), and report the results annually in public to the 170 members.
+My main goal as the chairman of the council was to manage the whole project from the beginning to the final 170 homes delivery. I took key decisions, monitored the budget (25 Million €), and reported the results annually in public to the rest of the members.
 
 ## Education
 
 `1996-2001` **Universidad Pontificia de Salamanca, Madrid**  
-Completed first 3 years of master’s engineering degree in Computer Science.
+Completed the first 3 years of master’s engineering degree in Computer Science.
 
 ## Courses and Certifications
 
@@ -107,4 +114,4 @@ Boardgames, 3D printing, Mountain biking, Home automation.
 
 <!-- ### Footer
 
-Last updated: October 2019 -->
+Last updated: November 2019 -->
