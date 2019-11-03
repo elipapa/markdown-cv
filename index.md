@@ -5,9 +5,9 @@ title: David Riosalido's CV
 # David Riosalido
 Senior Infrastructure / DevOps Engineer.
 
-**Email**: [driosalido@gmail.com](mailto:driosalido@gmail.com) \
-**Telephone**: [(+34) 650 428 768](tel:+34650428768) \
-**Location**: Madrid, Spain \
+**Email**: [driosalido@gmail.com](mailto:driosalido@gmail.com)  
+**Telephone**: [(+34) 650 428 768](tel:+34650428768)  
+**Location**: Madrid, Spain  
 **GitHub**: [https://github.com/driosalido](https://github.com/driosalido)
 
 ## Profile 
