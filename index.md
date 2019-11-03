@@ -37,15 +37,15 @@ Provide second and third-level support to all the production environments.
 
 Main projects and responsibilities held: 
 
-Technical lead of the “Vodafone en tu Casa” and “Vodafone Access Gateway” service master platforms for Vodafone Spain. The project allows fixed-line service through mobile devices providing a geolocation dependant billing. (Technologies: Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, Tomcat, Apache, NFS, ELK stack, Graphite, Grafana)
+-Technical lead of the “Vodafone en tu Casa” and “Vodafone Access Gateway” service master platforms for Vodafone Spain. The project allows fixed-line service through mobile devices providing a geolocation dependant billing. (Technologies: Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, Tomcat, Apache, NFS, ELK stack, Graphite, Grafana)
 
-Technical lead of the address normalization and geolocation platform for Vodafone Spain. Migrated the platform from and LDAP backend based proprietary solution to a MySQL – Perl open source solution. Designed and Implemented the data ingestion to a Big Data oriented architecture 100 times faster. (Technologies: Oracle Linux, MySQL, Tomcat, Hadoop, HDFS, Hive, Pig, Oozie, Spark, Graphite, Grafana, LDAP)
+-Technical lead of the address normalization and geolocation platform for Vodafone Spain. Migrated the platform from and LDAP backend based proprietary solution to a MySQL – Perl open source solution. Designed and Implemented the data ingestion to a Big Data oriented architecture 100 times faster. (Technologies: Oracle Linux, MySQL, Tomcat, Hadoop, HDFS, Hive, Pig, Oozie, Spark, Graphite, Grafana, LDAP)
 
-System engineer and developer for an MMS and MMS Gateway and Filtering platform (Technologies: Suse Enterprise Linux, MongoDB, Perl, Python, nginx, Sendmail, ELK stack, Beanstalkd, Redis, API REST, Graphite, VMWare)
+-System engineer and developer for an MMS and MMS Gateway and Filtering platform (Technologies: Suse Enterprise Linux, MongoDB, Perl, Python, nginx, Sendmail, ELK stack, Beanstalkd, Redis, API REST, Graphite, VMWare)
 
-System engineer and developer for a promotions management platform to provide benefits to top-up subscribers. Built using a custom and extendable rules engine (Technologies: Oracle hardware, Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, ELK stack, Graphite)
+-System engineer and developer for a promotions management platform to provide benefits to top-up subscribers. Built using a custom and extendable rules engine (Technologies: Oracle hardware, Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, ELK stack, Graphite)
 
-System engineer and developer for an integration platform between provisioning systems of ADSL products. (Technologies: Solaris 10, Solaris Zones, MySQL Cluster, Perl, Apache, Cacti, Net-SNMP)
+-System engineer and developer for an integration platform between provisioning systems of ADSL products. (Technologies: Solaris 10, Solaris Zones, MySQL Cluster, Perl, Apache, Cacti, Net-SNMP)
 
 **Vodafone, Integration/Support Systems Engineer, Newbury(UK)** `June 2006 - December 2007`
 
@@ -61,7 +61,7 @@ Responsible for the Unix environment of all the intranet and external sites of T
 
 Main technologies used: Solaris, Veritas Volume Manager, Veritas Cluster, Weblogic, Jboss, Sun One, Netscape Messaging Server, Netscape Directory Server, Oracle Database. 
 
-**CESTEL, Systems and Network Administrator / Lead, Madrid** `March 2001 - April 2006`
+**CESTEL, Systems and Network Administrator / Lead of Infrastructure, Madrid** `March 2001 - April 2006`
 
 Responsible for designing, implementing and managing the systems and networks company infrastructure. Providing IT solutions to clients and offering support - both internally within the company, and externally to clients.
 
