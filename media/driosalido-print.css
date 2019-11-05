@@ -168,9 +168,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	/*color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 90%;*/
 }
 
 #webaddress a {
