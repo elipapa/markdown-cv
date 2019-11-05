@@ -15,3 +15,4 @@ bundle exec jekyll serve > jekyll.log 2>&1 &
 ```
 
 You can access the CV via http://127.0.0.1:4000/ and generate a PDF through your OS PDF printer.
+Or you can access the online version via github-pages in https://driosalido.github.io/cv
