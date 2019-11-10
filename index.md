@@ -35,7 +35,7 @@ OpenFX Award for Engineering Software Excellence, *EEECS Faculty, Queen's Univer
 C, Python, C++  
 <br>
 `Technologies`
-RF Coding/Decoding, UART/SPI/I2C, TCP/UDP, RTOS(µC, FreeRTOS), M2M(MQTT/CoAP), Protocol Design & Implementation, Wi-Fi Connectivity, Bluetooth Low Energy, Mesh Technologies(Bluetooth Mesh, Thread), Low Power Design, Boot Loaders, Multi-Threaded Design, DSP Filtering, Agile/SCRUM  
+RF Coding/Decoding, UART/SPI/I2C, TCP/UDP, RTOS(µC, FreeRTOS), M2M(MQTT/CoAP), Protocol Design & Implementation, Wi-Fi Connectivity, Bluetooth Low Energy, Mesh Technologies(Bluetooth Mesh, Thread), Smart-Home, Low Power Design, Boot Loaders, Multi-Threaded Design, DSP Filtering, Agile/SCRUM  
 <br>
 `Tools`
 Git, IAR, GCC/GDB, Valgrind, Docker, Balena.io, Wireshark, Arbitrary Waveform Generator, Oscilloscope, Logic Analyser, Spectrum Analyser, Soldering Iron
@@ -52,7 +52,7 @@ This involves working with Bluetooth, WiFi and Mesh Technologies across multiple
 
 My role often involves working closely with both technical and non-technical people to ensure that features are shaped within the confines of available technology, and to this point, I would often operate as a Technical Product Owner to assist in bringing a proposition to realisation. 
 
-This role also requires that I carry out research into new technologies and concepts, and to date, this has allowed me to explore such things as mesh technologies (Thread, Bluetooth Mesh), BlueZ (the ever evolving Linux Bluetooth Stack), LPWAN (LTE-M, NB-IoT) and Docker on Embedded Linux platforms. 
+This role also requires that I carry out research into new technologies and concepts, and to date, this has allowed me to explore such things as mesh technologies (Thread, Bluetooth Mesh), BlueZ (the ever evolving Linux Bluetooth Stack), LPWAN (LTE-M, NB-IoT), Apple HomeKit and Docker on Embedded Linux platforms. 
 
 <br>
 `2016-2017`
