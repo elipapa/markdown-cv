@@ -1,19 +1,18 @@
-markdown-cv
-===========
+# markdown-cv
 
-A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
+A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
-For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
 ***
 
-## Usage
+## Customization
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
 
 ![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
 ![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
@@ -21,43 +20,43 @@ adding your skills, jobs and education.
 
 ![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+## Distribution
 
-## 1) Using Github Pages to publish it online
+To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
+### I. Use Github Pages to publish it online
+
+1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
+2. Create a new branch called `gh-pages`.
 3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
 
 Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
+### II. Build it locally and print a PDF
 
-## 2) Build it locally and print a PDF
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
+1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
+3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
+3. Type `jekyll serve` to render your CV at http://localhost:4000.
+4. You can edit the `index.md` file and see the changes live in your browser.
+5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
+## Styling
 
-### Change the style
+The included CSS will render your CV in two styles:
+s
+1. `kjhealy` the original default, inspired by [kjhealy's vita
+template](https://github.com/kjhealy/kjh-vita).
+2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
+  right aligned.
 
-The included CSS renders CV in different styles:
-
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned
-
-To change the default style, one needs to simply change the variable in the
+To change the default style, simply change the variable in the
 `_config.yml` file.
 
 Any other styling is possible. More CSS style contributions and forks are welcome!
 
-
 ### Author
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
