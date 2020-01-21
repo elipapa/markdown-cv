@@ -7,20 +7,17 @@ Informatics Engineer, Psychotherapist, Writer.
 
 <div id="webaddress">
 <a href="adolforamirez@gmail.com">adolforamirez@gmail.com</a>
-| <a href="https://medium.com/@adolforismos">My site in English</a>
+| <a href="https://adolforismos.com">Website</a>
 </div>
 
 
 ## Currently
 
-Design, development, and execution of plans and formation of teams from zero to one in research and operational areas.
-Broad knowledge of information and communications technologies.
-Passion for research and study of human behavior in the broad sense of the term, based on facts and data.
+Design, development, and execution of plans and formation of teams from zero to one in research and operational areas. • Broad knowledge of information and communications technologies. • Passion for research and study of human behavior in the broad sense of the term, based on facts and data.
 
 ### Specialized in
 
-- Specialized in the measurement and research of audiences and costumers oriented to decision making.
-- Intelligence and creativity applied to the optimization of methods and processes as well as the design of new ones.
+Research and measurement of audiences and costumers oriented to decision making. • Intelligence and creativity applied to the optimization of methods and processes as well as the design of new ones.
 
 
 ### Areas of expertise
@@ -29,31 +26,31 @@ Executive and Operative • Media and Audience Specialist • Corporative Commun
 
 ## Professional experience
 
-'2017 to date'
+'2017-`
 __apparatum.wyz__
 - Software development, digital marketing, IT consultancy.   
 
-'2016 to date'
+'2016-`
 __Universidad Innova__
 - Consultant and adviser in IT and digital marketing.
 
-'2013 to date'
+'2013-`
 __HN Consultores Educativos__
 - Consultant, adviser and researcher in IT for Higher Education.
 
-'2015-17'
+'2015-17`
 __Nyx, Software y Tecnología__
 - Project Manager; Operation’s Manager
 
-'2014'
+'2014`
 __Sistema Público de Radiodifusión del Estado Mexicano__
 - TV Audiences Consultant
 
-'2003-2012'
+'2003-2012`
 __TV Azteca - Proyecto 40__
 - Audience Manager; Director of Programming and Audience
 
-'2001-04'
+'2001-04`
 __Audience Research and Measurement__
 Training  Manager; Chief process Officer
 
@@ -82,15 +79,15 @@ __Facultad de Filosofía y Letras de la UNAM__
 
 ### Web
 
-`2019 to date`
-__ UX Collective__
-UX Design, UX Writing
+`2019-`
+__UX Collective__
+- UX Design, UX Writing
 
-`2018 to date`
+`2018-`
 __medium.com__ 
 - medium.com/@adolforismos
 
-`2015 to date`
+`2015-`
 __Micromeditaciones__
 - Newsletter, reflexions, stories, to change your reality
 
@@ -106,7 +103,7 @@ __La Carta Dialéctica__
 
 
 ### Podcast
-`2012 to date`
+`2012-`
 __meditacionpsicoterapeutica.com__
 - Podcast and articles about psychotherapy, neuroscience, mindfulness, and psychology
 
