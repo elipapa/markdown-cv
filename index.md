@@ -1,91 +1,70 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+--- 
+layout: cv title: Sean Lo's CV
+--- 
+
+# Sean Lo 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="shon4081@gmail.com">shon4081@gmail.com</a> | <a href="shon4081@gmail.com">Email</a>
 </div>
 
+<div id="webaddress">
+<a href="510-386-8647">510-386-8647</a> | <a href="510-386-8647">Phone</a>
+</div>
 
 ## Currently
-
-Standing on the shoulders of giants
+Actively seeking a career as a Software Engineer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Full-Stack Web Development & Cloud Deployment
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2019` 
+__Oregon State University__
+- B.S Computer Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013 - 2017`
+__University of California, Riverside__
+- B.A Business Economics   
 
-- Sizar
+## Skills/Tools  
+- C++, Python, JavaScript, HTML, CSS, SQL, 
+- AWS, ReactJS, Git, Unix/Linux, Node.js, jQuery, Django   
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Professional Experiences  
+`2017` 
+__Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
+- Designed, developed and tested optimal cross-platform method for client’s product 
+- Researched and implemented Java Native Access (JNA) which provided direct mapping from C++ to Java 
+- Collaborated with various teams in managing project priorities, deadlines and deliverables. 
+- Reduced system development life cycle by ten times by eliminating the need to call over-head  
 
-- Fellow
+## Work Experiences  
+`2018 - Current` __Barista, *Philz Coffee*__, Fremont, CA  
+- Provided consistent excellent and reliable customer service 
+- Communicated effectively with the team and upheld an open work environment 
+- Deliver excellence in customer service and ensure quality and attention for each guest 
+- Build a culture of warmth, positivity and human connection with the community  
 
+`2018 - Current` __Tutor, *Giraffe Learning Center*__, Fremont, CA  
+- Tutor fourth-graders in Mathematics, English and Science 
+- Assist teacher in correcting homework and practice packets 
+- Provide support in running the class  
 
+## Personal Project  
 
-## Awards
+`2019` __Capstone Project : Study-Seat__  
+- Designed and deployed a web-based application that allows users to locate study groups and meetings hosted using AWS 
+- Utilized HTML/CSS/Typescript for Front End and Node.js for Back End 
+- Invoked third-party API (Google-Geo-Location) and React.js for building user interface 
 
-`2012`
-President, *Royal Society*, London, UK
+`2019` __CoffeeChat__  
+- Utilized Python and Django to create a dynamic forum/blog that connects individuals with the options to join groups 
+- Deployed and hosted on Amazon Web Service with added certification for secuirty 
+- Delivered product with my team using Agile process and Trello for task management
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2018` __Hackathon: Hacking for Humanity__  
+- Designed, coded and implemented a fully functional modern website with database utilizing knowledge of both front-end and back-end. 
+- Implemented Google Maps API to provide an interactive map with search tools. <!-- ### Footer
