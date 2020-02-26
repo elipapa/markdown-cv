@@ -68,4 +68,6 @@ __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA
 
 `2018` __Hackathon: Hacking for Humanity__  
 - Designed, coded and implemented a fully functional modern website with database utilizing knowledge of both front-end and back-end. 
-- Implemented Google Maps API to provide an interactive map with search tools. <!-- ### Footer
+- Implemented Google Maps API to provide an interactive map with search tools. 
+
+<!-- ### Footer
