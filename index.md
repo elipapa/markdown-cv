@@ -54,7 +54,7 @@ __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA
 - Assist teacher in correcting homework and practice packets 
 - Provide support in running the class  
 
-## Personal Project  
+## Personal Projects
 
 `2019` __Capstone Project : Study-Seat__  
 - Designed and deployed a web-based application that allows users to locate study groups and meetings hosted using AWS 
