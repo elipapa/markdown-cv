@@ -6,11 +6,11 @@ title: Sean Lo's CV
 # Sean Lo 
 
 <div id="webaddress">
-<a href="shon4081@gmail.com"> </a> | <a href="shon4081@gmail.com">shon4081@gmail.com |510-386-8647 </a>
+<a href="shon4081@gmail.com"> </a> <a href="shon4081@gmail.com">shon4081@gmail.com |510-386-8647 </a>
 </div>
 
 <div id="webaddress">
-<a href="510-386-8647"> </a> | <a href="510-386-8647">Linkedin.com/in/syranol | Github.com/syranol</a>
+<a href="510-386-8647"> </a> <a href="510-386-8647">Linkedin.com/in/syranol | Github.com/syranol</a>
 </div>
 
 ## Currently
