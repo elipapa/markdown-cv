@@ -31,7 +31,7 @@ __University of California, Riverside__ *B.A Business Economics* GPA 3.5/4.0
 ## Professional Experiences  
 `Jun. - Sep. 2018` 
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
--
+- ` `
 - `-` Designed, managed, and maintained tools to automate and optimize software
 - `-` Researched and implemented JNA which reduced SDLC by 80%
 by voidng the need for boilerplates
@@ -42,7 +42,7 @@ by voidng the need for boilerplates
 
 `Nov. 2019` 
 __Capstone Project : Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> Project </a>
-
+- ` `
 - `-`In an agile-development team of 3, developed an application that allows users to locate and organize study groups.
 - `-`Invoked and implemented Google-Geo-Location's API and Auth0's API and React.js for building user interface 
 - `-`Developed the functions of sign-up/login, search, join groups 
@@ -51,13 +51,13 @@ __Capstone Project : Study-Seat__  <a href="https://github.com/syranol/Study-Sea
 
 `Apr. 2018` 
 __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> Presentation </a>
--
+- ` `
 - `-`Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers. 
 - `-`Implemented Google Maps API to provide an interactive map with search tools 
 - `-`Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
 
 `Aug. 2019` __CoffeeChat__  
--
+- ` `
 - `-`Created a dynamic forum/blog that connects individuals with the options to join groups 
 - `-`Deployed and hosted on Amazon Web Service with added certification for secuirty 
 - `-`Delivered product with my team using Agile process and Trello for task management
@@ -65,12 +65,12 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 
 ## Work Experiences  
 `Aug. - Current` __Barista, *Philz Coffee*__, Fremont, CA  
--
-- `-`Communicated effectively with the team and upheld an open work environment
-- `-`Build a culture of warmth, positivity and human connection with the community  
+-` `
+-`-`Communicated effectively with the team and upheld an open work environment
+-`-`Build a culture of warmth, positivity and human connection with the community  
 
 `Jan. 2018 - Current` __Tutor, *Giraffe Learning Center*__, Fremont, CA  
--
+- ` `
 - `-` Provided mentorship and tutoring service that lead to increased performance average
 - `-` Planned and oversaw diverse range of activities and projects
 
