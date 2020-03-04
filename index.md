@@ -31,8 +31,8 @@ __B.A Business Economics__   University of California, Riverside | GPA 3.5/4.0
 - __Development:__ AWS, React.js, Node.js, Git, Unix/Linux, Django   
 
 ## Professional Experience  
-`Jun. 2018 -
- Sep. 2018` 
+`Jun. 2019 -
+ Sep. 2019` 
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
 
 - `-` Designed, managed, and maintained tools to automate and optimize software
