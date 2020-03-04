@@ -8,6 +8,11 @@ title: Sean Lo's Resume
 ## shon4081@gmail.com | 510-386-8647
 
 <div id="webaddress">
+<a href="https://www.linkedin.com/in/syranol">Linkedin.com/in/syranol</a>
+| <a href="https://github.com/syranol">Github.com/syranol</a>
+</div>
+
+<div id="webaddress">
 </a> <a href="510-386-8647">Linkedin.com/in/syranol | Github.com/syranol</a>
 </div>
 
