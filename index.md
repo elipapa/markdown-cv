@@ -44,7 +44,7 @@ and omitting the need for boilerplates
 ## Personal Projects
 
 `Nov. 2019` 
-__Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"><font color="blue"> Project </a>
+__Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"</a> ><font color="blue"> Project 
 
 - `-` Collaborated in an agile-development team of three people to develope an application that allows users to locate and organize study groups
 - `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
@@ -60,7 +60,7 @@ __CoffeeChat__
 - `-` Utilized HTML, CSS, and JavaScript for front-end and python and Django for back-end
 
 `Apr. 2018` 
-__Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"><font color="blue"> Presentation </a>
+__Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"><font color="blue"> </a> Presentation
 
 - `-` Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers 
 - `-` Implemented Google Maps API to provide an interactive map with search tools 
