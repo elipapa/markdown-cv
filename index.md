@@ -34,7 +34,7 @@ __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA
 - ` `
 - `-` Designed, managed, and maintained tools to automate and optimize software
 - `-` Researched and implemented JNA which reduced SDLC by 80%
-by voiding the need for boilerplates
+by omitting the need for boilerplates
 - `-` Participated in planning and integration of infrastructure on Amazon Web Service
 - `-` Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
 
@@ -52,7 +52,7 @@ __Capstone Project : Study-Seat__  <a href="https://github.com/syranol/Study-Sea
 `Apr. 2018` 
 __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> Presentation </a>
 - ` `
-- `-`Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers. 
+- `-`Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers 
 - `-`Implemented Google Maps API to provide an interactive map with search tools 
 - `-`Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
 
