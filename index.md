@@ -42,17 +42,6 @@ by voidng the need for boilerplates
 - `-` Participated in planning and integration of infrastrcture on Amazon Web Service
 - `-` Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
 
-## Work Experiences  
-`Aug. - Current` __Barista, *Philz Coffee*__, Fremont, CA  
-
-- `-`Communicated effectively with the team and upheld an open work environment
-- `-`Build a culture of warmth, positivity and human connection with the community  
-
-`Jan. 2018 - Current` __Tutor, *Giraffe Learning Center*__, Fremont, CA  
-
-- `-` Provided mentorship and tutoring service that lead to increased performance average
-- `-` Planned and oversaw diverse range of activities and projects
-
 ## Personal Projects
 
 `Nov. 2019` __Capstone Project : Study-Seat__ <div id="webaddress"> <a href="https://github.com/syranol/Study-Seat"> Project</a> </div> 
@@ -72,3 +61,15 @@ by voidng the need for boilerplates
 - `-`Deployed and hosted on Amazon Web Service with added certification for secuirty 
 - `-`Delivered product with my team using Agile process and Trello for task management
 - `-`Utilized HTML, CSS and JavaScript for front-end and python and Django for back-end
+
+## Work Experiences  
+`Aug. - Current` __Barista, *Philz Coffee*__, Fremont, CA  
+
+- `-`Communicated effectively with the team and upheld an open work environment
+- `-`Build a culture of warmth, positivity and human connection with the community  
+
+`Jan. 2018 - Current` __Tutor, *Giraffe Learning Center*__, Fremont, CA  
+
+- `-` Provided mentorship and tutoring service that lead to increased performance average
+- `-` Planned and oversaw diverse range of activities and projects
+
