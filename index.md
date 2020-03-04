@@ -55,17 +55,18 @@ by voidng the need for boilerplates
 
 `Nov. 2019` __Capstone Project : Study-Seat__  
 - `-`In an agile-development team of 3, developed an application that allows users to locate and organize study groups.
-- `-`Utilized HTML/CSS/Typescript for Front End and Node.js for Back End 
-- `-`Invoked third-party API (Google-Geo-Location) and React.js for building user interface 
-- `-`Developed the functions of sign-up/login, search bar, and apple’s profile page using Android SQLite Database queries with data imported from an external source of 40 entries. 
+- `-`Invoked and implemented Google-Geo-Location's API and Auth0's API and React.js for building user interface 
+- `-`Developed the functions of sign-up/login, search, join groups 
+- `-`Deployed,hosted and certified project on AWS's EC2, complete with database access and elastic load balancing. 
+- `-`Utilized HTML, CSS and Typescript for front-end and Node.js for back-end development
 
+`Apr. 2018` __Hackathon: Hacking for Humanity__  
+- `-`Designed and implemented a fully functional modern web application to bridge the gap between on-profit organizations and potential volunteers. 
+- `-`Implemented Google Maps API to provide an interactive map with search tools 
+- `-`Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
 
-`2019` __CoffeeChat__  
-- `-`Utilized Python and Django to create a dynamic forum/blog that connects individuals with the options to join groups 
+`Aug. 2019` __CoffeeChat__  
+- `-`Created a dynamic forum/blog that connects individuals with the options to join groups 
 - `-`Deployed and hosted on Amazon Web Service with added certification for secuirty 
 - `-`Delivered product with my team using Agile process and Trello for task management
-
-`2018` __Hackathon: Hacking for Humanity__  
-- `-`Designed, coded and implemented a fully functional modern website with database utilizing knowledge of both front-end and back-end 
-- `-`Implemented Google Maps API to provide an interactive map with search tools 
-
+- `-`Utilized HTML, CSS and JavaScript for front-end and python and Django for back-end
