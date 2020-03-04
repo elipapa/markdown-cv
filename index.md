@@ -46,17 +46,17 @@ and omitted the need for boilerplates
 `Nov. 2019` 
 __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat" color="blue"> Project </a>
 
-- `-` Collaborated in an agile-development team of three people to develope an application that allows users to locate and organize study groups
+- `-` Collaborated in an agile-development team of three people to develop an application that allows users to locate and organize study groups
 - `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
 - `-` Developed the functions of sign-up/login, search, join groups 
-- `-` Deployed,hosted, and certified project on AWS's EC2, complete with database access and elastic load balancing 
+- `-` Deployed, hosted, and certified project on AWS's EC2, complete with database access and elastic load balancing 
 - `-` Utilized HTML, CSS, and Typescript for front-end and Node.js for back-end development
 
 `Aug. 2019` 
 __CoffeeChat__  
 
 - `-` Created a dynamic forum/blog that connects individuals with the option to join groups 
-- `-` Deployed and hosted, on Amazon Web Service and Trello for team/task management 
+- `-` Deployed and hosted on Amazon Web Service and Trello for team/task management 
 - `-` Utilized HTML, CSS, and JavaScript for front-end and python and Django for back-end
 
 `Apr. 2018` 
