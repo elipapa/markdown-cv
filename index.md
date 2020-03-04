@@ -34,8 +34,8 @@ __University of California, Riverside__
 `Jun. - Sep. 2018` 
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
 
-- - Designed, managed, and maintained tools to automate and optimize software
-- - Researched and implemented Java Native Access resulted in reduction in SDLC by 80%
+- `-` Designed, managed, and maintained tools to automate and optimize software
+- - Researched and implemented JNA resulted in reduction in SDLC by 80%
 due to ellimination of need for boilerplates and header files.
 - - Participated in planning and integration of infrastrcture on Amazon Web Service.
 - - Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
