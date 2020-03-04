@@ -66,7 +66,7 @@ __CoffeeChat__
 ## Work Experiences  
 `Aug. - Current` 
 __Barista, *Philz Coffee*__, Fremont, CA  
--`_`
+
 -`-`Communicated effectively with the team and upheld an open work environment
 -`-`Build a culture of warmth, positivity and human connection with the community  
 
