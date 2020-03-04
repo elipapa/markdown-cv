@@ -3,7 +3,7 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# Sean‎‎‎‎‎‎‎‎‎Lo
+# Sean Lo
 
 
 <div id="webaddress">
@@ -64,14 +64,14 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 
 - `-` Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers 
 - `-` Implemented Google Maps API to provide an interactive map with search tools 
-- `-` Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
+- `-` Utilized HTML, CSS, and JavaScript for front-end and Node.js for back-end development
 
 ## Work Experiences  
-`Aug. - Current` 
+`Aug. 2018 - Current` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
 - `-` Communicated effectively with the team and upheld an open work environment
-- `-` Built a culture of warmth, positivity and human connection while interacting with the community  
+- `-` Built a culture of warmth, positivity, and human connection while interacting with the community  
 
 `Jan. 2018 - Current` 
 __Tutor, *Giraffe Learning Center*__, Fremont, CA  
