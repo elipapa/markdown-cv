@@ -56,7 +56,8 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 - `-`Implemented Google Maps API to provide an interactive map with search tools 
 - `-`Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
 
-`Aug. 2019` __CoffeeChat__  
+`Aug. 2019` 
+__CoffeeChat__  
 - ` `
 - `-`Created a dynamic forum/blog that connects individuals with the options to join groups 
 - `-`Deployed and hosted on Amazon Web Service with added certification for secuirty 
@@ -64,12 +65,14 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 - `-`Utilized HTML, CSS and JavaScript for front-end and python and Django for back-end
 
 ## Work Experiences  
-`Aug. - Current` __Barista, *Philz Coffee*__, Fremont, CA  
+`Aug. - Current` 
+__Barista, *Philz Coffee*__, Fremont, CA  
 -` `
 -`-`Communicated effectively with the team and upheld an open work environment
 -`-`Build a culture of warmth, positivity and human connection with the community  
 
-`Jan. 2018 - Current` __Tutor, *Giraffe Learning Center*__, Fremont, CA  
+`Jan. 2018 - Current` 
+__Tutor, *Giraffe Learning Center*__, Fremont, CA  
 - ` `
 - `-` Provided mentorship and tutoring service that lead to increased performance average
 - `-` Planned and oversaw diverse range of activities and projects
