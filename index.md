@@ -41,7 +41,7 @@ by voidng the need for boilerplates
 ## Personal Projects
 
 `Nov. 2019` __Capstone Project : Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> Project </a>
--
+
 - `-`In an agile-development team of 3, developed an application that allows users to locate and organize study groups.
 - `-`Invoked and implemented Google-Geo-Location's API and Auth0's API and React.js for building user interface 
 - `-`Developed the functions of sign-up/login, search, join groups 
