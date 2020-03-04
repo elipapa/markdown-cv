@@ -6,7 +6,7 @@ title: Sean Lo's Resume
 # Sean Lo
 
 
-<div id="boldaddress">
+<div id="wedaddress">
 <a>shon4081@gmail.com |510-386-8647 </a>
 </div>
 
