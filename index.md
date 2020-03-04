@@ -1,6 +1,6 @@
 --- 
-layout: cv 
-title: Sean Lo's CV
+layout: Resume
+title: Sean Lo's Resume
 --- 
 
 # Sean Lo 
