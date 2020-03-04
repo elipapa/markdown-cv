@@ -67,8 +67,8 @@ __CoffeeChat__
 `Aug. - Current` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
--`-` Communicated effectively with the team and upheld an open work environment
--`-` Build a culture of warmth, positivity and human connection with the community  
+- `-` Communicated effectively with the team and upheld an open work environment
+- `-` Build a culture of warmth, positivity and human connection with the community  
 
 `Jan. 2018 - Current` 
 __Tutor, *Giraffe Learning Center*__, Fremont, CA  
