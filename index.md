@@ -43,32 +43,32 @@ by omitting the need for boilerplates
 `Nov. 2019` 
 __Capstone Project : Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> Project </a>
 - ` `
-- `-`In an agile-development team of 3, developed an application that allows users to locate and organize study groups
-- `-`Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
-- `-`Developed the functions of sign-up/login, search, join groups 
-- `-`Deployed,hosted and certified project on AWS's EC2, complete with database access and elastic load balancing. 
-- `-`Utilized HTML, CSS and Typescript for front-end and Node.js for back-end development
+- `-` In an agile-development team of 3, developed an application that allows users to locate and organize study groups
+- `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
+- `-` Developed the functions of sign-up/login, search, join groups 
+- `-` Deployed,hosted and certified project on AWS's EC2, complete with database access and elastic load balancing. 
+- `-` Utilized HTML, CSS and Typescript for front-end and Node.js for back-end development
 
 `Apr. 2018` 
 __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> Presentation </a>
 - ` `
-- `-`Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers 
-- `-`Implemented Google Maps API to provide an interactive map with search tools 
-- `-`Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
+- `-` Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers 
+- `-` Implemented Google Maps API to provide an interactive map with search tools 
+- `-` Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
 
 `Aug. 2019` 
 __CoffeeChat__  
 - ` `
-- `-`Created a dynamic forum/blog that connects individuals with the options to join groups 
-- `-`Deployed and hosted on Amazon Web Service and Trello for team/task management 
-- `-`Utilized HTML, CSS and JavaScript for front-end and python and Django for back-end
+- `-` Created a dynamic forum/blog that connects individuals with the options to join groups 
+- `-` Deployed and hosted on Amazon Web Service and Trello for team/task management 
+- `-` Utilized HTML, CSS and JavaScript for front-end and python and Django for back-end
 
 ## Work Experiences  
 `Aug. - Current` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
--`-`Communicated effectively with the team and upheld an open work environment
--`-`Build a culture of warmth, positivity and human connection with the community  
+-`-` Communicated effectively with the team and upheld an open work environment
+-`-` Build a culture of warmth, positivity and human connection with the community  
 
 `Jan. 2018 - Current` 
 __Tutor, *Giraffe Learning Center*__, Fremont, CA  
