@@ -35,10 +35,10 @@ __University of California, Riverside__
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
 
 - `-` Designed, managed, and maintained tools to automate and optimize software
-- - Researched and implemented JNA resulted in reduction in SDLC by 80%
-due to ellimination of need for boilerplates and header files.
-- - Participated in planning and integration of infrastrcture on Amazon Web Service.
-- - Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
+- `-` Researched and implemented JNA which reduced SDLC by 80%
+by voidng the need for boilerplates.
+- `-` Participated in planning and integration of infrastrcture on Amazon Web Service.
+- `-` Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
 
 ## Work Experiences  
 `Aug. - Current` __Barista, *Philz Coffee*__, Fremont, CA  
