@@ -13,43 +13,39 @@ title: Sean Lo's CV
 <a href="510-386-8647"> </a> <a href="510-386-8647">Linkedin.com/in/syranol | Github.com/syranol</a>
 </div>
 
-## Currently
-Actively seeking a career as a Software Engineer
-
-### Specialized in
-
-Full-Stack Web Development & Cloud Deployment
 
 ## Education
 
-`2017 - 2019` 
+`Sep. 2017 - Dec. 2019` 
 __Oregon State University__
-- B.S Computer Science
+- B.S Computer Science 
+- GPA 3.8 / 4.0
 
-`2013 - 2017`
+`Sep. 2013 - Jun. 2017`
 __University of California, Riverside__
 - B.A Business Economics   
 
-## Skills/Tools  
-- C++, Python, JavaScript, HTML, CSS, SQL, 
-- AWS, ReactJS, Git, Unix/Linux, Node.js, jQuery, Django   
+## Skills  
+- Language: C/C++, Python, JavaScript, HTML, CSS, SQL, 
+- Development: AWS, React.js, Node.js, Git, Unix/Linux,, Django   
 
 ## Professional Experiences  
-`2017` 
+`Jun. - Sep. 2018` 
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
-- Designed, developed and tested optimal cross-platform method for client’s product 
-- Researched and implemented Java Native Access (JNA) which provided direct mapping from C++ to Java 
-- Collaborated with various teams in managing project priorities, deadlines and deliverables 
-- Reduced system development life cycle by ten times by eliminating the need to call over-head  
+- Designed, managed, and maintained tools to automate and optimize software
+- Researched and implemented Java Native Access resulted in reduction in SDLC by 80%
+due to ellimination of need for boilerplates and header files.
+- Participated in planning and integration of infrastrcture on Amazon Web Service.
+- Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
 
 ## Work Experiences  
-`2018 - Current` __Barista, *Philz Coffee*__, Fremont, CA  
+`Aug. - Current` __Barista, *Philz Coffee*__, Fremont, CA  
 - Provide consistent excellent and reliable customer service 
 - Communicate effectively with the team and uphold an open work environment 
 - Deliver excellence in customer service and ensure quality and attention for each guest 
 - Build a culture of warmth, positivity and human connection with the community  
 
-`2018 - Current` __Tutor, *Giraffe Learning Center*__, Fremont, CA  
+`Jan. 2018 - Current` __Tutor, *Giraffe Learning Center*__, Fremont, CA  
 - Tutor fourth-graders in Mathematics, English and Science 
 - Assist teacher in correcting homework and practice packets 
 - Provide support in running the class  
