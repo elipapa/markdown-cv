@@ -24,22 +24,25 @@ __Oregon State University__
 `Sep. 2013 - Jun. 2017`
 __University of California, Riverside__
 - B.A Business Economics   
+- GPA 3.5 / 4.0
 
 ## Skills  
-- Language: C/C++, Python, JavaScript, HTML, CSS, SQL, 
-- Development: AWS, React.js, Node.js, Git, Unix/Linux,, Django   
+- __Language:__ C/C++, Python, JavaScript, HTML, CSS, SQL, 
+- __Development:__ AWS, React.js, Node.js, Git, Unix/Linux,, Django   
 
 ## Professional Experiences  
 `Jun. - Sep. 2018` 
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
-- Designed, managed, and maintained tools to automate and optimize software
-- Researched and implemented Java Native Access resulted in reduction in SDLC by 80%
+
+- - Designed, managed, and maintained tools to automate and optimize software
+- - Researched and implemented Java Native Access resulted in reduction in SDLC by 80%
 due to ellimination of need for boilerplates and header files.
-- Participated in planning and integration of infrastrcture on Amazon Web Service.
-- Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
+- - Participated in planning and integration of infrastrcture on Amazon Web Service.
+- - Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
 
 ## Work Experiences  
 `Aug. - Current` __Barista, *Philz Coffee*__, Fremont, CA  
+
 - Provide consistent excellent and reliable customer service 
 - Communicate effectively with the team and uphold an open work environment 
 - Deliver excellence in customer service and ensure quality and attention for each guest 
