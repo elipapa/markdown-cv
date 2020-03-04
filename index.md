@@ -34,8 +34,8 @@ __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA
 - ` `
 - `-` Designed, managed, and maintained tools to automate and optimize software
 - `-` Researched and implemented JNA which reduced SDLC by 80%
-by voidng the need for boilerplates
-- `-` Participated in planning and integration of infrastrcture on Amazon Web Service
+by voiding the need for boilerplates
+- `-` Participated in planning and integration of infrastructure on Amazon Web Service
 - `-` Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
 
 ## Personal Projects
