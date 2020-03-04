@@ -11,8 +11,8 @@ title: Sean Lo's Resume
 </div>
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/syranol">Linkedin.com/in/syranol</a>
-| <a href="https://github.com/syranol">Github.com/syranol</a>
+<a href="https://www.linkedin.com/in/syranol">linkedin.com/in/syranol</a>
+| <a href="https://github.com/syranol">github.com/syranol</a>
 </div>
 
 
@@ -27,10 +27,10 @@ __B.S Computer Science__   Oregon State University | GPA 3.8/4.0
 __B.A Business Economics__   University of California, Riverside | GPA 3.5/4.0
 
 ## Skills  
-- __Language:__ C/C++, Python, JavaScript, HTML, CSS, SQL, 
-- __Development:__ AWS, React.js, Node.js, Git, Unix/Linux,, Django   
+- __Language:__ C/C++, Python, JavaScript, HTML, CSS, SQL 
+- __Development:__ AWS, React.js, Node.js, Git, Unix/Linux, Django   
 
-## Professional Experiences  
+## Professional Experience  
 `Jun. 2018 -
  Sep. 2018` 
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA  
