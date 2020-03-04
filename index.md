@@ -54,9 +54,11 @@ by voidng the need for boilerplates
 ## Personal Projects
 
 `Nov. 2019` __Capstone Project : Study-Seat__  
-- `-`Designed and deployed a web-based application that allows users to locate study groups and meetings hosted using AWS 
+- `-`In an agile-development team of 3, developed an application that allows users to locate and organize study groups.
 - `-`Utilized HTML/CSS/Typescript for Front End and Node.js for Back End 
 - `-`Invoked third-party API (Google-Geo-Location) and React.js for building user interface 
+- `-`Developed the functions of sign-up/login, search bar, and apple’s profile page using Android SQLite Database queries with data imported from an external source of 40 entries. 
+
 
 `2019` __CoffeeChat__  
 - `-`Utilized Python and Django to create a dynamic forum/blog that connects individuals with the options to join groups 
