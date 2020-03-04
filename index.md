@@ -44,14 +44,14 @@ by voidng the need for boilerplates
 
 ## Personal Projects
 
-`Nov. 2019` __Capstone Project : Study-Seat__ <div id="webaddress"> <a href="https://github.com/syranol/Study-Seat"> Project</a> </div> 
+`Nov. 2019` __Capstone Project : Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> Project</a>
 - `-`In an agile-development team of 3, developed an application that allows users to locate and organize study groups.
 - `-`Invoked and implemented Google-Geo-Location's API and Auth0's API and React.js for building user interface 
 - `-`Developed the functions of sign-up/login, search, join groups 
 - `-`Deployed,hosted and certified project on AWS's EC2, complete with database access and elastic load balancing. 
 - `-`Utilized HTML, CSS and Typescript for front-end and Node.js for back-end development
 
-`Apr. 2018` __Hackathon: Hacking for Humanity__  <div id="webaddress"> <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> Presentation </a> </div> 
+`Apr. 2018` __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> Presentation </a>
 - `-`Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers. 
 - `-`Implemented Google Maps API to provide an interactive map with search tools 
 - `-`Utilized HTML, CSS and JavaScript for front-end and Node.js for back-end development
