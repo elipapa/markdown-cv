@@ -38,8 +38,8 @@ __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA
 - `-` Designed, managed, and maintained tools to automate and optimize software
 - `-` Researched and implemented JNA which reduced SDLC by 80%
 by omitting the need for boilerplates
-- `-` Participated in planning and integration of infrastructure on Amazon Web Service
-- `-` Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js and React
+- `-` Participated in the planning and integration of infrastructure on Amazon Web Service
+- `-` Utilized C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js, and React
 
 ## Personal Projects
 
@@ -49,8 +49,8 @@ __Capstone Project : Study-Seat__  <a href="https://github.com/syranol/Study-Sea
 - `-` In an agile-development team of 3, developed an application that allows users to locate and organize study groups
 - `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
 - `-` Developed the functions of sign-up/login, search, join groups 
-- `-` Deployed,hosted and certified project on AWS's EC2, complete with database access and elastic load balancing. 
-- `-` Utilized HTML, CSS and Typescript for front-end and Node.js for back-end development
+- `-` Deployed,hosted, and certified project on AWS's EC2, complete with database access and elastic load balancing 
+- `-` Utilized HTML, CSS, and Typescript for front-end and Node.js for back-end development
 
 `Apr. 2018` 
 __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> Presentation </a>
@@ -63,19 +63,19 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 __CoffeeChat__  
 
 - `-` Created a dynamic forum/blog that connects individuals with the options to join groups 
-- `-` Deployed and hosted on Amazon Web Service and Trello for team/task management 
-- `-` Utilized HTML, CSS and JavaScript for front-end and python and Django for back-end
+- `-` Deployed and hosted, on Amazon Web Service and Trello for team/task management 
+- `-` Utilized HTML, CSS, and JavaScript for front-end and python and Django for back-end
 
 ## Work Experiences  
 `Aug. - Current` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
 - `-` Communicated effectively with the team and upheld an open work environment
-- `-` Build a culture of warmth, positivity and human connection with the community  
+- `-` Built a culture of warmth, positivity and human connection with the community  
 
 `Jan. 2018 - Current` 
 __Tutor, *Giraffe Learning Center*__, Fremont, CA  
 
-- `-` Provided mentorship and tutoring service that lead to increased performance average
+- `-` Provided mentorship and tutoring service that led to increased performance average
 - `-` Planned and oversaw diverse range of activities and projects
 
