@@ -1,5 +1,5 @@
 --- 
-layout: Resume
+layout: cv
 title: Sean Lo's Resume
 --- 
 
