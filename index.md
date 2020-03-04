@@ -60,8 +60,7 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 __CoffeeChat__  
 - ` `
 - `-`Created a dynamic forum/blog that connects individuals with the options to join groups 
-- `-`Deployed and hosted on Amazon Web Service with added certification for secuirty 
-- `-`Delivered product with my team using Agile process and Trello for task management
+- `-`Deployed and hosted on Amazon Web Service and Trello for team/task management 
 - `-`Utilized HTML, CSS and JavaScript for front-end and python and Django for back-end
 
 ## Work Experiences  
