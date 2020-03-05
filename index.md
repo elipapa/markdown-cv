@@ -16,7 +16,7 @@ title: Sean Lo's Resume
 </div>
 
 <div id="webaddress">
-<a>shon4081@gmail.com |510-386-8647 </a>
+  <a><font #a00> shon4081@gmail.com |510-386-8647 </font> </a>
 </div>
 ## Education
 
