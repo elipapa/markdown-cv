@@ -21,8 +21,10 @@ title: Sean Lo's Resume
 `Sep. 2017 -`
 
 __B.S Computer Science__   Oregon State University | GPA 3.8/4.0
-__ __
+
 `Dec. 2019` 
+__ __
+
 `Sep. 2013 -` 
 `Jun. 2017`
 __B.A Business Economics__   University of California, Riverside | GPA 3.5/4.0
