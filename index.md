@@ -3,7 +3,7 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">_____</span> L o
+# S e a n     <span style="opacity:0;">___</span> L o
 
 
 <div id="webaddress">
