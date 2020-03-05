@@ -3,7 +3,7 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">This sentence is invisible</span> L o
+# S e a n     <span style="opacity:0;">.        </span> L o
 
 
 <div id="webaddress">
