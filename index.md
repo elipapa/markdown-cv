@@ -3,7 +3,7 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# Sean Lo
+# S e a n     L o
 
 
 <div id="webaddress">
