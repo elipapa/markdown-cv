@@ -15,7 +15,10 @@ title: Sean Lo's Resume
   | <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a>
 </div>
 
+<div id="webaddress">
+  <a href="https://syranol.github.io/markdown-cv/"><font color="blue">syranol.github.io/markdown-cv/ </font></a>
 
+</div>
 ## Education
 
 `Sep. 2017 -`
