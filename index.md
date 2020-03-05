@@ -7,13 +7,12 @@ title: Sean Lo's Resume
 
 
 <div id="webaddress">
-  <a><font color="blue"> shon4081@gmail.com <font color="blue">|</font>510-386-8647 </font> </a>
-  <font color="blue">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a>
+  <a><font color="black"> shon4081@gmail.com <font color="black">|</font>510-386-8647 </font> </a>
 </div>
 
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/syranol"><font color="blue">linkedin.com/in/syranol </font></a>
-  <font color="black">|</font> <a href="https://syranol.github.io/markdown-cv/"><font color="blue">syranol.github.io/markdown-cv/ </font></a>
+  <font color="black">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
 </div>
 
 ## Education
