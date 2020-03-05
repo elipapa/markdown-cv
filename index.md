@@ -50,7 +50,7 @@ and omitted the need for boilerplates
 `Nov. 2019` 
 __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> <font color="blue"> Project </font> </a>
 
-- `-` Collaborated in an agile-development team of three people to develop an application that allows users to locate and organize study groups
+- `-` Collaborated in a three people agile-development team to develop a tool that allows users to locate and organize study groups
 - `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
 - `-` Developed the functions of sign-up/login, search, join groups 
 - `-` Deployed, hosted, and certified project on AWS's EC2, complete with database access and elastic load balancing 
@@ -66,7 +66,7 @@ __CoffeeChat__
 `Apr. 2018` 
 __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> <font color="blue"> Presentation </font> </a>
 
-- `-` Designed a fully functional modern web application to bridge the gap between non-profit organizations and potential volunteers 
+- `-` Designed a function and modern web application to bridge the gap between non-profit organizations and volunteers 
 - `-` Implemented Google Maps API to provide an interactive map with search tools 
 - `-` Utilized HTML, CSS, and JavaScript for front-end and Node.js for back-end development
 
