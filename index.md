@@ -29,7 +29,7 @@ __B.A Business Economics__   University of California, Riverside | GPA 3.5/4.0
 
 ## Skills  
 - __Language:__ C/C++, Python, JavaScript, HTML, CSS, SQL 
-- __Development:__ AWS, React.js, Node.js, Git, Unix/Linux, Django   
+- __Development:__ AWS, React.js, Node.js, Git, Docker, Unix/Linux, Django   
 
 ## Professional Experience  
 `Jun. 2019 -`
