@@ -3,7 +3,7 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
- <a> <style="float:left> ![alt text](https://github.com/syranol/markdown-cv/blob/gh-pages/Screen%20Shot%202020-03-04%20at%205.37.52%20PM.png?raw=true {width=40px height=400px}) </style> </a>
+ <a> <style="float:left"> ![alt text](https://github.com/syranol/markdown-cv/blob/gh-pages/Screen%20Shot%202020-03-04%20at%205.37.52%20PM.png?raw=true {width=40px height=400px}) </style> </a>
 
 # S e a n     <span style="opacity:0;">_</span> L o 
 
