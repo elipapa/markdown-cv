@@ -50,7 +50,7 @@ and omitted the need for boilerplates
 `Nov. 2019` 
 __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> <font color="blue"> Project </font> </a>
 
-- `-` Collaborated in a three people agile-development team to develop a tool that allows users to locate and organize study groups
+- `-` Coacted in a three people agile-development team to develop a tool that allows users to locate/organize study groups
 - `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
 - `-` Developed the functions of sign-up/login, search, join groups 
 - `-` Deployed, hosted, and certified project on AWS's EC2, complete with database access and elastic load balancing 
