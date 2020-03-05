@@ -79,9 +79,9 @@ __Barista, *Philz Coffee*__, Fremont, CA
 `Current` - `-` Communicated effectively with the team and upheld an open work environment
 - `-` Built a culture of warmth, positivity, and human connection while interacting with the community  
 
-`Jan. 2018` 
+`Jan. 2018 -` 
 __Tutor, *Giraffe Learning Center*__, Fremont, CA  
 
-` - Current` - `-` Provided mentorship and tutoring service that led to increased performance average
+`Current` - `-` Provided mentorship and tutoring service that led to increased performance average
 - `-` Planned and oversaw a diverse range of activities and projects
 
