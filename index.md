@@ -36,10 +36,9 @@ __B.A Business Economics__   University of California, Riverside
 
 ## Professional Experience  
 `Jun. 2019 -`
-__Software Engineer Intern, *First International Computing, INC*__ <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
+__Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
 
 `Sep. 2019` 
-- Fremont, CA
 - `-` Designed, managed, and maintained tools to automate and optimize software
 - `-` Researched and implemented JNA, which reduced SDLC by 80%
 and omitted the need for boilerplates
