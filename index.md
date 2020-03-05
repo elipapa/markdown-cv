@@ -23,7 +23,7 @@ title: Sean Lo's Resume
 __B.S Computer Science__   Oregon State University | GPA 3.8/4.0
 
 `Dec. 2019` 
-__ __
+- GPA 3.8/4.0
 
 `Sep. 2013 -` 
 `Jun. 2017`
