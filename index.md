@@ -3,21 +3,19 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">_</span> L o A
+# S e a n     <span style="opacity:0;">_</span> L o 
 
 
 <div id="webaddress">
-  <a href="https://www.linkedin.com/in/syranol"><font color="blue">linkedin.com/in/syranol </font></a>
+  <a><font color="black"> shon4081@gmail.com |510-386-8647 </font> </a>
   | <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a>
 </div>
 
 <div id="webaddress">
-  <a href="https://syranol.github.io/markdown-cv/"><font color="blue">syranol.github.io/markdown-cv/ </font></a>
+  <a href="https://www.linkedin.com/in/syranol"><font color="blue">linkedin.com/in/syranol </font></a>
+  | <a href="https://syranol.github.io/markdown-cv/"><font color="blue">syranol.github.io/markdown-cv/ </font></a>
 </div>
 
-<div id="webaddress">
-  <a><font color="black"> shon4081@gmail.com |510-386-8647 </font> </a>
-</div>
 ## Education
 
 `Sep. 2017 -`
