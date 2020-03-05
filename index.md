@@ -5,7 +5,7 @@ title: Sean Lo's Resume
 <div>
 <img src="https://github.com/syranol/markdown-cv/blob/gh-pages/Screen%20Shot%202020-03-04%20at%205.37.52%20PM.png" width="100" height="100" </div>
 # S e a n     <span style="opacity:0;">_</span> L o 
-
+![alt text](https://github.com/syranol/markdown-cv/blob/gh-pages/Screen%20Shot%202020-03-04%20at%205.37.52%20PM.png)
 
 <div id="webaddress">
   <a><font color="black"> shon4081@gmail.com <font color="black">|</font>  510-386-8647 </font> </a>
