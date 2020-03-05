@@ -18,12 +18,12 @@ title: Sean Lo's Resume
 
 ## Education
 
-`Sep. 2017 - 
- Dec. 2019` 
+`Sep. 2017 -`
+ `Dec. 2019` 
 __B.S Computer Science__   Oregon State University | GPA 3.8/4.0
 
-`Sep. 2013 - 
- Jun. 2017`
+`Sep. 2013 -` 
+`Jun. 2017`
 __B.A Business Economics__   University of California, Riverside | GPA 3.5/4.0
 
 ## Skills  
@@ -31,8 +31,8 @@ __B.A Business Economics__   University of California, Riverside | GPA 3.5/4.0
 - __Development:__ AWS, React.js, Node.js, Git, Unix/Linux, Django   
 
 ## Professional Experience  
-`Jun. 2019 -
- Sep. 2019` 
+`Jun. 2019 -`
+`Sep. 2019` 
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
 
 - `-` Designed, managed, and maintained tools to automate and optimize software
