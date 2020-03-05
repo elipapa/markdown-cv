@@ -73,15 +73,15 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 - `-` Utilized HTML, CSS, and JavaScript for front-end and Node.js for back-end development
 
 ## Work Experiences  
-`Aug. 2018 - Current` 
+`Aug. 2018 -` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
-- `-` Communicated effectively with the team and upheld an open work environment
+`Current` - `-` Communicated effectively with the team and upheld an open work environment
 - `-` Built a culture of warmth, positivity, and human connection while interacting with the community  
 
-`Jan. 2018 - Current` 
+`Jan. 2018` 
 __Tutor, *Giraffe Learning Center*__, Fremont, CA  
 
-- `-` Provided mentorship and tutoring service that led to increased performance average
+` - Current` - `-` Provided mentorship and tutoring service that led to increased performance average
 - `-` Planned and oversaw a diverse range of activities and projects
 
