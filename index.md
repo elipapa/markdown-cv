@@ -11,8 +11,8 @@ title: Sean Lo's Resume
 </div>
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/syranol">linkedin.com/in/syranol</a>
-| <a href="https://github.com/syranol">github.com/syranol</a>
+  <a href="https://www.linkedin.com/in/syranol"><font color="blue">linkedin.com/in/syranol </font></a>
+  | <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a>
 </div>
 
 
