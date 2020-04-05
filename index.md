@@ -1,69 +1,34 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Magdalena Bajgrowicz CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Magdalena Bajgrowicz
+Frontend and Fullstack Developer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="http://github.com/magdabaj">My github account</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+__AGH Uniwersity of Science and Technology__
+`Information Technology and Econometrics`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Liceum Ogólnokształcące im. Marcina Wadowity w Wadowicach__
 
-- Sizar
+## Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
+__Languages__ `JavaScript, C# basics, SQL basics`
+__Frontend__ `CSS, HTML5, React, Redux`
+__Backend__ `Node, Express, ASP.NET Core basics`
+__Databases__ `MySQL, PostgreSQL`
+__Tools__ `Git, Npm, Intelij, VS`
 
-- Fellow
+### Languages
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+English `C1`
+German `B2`
 
 ### Patents
 
