@@ -2,7 +2,9 @@
 layout: cv
 title: David Riosalido's CV
 ---
+
 # David Riosalido
+
 Senior Infrastructure / DevOps Engineer.
 
 <div id="webaddress">
@@ -12,51 +14,59 @@ Senior Infrastructure / DevOps Engineer.
   <a href="https://www.linkedin.com/in/david-riosalido/"><i class="fab fa-linkedin"></i> david-riosalido</a> &nbsp;
 </div>
 
-## Profile 
+## Profile
+
 Senior-level infrastructure engineer with almost 20 years of experience in designing, implementing and managing IT infrastructure.
 
 ## Experience
-`December 2018 - Present`  
+
+`December 2019 - Present`
+**Qindel, Architect/Team Leader, Madrid**
+
+Team Lead of the Vodafone account, End-to-end technical responsible of projects, including pre-sales, POCs and project execution stages.
+
+Technical Lead of the DevOps team, designing the technical project solutions and providing technical support for the different implementations. Leading the internal adoption of the DevOps culture in different areas of the company.
+
+Technical job interviews of candidates. Proposals and RFQ responsibilities in the assigned projects. Third parties partnership definitions and agreements
+
+Main technologies used: Kubernetes, OpenShift, Jenkins, CloudBees Core, Ansible, Terraform, Ovirt, OpenStack, GitLab.
+
+`December 2018 - December 2019`  
 **Source{d}, Senior DevOps Engineer, Madrid-Remote**
 
-Designed, implemented and maintained the appropriate infrastructure where develop, test and deploy online services and internal workflows for data retrieval and machine learning teams. 
+Designed, implemented and maintained the appropriate infrastructure where develop, test and deploy online services and internal workflows for data retrieval and machine learning teams.
 
 Fully automation of infrastructure using Ansible and a stack of Terraform and Helm for the Kubernetes clusters. Packaged our deployments writing helm charts. Automated of bare-metal provisioning using Matchbox and Ignition. All our infrastructure was declared using code.
 
 Created and maintained a fully automated CI/CD pipelines for code deployment using Travis and Drone.
 
-Deployed Kubernetes monitoring using Prometheus, Grafana, ElasticSearch and Kibana. 
+Deployed Kubernetes monitoring using Prometheus, Grafana, ElasticSearch and Kibana.
 
-Main technologies used: Kubernetes, Docker, GlusterFS, Jenkins, Terraform, Helm, Python, Bash, Prometheus, Grafana, Kibana, CoreOS, Operator Framework, Ansible, PostgreSQL, MySQL, AWS, Travis, Jenkins, Spark.   
+Main technologies used: Kubernetes, Docker, GlusterFS, Jenkins, Terraform, Helm, Python, Bash, Prometheus, Grafana, Kibana, CoreOS, Operator Framework, Ansible, PostgreSQL, MySQL, AWS, Travis, Jenkins, Spark.
 
 `December 2007 - December 2018`  
-**Qindel, Senior Infrastructure Engineer/Technical Lead, Madrid** 
+**Qindel, Senior Infrastructure Engineer/Technical Lead, Madrid**
 
 Involved in the design, implementation and project leading for different business-critical platforms projects for Vodafone Spain.
 Requirements analysis with the client to define the best architecture and technologies involved. Design and technical implementation of the solution.
 Continuous tracking with the client the phases of the project.
-Designed and implemented automating, packing and monitoring for every project. 
+Designed and implemented automating, packing and monitoring for every project.
 Provide second and third-level support to all the production environments.
 
 Main projects and responsibilities held:  
 
-
 Technical lead of the “Vodafone en tu Casa” and “Vodafone Access Gateway” service master platforms for Vodafone Spain. The project allows fixed-line service through mobile devices providing a geolocation dependant billing. (Technologies: Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, Tomcat, Apache, NFS, ELK stack, Graphite, Grafana)  
-
 
 Technical lead of the address normalization and geolocation platform for Vodafone Spain. Migrated the platform from and LDAP backend based proprietary solution to a MySQL – Perl open source solution. Designed and Implemented the data ingestion to a Big Data oriented architecture 100 times faster. (Technologies: Oracle Linux, MySQL, Tomcat, Hadoop, HDFS, Hive, Pig, Oozie, Spark, Graphite, Grafana, LDAP)  
 
-
 System engineer and developer for an MMS and MMS Gateway and Filtering platform (Technologies: Suse Enterprise Linux, MongoDB, Perl, Python, nginx, Sendmail, ELK stack, Beanstalkd, Redis, API REST, Graphite, VMWare)  
 
-
 System engineer and developer for a promotions management platform to provide benefits to top-up subscribers. Built using a custom and extendable rules engine (Technologies: Oracle hardware, Oracle Linux, DRBD, Pacemaker, KVM, MySQL, Perl, ELK stack, Graphite)  
-
 
 System engineer and developer for an integration platform between provisioning systems of ADSL products. (Technologies: Solaris 10, Solaris Zones, MySQL Cluster, Perl, Apache, Cacti, Net-SNMP)  
 
 `June 2006 - December 2007`  
-**Vodafone, Integration/Support Engineer, Newbury(UK)** 
+**Vodafone, Integration/Support Engineer, Newbury(UK)**
 
 As part of the Vodafone Live! Integration department. My job involved deploying applications into preproduction and then launching them on live. Fixed several day-to-day problems on the live! platform, and implemented and developed tools to automatize and improve the routine tasks.
 
@@ -65,14 +75,14 @@ Later as part of the Vodafone Live! Portal Support Team as the Unix systems spec
 Main technologies used: Perl, Bash, RPM packaging, Linux, Solaris, Apache, Tomcat, Jboss, Weblogic, Oracle Database, Helix Streaming Servers, SNMP, Cacti, CDR Billing systems.  
 
 `April 2006 - June 2006`  
-**Telefónica Data, Senior Consultant in Unix environment, Madrid** 
+**Telefónica Data, Senior Consultant in Unix environment, Madrid**
 
 Responsible for the Unix environment of all the intranet and external sites of TELEFONICA. Involved in the planning, configuration, management and support of all high-availability environments.
 
 Main technologies used: Solaris, Veritas Volume Manager, Veritas Cluster, Weblogic, Jboss, Sun One, Netscape Messaging Server, Netscape Directory Server, Oracle Database.  
 
 `March 2001 - April 2006`  
-**CESTEL, Systems Administrator / Lead of Infrastructure, Madrid** 
+**CESTEL, Systems Administrator / Lead of Infrastructure, Madrid**
 
 Responsible for designing, implementing and managing the systems and networks company infrastructure. Providing IT solutions to clients and offering support - both internally within the company, and externally to clients.
 
@@ -89,7 +99,7 @@ Main technologies used: Solaris, Windows NT, OpenView, Veritas Backup, EDI commu
 
 ## Other experience
 `January 2004 - January 2013`  
-**Savia Joven (Sociedad Cooperativa), Founder and Chairman** 
+**Savia Joven (Sociedad Cooperativa), Founder and Chairman**
 
 House building cooperative project based on private initiative of a group of young residents of Rivas-Vaciamadrid to promote the construction of housing oriented to young residents of the municipality.
 
@@ -117,11 +127,10 @@ Completed the first 3 years of master’s engineering degree in Computer Science
 **Spanish** (Native)  
 **English** (Professional Working)
 
-Hobbies
--------
+## Hobbies
 
 Boardgames, 3D printing, Mountain biking, Home automation.
 
 <!-- ### Footer
 
-Last updated: November 2019 -->
+Last updated: April 2020 -->
