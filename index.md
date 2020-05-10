@@ -166,6 +166,9 @@ Create a platform that streamlines the board of the housing association job with
 - Phoenix framework
 - NodeJS
 - Lambda (AWS)
+- Postgres
+- Redis
+- Elaticsearch
 
 ### Testing technologies
 
