@@ -1,0 +1,27 @@
+---
+Title: All of the CVs
+---
+
+
+<html>
+    <head>
+        <meta charset=utf-8 />
+        <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+        <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
+    </head>
+    <body>
+        <div id="main">
+            <div id="content">
+                {% if site.posts.size == 0 %}
+                <p class="text-center">Nothing published yet!</p>
+                {% else %}
+                <ul>
+                    {% for post in site.posts %}
+                    <li> - <a href="{{ post.url }}"> {{ post.title }}: {{ post.comment }} </a> </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </div>
+        </div>
+    </body>
+</html>
