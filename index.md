@@ -21,12 +21,16 @@ __Liceum Ogólnokształcące im. Marcina Wadowity w Wadowicach__
 
 __Languages__ 
 - JavaScript, C# basics, SQL basics
+##
 __Frontend__
 - CSS, HTML5, React, Redux
+##
 __Backend__
 - Node, Express, ASP.NET Core basics
+##
 __Databases__
 - MySQL, PostgreSQL
+##
 __Tools__
 - Git, Npm, Intelij, VS
 
