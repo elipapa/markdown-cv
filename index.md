@@ -19,11 +19,16 @@ __Liceum Ogólnokształcące im. Marcina Wadowity w Wadowicach__
 
 ## Skills
 
-## Languages `JavaScript, C# basics, SQL basics`
-## Frontend `CSS, HTML5, React, Redux`
-## Backend `Node, Express, ASP.NET Core basics`
-## Databases `MySQL, PostgreSQL`
-## Tools `Git, Npm, Intelij, VS`
+__Languages__ 
+ - JavaScript, C# basics, SQL basics
+__Frontend__
+ - CSS, HTML5, React, Redux
+__Backend__
+ - Node, Express, ASP.NET Core basics
+__Databases__
+ - MySQL, PostgreSQL
+__Tools__
+ - Git, Npm, Intelij, VS
 
 ### Languages
 
