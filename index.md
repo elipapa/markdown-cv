@@ -6,7 +6,7 @@ title: Magdalena Bajgrowicz CV
 Frontend and Fullstack Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="https://github.com/magdabaj">magdabaj7@gmail.com</a>
 | <a href="http://github.com/magdabaj">My github account</a>
 </div>
 
@@ -36,7 +36,7 @@ German `B2`
 __Tech Sterowniki__, Wieprz
 
 - Intern
-
+- Tester
 
 <!-- ### Footer
 
