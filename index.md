@@ -19,38 +19,27 @@ __Liceum Ogólnokształcące im. Marcina Wadowity w Wadowicach__
 
 ## Skills
 
-__Languages__ `JavaScript, C# basics, SQL basics`
-__Frontend__ `CSS, HTML5, React, Redux`
-__Backend__ `Node, Express, ASP.NET Core basics`
-__Databases__ `MySQL, PostgreSQL`
-__Tools__ `Git, Npm, Intelij, VS`
+## Languages `JavaScript, C# basics, SQL basics`
+## Frontend `CSS, HTML5, React, Redux`
+## Backend `Node, Express, ASP.NET Core basics`
+## Databases `MySQL, PostgreSQL`
+## Tools `Git, Npm, Intelij, VS`
 
 ### Languages
 
 English `C1`
 German `B2`
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2019`
+__Tech Sterowniki__, Wieprz
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Intern
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2020 -->
 
 
