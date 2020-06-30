@@ -28,8 +28,11 @@ Innovation and culture inside organizations; economic excess and satiation.
 
 ## Working papers <!--- Publications and working papers --->
 
-Sherefkin, Nick. "Culture and Market Reproduction: The Evolution of Board Games Since 1980."
+Sherefkin, Nick. Culture and Market Reproduction: The Evolution of Board Games Since 1980.
 
+Sherefkin, Nick. Questioning the Good of Goods with a Theory of Human Entrapment with Manufactured Objects.
+
+Brandtner C, Sherefkin N. Worthy of Support: Moral Failure and Audience Demand for Civic Action.
 
 ## Work experience
 
@@ -46,8 +49,10 @@ Managed and analysed data for P-12 research projects studying topics ranging fro
 
 
 ### Teaching
-`2018-19`
+`2018-20`
 __Teaching Assistant__, Stanford University, Stanford, CA
+
+SOC 002: Self and Society; Instructor: Alia Crum and Robb Willer
 
 SOC 202: Preparation for Senior Research; Instructor: Doug McAdam.
 
@@ -55,8 +60,6 @@ SOC 114: Economic Sociology; Instructor: Mark Granovetter.
 
 `2015-17`
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
-
-Facilitated over 1,000 hours of classroom time with a focus on learning through collaborative group work, structured discussion, and problem solving. Designed a 10th grade curriculum for math covering 9 units and over 160 lessons. Lessons were student-centered and emphasized mathematical inquiry and conceptual understanding. I also led 10th grade Inquiry Team, which sought to integrate acadermic research findings into pedagogical practice.
 
 
 ## Programming languages
@@ -66,10 +69,10 @@ R, Python, STATA, and SAS
 
 ## Service
 
-`2017-19`
+`2017-20`
 Teacher and Treasurer, Stanford Prison Education Program, Stanford University
 
-`2018-19`
+`2018-20`
 Co-Chair, Association of Sociology Graduate Students, Stanford University
 
 `2017-18` 
