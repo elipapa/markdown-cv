@@ -37,15 +37,15 @@ Brandtner C, Sherefkin N. Worthy of Support: Moral Failure and Audience Demand f
 ## Work experience
 
 ### Research
-`2018-19`
+`2018-20`
 __Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
 
-Wrote a web crawler meeting the robots exclusion standard for ethical web data collection. Ran the crawler to collect text from a representative sample of over 400 Bay Area nonprofits. Helped design and distribute a survey to measure perspectives of nonprofit leaders. 
+Colloborated with team to design and distribute a survey to measure perspectives of nonprofit leaders in the Bay Area and around the world. Wrote a web crawler meeting the robots exclusion standard for ethical web data collection. Built a longitudinal corpus of website text from a representative sample of over 400 Bay Area nonprofits. 
 
 `2012-15`
 __Research Assistant in P-12 Policy__, MDRC, New York, NY
 
-Managed and analysed data for P-12 research projects studying topics ranging from the effectiveness of tiered reading intervention to trends in high school college-going behavior. I led more instructional presentations at company-wide programmer forums than any other employee of comparable tenure. I worked on datasets containing up to 60 million records and one program I wrote replaced 143 programs written by three previous programmers.
+Managed and analysed data for P-12 research projects studying topics ranging from the effectiveness of tiered reading intervention to trends in high school college-going behavior.
 
 
 ### Teaching
