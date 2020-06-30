@@ -62,9 +62,9 @@ SOC 114: Economic Sociology; Instructor: Mark Granovetter.
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
 
 
-## Programming languages
+## Programming
 
-R, Python, STATA, and SAS
+R and Python
 
 
 ## Service
@@ -89,6 +89,8 @@ New York City Teaching Fellow, New York, NY
 
 `2015-16`
 AmeriCorps Member, New York, NY
+
+***
 
 <!-- ### Footer Last updated: March 2019 -->
 
