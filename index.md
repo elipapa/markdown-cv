@@ -23,7 +23,7 @@ __B.A.__, Economics and Public Policy, *magna cum laude*, Brown University
 
 ## Research interests
 
-Innovation and culture inside organizations; economic excess and satiation.
+Cultural variation and change in economic behaviors; economic excess and satiation.
 
 
 ## Working papers <!--- Publications and working papers --->
