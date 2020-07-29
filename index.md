@@ -24,7 +24,6 @@ Learning C++ as a teenager, to classical OOP with Java, .NET, PHP & Javascript, 
 
 Finding and falling in love with Lisp in 2015 and working since then predominantly with Clojure & ClojureScript both professionally and for personal projects.
 
-
 ## Employment Timeline
 
 `2015 - 2020`
