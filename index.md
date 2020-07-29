@@ -18,7 +18,7 @@ Developing apps, ERP, websites & software used by tens of thousands in critical 
 
 ### Programming journey
 
-Learning C++ as a teenager, to classical OOP with Java, .NET, PHP & Javascript, then to Microsoft Dynamics AX. 
+Learning C++ as a teenager, to classical OOP with Java, .NET, PHP & Javascript, Microsoft Dynamics AX. 
 
 Finding and falling in love with Lisp in 2015 and working since then predominantly with Clojure & ClojureScript both professionally and for personal projects.
 
