@@ -14,7 +14,7 @@ Full stack Clojure programmer with a passion for function programming and creati
 
 Confident polyglot with 20+ years wide ranging industry experience. 
 
-Key player in cutting edge engineering teams, developing apps, ERP, websites & software used by tens of thousands in critical environments. 
+Key player in cutting edge engineering teams, developing mobile apps, web apps, services & software used by tens of thousands in critical environments. 
 
 Developer of numerous solo R & D projects that have shaped business direction, increased business agility and basically shown business leaders what can be done with modern tools.
 
@@ -24,7 +24,8 @@ Learning C++ as a teenager, to classical OOP with Java, .NET, PHP & Javascript, 
 
 Finding and falling in love with Lisp in 2015 and working since then predominantly with Clojure & ClojureScript both professionally and for personal projects.
 
-## Employment Timeline
+
+### Employment Timeline
 
 `2015 - 2020`
 __Riverford Organic Farmers Ltd.__, Senior Software Engineer
