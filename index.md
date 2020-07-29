@@ -89,6 +89,8 @@ Development of a lightweight PHP CMS system.
 
 ### Noteable Training
 
+2018 - 1 week computer security 'boot camp' (organised in-house)
+
 2015 – Microsoft Dynamics AX 2012 developer training (Firebrand)
 
 2009 – Microsoft Ax Developer training, Intermediate and Advanced course (Firebrand)
