@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"$if(lang)$ lang="$lang$" xml:lang="$lang$"$endif$>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    $for(author-meta)$<meta name="author" content="$author-meta$" />$endfor$
+    $if(date-meta)$<meta name="date" content="$date-meta$" />$endif$
+    <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+
+    $if(math)$
+    $if(mathjax)$
+    <!-- dynamically load mathjax for compatibility with self-contained -->
+    <script>
+    (function() {
+      // Retrieve previous config object if defined
+      window.PagedConfig = window.PagedConfig || {};
+      let beforePaged = PagedConfig.before;
+      window.PagedConfig.before = async () => {
+        if (beforePaged) await beforePaged();
+        return new Promise((resolve, reject) => {
+          var script = document.createElement("script");
+          script.type = "text/javascript";
+          var src = `$mathjaxurl$` + "?config=TeX-MML-AM_CHTML";
+          if (location.protocol !== "file:" && /^https?:/.test(src))
+            src = src.replace(/^https?:/, '');
+          script.src = src;
+          window.MathJax = {
+            AuthorInit: () => {
+              MathJax.Hub.Register.StartupHook("Begin", () => {
+                MathJax.Hub.Queue(resolve);
+              });
+            }
+          };
+          document.getElementsByTagName("head")[0].appendChild(script);
+        });
+      };
+    })();
+    </script>
+    $endif$
+    $endif$
+
+    $for(header-includes)$
+    $header-includes$
+    $endfor$
+
+    $for(css)$
+    <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$/>
+    $endfor$
+
+  </head>
+  <body>
+$for(include-before)$
+$include-before$
+$endfor$
+
+$body$
+
+<script>
+(function() {
+  var i, s, j, el, els;
+  var create_el = function(type, className, content, isHTML) {
+    var el = document.createElement(type);
+    if (className) el.className = className;
+    if (content) {
+      if (isHTML) {el.innerHTML = content;} else {el.innerText = content;}
+    }
+    return el;
+  }
+
+  // replace h2 title with h1
+  var title = document.getElementById('title').querySelector('h2');
+  title.parentNode.replaceChild(create_el('h1', false, title.innerHTML, true), title);
+
+  // add the class .aside to #aside
+  el = document.getElementById('aside');
+  if (el) el.className += ' aside';
+
+  // tweak class names of sections, and add icons
+  els = document.getElementById('main').querySelectorAll('.level2');
+  for (i = 0; i < els.length; i++) {
+    el = els[i];
+    if (i === 0 && el.id === 'title') continue;
+    el.className += ' main-block';
+    if (el.dataset['concise']) el.className += ' concise';
+    // if there is no icon, add an icon:
+    if (el.firstElementChild.firstChild && el.firstElementChild.firstChild.nodeName !== 'I') {
+      s = el.dataset['icon'] || 'bookmark';
+      el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    }
+  }
+
+  // tweak class names of blocks in sections
+  els = document.getElementById('main').querySelectorAll('.level3');
+  for (i = 0; i < els.length; i++) {
+    el = els[i];
+    if (el.parentNode.id === 'title') continue;
+    el.className += ' blocks';
+    el.innerHTML = '<div class="date"></div>' + '<div class="decorator"></div>' +
+      '<div class="details"><header></header><div></div></div>' + el.innerHTML;
+    var ps = el.querySelectorAll('p');
+    // move the date paragraph to the date div
+    if (ps.length >= 3) {
+      s = ps[2].innerText;
+      s = s === 'N/A' ? [] : s.split(' - ');
+      el.removeChild(ps[2]);
+      for (j = 0; j < s.length && j < 2; j++) {
+        el.children[0].appendChild(create_el('span', false, s[j]))
+      }
+    }
+    // move title, description, location to the details div
+    (function(h) {
+      h.appendChild(el.children[3]);
+      var p = el.children[3];  // description
+      if (p.innerText !== 'N/A') {
+        h.appendChild(create_el('span', 'place', p.innerHTML, true));
+      }
+      el.removeChild(p);
+      p = el.children[3];  // location
+      if (p.innerText !== 'N/A') {
+        s = create_el('span', 'location', p.innerHTML, true);
+        s.innerHTML = '<i class="fa fa-map-marker-alt"></i> ' + s.innerHTML;
+        h.appendChild(s);
+      }
+      el.removeChild(p);
+    })(el.children[2].firstElementChild);
+    // move the rest of content in a block into the last div of the details div
+    s = el.children[2];
+    while (j = s.nextSibling) {
+      if (j.className === 'aside') { s = j; continue; }
+      el.children[2].lastElementChild.append(j);
+    }
+  }
+})();
+</script>
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+  </body>
+</html>
