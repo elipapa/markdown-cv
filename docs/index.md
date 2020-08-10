@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Brigham Young's Resume
 ---
 # Brigham Young
