@@ -1,13 +1,13 @@
 ---
-layout: resume
-title: Brigham Young's Resume
+layout: cv
+title: Isaac Newtons's CV
 ---
-# Brigham Young
+# Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
