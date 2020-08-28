@@ -17,7 +17,7 @@ title: Sean Lo's Resume
 ## Professional Experience  
 
 `Jun. 2020 -`
-__Release Engineer, * Environmental Systems Research Institute*__, Redlands, CA 
+__Release Engineer, *Environmental Systems Research Institute*__, Redlands, CA 
 
 `Current` 
 - `-` Continuous integration of automation for testing using Python and Selenium
