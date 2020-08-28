@@ -14,6 +14,26 @@ title: Sean Lo's Resume
   <font color="black">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
 </div>
 
+## Professional Experience  
+
+`Jun. 2020 -`
+__Release Engineer, * Environmental Systems Research Institute*__, Redlands, CA 
+
+`Current` 
+- `-` Continuous integration of automation for testing using Python and Selenium
+- `-` Perform quality assurance testing and manging the release of ArcGIS software systems
+
+`Jun. 2019 -`
+__Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
+
+`Sep. 2019` 
+- `-` Designed, managed, and maintained tools to automate and optimize software
+- `-` Researched and implemented JNA to convert C to Java, which reduced SDLC by 80% 
+and omitted the need for boilerplates
+- `-` Participated in the planning and integration of infrastructure on Amazon Web Service
+- `-` Utilized C, C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js, and React
+
+
 ## Education
 
 `Sep. 2017 -`
@@ -31,17 +51,6 @@ __B.A Business Economics__   University of California, Riverside
 ## Skills  
 - __Language:__ C/C++, Python, JavaScript, HTML, CSS, SQL 
 - __Development:__ AWS, React.js, Node.js, Git, Docker, Unix/Linux, Django   
-
-## Professional Experience  
-`Jun. 2019 -`
-__Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
-
-`Sep. 2019` 
-- `-` Designed, managed, and maintained tools to automate and optimize software
-- `-` Researched and implemented JNA to convert C to Java, which reduced SDLC by 80% 
-and omitted the need for boilerplates
-- `-` Participated in the planning and integration of infrastructure on Amazon Web Service
-- `-` Utilized C, C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js, and React
 
 ## Personal Projects
 
