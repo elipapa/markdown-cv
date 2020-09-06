@@ -64,7 +64,6 @@ __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat
 
 - `-` Coacted in a three people agile-development team to develop a tool that allows users to locate/organize study groups
 - `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
-- `-` Developed the functions of sign-up/login, search, join groups 
 - `-` Deployed, hosted, and certified project on AWS's EC2, complete with database access and elastic load balancing 
 - `-` Utilized HTML, CSS, and Typescript for front-end and Node.js for back-end development
 
