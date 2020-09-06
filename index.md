@@ -62,10 +62,9 @@ __B.A Business Economics__   University of California, Riverside
 `Nov. 2019` 
 __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> <font color="blue"> Project </font> </a>
 
-- `-` Coacted in a three people agile-development team to develop a tool that allows users to locate/organize study groups
-- `-` Invoked and implemented Google-Geo-Locations' API and Auth0's API and React.js for building user interface 
-- `-` Deployed, hosted, and certified project on AWS's EC2, complete with database access and elastic load balancing 
-- `-` Utilized HTML, CSS, and Typescript for front-end and Node.js for back-end development
+- `-` Coacted in a three people agile-development team to develop a product that allows users to locate/organize study groups
+- `-` Deployed, hosted, and certified product on AWS's EC2, complete with database access and elastic load balancing 
+- `-` Utilized Typescript with React framework for front-end and Node.js for back-end development
 
 `Aug. 2019` 
 __CoffeeChat__  
