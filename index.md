@@ -25,7 +25,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri) *__, Redlan
 including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Map, Explorer, and Tracker 
 - `-` Maintain continuous automation of testing for ArcGIS Dashboard and ArcGIS Insights
 using Python, Selenium, and Jenkins
-- `-` Perform ArcGIS product certification and facilitiates release of ArcGIS products
+- `-` Perform ArcGIS product certification and facilitiates release of ArcGIS products in Agile development cycle
 - `-` Communicate effectively across various teams at Esri
 
 `Jun. 2019 -`
