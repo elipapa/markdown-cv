@@ -53,7 +53,7 @@ __B.A Business Economics__   University of California, Riverside
 `Jun. 2017`
 - GPA 3.5 / 4.0
 
-## Skills  
+## Technical Skills  
 - __Language:__ C/C++, Python, JavaScript, HTML, CSS, SQL 
 - __Development:__ AWS, React.js, Node.js, Git, Docker, Unix/Linux, Django, Jenkins, Selenium   
 
