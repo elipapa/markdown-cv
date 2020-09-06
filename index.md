@@ -86,12 +86,5 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 `Aug. 2018 -` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
-`Current` - `-` Communicated effectively with the team and upheld an open work environment
+`March 2020` - `-` Communicated effectively with the team and upheld an open work environment
 - `-` Built a culture of warmth, positivity, and human connection while interacting with the community  
-
-`Jan. 2018 -` 
-__Tutor, *Giraffe Learning Center*__, Fremont, CA  
-
-`Current` - `-` Provided mentorship and tutoring service that led to increased performance average
-- `-` Planned and oversaw a diverse range of activities and projects
-
