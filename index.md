@@ -14,7 +14,7 @@ title: Sean Lo's Resume
   <font color="black">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
 </div>
 
-## Professional Experience  
+## Experiences  
 
 `Jun. 2020 -`
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
@@ -81,7 +81,7 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 - `-` Implemented Google Maps API to provide an interactive map with search tools 
 - `-` Utilized HTML, CSS, and JavaScript for front-end and Node.js for back-end development
 
-## Work Experiences  
+## Other Experience  
 `Aug. 2018 -` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
