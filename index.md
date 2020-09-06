@@ -22,7 +22,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 `Current` 
 
 - `-` Oversee release and testing of five enterprise/distributed, web, and mobile products,
-including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Map, Explorer, and Tracker 
+including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, Explorer, and Tracker 
 - `-` Maintain continuous automation of testing for ArcGIS Dashboard and ArcGIS Insights
 using Python, Selenium, and Jenkins
 - `-` Perform ArcGIS product certification and facilitiates release of ArcGIS products in Agile development cycle
