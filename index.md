@@ -6,14 +6,8 @@ title: Sean Lo's Resume
 # S e a n     <span style="opacity:0;">_</span> L o 
 
 <div id="webaddress">
-  <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color="blue"> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a>
+  <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color="blue"> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a> | <a href="https://www.linkedin.com/in/syranol"><font color="blue">linkedin.com/in/syranol </font> </a> | <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
 </div>
-
-<div id="webaddress">
-  <a href="https://www.linkedin.com/in/syranol"><font color="blue">linkedin.com/in/syranol </font></a>
-  <font color="black">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
-</div>
-
 ## Professional Experience  
 
 `Jun. 2020 -`
