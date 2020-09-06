@@ -14,6 +14,10 @@ title: Sean Lo's Resume
   <font color="black">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
 </div>
 
+## Technical Skills  
+- __Language:__ Python, C/C++, JavaScript, HTML, CSS, SQL 
+- __Development:__ AWS, React.js, Node.js, Git, Docker, Unix/Linux, Django, Jenkins, Selenium, PostgreSQL  
+
 ## Experiences  
 
 `Jun. 2020 -`
@@ -51,11 +55,7 @@ __B.S Computer Science__   Oregon State University
 __B.A Business Economics__   University of California, Riverside
 
 `Jun. 2017`
-- GPA 3.5 / 4.0
-
-## Technical Skills  
-- __Language:__ Python, C/C++, JavaScript, HTML, CSS, SQL 
-- __Development:__ AWS, React.js, Node.js, Git, Docker, Unix/Linux, Django, Jenkins, Selenium, PostgreSQL   
+- GPA 3.5 / 4.0 
 
 ## Personal Projects
 
