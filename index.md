@@ -17,11 +17,16 @@ title: Sean Lo's Resume
 ## Professional Experience  
 
 `Jun. 2020 -`
-__Release Engineer, *Environmental Systems Research Institute*__, Redlands, CA 
+__Release Engineer, *Environmental Systems Research Institute (Esri) *__, Redlands, CA 
 
 `Current` 
-- `-` Continuous integration of automation for testing using Python and Selenium
-- `-` Perform quality assurance testing and manging the release of ArcGIS software systems
+
+- `-` Oversee release and testing of five enterprise/distributed, web, and mobile products,
+including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Map, Explorer, and Tracker 
+- `-` Maintain continuous automation of testing for ArcGIS Dashboard and ArcGIS Insights
+using Python, Selenium, and Jenkins
+- `-` Perform ArcGIS product certification and facilitiates release of ArcGIS products
+- `-` Communicate effectively across various teams at Esri
 
 `Jun. 2019 -`
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
