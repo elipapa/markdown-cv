@@ -33,7 +33,7 @@ using Python, Selenium, and Jenkins
 - `-` Communicate effectively across various teams at Esri
 
 `Jun. 2019 -`
-__Software Engineer Intern, *First International Computing, INC (FIC)*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
+__Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
 
 `Sep. 2019` 
 - `-` Designed, managed, and maintained tools to automate and optimize software
