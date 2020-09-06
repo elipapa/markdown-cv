@@ -55,7 +55,7 @@ __B.A Business Economics__   University of California, Riverside
 
 ## Skills  
 - __Language:__ C/C++, Python, JavaScript, HTML, CSS, SQL 
-- __Development:__ AWS, React.js, Node.js, Git, Docker, Unix/Linux, Django   
+- __Development:__ AWS, React.js, Node.js, Git, Docker, Unix/Linux, Django, Jenkins, Selenium   
 
 ## Personal Projects
 
