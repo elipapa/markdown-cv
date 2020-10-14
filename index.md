@@ -3,8 +3,8 @@ layout: cv
 title: Dalia Bogdan's CV
 ---
 # Dalia Bogdan
-Solutions Analyst Consultant
-Madrid 
+Software Developer
+Albacete 
 Spain
 +34 692 506 530
 
@@ -16,7 +16,7 @@ Spain
 
 ## Experience
 
-`2019 - present`
+`2019 - 2020`
 
 ##### Solutions Analyst, everis, Madrid.
 
@@ -61,7 +61,8 @@ __English__, Advanced
 
 __Scripting__: UNIX Shell Scripting
 __Database__: Oracle, PL/SQL, MySQL
+__Frontend__: HTML5, CSS3
 __Backend__: PHP
-__Systems__: GENEVA Biling System
+__Systems__: GENEVA Billing System
 __CRM__: Amdocs Smart Client 7.5
 __Repositories__: PVCS, Git, SVN
