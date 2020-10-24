@@ -93,24 +93,24 @@ Hughes Research Fellowship, University of Missouri
 Hughes Research Apprenticeship, University of Missouri
 
 ## Conference Presentations 
-2019. Wade Dismukes, Tracy Heath. “Using historical biogeographic models for cophylo- genetic analyses”, Submitted talk. Evolution, Providence, Rhode Island, USA.
+- 2019. Wade Dismukes, Tracy Heath. “Using historical biogeographic models for cophylo- genetic analyses”, Submitted talk. Evolution, Providence, Rhode Island, USA.
 
-2018. Wade Dismukes, Tracy Heath. “Evaluating a method for detecting hybridization using macroevolutionary simulator of phylogenomic data”, Lightning talk.
+- 2018. Wade Dismukes, Tracy Heath. “Evaluating a method for detecting hybridization using macroevolutionary simulator of phylogenomic data”, Lightning talk.
 Evolution, Montpellier, France
 
-2018. Wade Dismukes, Tracy Heath. “Evaluating a method for detecting hybridization using macroevolutionary simulator of phylogenomic data”, Lightning talk.
+- 2018. Wade Dismukes, Tracy Heath. “Evaluating a method for detecting hybridization using macroevolutionary simulator of phylogenomic data”, Lightning talk.
 Society of Systematic Biologists Meeting, Columbus, Ohio, USA.
 
-2017. Wade Dismukes, Tracy Heath. “A macroevolutionary simulator of phylogenomic data”, Poster.
+- 2017. Wade Dismukes, Tracy Heath. “A macroevolutionary simulator of phylogenomic data”, Poster.
 Evolution, Portland, Oregon, USA.
 
-2016. Wade Dismukes, Jocelyn Hall, Patrick Edger, J. Chris Pires. “Interrogating the genome evolution of the Cleomaceae using transcriptomic data”, Poster.
+- 2016. Wade Dismukes, Jocelyn Hall, Patrick Edger, J. Chris Pires. “Interrogating the genome evolution of the Cleomaceae using transcriptomic data”, Poster.
 Evolution, Austin, Texas, USA.
 
-2014. Wade Dismukes, Patrick Edger, J. Chris Pires, Heidi Appel, Jack C. Schultz.“Darwin’s peaches: grape-phylloxera galls interrogated by RNA-seq”, Poster.
+- 2014. Wade Dismukes, Patrick Edger, J. Chris Pires, Heidi Appel, Jack C. Schultz.“Darwin’s peaches: grape-phylloxera galls interrogated by RNA-seq”, Poster.
 Evolution, Raleigh, North Carolina, USA
 
-2014. Wade Dismukes, Patrick Edger, J. Chris Pires, Heidi Appel, Jack C. Schultz. “Darwin’s peaches: grape-phylloxera galls interrogated by RNA-seq”, Poster.
+- 2014. Wade Dismukes, Patrick Edger, J. Chris Pires, Heidi Appel, Jack C. Schultz. “Darwin’s peaches: grape-phylloxera galls interrogated by RNA-seq”, Poster.
 Botany, Boise, Idaho, USA
 
 ## Publications
