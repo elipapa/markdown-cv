@@ -5,7 +5,7 @@ title: Wade Dismukes' CV
 # Wade Dismukes
 
 <div id="webaddress">
-<a href="waded@iastate.edu">waded@iastate.edu/a>
+<a href="waded@iastate.edu">waded@iastate.edu</a>
 | <a href="https://www.wadedismukes.com/">wadedismukes.com</a>
 </div>
 
