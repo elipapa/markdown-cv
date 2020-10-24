@@ -50,13 +50,13 @@ __Undergraduate Research Assistant__
 
 ## Teaching experience
 `Spring 2018`
+__Graduate Teaching Assistant__
 - Human Phylsiology Lab (Biology 256L)
-- Graduate Teaching Assistant
 - Iowa State University
 
 `Fall 2017`
+__Graduate Teaching Assistant__
 - Introductory Biology Lab (Biology 211)
-- Graduate Teaching Assistant
 - Iowa State University
 
 ## Awards
