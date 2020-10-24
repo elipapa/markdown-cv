@@ -1,88 +1,162 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Wade Dismukes' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Wade Dismukes
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="waded@iastate.edu">waded@iastate.edu/a>
+| <a href="https://www.wadedismukes.com/">wadedismukes.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+A graduate candidate at <a href="https://www.iastate.edu"> Iowa State University </a> in the lab of Tracy Heath. 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Cophylogenetics, host-symbiont evolution, Bayesian phylogenetic methods, scientific software
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`July 2016 - current`
+__Iowa State University__
+- PhD. Student in Ecology & Evolutionary Biology
+- Advisor: Dr. Tracy Heath
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`August 2011 - May 2016`
+__University of Missouri - Columbia__
+- B.S. in Mathematics and Biology with Honors
 
-- Sizar
+## Research Experience 
+`July 2016 - current`
+__Graduate Research Assistant__
+- Department of Ecology, Evolution, and Organismal Biology
+- Iowa State University, Ames, Iowa
+- Advisor: Dr. Tracy Heath
 
-`1667 - death`
-__Trinity College, Cambridge__
+`June 2014 - May 2016`
+__Undergraduate Research Assistant__
+- University of Missouri, Columbia
+- Advisor: Dr. J. Chris Pires
 
-- Fellow
+`August 2011 - May 2014`
+__Undergraduate Research Assistant__
+- University of Missouri, Columbia
+- Advisors: Dr. Heidi Appel & Dr. Jack C. Schultz
 
 
+
+## Teaching experience
+`Spring 2018`
+- Human Phylsiology Lab (Biology 256L)
+- Graduate Teaching Assistant
+- Iowa State University
+
+`Fall 2017`
+- Introductory Biology Lab (Biology 211)
+- Graduate Teaching Assistant
+- Iowa State University
 
 ## Awards
 
+`2018`
+Travel Award Ecology and Evolutionary Biology Program, Iowa State University 
+
+`2016`
+Graduate Research Fellowship, National Science Foundation
+
+Miller Scholarship, Iowa State University
+
+Presidential Scholarship, Iowa State University
+
+Young Botanist of the Year Award, Botanical Society of America
+
+Colonel Arthur Allen Scholarship, University of Missouri
+
+`2014` 
+Undergraduate Research Travel Award, University of Missouri
+
+Life Sciences Undergraduate Research Opportunity, University of Missouri
+
+`2013`
+Undergraduate Research Travel Award, University of Missouri
+
+Monsanto Undergraduate Research Fund, University of Missouri 
+
 `2012`
-President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Hughes Research Fellowship, University of Missouri
 
+`2011`
+Hughes Research Apprenticeship, University of Missouri
 
+## Conference Presentations 
+2019. Wade Dismukes, Tracy Heath. “Using historical biogeographic models for cophylo- genetic analyses”, Submitted talk. Evolution, Providence, Rhode Island, USA.
+
+2018. Wade Dismukes, Tracy Heath. “Evaluating a method for detecting hybridization using macroevolutionary simulator of phylogenomic data”, Lightning talk.
+Evolution, Montpellier, France
+
+2018. Wade Dismukes, Tracy Heath. “Evaluating a method for detecting hybridization using macroevolutionary simulator of phylogenomic data”, Lightning talk.
+Society of Systematic Biologists Meeting, Columbus, Ohio, USA.
+
+2017. Wade Dismukes, Tracy Heath. “A macroevolutionary simulator of phylogenomic data”, Poster.
+Evolution, Portland, Oregon, USA.
+
+2016. Wade Dismukes, Jocelyn Hall, Patrick Edger, J. Chris Pires. “Interrogating the genome evolution of the Cleomaceae using transcriptomic data”, Poster.
+Evolution, Austin, Texas, USA.
+
+2014. Wade Dismukes, Patrick Edger, J. Chris Pires, Heidi Appel, Jack C. Schultz.“Darwin’s peaches: grape-phylloxera galls interrogated by RNA-seq”, Poster.
+Evolution, Raleigh, North Carolina, USA
+
+2014. Wade Dismukes, Patrick Edger, J. Chris Pires, Heidi Appel, Jack C. Schultz. “Darwin’s peaches: grape-phylloxera galls interrogated by RNA-seq”, Poster.
+Botany, Boise, Idaho, USA
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=Jc-qwJkAAAAJ&hl=en) -->
+Mabry, M. E., Brose, J. M., Blischak, P. D., Sutherland, B., **Dismukes, W. T.**, Bottoms, C. A., Edger, P. P., Washburn, J. D., et al. 2020. Phylogeny and multiple independent whole-genome duplication events in the Brassicales. American Journal of Botany 107( 8): 1148– 1164.
 
-### Journals
+## Workshop & Hackathon participation
+Stay-at-Home RevBayes Workshop, Online-only event, July 13, 2020, instructor
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+RevBayes Hackathon, LBBE, Lyon, France, August 13-17, 2018, participant
 
-`1669`
-Lectiones opticæ.
+RevBayes Hackathon, University of Minnesota, Minneapolis, Minnesota, March 1-5, 2018, participant
 
-etc. etc. etc.
+NIMBioS RevBayes Workshop, NIMBioS, Knoxville, Tennessee, August 2018, participant
 
-### Patents
+Woods Hole Workshop on Molecular Evolution, July 2013, participant
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Professional Service
+Ecology, Evolution and Organismal Biology Graduate Student Organization - President, 2019-2021
 
 
+## Software
+
+RevBayes (C/C++) - Bayesian phylogenetic inference using probabilistic graphical model and an interpreted language (developer; http://revbayes.github.io)
+
+treeducken (R/C++) - R package for simulation of cophylognetic data (creator, maintainer, https://cran.r-project.org/web/packages/treeducken/index.html)
+
+
+## Professional Affiliations
+Society of Systematic Biology
+
+American Society of Naturalists
+
+Phi Beta Kappa, Alpha of Missouri Chapter
+
+## Outreach Activities
+Department of Energy - Science Bowl Judge - January 26, 2019
+– Ensured science bowl teams followed rules and moderator correctly read questions.
+
+Preparing Summer Undergraduate Research Applications for Underrepresented Stu dents. STEM Scholars Program Workshop. January 8, 2018.
+– Provided advice, personal experiences of getting into research, and 1-on-1 editing of application materials.
+
+Undergraduate Research Ambassador, University of Missouri 2013 - 2016. 
+– Fostered the participation of undergraduate students in research. 
+– Organized annual undergraduate research symposium.
 
 <!-- ### Footer
 
