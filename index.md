@@ -149,17 +149,20 @@ Phi Beta Kappa, Alpha of Missouri Chapter
 
 ## Outreach Activities
 __Department of Energy - Science Bowl Judge - January 26, 2019__
+
 – Ensured science bowl teams followed rules and moderator correctly read questions.
 
 __Preparing Summer Undergraduate Research Applications for Underrepresented Stu dents. STEM Scholars Program Workshop. January 8, 2018.__
+
 – Provided advice, personal experiences of getting into research, and 1-on-1 editing of application materials.
 
 __Undergraduate Research Ambassador, University of Missouri 2013 - 2016.__
+
 – Fostered the participation of undergraduate students in research. 
 – Organized annual undergraduate research symposium.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2020 -->
 
 
