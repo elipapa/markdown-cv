@@ -8,7 +8,7 @@ For more details, see the [markdown-csv project page](http://elipapa.github.io/m
 
 ## Customization
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
 
 ![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
