@@ -1,91 +1,81 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lauren Miyoko Furushima's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lauren Miyoko
+Looking towards the future and the technological possibilities. Hungry to be apart of a team and work on life-changing projects.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="laurenmiyoko@gmail.com">laurenmiyoko@gmail.com</a>
+| <a href="laurenmiyoko.com">laurenmiyoko.com</a>
+  password: L3tMeIn
 </div>
 
 
-## Currently
+### Relevant Skills
 
-Standing on the shoulders of giants
+Visual design, problem solving, sketching, concept development, wireframing, UI design
 
-### Specialized in
+### Design Tools
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Adobe Illustrator, Adobe XD, Photoshop, Figma, JIRA, Slack
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2020`
+-Industrial Design, M.F.A
+__Rochester Institute of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2018`
+-Advanced Certificate in User Experience Design and Development
+__Rochester Institute of Technology__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2012-2016`
+-Studio Fine Art, B.F.A, 2012-2016
+__Rochester Institute of Technology__
 
 
 
-## Publications
+## Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020 - Present`
+Product Designer, *CSS Health*
 
-### Journals
+Collaborating with Product Managers to ship new product features based on client feedback. Designing and working with developers to implement a telehealth option for our users within the platform. Pitched ideas to leadership team.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`Fall 2019 - Winter 2019`
+Graduate Design Research Assistant, *Rochester Institute of Technology*
 
-`1669`
-Lectiones opticæ.
+Researched human interactions that were associated with the rise in technology. The findings were culminated in a presentation that was then presented at an experiential design conference.
 
-etc. etc. etc.
+`Summer 2019`
+Product Design Intern, *Studio930*
+
+Oversaw the design of systemic solutions to improve patient confidence and engagement as well as doctors’ experiences. Led semiweekly critiques with teammates in addition to guiding the design of these healthcare based projects.
+
+
+## Presentations
+
+`January 2020`
+Presenter, *Experiential Design - Rethinking relations
+between people, objects and environments*
+
+Presented at Florida State University’s Architure, Media, Politics, Society (AMPS) on the decline of face-to-face interaction of daily human activity and experiential ways to solve this problem.
+
+`Fall 2019`
+Presenter, *How Thinking? Graduate Research Symposium*
+Invited to present on the importance of design and design thinking to an multidisciplinary audience.
+
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`February 2020`
+Male Urine Splash Guard, Patent issuer and numberus 16793757
+The male urine splash guard is a portable device used by men to aid in urination and, specifically, minimize and splashing resulting from the urine stream.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 
