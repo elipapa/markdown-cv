@@ -233,7 +233,7 @@ Interazioni cellulari e molecolari tra fungi e metalli pesanti
 ### Dal 2005<br>Al 2009
 
 `Titolo`
-Dottorato in Biologia e Biotecnologia dei funghi [Allegato]
+Dottorato in Biologia e Biotecnologia dei funghi [[Allegato A](allegati/AllegatoA.pdf)]
 
 `Ente`
 Università degli Studi d Torino
@@ -247,7 +247,7 @@ Eccelente
 ### Dal 1999<br>Al 2005
 
 `Titolo`
-Laurea in Biotecnologie Agrarie e Vegetali [Allegato]
+Laurea in Biotecnologie Agrarie e Vegetali [[Allegato B](allegati/AllegatoB.pdf)]
 
 `Ente`
 Università degli Studi diTorino
@@ -261,37 +261,38 @@ Prof. Silvia Perotto
 ## Corsi frequentati
 
 ### Educazione
-- 24 crediti formativi universitari nelle discipline antropo-psico-pedagogiche e metodologie e tecnologie didattiche (24 CFU) [Allegato A](allegati/AllegatoA.pdf)
-- Data Carpentry instructor training (Carpentry foundation) [Allegato B](allegati/AllegatoB.pdf)
-- Software Carpentry instructor training (Carpentry foundation) [Allegato C](allegati/AllegatoC.pdf)
-- Bioinformatics for Core Facility Managers (European Bioinformatics Institute) [Allegato D](allegati/AllegatoD.jpg)
-- ELIXIR-EXCELERATE Train the Trainer course (ELIXIR-IT) [Allegato E](allegati/AllegatoE.pdf)
+- 24 crediti formativi universitari nelle discipline antropo-psico-pedagogiche e metodologie e tecnologie didattiche (24 CFU) [[Allegato C](allegati/AllegatoC.pdf)]
+- Data Carpentry instructor training (Carpentry foundation) [[Allegato D](allegati/AllegatoD.pdf)]
+- Software Carpentry instructor training (Carpentry foundation) [[Allegato E](allegati/AllegatoE.pdf)]
+- Bioinformatics for Core Facility Managers (European Bioinformatics Institute) [[Allegato F](allegati/AllegatoF.jpg)]
+- ELIXIR-EXCELERATE Train the Trainer course (ELIXIR-IT) [[Allegato G](allegati/AllegatoG.pdf)]
 
 ### Modelli statistici e machine learning
-- Machine Learning with caret in R (DataCamp) [Allegato F](allegati/AllegatoF.pdf)
-- Introduction to Statistical Modeling in R (DataCamp) [Allegato G](allegati/AllegatoG.pdf)
-- Machine Learning (Coursera) [Allegato]
+- Machine Learning with caret in R (DataCamp) [[Allegato H](allegati/AllegatoH.pdf)]
+- Introduction to Statistical Modeling in R (DataCamp) [[Allegato I](allegati/AllegatoI.pdf)]
+- Machine Learning (Coursera) [[Allegato L](allegati/AllegatoL.pdf)]
 
 ### Analisi Dati
-- R object-oriented programming and package development (University of Cambridge, United Kingdom)
-- The Data Scientists Toolbox (Coursera) [Allegato]
-- R programming (Coursera) [Allegato]
-- Reproducible research (Coursera) [Allegato]
-- Getting and cleaning data (Coursera) [Allegato]
+- R object-oriented programming and package development (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
+- The Data Scientists Toolbox (Coursera) [[Allegato N](allegati/AllegatoP.pdf)]
+- R programming (Coursera) [[Allegato O](allegati/AllegatoO.pdf)]
+- Reproducible research (Coursera) [[Allegato P](allegati/AllegatoP.pdf)]
+- Getting and cleaning data (Coursera) [[Allegato Q](allegati/AllegatoQ.pdf)]
+- Exploratory data analysis (Coursera) [[Allegato R](allegati/AllegatoR.pdf)]
 - The Basics of Data for Analytics (Lynda.com)
 - Data Visualization for Data Analysts( Lynda.com)
 
 ### Analisi di serie temporali
-- ARIMA modeling in R (DataCamp) [Allegato]
-- Introduction to time series analysis (DataCamp) [Allegato]
+- ARIMA modeling in R (DataCamp) [[Allegato S](allegati/AllegatoS.pdf)]
+- Introduction to time series analysis (DataCamp) [[Allegato T](allegati/AllegatoT.pdf)]
 
 ### Analisi bioinformatiche
-- Analysis of single cell RNA-seq data (University of Cambridge, United Kingdom)
-- Molecular Phylogenetics (University of Cambridge, United Kingdom)
-- Using the Ensembl Genome Browser (University of Cambridge, United Kingdom)
-- An Introduction to Solving Biological Problems with PERL (University of Cambridge, United Kingdom)
+- Analysis of single cell RNA-seq data (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
+- Molecular Phylogenetics (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
+- Using the Ensembl Genome Browser (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
+- An Introduction to Solving Biological Problems with PERL (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
 - Statistics and R for the Life Sciences (University of Cambridge, United Kingdom)
-- Exploring Protein Sequenceand Functional Information with UniProt (University of Cambridge, United Kingdom)
+- Exploring Protein Sequenceand Functional Information with UniProt (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
 - International Course in Automated Functional Annotation and Data Mining (BioBam Company)
 
 ### Database relazionali
@@ -300,14 +301,14 @@ Prof. Silvia Perotto
 - Relational Database Fundamentals (Lynda.com)
 
 ### Altri corsi
-- Docker for reproducibility (Elixir Workshop - University of Turin) [Allegato]
-- Beginners guide to version control with git (University of Cambridge, United Kingdom)
+- Docker for reproducibility (Elixir Workshop - University of Turin) [[Allegato U](allegati/AllegatoU.pdf)]
+- Beginners guide to version control with git (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
 - Git Essential Training (Lynda.com)
 - Up and Running with vi (Lynda.com)
 - Foundations of UX: Content Strategy (Lynda.com)
 - Falcon: An Introduction for Content and Site Managers (University of Cambridge, United Kingdom)
 - Web Authoring: HTML - Cascading Style Sheets (University of Cambridge, United Kingdom)
-- Visualizing Geospatioal data in R [Allegato]
+- Visualizing Geospatioal data in R [[Allegato V](allegati/AllegatoV.pdf)]
 
 ## Attività di ricerca
 
@@ -323,13 +324,13 @@ Nei 2 anni successivi proseguo la mia formazione da bioinformatico e esperto di 
 
 Alla fine del 2018 decido di interrompere il contratto presso l'Università di Cambridge e tornare in Italia, dove dopo una breve esperienza nel mondo della business analysis, capisco che l'amore per la biologia vegetale e' più forte di qualsiasi sicurezza lavorativa. Ho iniziato a lavorare nel luglio 2018 presso il CNR di Torino, Istituto per la Protezione Sostenibile delle Piante, nel laboratorio del Dott. M. Turina su un progetto H2020 che mi vede impegnato nell'analisi di dati di metatranscrittomica per identificare il viroma di piante, funghi ed insetti.
 
-Nel novembre 2020 ho ricevuto l'Abilitazione Scientica Nazionale per il settore 05/A1 (https://asn18.cineca.it/pubblico/miur/esito/05%252FA1/2/5).
+Nel novembre 2020 ho ricevuto l'Abilitazione Scientica Nazionale per il settore 05/A1 [[Allegato AC](allegati/AllegatoAC.pdf)].
 
 ### Progetti presenti
 
 Virome NGS analysis of pests and pathogens for plant protection, H2020 project, CNR, Istituto per la Protezione Sostenibile delle Piante, Torino. Vincitore di un posto da ricercatore a tempo determinato (1 anno, rinnovato di 9 mesi). Responsabile dell'analisi bioinformatiche volte a identificare il viroma di *Plasmopara viticola* (patogeno causa della peronospora della vite) e di *Erysiphe necator* (patogeno causa dell'oidio della vite). Attraverso collaborazioni internazionali la ricerca ha portato alla pubblicazione di un articolo su nuovi virus di vite identificati (Chiapello et al., 2019), di un articolo sul viroma della peronospora (Chiapello et al., 2020) a uno sul viroma dell'oidio (Rodriguez et al., 2020, submitted).
 
-Sono uno dei promotori e fondatori dell'IBiG (Istituto per la Protezione Sostenibile delle Piante Bioinformatic Group). La missione dell'IBiG prevede: fornire assistenza su misura nella progettazione sperimentale di sequenziamenti NGS, nelle analisi e nell’interpretazione dei dat; formare ed educare studenti e personale accademico su concetti di bioinformatica e buone pratiche di gestione dei dati; partecipare regolarmente a seminari, congressi e riunioni che consentano lo scambio delle migliori pratiche di analisi dei dati e l’aggiornamento sugli ultimi approcci e strumenti di bioinformatica; fare rete con altri gruppi bioinformatici nazionali e internazionali, condividere informazioni ed esperienze e contribuire a formare una vivace comunità di bioinformatica.
+Sono uno dei promotori e fondatori dell'IBiG (Istituto per la Protezione Sostenibile delle Piante Bioinformatic Group) [[Allegato AD](allegati/AllegatoAD.pdf)]. La missione dell'IBiG prevede: fornire assistenza su misura nella progettazione sperimentale di sequenziamenti NGS, nelle analisi e nell’interpretazione dei dat; formare ed educare studenti e personale accademico su concetti di bioinformatica e buone pratiche di gestione dei dati; partecipare regolarmente a seminari, congressi e riunioni che consentano lo scambio delle migliori pratiche di analisi dei dati e l’aggiornamento sugli ultimi approcci e strumenti di bioinformatica; fare rete con altri gruppi bioinformatici nazionali e internazionali, condividere informazioni ed esperienze e contribuire a formare una vivace comunità di bioinformatica.
 
 Phage search in insect vector microbiome - PHASER, DISBA project, CNR, Istituto per la Protezione Sostenibile delle Piante, Torino. Vincitore con la dott.ssa Marta Vallino del finanziamento di Dipartimento del progetto PHASER per identificare  la presenza di batteriofagi in quattro insetti vettori di malattie delle piante con due approcci: un approccio innovativo e originale basato su analisi di sequenze di RNAseq (di cui sono il responsabile) e un approccio classico, basato su osservazioni al microscopio elettronico.
 
@@ -544,8 +545,10 @@ dal 27-05-2019 al 28-05-2019
 
 ## Comitati editoriali 
 
-Dall’aprile del 2020 sono Special Issue Editor della rivista Life (ISSN 2075-1729) per lo special issue “Plant Proteomics” (https://www.mdpi.com/journal/life/special_issues/PlantProteomics). L’uscita è prevista nel 2021.    
+Dall’aprile del 2020 sono Special Issue Editor della rivista Life (ISSN 2075-1729) per lo special issue “Plant Proteomics” (https://www.mdpi.com/journal/life/special_issues/PlantProteomics). L’uscita è prevista nel 20. [[Allegato AE](allegati/AllegatoAE.pdf)]
+
 Dall'aprile 2020 sono membro dell' Editorial Board di Plant Symbiotic Interactions (special section of Frontiers in Plant Science) in  qualità  Review Editor.   
+
 Da giugno 2020 sono membro dell’Editorial Board di Microbe and Virus Interactions with Plants (special section of Frontiers in Microbiology) in qualità  Review Editor. 
 
 
@@ -601,7 +604,7 @@ Scienze delle Vita e Biologia dei Sistemi
 Corso di laurea magistrale in Scienze dei Sistemi naturali
 <br>
 `Insegnamento`
-Biologia delle interazioni [Allegato]
+Biologia delle interazioni [[Allegato Z](allegati/AllegatoZ.pdf)]
 
 <br><br>
 
@@ -621,7 +624,7 @@ Scienze delle Vita e Biologia dei Sistemi
 Corso di laura magistrale in Biologia dell'ambiente
 <br>
 `Insegnamento`
-Interazioni tra piante, microrganismi e ambiente [Allegato]    
+Interazioni tra piante, microrganismi e ambiente [[Allegato AA](allegati/AllegatoAA.pdf)]    
 1 CFU di questo corso e' mutuato con il corso precedente di Biologia delle interazioni
 
 <br><br>
@@ -824,7 +827,7 @@ University of Cambridge, United Kingdom
 Studenti di dottorato, ricercatori, postDoc e PI
 <br>
 `Insegnamento`
-R Data Carpentry [link] [Allegato]
+R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 
 <br><br>
 
@@ -841,7 +844,7 @@ University of Cambridge, United Kingdom
 Studenti di dottorato, ricercatori, postDoc e PI
 <br>
 `Insegnamento`
-Data analysis and Visualization in R [Allegato]
+Data analysis and Visualization in R [[Allegato AB](allegati/AllegatoAB.pdf)]
 
 <br><br>
 
@@ -875,7 +878,7 @@ University of Cambridge, United Kingdom
 Studenti di dottorato, ricercatori, postDoc e PI
 <br>
 `Insegnamento`
-R Data Carpentry [link] [Allegato]
+R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 
 
 <br><br>
@@ -953,10 +956,8 @@ Per il master di primo livello "Controllo Biologico dei processi e dei prodotti 
 `AA 2019-2020`
 Sono stato "Mentoring chair" della fondazione "The Carpentries". Ho coordinato a livello modiale la selezione, l'organizzazione e la discussione finale degli studenti e dei mentori per hanno partecipato al programma. Maggiori informazioni sul programma possono essere trovate qui: https://carpentries.org/inst-dev/
 
-Torino, il 30/07/2019 Firma
+<br><br>
+Torino, il 14/12/2020 
+<br><br>
 Autorizzo il trattamento e la comunicazione dei dati personali ai sensi del D.L. 196/03
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
 
