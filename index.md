@@ -15,7 +15,7 @@ title: Sean Lo's Resume
 </div>
 
 ## Technical Skills  
-- __Language:__ Python, C/C++, JavaScript, HTML, CSS, SQL 
+- __Languages:__ Python, C/C++, JavaScript, HTML, CSS, SQL 
 - __Development:__ AWS, React.js, Node.js, Git, Django, Jenkins, Selenium, Postgre, Docker  
 
 ## Experiences  
@@ -25,12 +25,12 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 
 `Current` 
 
-- `-` Oversee release and testing of five enterprise, web, iOS, and Android applications/products including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture and ArcGIS Tracker 
-- `-` Build and maintain automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins.
-- `-` Create test plans and build test matrices as part of the product release cycle.
-- `-` Execute tests on Release Candidates for product releases.
-- `-` Collaborate with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases. 
-- `-` Take ownership for the overall quality of products I am responsible for testing.
+- `-` Oversee release and testing of five enterprise, web, iOS, and Android products, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker 
+- `-` Build and maintain automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins
+- `-` Create test plans and build test matrices as part of the product release cycle
+- `-` Execute tests on Release Candidates for product releases
+- `-` Collaborate with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
+- `-` Take ownership for the overall quality of products I am responsible for testing
 
 `Jun. 2019 -`
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
@@ -46,13 +46,13 @@ and omitted the need for boilerplates
 ## Education
 
 `Sep. 2017 -`
-__B.S Computer Science__   Oregon State University
+__B.S. Computer Science__   Oregon State University
 
 `Dec. 2019` 
 - GPA 3.8 / 4.0
 
 `Sep. 2013 -` 
-__B.A Business Economics__   University of California, Riverside
+__B.A. Business Economics__   University of California, Riverside
 
 `Jun. 2017`
 - GPA 3.5 / 4.0 
@@ -62,7 +62,7 @@ __B.A Business Economics__   University of California, Riverside
 `Nov. 2019` 
 __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> <font color="blue"> Project </font> </a>
 
-- `-` Coacted in a three people agile-development team to develop a product that allows users to locate/organize study groups
+- `-` Coacted in a three person agile-development team to develop a product that allows users to locate/organize study groups
 - `-` Deployed, hosted, and certified product on AWS's EC2, complete with database access and elastic load balancing 
 - `-` Utilized Typescript with React framework for front-end and Node.js for back-end development
 
@@ -71,7 +71,7 @@ __CoffeeChat__
 
 - `-` Created a dynamic forum/blog that connects individuals with the option to join groups 
 - `-` Deployed and hosted on Amazon Web Service and Trello for team/task management 
-- `-` Utilized HTML, CSS, and JavaScript for front-end and python and Django for back-end
+- `-` Utilized HTML, CSS, and JavaScript for front-end and Python and Django for back-end
 
 `Apr. 2018` 
 __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> <font color="blue"> Presentation </font> </a>
@@ -84,5 +84,5 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 `Aug. 2018 -` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
-`March 2020` - `-` Communicated effectively with the team and upheld an open work environment
+`Mar. 2020` - `-` Communicated effectively with the team and upheld an open work environment
 - `-` Built a culture of warmth, positivity, and human connection while interacting with the community  
