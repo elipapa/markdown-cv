@@ -14,11 +14,11 @@ title: Sean Lo's Resume
   <font color="black">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
 </div>
 
-# Technical Skills  
+### Technical Skills  
 - __Language:__ Python, C/C++, JavaScript, HTML, CSS, SQL 
 - __Development:__ AWS, React.js, Node.js, Git, Django, Jenkins, Selenium, Postgre, Docker  
 
-# Experiences  
+### Experiences  
 
 `Jun. 2020 -`
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
@@ -41,7 +41,7 @@ and omitted the need for boilerplates
 - `-` Utilized C, C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js, and React
 
 
-# Education
+### Education
 
 `Sep. 2017 -`
 __B.S Computer Science__   Oregon State University
@@ -55,7 +55,7 @@ __B.A Business Economics__   University of California, Riverside
 `Jun. 2017`
 - GPA 3.5 / 4.0 
 
-# Personal Projects
+### Personal Projects
 
 `Nov. 2019` 
 __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> <font color="blue"> Project </font> </a>
@@ -78,7 +78,7 @@ __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77
 - `-` Implemented Google Maps API to provide an interactive map with search tools 
 - `-` Utilized HTML, CSS, and JavaScript for front-end and Node.js for back-end development
 
-# Other Experience  
+### Other Experience  
 `Aug. 2018 -` 
 __Barista, *Philz Coffee*__, Fremont, CA  
 
