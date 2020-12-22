@@ -25,12 +25,12 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 
 `Current` 
 
-- Oversee release and testing of five enterprise, web, iOS, and Android applications/products including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture and ArcGIS Tracker 
-- Build and maintain automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins.
-- Create test plans and build test matrices as part of the product release cycle.
-- Execute tests on Release Candidates for product releases.
-- Collaborate with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases. 
-- Take ownership for the overall quality of products I am responsible for testing.
+- `-` Oversee release and testing of five enterprise, web, iOS, and Android applications/products including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture and ArcGIS Tracker 
+- `-` Build and maintain automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins.
+- `-` Create test plans and build test matrices as part of the product release cycle.
+- `-` Execute tests on Release Candidates for product releases.
+- `-` Collaborate with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases. 
+- `-` Take ownership for the overall quality of products I am responsible for testing.
 
 `Jun. 2019 -`
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.slideshare.net/slideshow/embed_code/key/8Q79mh33AwR0jS"> <font color="blue"> Presentation </font> </a>
