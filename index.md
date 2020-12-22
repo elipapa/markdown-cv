@@ -14,7 +14,7 @@ title: Sean Lo's Resume
   <font color="black">|</font> <a href="https://github.com/syranol"><font color="blue">github.com/syranol</font></a> 
 </div>
 
-### Technical Skills  
+##### Technical Skills  
 - __Language:__ Python, C/C++, JavaScript, HTML, CSS, SQL 
 - __Development:__ AWS, React.js, Node.js, Git, Django, Jenkins, Selenium, Postgre, Docker  
 
