@@ -19,7 +19,7 @@ Curriculum Scientifico e Professionale
 </div>
 
 ## Keywords
-Plant-microbe interaction, Computational Biology, Omics integration, OpenScience, Reproducible research
+Plant Biology, Plant-microbe interaction, Computational Biology, OpenScience, Reproducible research
 
 ## Dati personali
 
@@ -302,6 +302,7 @@ Prof. Silvia Perotto
 
 ### Altri corsi
 - Docker for reproducibility (Elixir Workshop - University of Turin) [[Allegato U](allegati/AllegatoU.pdf)]
+- Working with Containers: Docker & Docker Compose (Educative.io) [[Allegato AF]](allegati/AllegatoAF.pdf)
 - Beginners guide to version control with git (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
 - Git Essential Training (Lynda.com)
 - Up and Running with vi (Lynda.com)
