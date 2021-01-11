@@ -60,7 +60,6 @@ Dott. Massimo Turina
 Virome NGS analysis of pests and pathogens for plant protection (VIROPLANT - H2020)<br>
 Project ID: 773567
 
-
 ## Esperienze lavorative
 
 ### Dal 04-07-2018<br>Al 02-11-2019
@@ -227,7 +226,6 @@ Prof. Silvia Perotto
 `Progetti`
 Interazioni cellulari e molecolari tra fungi e metalli pesanti
 
-
 ## Formazione
 
 ### Dal 2005<br>Al 2009
@@ -374,7 +372,7 @@ Nel novembre 2020 ho ricevuto l'Abilitazione Scientica Nazionale per il settore 
 ### Progetti di ricerca
 
 `2009-2010`
-Studio dei meccanismi cellulari e molecolari che regolano l’interazione tra funghi del suolo e metalli pesanti. Come vincitore dell’assegno di ricerca, svolto presso il Dipartimento di Biologia Vegetale dell’Università degli Studi di Torino, ho svolto il ruolo di principale responsabilità per gli aspetti scientifici studiando i cambiamenti nell'espressione proteica di due funghi (*Oidiodendron maius* e *Fusarium oxysporum*) in condizioni di stress derivato dalla presenza di metalli pesanti. Questi lavori hanno portato alla pubblicazione di un articolo per fungo (F. oxysporum: Chiapello et al., 2010; O. maius: Chiapello et al., 2015).
+Studio dei meccanismi cellulari e molecolari che regolano l’interazione tra funghi del suolo e metalli pesanti. Come vincitore dell’assegno di ricerca, svolto presso il Dipartimento di Biologia Vegetale dell’Università degli Studi di Torino, ho svolto il ruolo di principale responsabilità per gli aspetti scientifici studiando i cambiamenti nell'espressione proteica di due funghi (*Oidiodendron maius* e *Fusarium oxysporum*) in condizioni di stress derivato dalla presenza di metalli pesanti. Questi lavori hanno portato alla pubblicazione di un articolo per fungo (*F. oxysporum*: Chiapello et al., 2010; *O. maius*: Chiapello et al., 2015).
 
 `2010-2013`
 PolarX: Pioneering in vivo proteomics and in planta live imaging for plant cell polarity. Università di Losanna, Svizzera. Vincitore di una fellowship della durata di 3 anni con l’obiettivo di decodificare il complesso network molecolare dello sviluppo della polarità cellulare. In particolare mi sono occupato dello studio delle proteine specifiche situate sulla membrana peri-arbuscolare nelle simbiosi micorriziche arbuscolari (progetto Towards deciphering plant-fungal dialogues, di cui avevo la responsabilità scientifica). La fellowship è stata poi rinnovata per 3 mesi (fino a completamento del progetto), durante i quali sono state effettuate le analisi bioinformatiche dei dati di proteomica raccolti negli anni precedenti. 
@@ -407,8 +405,6 @@ Phage search in insect vector microbiome - PHASER, DISBA project, CNR, Istituto 
 ### Prospettive future
 
 Nel futuro vorrei continuare a lavorare con metodologie -omics, utilizzando la biologia computazionale per rispondere a complesse domande biologiche su piante e le loro interazioni con altri microorganismi mutualistici/simbiotici o patogeni. Tecniche recentemente sviluppate come single cell transcriptomics, single cell proteomics, spatial transcriptomics dischiudono le porte ad un nuovo approccio alla studio delle interazioni tra gli organismi: come comunicano, come interagiscono, quali risposte attivano nell'ospite a livello di singola cellula. Ritengo cha la mia formazione a cavallo tra wet e dry lab mi renda un candidato qualificato per sviluppare progetti innovativi che richiedano avanzate competenze statistiche, informatiche e di biologia delle interazioni. Negli ultimi hanno ho avuto l'oppurtunità di lavorare in diversi laboratori in Italia e in Europa, questo mi ha permesso di  incontrare molti biologi vegetali e a costruire un network di possibili partners per progetti, come è stato per lo sviluppo di un pacchetto statistico di R sviluppato in collaborazione con la Prof. Gutjahr attualmente all'Università di Monaco in Germania, ma conosciuta a Losanna durante il mio primo PostDoc. 
-
-
 
 ## Pubblicazioni
 `In sottomissione`
@@ -626,6 +622,7 @@ Collaborazione con Revelo (https://revelodatalabs.com/), per analisi bioinformat
 - Intermedio: Zoom, GoToMeeting, Meet, Webex, TeamViewer, Trello, Etherpad
 - Avanzato: Version control (git), GitLab, GitHub, Bitbucket, Google Drive, Dropbox, Mega, Skype, Slack
 
+
 ## Competenze linguistiche
 ### Italiano
 `ILR`
@@ -659,6 +656,8 @@ Intermedio
 
 ## Commissario in commissioni per assegni di ricerca
 
+Selezione pubblica (numero di proteocollo IPSP 055 2020 TO) per il  conferimento di un assegno di ricerca professionalizzante per lo svolgimento di attività di ricerca nell'ambito del progetto VIROPLANT ("Virome NGS analysis of pests and pathogens for plant protection")
+
 ## Organizzazione congressi
 
 - Growing Inclusive, Computational Communities and Leaders, The Carpentries (https://2020.carpentrycon.org/task-force/)    
@@ -674,7 +673,6 @@ Dall'aprile 2020 sono membro dell' Editorial Board di Plant Symbiotic Interactio
 
 Da giugno 2020 sono membro dell’Editorial Board di Microbe and Virus Interactions with Plants (special section of Frontiers in Microbiology) in qualità  Review Editor. 
 
-
 ## Attivita' di insegnamento
 
 ### Filosofia di insegnamento
@@ -688,11 +686,10 @@ Vorrei dedicare poche righe a delineare la mia idea di insegnamento, argomento p
 **Insegnare e' empatia**: lo sviluppo personale degli studenti influenza l'atmosfera dell'intera classe e influenza di conseguenza l'apprendimento. L'interazione e l'atmosfera tra studenti e docente e tra studenti in un'aula universitaria e' fondamentale.    
 **Insegnare e' imparare**: insegnare e' mettersi in gioco, parlare davanti ad un'aula piena di giovani menti desiderose di imparare. A volte bisogna ammettere di non saper qualcosa o di aver sbagliato qualcosa, l'errore e' parte fondamentale del processo di apprendimento, anche per il docente.
 
-
-### Corsi insegnati
+### Corsi Universitari
 
 `Periodo`
-Primo semestre 2021 - 12 ore [Programmato]
+AA 2020/2021 - 12 ore [In programma]
 <br>
 `Qualifica`
 Docente
@@ -703,8 +700,8 @@ Università degli Studi di Torino
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
 <br>
-`Studenti`
-Studenti di dottorato
+`Corso`
+Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
 <br>
 `Insegnamento`
 PhDToolbox - Ricerca riproducibile in R 
@@ -712,7 +709,146 @@ PhDToolbox - Ricerca riproducibile in R
 <br><br>
 
 `Periodo`
-Gennaio 2021 - 16 ore (Remoto) [Programmato]
+AA 2020/2021 - 8 ore (1 CFU)
+<br>
+`Qualifica`
+Docente
+<br>
+`Ente`
+Universita' degli Studi di Torino
+<br>
+`Dipartimento`
+Scienze delle Vita e Biologia dei Sistemi
+<br>
+`Corso`
+Corso di laurea magistrale in Scienze dei Sistemi naturali
+<br>
+`Insegnamento`
+Biologia delle interazioni [[Allegato Z](allegati/AllegatoZ.pdf)]
+
+<br><br>
+
+`Periodo`
+AA 2020/2021 - 16 ore (2 CFU)
+<br>
+`Qualifica`
+Docente
+<br>
+`Ente`
+Universita' degli Studi di Torino
+<br>
+`Dipartimento`
+Scienze delle Vita e Biologia dei Sistemi
+<br>
+`Corso`
+Corso di laura magistrale in Biologia dell'ambiente
+<br>
+`Insegnamento`
+Interazioni tra piante, microrganismi e ambiente [[Allegato AA](allegati/AllegatoAA.pdf)]    
+1 CFU di questo corso e' mutuato con il corso precedente di Biologia delle interazioni
+
+
+<br><br>
+
+`Periodo`
+AA 2019/2020 - 24 ore (3 CFU)
+<br>
+`Qualifica`
+Professore a Contratto
+<br>
+`Ente`
+Università degli Studi di Torino
+<br>
+`Corso`
+Studenti del master in "Controllo Biologico dei processi e dei prodotti dell'industria"
+<br>
+`Insegnamento`
+Data Analysis (https://mchiapello.github.io/Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019/)
+
+<br><br>
+
+`Periodo`
+Giugno 2020 - 16 ore (Remoto) (2 CFU)
+<br>
+`Qualifica`
+Docente
+<br>
+`Ente`
+Università degli Studi di Torino
+<br>
+`Dipartimento`
+Scienze delle Vita e Biologia dei Sistemi
+<br>
+`Corso`
+Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
+<br>
+`Insegnamento`
+PhDToolbox - Ricerca riproducibile in R (https://phd-toolbox-course.github.io/2020_PhD_Toolbox_course/)
+
+<br><br>
+
+`Periodo`
+AA 2017/2018 - 24 ore (3 CFU)
+<br>
+`Qualifica`
+Docente
+<br>
+`Ente`
+Università degli Studi di Torino
+<br>
+`Dipartimento`
+Scienze delle Vita e Biologia dei Sistemi
+<br>
+`Corso`
+Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
+<br>
+`Insegnamento`
+PhDToolbox - Ricerca riproducibile in R (https://phd-toolbox-course.github.io/2018_PhD_Toolbox_course/)
+
+<br><br>
+
+`Periodo`
+Gennaio 2017 - 32 ore (4 CFU)
+<br>
+`Qualifica`
+Docente
+<br>
+`Ente`
+Università degli Studi di Torino
+<br>
+`Dipartimento`
+Scienze delle Vita e Biologia dei Sistemi
+<br>
+`Corso`
+Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
+<br>
+`Insegnamento`
+PhDToolbox - Ricerca riproducibile in R [https://phd-toolbox-course.github.io/2017_PhD_Toolbox_course/]
+
+<br><br>
+
+`Periodo`
+Luglio 2016 - 24 ore (3 CFU)
+<br>
+`Qualifica`
+Docente
+<br>
+`Ente`
+Università degli Studi di Torino
+<br>
+`Dipartimento`
+Scienze delle Vita e Biologia dei Sistemi
+<br>
+`Corso`
+Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
+<br>
+`Insegnamento`
+PhDToolbox - Ricerca riproducibile in R [https://github.com/PhD-Toolbox-course/201606_Rcourse]
+
+### Workshop
+
+`Periodo`
+Gennaio 2021 - 16 ore (Remoto) [In programma]
 <br>
 `Qualifica`
 Docente
@@ -728,47 +864,6 @@ Studenti di dottorato, ricercatori, postDoc e PI
 <br>
 `Insegnamento`
 Corso intermedio di R (https://ipsp-cnr-bioinformatics.github.io/2020-Intermidiate-R-CNR/)
-
-<br><br>
-
-`Periodo`
-Novembre 2020 - 8 ore (1 CFU)
-<br>
-`Qualifica`
-Docente
-<br>
-`Ente`
-Universita' degli Studi di Torino
-<br>
-`Dipartimento`
-Scienze delle Vita e Biologia dei Sistemi
-<br>
-`Studenti`
-Corso di laurea magistrale in Scienze dei Sistemi naturali
-<br>
-`Insegnamento`
-Biologia delle interazioni [[Allegato Z](allegati/AllegatoZ.pdf)]
-
-<br><br>
-
-`Periodo`
-Novembre-Dicembre 2020 - 16 ore (2 CFU)
-<br>
-`Qualifica`
-Docente
-<br>
-`Ente`
-Universita' degli Studi di Torino
-<br>
-`Dipartimento`
-Scienze delle Vita e Biologia dei Sistemi
-<br>
-`Studenti`
-Corso di laura magistrale in Biologia dell'ambiente
-<br>
-`Insegnamento`
-Interazioni tra piante, microrganismi e ambiente [[Allegato AA](allegati/AllegatoAA.pdf)]    
-1 CFU di questo corso e' mutuato con il corso precedente di Biologia delle interazioni
 
 <br><br>
 
@@ -810,44 +905,7 @@ Data Carpentry Social Sciences workshop (https://mchiapello.github.io/2020-09-16
 <br><br>
 
 `Periodo`
-Giugno 2020 - 16 ore (Remoto)
-<br>
-`Qualifica`
-Docente
-<br>
-`Ente`
-Università degli Studi di Torino
-<br>
-`Dipartimento`
-Scienze delle Vita e Biologia dei Sistemi
-<br>
-`Studenti`
-Studenti di dottorato
-<br>
-`Insegnamento`
-PhDToolbox - Ricerca riproducibile in R (https://phd-toolbox-course.github.io/2020_PhD_Toolbox_course/)
-
-<br><br>
-
-`Periodo`
-Giugno 2019 - 24 CFU
-<br>
-`Qualifica`
-Professore a Contratto
-<br>
-`Ente`
-Università degli Studi di Torino
-<br>
-`Studenti`
-Studenti del master in "Controllo Biologico dei processi e dei prodotti dell'industria"
-<br>
-`Insegnamento`
-Data Analysis (https://mchiapello.github.io/Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019/)
-
-<br><br>
-
-`Periodo`
-Maggio 2019 - 2 giorni
+Maggio 2019 - 16 ore
 <br>
 `Qualifica`
 Docente
@@ -864,7 +922,7 @@ R Data Carpentry [link]
 <br><br>
 
 `Periodo`
-Febbraio 2019 - 2 giorni
+Febbraio 2019 - 16 ore
 <br>
 `Qualifica`
 Docente
@@ -881,7 +939,7 @@ R Data Carpentry [link]
 <br><br>
 
 `Periodo`
-Dicembre 2018 - 2 giorni
+Dicembre 2018 - 16 ore
 <br>
 `Qualifica`
 Docente
@@ -898,7 +956,7 @@ R Data Carpentry [link]
 <br><br>
 
 `Periodo`
-Novembre 2018 - 1 giorno
+Novembre 2018 - 4 ore
 <br>
 `Qualifica`
 Docente
@@ -918,7 +976,7 @@ Introduzione al data managemnt (OSF.io and protocol.io)
 <br><br>
 
 `Periodo`
-Ottobre 2018 - 1 giorno
+Ottobre 2018 - 4 ore
 <br>
 `Qualifica`
 Docente
@@ -938,27 +996,7 @@ Introduzione a git (version control program)
 <br><br>
 
 `Periodo`
-Gennaio 2018 - 3 giorni
-<br>
-`Qualifica`
-Docente
-<br>
-`Ente`
-Università degli Studi di Torino
-<br>
-`Dipartimento`
-Scienze delle Vita e Biologia dei Sistemi
-<br>
-`Studenti`
-Studenti di dottorato
-<br>
-`Insegnamento`
-PhDToolbox - Ricerca riproducibile in R [link]
-
-<br><br>
-
-`Periodo`
-Settembre 2017 - 2 giorni
+Settembre 2017 - 16 ore
 <br>
 `Qualifica`
 Docente
@@ -975,7 +1013,7 @@ R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 <br><br>
 
 `Periodo`
-Settembre 2017 - 1 giorni
+Settembre 2017 - 8 ore
 <br>
 `Qualifica`
 Docente
@@ -992,7 +1030,7 @@ Data analysis and Visualization in R [[Allegato AB](allegati/AllegatoAB.pdf)]
 <br><br>
 
 `Periodo`
-Giugno 2017 - 2 giorni
+Giugno 2017 - 16 ore
 <br>
 `Qualifica`
 Docente
@@ -1004,12 +1042,12 @@ The Francis Crick Institute, London, United Kingdom
 Ricercatori e PI
 <br>
 `Insegnamento`
-R Data Carpentry [link]
+R Data Carpentry [https://lgatto.github.io/2017-06-21-Crick/]
 
 <br><br>
 
 `Periodo`
-Gennaio 2017 - 2 giorni
+Gennaio 2017 - 16 ore
 <br>
 `Qualifica`
 Docente
@@ -1023,53 +1061,18 @@ Studenti di dottorato, ricercatori, postDoc e PI
 `Insegnamento`
 R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 
-
-<br><br>
-
-`Periodo`
-Gennaio 2017 - 4 giorni
-<br>
-`Qualifica`
-Docente
-<br>
-`Ente`
-Università degli Studi di Torino
-<br>
-`Dipartimento`
-Scienze delle Vita e Biologia dei Sistemi
-<br>
-`Studenti`
-Studenti di dottorato
-<br>
-`Insegnamento`
-PhDToolbox - Ricerca riproducibile in R [link]
-
-<br><br>
-
-`Periodo`
-Luglio 2016 - 3 giorni
-<br>
-`Qualifica`
-Docente
-<br>
-`Ente`
-Università degli Studi di Torino
-<br>
-`Dipartimento`
-Scienze delle Vita e Biologia dei Sistemi
-<br>
-`Studenti`
-Studenti di dottorato
-<br>
-`Insegnamento`
-PhDToolbox - Ricerca riproducibile in R [link]
-
-
-### Studenti in stage
+## Attività di Tutorato
+### Tutorato
 `AA 2015-2016`
 - Andrea Modica (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)    
 - Lavinia Cagnina (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)    
 - Martina Capozzi (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)
+
+`AA 2019-2020`
+Per il master di primo livello "Controllo Biologico dei processi e dei prodotti dell'industria", ho vinto il concorso per ruolo di tutor accademico per il project work dello studente Mattia Schirrippa per la progettazione e scrittura di un report interattivo per l'analisi direzionale della produzione (in R).
+
+`AA 2019-2020`
+Sono stato "Mentoring chair" della fondazione "The Carpentries". Ho coordinato a livello modiale la selezione, l'organizzazione e la discussione finale degli studenti e dei mentori per hanno partecipato al programma. Maggiori informazioni sul programma possono essere trovate qui: https://carpentries.org/inst-dev/
 
 ### Co-tutoraggio di tesi di laurea 
 `AA 2009-2010`
@@ -1092,15 +1095,10 @@ Esercitazioni di laboratorio per il corso di Biologia (Università degli Studi d
 `AA 2016-2017`
 Esercitazioni di laboratorio per studenti di dottorato sulle metodologie di preparazione del campione, analisi statistica e interpretazione dei dati (University of Cambridge, Cambridge Center for Proteomics)
 
-### Tutorato
-`AA 2019-2020`
-Per il master di primo livello "Controllo Biologico dei processi e dei prodotti dell'industria", ho vinto il concorso per ruolo di tutor accademico per il project work dello studente Mattia Schirrippa per la progettazione e scrittura di un report interattivo per l'analisi direzionale della produzione (in R).
-
-`AA 2019-2020`
-Sono stato "Mentoring chair" della fondazione "The Carpentries". Ho coordinato a livello modiale la selezione, l'organizzazione e la discussione finale degli studenti e dei mentori per hanno partecipato al programma. Maggiori informazioni sul programma possono essere trovate qui: https://carpentries.org/inst-dev/
 
 <br><br>
-Torino, il 14/12/2020 
+Torino, il 11/01/2021
 <br><br>
 Autorizzo il trattamento e la comunicazione dei dati personali ai sensi del D.L. 196/03
+
 
