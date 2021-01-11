@@ -676,15 +676,46 @@ Da giugno 2020 sono membro dell’Editorial Board di Microbe and Virus Interacti
 ## Attivita' di insegnamento
 
 ### Filosofia di insegnamento
-Negli ultimi hanno ho seguito diversi corsi per la didattica dell'insegnamento. Nel 2016 ho seguito il "Data Carpentry instructor training program" e il "Software Carpentry instructor training program" della fondazione The Carpentries (https://carpentries.org/) e dopo aver sostenuto una prova finale in cui ho dimostrato di conoscere i concetti pedagogici chiave e le tecniche di insegnamento sono stato certificato come istruttore. Nel 2018 ho frequentato il corso "Train the trainers" di Elixir (https://elixir-europe.org/platforms/training/train-the-trainer) dove sono stati illustrati: i principi dell'apprendimento, come questi principi sono applicati all'insegnamento, tecniche di insegnamento per aumentare la partecipazione degli studenti, come preparare materiale e corsi e come sfruttare in maniera positiva il sistema dei feedbacks. Nel 2020 ho coseguito i 24 crediti formativi universitari nelle discipline antropo-psico-pedagogiche e metodologie e tecnologie didattiche, sostenendo 4 esami: "pedagogia e didattica dell'inclusione", "psicologia", "antropologia" e "metodologie e tecnologie didattiche". 
+Negli ultimi hanno ho frequentato diversi corsi per la didattica dell'insegnamento.
+Nel 2016 ho seguito il "Data Carpentry instructor training program" e il
+"Software Carpentry instructor training program" della fondazione The
+Carpentries (https://carpentries.org/) e dopo aver sostenuto una prova finale
+in cui ho dimostrato di conoscere i concetti pedagogici chiave e le tecniche di
+insegnamento sono stato certificato come istruttore. Nel 2018 ho frequentato il
+corso "Train the trainers" di Elixir
+(https://elixir-europe.org/platforms/training/train-the-trainer) dove sono
+stati illustrati: i principi dell'apprendimento, come questi principi sono
+applicati all'insegnamento, tecniche di insegnamento per aumentare la
+partecipazione degli studenti, come preparare materiale e corsi e come
+sfruttare in maniera positiva il sistema dei feedbacks. Nel 2020 ho coseguito i
+24 crediti formativi universitari nelle discipline antropo-psico-pedagogiche e
+metodologie e tecnologie didattiche, sostenendo 4 esami: "pedagogia e didattica
+dell'inclusione", "psicologia", "antropologia" e "metodologie e tecnologie
+didattiche". 
 
-Vorrei dedicare poche righe a delineare la mia idea di insegnamento, argomento particolarmente importante per la posizione in oggetto di concorso e che ha assunto una progressiva rilevanza negli ultimi anni della mia carriera. 
+Vorrei dedicare poche righe a delineare la mia idea di insegnamento, argomento
+particolarmente importante per la posizione in oggetto di concorso e che ha
+assunto una progressiva rilevanza negli ultimi anni della mia carriera. 
 
-**Insegnare e' saper appassione**: l'apprendimento e' il risultato di cio' che fa lo studente, l'insegnante puo' pero' potenziare l'apprendimento dello studente facendolo appassionare alla materia di studio. E' la motivazione degli studenti che li orienta e li sostiene ad imparare.    
-**Insegnare e' comunicazione**: insegnare e' saper sceglier il giusto registro per ogni tipo di classe, saper tener viva l'attenzione, capire  quando spingere sull'acceleratore, quando sia bene rallentare e soprattutto quando sia il momento di tornare indietro per recuperare gli studenti lasciati lungo il cammino.    
-**Insegnare e' sostenere**: insegnare e' saper aiutare, motivare e spronare gli studenti dopo un fallimento che sia esso un esame o un esperimento non riuscito.    
-**Insegnare e' empatia**: lo sviluppo personale degli studenti influenza l'atmosfera dell'intera classe e influenza di conseguenza l'apprendimento. L'interazione e l'atmosfera tra studenti e docente e tra studenti in un'aula universitaria e' fondamentale.    
-**Insegnare e' imparare**: insegnare e' mettersi in gioco, parlare davanti ad un'aula piena di giovani menti desiderose di imparare. A volte bisogna ammettere di non saper qualcosa o di aver sbagliato qualcosa, l'errore e' parte fondamentale del processo di apprendimento, anche per il docente.
+**Insegnare e' saper appassione**: l'apprendimento e' il risultato di cio' che
+fa lo studente, l'insegnante puo' pero' potenziare l'apprendimento dello
+studente facendolo appassionare alla materia di studio. E' la motivazione degli
+studenti che li orienta e li sostiene ad imparare.    
+**Insegnare e'
+comunicazione**: insegnare e' saper sceglier il giusto registro per ogni tipo
+di classe, saper tener viva l'attenzione, capire  quando spingere
+sull'acceleratore, e quando sia bene rallentare.    
+**Insegnare e' sostenere**: insegnare e' saper aiutare, motivare e
+spronare gli studenti dopo un fallimento che sia esso un esame o un esperimento
+non riuscito.    
+**Insegnare e' empatia**: lo sviluppo personale degli studenti
+influenza l'atmosfera dell'intera classe e influenza di conseguenza
+l'apprendimento. L'interazione e l'atmosfera tra studenti e docente e tra
+studenti in un'aula universitaria e' fondamentale.    
+**Insegnare e'
+imparare**: insegnare e' mettersi in gioco. A volte bisogna ammettere di non saper
+qualcosa o di aver sbagliato qualcosa, l'errore e' parte fondamentale del
+processo di apprendimento, anche per il docente.
 
 ### Corsi Universitari
 
