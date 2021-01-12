@@ -496,43 +496,49 @@ Mukherjee, E. Sivaniah, K. Numata, and D. K. Summers. Efficient
 Factories is Facilitated by Indole-Induced Proteomic and Metabolomic Changes.
 Biotechnology journal, 13(5):e1700571.    
 
-`2017` [1] D. Garcia-Seco, M. <strong>Chiapello</strong>, M. Bracale, C. Pesce,
+`2017`
+[19] D. Garcia-Seco, M. <strong>Chiapello</strong>, M. Bracale, C. Pesce,
 P. Bagnaresi, E. Dubois, L. Moulin, C. Vannini, and R. Koebnik. Transcriptome
 and proteome analysis reveal new insight into proximal and distal responses of
 wheat to foliar infection by *Xanthomonas translucens*. Scientific reports,
 7(1):10157. [Equal contribution Garcia-Seco and Chiapello]    
 
-`2016` [1] E. Zampieri, M. <strong>Chiapello</strong>, S. Daghino, P. Bonfante,
+`2016` 
+[20] E. Zampieri, M. <strong>Chiapello</strong>, S. Daghino, P. Bonfante,
 and A. Mello. Soil metaproteomics reveals an inter-kingdom stress response to
 the presence of black truffles. Scientific reports, 6:25773. [Equal
 contribution Zampieri and Chiapello]
 
-`2015` [1] M. <strong>Chiapello</strong>, R. Balestrini, and S. Perotto.
+`2015` 
+[21] M. <strong>Chiapello</strong>, R. Balestrini, and S. Perotto.
 Symbiotic Proteomics - State of the Art in Plant Mycorrhizal Fungi
 Interactions.     
-[2] M. <strong>Chiapello</strong>, E. Martino, and S.
+[22] M. <strong>Chiapello</strong>, E. Martino, and S.
 Perotto. Common and metal-specific proteomic responses to cadmium and zinc in
 the metal tolerant ericoid mycorrhizal fungus *Oidiodendron maius* Zn.
 Metallomics : integrated biometal science, 7(5):805–81.    
 
-`2012` [1] C. Gutjahr, D. Radovanovic, J. Geoffroy, Q. Zhang, H. Siegler, M.
+`2012` 
+[23] C. Gutjahr, D. Radovanovic, J. Geoffroy, Q. Zhang, H. Siegler, M.
 <strong>Chiapello</strong>, L. Casieri, K. An, G. An, E. Guiderdoni, C. S.
 Kumar, V. Sundaresan, M. J. Harrison, and U. Paszkowski. The half-size ABC
 transporters STR1 and STR2 are indispensable for mycorrhizal arbuscule
 formation in rice. The Plant journal : for cell and molecular biology,
 69(5):906–92.    
 
-`2010` [1] M. <strong>Chiapello</strong>, S. Daghino, E. Martino, and S.
+`2010` 
+[24] M. <strong>Chiapello</strong>, S. Daghino, E. Martino, and S.
 Perotto. Cellular response of *Fusarium oxysporum* to crocidolite asbestos as
 revealed by a combined proteomic approach. Journal of proteome research,
-9(8):3923– 3931.    
-[2] A. Salvioli, M. <strong>Chiapello</strong>, J.
+9(8):3923– 3931    
+[25] A. Salvioli, M. <strong>Chiapello</strong>, J.
 Fontaine, A. L. Hadj-Sahraoui, A. Grandmougin-Ferjani, L. Lanfranco, and P.
 Bonfante. Endobacteria affect the metabolic profile of their host *Gigaspora
 margarita*, an arbuscular mycorrhizal fungus. Environmental microbiology,
 12(8):2083–209.    
 
-`2009` [1] M. Vallino, E. Martino, F. Boella, C. Murat, M.
+`2009` 
+[26] M. Vallino, E. Martino, F. Boella, C. Murat, M.
 <strong>Chiapello</strong>, and S. Perotto. Cu,Zn superoxide dismutase and zinc
 stress in the metal-tolerant ericoid mycorrhizal fungus *Oidiodendron maius* Zn.
 FEMS microbiology letters, 293(1):48–5.    
