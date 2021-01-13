@@ -407,28 +407,54 @@ Phage search in insect vector microbiome - PHASER, DISBA project, CNR, Istituto 
 Nel futuro vorrei continuare a lavorare con metodologie -omics, utilizzando la biologia computazionale per rispondere a complesse domande biologiche su piante e le loro interazioni con altri microorganismi mutualistici/simbiotici o patogeni. Tecniche recentemente sviluppate come single cell transcriptomics, single cell proteomics, spatial transcriptomics dischiudono le porte ad un nuovo approccio alla studio delle interazioni tra gli organismi: come comunicano, come interagiscono, quali risposte attivano nell'ospite a livello di singola cellula. Ritengo cha la mia formazione a cavallo tra wet e dry lab mi renda un candidato qualificato per sviluppare progetti innovativi che richiedano avanzate competenze statistiche, informatiche e di biologia delle interazioni. Negli ultimi hanno ho avuto l'oppurtunità di lavorare in diversi laboratori in Italia e in Europa, questo mi ha permesso di  incontrare molti biologi vegetali e a costruire un network di possibili partners per progetti, come è stato per lo sviluppo di un pacchetto statistico di R sviluppato in collaborazione con la Prof. Gutjahr attualmente all'Università di Monaco in Germania, ma conosciuta a Losanna durante il mio primo PostDoc. 
 
 ## Pubblicazioni
-`In sottomissione`
-[1] J. Rodriguez-Romero, M. <strong>Chiapello</strong>, M.
+
+Il percorso di ricerca scientifica del candidato ha portato alla pubblicazione di 26 articoli scientifici
+ su riviste peer reviewed di cui XX a primo nome.
+L'impatto della ricerca è stato valutato dalla comunità scientifica con i seguenti indici bibliometrici (aggiornato a gennaio 2021):     
+**Scopus**: h-index 10, citazioni totali 337     
+**Publons (WoS)**: h-index 10, citazioni totali 315    
+**Google schoolar**: h-index 14, citazioni totali 502
+
+
+
+### In sottomissione
+1. J. Rodriguez-Romero, M. <strong>Chiapello</strong>, M.
 A. Allon, and M. Turina. Analysis of the virome associated to grapevine powdery
-mildew lesions. Virus Evolution.     
-[2] M. <strong>Chiapello</strong>, L.
+mildew lesions.
+
+1.  M. <strong>Chiapello</strong>, L.
 Bosco, M. Ciuffo, S. Ottati, M. Vallino, N. Salem, C. Rosa, L. Tavella, M.
 Turina. Complexity and local specificity of the virome associated to
 tospovirus-transmitting thrips species.     
 
-`2020`
-[1] M. <strong>Chiapello</strong>, J. Rodriguez-Romero, M. A. Allon, and
+### 2020
+1. [1] S. Sutela, M. Forgia, E. J. Vainio, M. **Chiapello**, S. Daghino, M. Vallino, E. Martino, M. Girlanda, S. Perotto, M. Turina, The virome from a collection of endomycorrhizal fungi reveals new viral taxa with unprecedented genome organization, Virus Evolution, Volume 6, Issue 2, veaa076, https://doi.org/10.1093/ve/veaa076.     
+IF: 5.549 - SJR: 0.737 - CiteScore: 7 - Quartiles: Q3 - Rank: Virology (4/37) -  Citazioni: 1
+
+1. [2] M. <strong>Chiapello</strong>, J. Rodriguez-Romero, M. A. Allon, and
 M. Turina. Analysis of the virome associated to grapevine downy mildew lesions
-reveals new mycovirus lineages. Virus Evolution. Volume 6, Issue 2, veaa058     
-[2] M. <strong>Chiapello</strong>, J. Rodriguez-Romero, L. Nerva, M. Forgia, W.
+reveals new mycovirus lineages. Virus Evolution. Volume 6, Issue 2, veaa058. 10.1093/ve/veaa058.     
+IF: 5.549 - SJR: 0.737 - CiteScore: 7 - Quartiles: Q3 - Rank: Virology (4/37) -  Citazioni: 3
+ 
+1. [3] M. <strong>Chiapello</strong>, J. Rodriguez-Romero, L. Nerva, M. Forgia, W.
 Chitarra, M. A. Allon, and M. Turina. Putative new plant viruses associated
 with *plasmopara viticola*-infected grapevine samples. Annals of Applied
-Biology, 176(2):180–19.   
-[3] M. <strong>Chiapello</strong>, E. Zampieri, and A. Mello. A small effort for researchers, a big gain for soil
-metaproteomics. Frontiers in Microbiology, 11:88.    
-[4] S. Ottati, M. <strong>Chiapello</strong>, L. Galetto, D. Bosco, C. Marzachi, and S. Abba. New
+Biology, 176(2):180–1, 10.1111/aab.12563.       
+IF: 2.037 - SJR:  0.713 - CiteScore: 3.5 - Quartiles: Q1 - Rank: Agronomy and Crop Science (67/334) - Citazioni: 9
+
+1. [4] M. <strong>Chiapello</strong>, E. Zampieri, and A. Mello. A small effort for researchers, a big gain for soil
+metaproteomics. Frontiers in Microbiology, 11:88. 10.3389/fmicb.2020.00088.    
+IF: 4.235 - SJR:  1.690 - CiteScore: 6.4 - Quartiles: Q1 - Rank: Microbiology (34/147) - Citazioni: 4
+   
+1. [5] S. Ottati, M. <strong>Chiapello</strong>, L. Galetto, D. Bosco, C. Marzachi, and S. Abba. New
 viral sequences identified in the flavescence doree phytoplasma vector
-*scaphoideus titanus*. Viruses, 12(3):27.     
+*scaphoideus titanus*. Viruses, 12(3):27. 10.3390/v12030287.    
+IF: 3.816 - SJR:  1.633 - CiteScore: 4.3 - Quartiles: Q1 - Rank: Virology (33/66) - Citazioni: 1
+
+
+
+
+
 [5] N. Procopio, S. Ghignone, S. Voyron, M. <strong>Chiapello</strong>, A. Williams, A. Chamberlain, A. Mello,
 and M. Buckley. Soil fungal communities investigated by metabarcoding within
 simulated forensic burial contexts. Frontiers in Microbiology, 11.
