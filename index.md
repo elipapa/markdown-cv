@@ -53,12 +53,9 @@ Consiglio Nazionale delle Ricerche
 `Dipartimento`
 Istituto per la Protezione Sostenibile delle Piante
 
-`Supervisore`
-Dott. Massimo Turina
-
 `Progetto`
 Virome NGS analysis of pests and pathogens for plant protection (VIROPLANT - H2020)<br>
-Project ID: 773567
+Project ID: 773567    
 
 ## Esperienze lavorative
 
