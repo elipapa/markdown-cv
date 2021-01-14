@@ -409,13 +409,20 @@ Nel futuro vorrei continuare a lavorare con metodologie -omics, utilizzando la b
 ## Pubblicazioni
 
 Il percorso di ricerca scientifica del candidato ha portato alla pubblicazione di 26 articoli scientifici
- su riviste peer reviewed di cui XX a primo nome.
+ su riviste peer reviewed e il capitolo di un libro.
 L'impatto della ricerca è stato valutato dalla comunità scientifica con i seguenti indici bibliometrici (aggiornato a gennaio 2021):     
-**Scopus**: h-index 10, citazioni totali 337     
-**Publons (WoS)**: h-index 10, citazioni totali 315    
-**Google schoolar**: h-index 14, citazioni totali 502
+**Scopus**: h-index 10, citazioni totali 337 (mancano le pubblicazioni di Virus Evolution)    
+**Publons (WoS)**: h-index 10, citazioni totali 315 (mancano le pubblicazioni di Virus Evolution)    
+**Google schoolar**: h-index 14, citazioni totali 502    
 
+Per ogni articolo viene indicata la referenza ed alcuni parametri bibliometrici (aggiornato a gennaio 2021):    
 
+- **IF**: L'Impact Factor è un indice sintetico che misura il numero medio di citazioni ricevute in un particolare anno da articoli pubblicati in una rivista scientifica (Journal) nei due anni precedenti.    
+- **SJR**: SCImago Journal Rank. Questo indice e' una misura dell'influenza scientifica di una rivista che tiene conto sia del numero delle citazioni ricevute sia dell'importanza e del prestigio della rivista dove le citazioni vengono fatte.     
+- **CiteScore**: Il CiteScore misura la media delle citazioni ricevute per documento pubblicato.    
+- **Quartiles**: Le riviste vengono ordinate secondo il loro indice SJR e poi divise in quattro gruppi uguali (Q1, Q2, Q3 e Q4).    
+- **Rank**: La posizione della rivista rispetto alle riviste presenti nella stessa categoria scientifica. Viene riportata sia la categoria che la posizione della rivista sulla totalità delle riviste nella stessa categoria.        
+- **Citazioni**: Numero di citazioni dell'articolo fino a gennaio 2021.     
 
 ### In sottomissione
 1. J. Rodriguez-Romero, M. <strong>Chiapello</strong>, M.
@@ -451,123 +458,175 @@ viral sequences identified in the flavescence doree phytoplasma vector
 *scaphoideus titanus*. Viruses, 12(3):27. 10.3390/v12030287.    
 IF: 3.816 - SJR:  1.633 - CiteScore: 4.3 - Quartiles: Q1 - Rank: Virology (33/66) - Citazioni: 1
 
-
-
-
-
-[5] N. Procopio, S. Ghignone, S. Voyron, M. <strong>Chiapello</strong>, A. Williams, A. Chamberlain, A. Mello,
+1. [6] N. Procopio, S. Ghignone, S. Voyron, M. <strong>Chiapello</strong>, A. Williams, A. Chamberlain, A. Mello,
 and M. Buckley. Soil fungal communities investigated by metabarcoding within
-simulated forensic burial contexts. Frontiers in Microbiology, 11.
+simulated forensic burial contexts. Frontiers in Microbiology, 11. 10.3389/fmicb.2020.01686.    
+IF: 4.235 - SJR:  1.690 - CiteScore: 6.4 - Quartiles: Q1 - Rank: Microbiology (34/147) - Citazioni: 0
 
-`2019`
-[7] M. <strong>Chiapello</strong>, D. Das, and C. Gutjahr. Ramf: An
+### 2019
+1. [7] M. <strong>Chiapello</strong>, D. Das, and C. Gutjahr. Ramf: An
 open-source r package for statistical analysis and display of quantitative root
-colonization by arbuscular mycorrhiza fungi. Frontiers in Plant Science,
-10:1184.    
-[8] L. Nerva, M. Forgia, M. Ciuffo, W. Chitarra, M.
+colonization by arbuscular mycorrhiza fungi. Frontiers in Plant Science, 10:1184. 10.3389/fpls.2019.01184.    
+IF: 4.402 - SJR:  1.691 - CiteScore: 7.8 - Quartiles: Q1 - Rank: Plant Science (20/431) - Citazioni: 2    
+   
+1. [8] L. Nerva, M. Forgia, M. Ciuffo, W. Chitarra, M.
 <strong>Chiapello</strong>, M. Vallino, G. Varese, and M. Turina. The
 mycovirome of a fungal collection from the sea cucumber *Holothuria polii*. Virus
-Research, 273:197737.    
-[9] C. Peracchio, M. Forgia, M.
+Research, 273:197737. 10.1016/j.virusres.2019.197737.    
+IF: 2.934 - SJR:  1.194 - CiteScore: 5.3 - Quartiles: Q2 - Rank: Virology (23/66) - Citazioni: 16
+
+1. [9] C. Peracchio, M. Forgia, M.
 <strong>Chiapello</strong>, M. Vallino, M. Turina, and M. Ciuffo. A complex
 virome that includes two distinct emaraviruses is associated to virus-like
-symptoms in *Camellia japonica*.     
-[10] M. A. S. C. Picarelli, M. Forgia, E. B.
+symptoms in *Camellia japonica*. Virus Research, Volume 286s. 10.1016/j.virusres.2020.197964.     
+IF: 2.934 - SJR:  1.194 - CiteScore: 5.3 - Quartiles: Q2 - Rank: Virology (23/66) - Citazioni: 1
+
+1. [10] M. A. S. C. Picarelli, M. Forgia, E. B.
 Rivas, L. Nerva, M. <strong>Chiapello</strong>, M. Turina, and A. Colariccio.
 Extreme diversity of mycoviruses present in isolates of *Rhizoctonia solani*
 ag2-2 lp from *Zoysia japonica* from brazil. Frontiers in Cellular and Infection
-Microbiology, 9:244.     
-[11] R. Roth, S. Hillmer, C. Funaya, M.
+Microbiology, 9:244. 10.3389/fcimb.2019.00244.       
+IF: 4.123 - SJR:  1.626 - CiteScore: 5.4 - Quartiles: Q1 - Rank: Microbiology (42/147) - Citazioni: 18     
+
+1. [11] R. Roth, S. Hillmer, C. Funaya, M.
 <strong>Chiapello</strong>, K. Schumacher, L. L. Presti, R. Kahmann, and U.
 Paszkowski. Arbuscular cell invasion coincides with extracellular vesicles and
-membrane tubules. Nature Plants, 5(2):204–21.     
+membrane tubules. Nature Plants, 5(2):204–21 10.1038/s41477-019-0365-4.     
+IF: 10.330 - SJR:  5.517 - CiteScore: 19.4 - Quartiles: Q1 - Rank: Plant Science (3/431) - Citazioni: 20
+
 [12] G. Russo, G.
 Carotenuto, V. Fiorilli, V. Volpe, A. Faccio, P. Bonfante, M. Chabaud, M.
 <strong>Chiapello</strong>, D. V. Damme, and A. Genre. TPLATE recruitment
 reveals endocytic dynamics at sites of symbiotic interface assembly in
-arbuscular mycorrhizal interactions. Frontiers in Plant Science, 10.     
+arbuscular mycorrhizal interactions. Frontiers in Plant Science, 10: 1628. 10.3389/fpls.2019.01628.     
+IF: 4.402 - SJR:  1.691 - CiteScore: 7.8 - Quartiles: Q1 - Rank: Plant Science (20/431) - Citazioni: 1    
 
-`2018`
-[13] K. Agboh, C. H. F. Lau, Y. S. K. Khoo, H. Singh, S. Raturi, A. V.
+### 2018
+
+1. [13] K. Agboh, C. H. F. Lau, Y. S. K. Khoo, H. Singh, S. Raturi, A. V.
 Nair, J. Howard, M. <strong>Chiapello</strong>, R. Feret, M. J. Deery, S.
 Murakami, and H. W. van Veen. Powering the ABC multidrug exporter LmrA: How
-nucleotides embrace the ion-motive force. Science advances, 4(9):eaas9365.    
-[14] M. Chialva, A. Salvioli di Fossalunga, S. Daghino, S. Ghignone, P.
+nucleotides embrace the ion-motive force. Science advances, 4(9):eaas9365. 10.1126/sciadv.aas9365.    
+IF: 13.116 - SJR:  6.062 - CiteScore: 25.2 - Quartiles: Q1 - Rank: Multidisciplinary (3/111) - Citazioni: 4    
+ 
+1. [14] M. Chialva, A. Salvioli di Fossalunga, S. Daghino, S. Ghignone, P.
 Bagnaresi, M. <strong>Chiapello</strong>, M. Novero, D. Spadaro, S. Perotto,
 and P. Bonfante. Native soils with their microbiotas elicit a state of alert in
-tomato plants. New Phytol, 220: 1296-1308.    
-[15] M. <strong>Chiapello</strong>, M.
-Alqurashi, M. <strong>Chiapello</strong>, C. Bianchet, F. Paolocci, K. S.
+tomato plants. New Phytol, 220: 1296-1308. 10.1111/nph.15014.     
+IF: 8.512 - SJR:  3.702 - CiteScore: 13 - Quartiles: Q1 - Rank: Plant Science (9/431) - Citazioni: 43    
+
+1. [15] Alqurashi, M. <strong>Chiapello</strong>, C. Bianchet, F. Paolocci, K. S.
 Lilley, and C. Gehring. Early responses to severe drought stress in the
-*Arabidopsis thaliana* cell suspension culture proteome. Proteomes, 6(4), 38.    
-[16] V. Fiorilli, C. Vannini, F. Ortolani, D. Garcia-Seco, M.
+*Arabidopsis thaliana* cell suspension culture proteome. Proteomes, 6(4), 38. 10.3390/proteomes6040038.     
+IF: 2.77 - SJR:  1.189 - CiteScore: 7.2 - Quartiles: Q2 - Rank: Biochemistry (68/407) - Citazioni: 11     
+
+1. [16] V. Fiorilli, C. Vannini, F. Ortolani, D. Garcia-Seco, M.
 <strong>Chiapello</strong>, M. Novero, G. Domingo, V. Terzi, C. Morcia, P.
 Bagnaresi, L. Moulin, M. Bracale, and P. Bonfante. Omics approaches revealed
 how arbuscular mycorrhizal symbiosis enhances yield and resistance to leaf
-pathogen in wheat. Scientific reports, 8(1):9625.    
-[17] R. Roth, M.
+pathogen in wheat. Scientific reports, 8(1):9625. 10.1038/s41598-018-27622-8.    
+IF: 3.998 - SJR:  1.341 - CiteScore: 7.2 - Quartiles: Q1 - Rank: Multidisciplinary (8/111) - Citazioni: 28     
+
+1. [17] R. Roth, M.
 <strong>Chiapello</strong>, H. Montero, P. Gehrig, J. Grossmann, K.
 O’Holleran, D. Hartken, F. Walters, S.-Y. Yang, S. Hillmer, K. Schumacher,
 S. Bowden, M. Craze, E. J. Wallington, A. Miyao, R. Sawers, E. Martinoia, and
 U. Paszkowski. A rice serine/threonine receptor-like kinase regulates
 arbuscular mycorrhizal symbiosis at the peri-arbuscular membrane. Nature
-Communications, 9(1). [Equal contribution of Roth and Chiapello]    
-[18] G.
+Communications, 9(1). 10.1038/s41467-018-06865-z. [Equal contribution of Roth and Chiapello]    
+IF: 12.121 - SJR:  5.569 - CiteScore: 18.1 - Quartiles: Q1 - Rank: General Biochemistry, Genetics and Molecular Biology (8/197) - Citazioni: 15     
+
+1. [18] G.
 Russo, G. Carotenuto, V. Fiorilli, V. Volpe, M. <strong>Chiapello</strong>, D.
 Van Damme, and A. Genre. Ectopic activation of cortical cell division during
-the accommodation of arbuscular mycorrhizal fungi. New Phytol, 221: 1036-1048.    
-[19] N. M. Thomson, T. Shirai, M. <strong>Chiapello</strong>, A. Kondo, K. J.
+the accommodation of arbuscular mycorrhizal fungi. New Phytol, 221: 1036-1048. 10.1111/nph.15398.     
+IF: 8.512 - SJR:  3.702 - CiteScore: 13 - Quartiles: Q1 - Rank: Plant Science (9/431) - Citazioni: 12    
+
+1. [19] N. M. Thomson, T. Shirai, M. <strong>Chiapello</strong>, A. Kondo, K. J.
 Mukherjee, E. Sivaniah, K. Numata, and D. K. Summers. Efficient
 3-Hydroxybutyrate Production by Quiescent *Escherichia coli* Microbial Cell
 Factories is Facilitated by Indole-Induced Proteomic and Metabolomic Changes.
-Biotechnology journal, 13(5):e1700571.    
+Biotechnology journal, 13(5):e1700571. 10.1002/biot.201700571.    
+IF: 4.235 - SJR:  1.089 - CiteScore: 6.6 - Quartiles: Q1 - Rank: Applied Microbiology and Biotechnology (17/105) - Citazioni: 6    
 
-`2017`
-[19] D. Garcia-Seco, M. <strong>Chiapello</strong>, M. Bracale, C. Pesce,
+### 2017    
+
+1. [20] D. Garcia-Seco, M. <strong>Chiapello</strong>, M. Bracale, C. Pesce,
 P. Bagnaresi, E. Dubois, L. Moulin, C. Vannini, and R. Koebnik. Transcriptome
 and proteome analysis reveal new insight into proximal and distal responses of
 wheat to foliar infection by *Xanthomonas translucens*. Scientific reports,
-7(1):10157. [Equal contribution Garcia-Seco and Chiapello]    
+7(1):10157. 10.1038/s41598-017-10568-8. [Equal contribution Garcia-Seco and Chiapello]    
+IF: 3.998 - SJR:  1.341 - CiteScore: 7.2 - Quartiles: Q1 - Rank: Multidisciplinary (8/111) - Citazioni: 19         
 
-`2016` 
-[20] E. Zampieri, M. <strong>Chiapello</strong>, S. Daghino, P. Bonfante,
+1. 
+
+### 2016     
+
+1. [21] E. Zampieri, M. <strong>Chiapello</strong>, S. Daghino, P. Bonfante,
 and A. Mello. Soil metaproteomics reveals an inter-kingdom stress response to
-the presence of black truffles. Scientific reports, 6:25773. [Equal
-contribution Zampieri and Chiapello]
+the presence of black truffles. Scientific reports, 6:25773. 10.1038/srep25773. [Equal
+contribution Zampieri and Chiapello]    
+IF: 3.998 - SJR:  1.341 - CiteScore: 7.2 - Quartiles: Q1 - Rank: Multidisciplinary (8/111) - Citazioni: 29         
 
-`2015` 
-[21] M. <strong>Chiapello</strong>, R. Balestrini, and S. Perotto.
-Symbiotic Proteomics - State of the Art in Plant Mycorrhizal Fungi
-Interactions.     
-[22] M. <strong>Chiapello</strong>, E. Martino, and S.
+1.    
+
+### 2015
+     
+1. [22] M. <strong>Chiapello</strong>, E. Martino, and S.
 Perotto. Common and metal-specific proteomic responses to cadmium and zinc in
 the metal tolerant ericoid mycorrhizal fungus *Oidiodendron maius* Zn.
-Metallomics : integrated biometal science, 7(5):805–81.    
+Metallomics : integrated biometal science, 7(5):805–81 10.1039/C5MT00024F.    
+IF: 4.069 - SJR:  1.014 - CiteScore: 5.2 - Quartiles: Q1 - Rank: Chemistry (miscellaneous) (4/31) - Citazioni: 24
 
-`2012` 
-[23] C. Gutjahr, D. Radovanovic, J. Geoffroy, Q. Zhang, H. Siegler, M.
+1.     
+
+### 2012 
+1. [23] C. Gutjahr, D. Radovanovic, J. Geoffroy, Q. Zhang, H. Siegler, M.
 <strong>Chiapello</strong>, L. Casieri, K. An, G. An, E. Guiderdoni, C. S.
 Kumar, V. Sundaresan, M. J. Harrison, and U. Paszkowski. The half-size ABC
 transporters STR1 and STR2 are indispensable for mycorrhizal arbuscule
-formation in rice. The Plant journal : for cell and molecular biology,
-69(5):906–92.    
+formation in rice. The Plant journal,
+69(5):906–92  10.1111/j.1365-313X.2011.04842.x.     
+IF: 6.141 - SJR:  3.161 - CiteScore: 9.8 - Quartiles: Q1 - Rank: Plant Science (12/431) - Citazioni: 119
 
-`2010` 
-[24] M. <strong>Chiapello</strong>, S. Daghino, E. Martino, and S.
+1.    
+
+
+### 2010 
+1. [24] M. <strong>Chiapello</strong>, S. Daghino, E. Martino, and S.
 Perotto. Cellular response of *Fusarium oxysporum* to crocidolite asbestos as
 revealed by a combined proteomic approach. Journal of proteome research,
-9(8):3923– 3931    
-[25] A. Salvioli, M. <strong>Chiapello</strong>, J.
+9(8):3923– 393. 10.1021/pr100133d.     
+IF: 4.074 - SJR:  1.539 - CiteScore: 6.7 - Quartiles: Q1 - Rank: Biochemistry (81/407) - Citazioni: 15
+
+
+1. [25] A. Salvioli, M. <strong>Chiapello</strong>, J.
 Fontaine, A. L. Hadj-Sahraoui, A. Grandmougin-Ferjani, L. Lanfranco, and P.
 Bonfante. Endobacteria affect the metabolic profile of their host *Gigaspora
 margarita*, an arbuscular mycorrhizal fungus. Environmental microbiology,
-12(8):2083–209.    
+12(8):2083–209.10.1111/j.1462-2920.2010.02246.x.     
+IF: 4.933 - SJR: 2.180 - CiteScore: 9.1 - Quartiles: Q1 - Rank: Ecology, Evolution, Behavior and Systematics (26/629) - Citazioni: 38
 
-`2009` 
-[26] M. Vallino, E. Martino, F. Boella, C. Murat, M.
+1.   
+
+
+### 2009
+ 
+1. [26] M. Vallino, E. Martino, F. Boella, C. Murat, M.
 <strong>Chiapello</strong>, and S. Perotto. Cu,Zn superoxide dismutase and zinc
 stress in the metal-tolerant ericoid mycorrhizal fungus *Oidiodendron maius* Zn.
-FEMS microbiology letters, 293(1):48–5.    
+FEMS microbiology letters, 293(1):48–5.10.1111/j.1574-6968.2009.01503.x.     
+IF: 1.987 - SJR:  0.840 - CiteScore: 2.4 - Quartiles: Q2 - Rank: Microbiology (104/147) - Citazioni: 36    
+
+1.     
+
+### Book chapter
+
+1. [1] M. <strong>Chiapello</strong>, R. Balestrini, and S. Perotto.
+Symbiotic Proteomics - State of the Art in Plant Mycorrhizal Fungi
+Interactions. (2015). Recent Advances in Proteomics Research. 10.5772/61331.
+
+1.    
 
 ## Relazioni a congressi 
 
