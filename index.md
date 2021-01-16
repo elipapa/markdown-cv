@@ -299,23 +299,6 @@ Uno studio proteomico della tolleranza ai metalli in un fungo endomicorrizico er
 ## Attivita' di insegnamento
 
 ### Filosofia di insegnamento
-Negli ultimi hanno ho frequentato diversi corsi per la didattica dell'insegnamento.
-Nel 2016 ho seguito il "Data Carpentry instructor training program" e il
-"Software Carpentry instructor training program" della fondazione The
-Carpentries (https://carpentries.org/) e dopo aver sostenuto una prova finale
-in cui ho dimostrato di conoscere i concetti pedagogici chiave e le tecniche di
-insegnamento sono stato certificato come istruttore. Nel 2018 ho frequentato il
-corso "Train the trainers" di Elixir
-(https://elixir-europe.org/platforms/training/train-the-trainer) dove sono
-stati illustrati: i principi dell'apprendimento, come questi principi sono
-applicati all'insegnamento, tecniche di insegnamento per aumentare la
-partecipazione degli studenti, come preparare materiale e corsi e come
-sfruttare in maniera positiva il sistema dei feedbacks. Nel 2020 ho coseguito i
-24 crediti formativi universitari nelle discipline antropo-psico-pedagogiche e
-metodologie e tecnologie didattiche, sostenendo 4 esami: "pedagogia e didattica
-dell'inclusione", "psicologia", "antropologia" e "metodologie e tecnologie
-didattiche". 
-
 Vorrei dedicare poche righe a delineare la mia idea di insegnamento, argomento
 particolarmente importante per la posizione in oggetto di concorso e che ha
 assunto una progressiva rilevanza negli ultimi anni della mia carriera. 
@@ -718,63 +701,134 @@ R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 
 ## Corsi frequentati
 
-### Insegnamento
-- 24 crediti formativi universitari nelle discipline antropo-psico-pedagogiche e metodologie e tecnologie didattiche (24 CFU) [[Allegato C](allegati/AllegatoC.pdf)]
+### Pegaso - Università telematica
+`Descrizione`
+- 24 crediti formativi universitari nelle discipline antropo-psico-pedagogiche e metodologie e tecnologie didattiche (24 CFU) [[Allegato C](allegati/AllegatoC.pdf)]    
+
+`Corsi`
+- Antropologia culturale
+- Didattica dell'inclusione
+- Psicologia generale
+- Tecnologie dell'istruzione e dell'apprendimento
+
+### The Carpentry 
+`Descrizione`
+- Il progetto "The Carpentry" (https://carpentries.org) comprende le comunita' di istruttori "Software Carpentry", "Data Carpentry" e "Library Carpentry". La missione di questo progetto e' l'insegnamento delle abilita' di base di analisi dati e programmazione. In particolare il "Data Carpentry instructor training" e il
+"Software Carpentry instructor training" insegnano i concetti pedagogici chiave e le tecniche base di
+insegnamento.    
+
+`Corsi`
 - Data Carpentry instructor training (Carpentry foundation) [[Allegato D](allegati/AllegatoD.pdf)]
 - Software Carpentry instructor training (Carpentry foundation) [[Allegato E](allegati/AllegatoE.pdf)]
-- Bioinformatics for Core Facility Managers (European Bioinformatics Institute) [[Allegato F](allegati/AllegatoF.jpg)]
+
+### European Bioinformatics Institute (EBI)
+
+`Descrizione`
+L'Istituto europeo di bioinformatica, che fa capo al Laboratorio Europeo di Biologia Molecolare, è un centro di ricerca e servizi di bioinformatica. 
+
+`Corso`
+- Bioinformatics for Core Facility Managers [[Allegato F](allegati/AllegatoF.jpg)]
+
+### Elixir
+
+`Descrizione`
+ELIXIR e' un'iniziativa che consente ai laboratori di scienze della vita in tutta Europa di condividere e archiviare i propri dati di ricerca nell'ambito di una rete organizzata. Il corso "Train the trainers" di Elixir
+(https://elixir-europe.org/platforms/training/train-the-trainer) illustrata i principi dell'apprendimento, come questi principi sono
+applicati all'insegnamento, le tecniche di insegnamento per aumentare la
+partecipazione degli studenti, come preparare il materiale dei corsi e come
+sfruttare in maniera positiva il sistema dei feedbacks.
+
+`Corsi`
 - ELIXIR-EXCELERATE Train the Trainer course (ELIXIR-IT) [[Allegato G](allegati/AllegatoG.pdf)]
+- Docker for reproducibility [[Allegato U](allegati/AllegatoU.pdf)]
 
-### Modelli statistici e machine learning
-- Machine Learning with caret in R (DataCamp) [[Allegato H](allegati/AllegatoH.pdf)]
-- Introduction to Statistical Modeling in R (DataCamp) [[Allegato I](allegati/AllegatoI.pdf)]
-- Machine Learning (Coursera) [[Allegato L](allegati/AllegatoL.pdf)]
+### Datacamp
 
-### Analisi Dati
-- R object-oriented programming and package development (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
-- The Data Scientists Toolbox (Coursera) [[Allegato N](allegati/AllegatoP.pdf)]
-- R programming (Coursera) [[Allegato O](allegati/AllegatoO.pdf)]
-- Reproducible research (Coursera) [[Allegato P](allegati/AllegatoP.pdf)]
-- Getting and cleaning data (Coursera) [[Allegato Q](allegati/AllegatoQ.pdf)]
-- Exploratory data analysis (Coursera) [[Allegato R](allegati/AllegatoR.pdf)]
-- The Basics of Data for Analytics (Lynda.com)
-- Data Visualization for Data Analysts( Lynda.com)
+`Descrizione`
+DataCamp e' una piattaforma online per l'apprendimento e lo studio dell'analisi dati (https://www.datacamp.com/).
 
-### Analisi di serie temporali
-- ARIMA modeling in R (DataCamp) [[Allegato S](allegati/AllegatoS.pdf)]
-- Introduction to time series analysis (DataCamp) [[Allegato T](allegati/AllegatoT.pdf)]
 
-### Analisi bioinformatiche
-- Analysis of single cell RNA-seq data (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
-- Molecular Phylogenetics (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
-- Using the Ensembl Genome Browser (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
-- An Introduction to Solving Biological Problems with PERL (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
-- Statistics and R for the Life Sciences (University of Cambridge, United Kingdom)
-- Exploring Protein Sequenceand Functional Information with UniProt (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
-- International Course in Automated Functional Annotation and Data Mining (BioBam Company)
-
-### Database relazionali
-- Relational Database Design (University of Cambridge, United Kingdom)
-- MySQL: Implementing a Relational Database Design (University of Cambridge, United Kingdom)
-- Relational Database Fundamentals (Lynda.com)
-
-### Altri corsi
-- Docker for reproducibility (Elixir Workshop - University of Turin) [[Allegato U](allegati/AllegatoU.pdf)]
-- Working with Containers: Docker & Docker Compose (Educative.io) [[Allegato AF]](allegati/AllegatoAF.pdf)
-- Beginners guide to version control with git (University of Cambridge, United Kingdom) [[Allegato M](allegati/AllegatoM.pdf)]
-- Git Essential Training (Lynda.com)
-- Up and Running with vi (Lynda.com)
-- Foundations of UX: Content Strategy (Lynda.com)
-- Falcon: An Introduction for Content and Site Managers (University of Cambridge, United Kingdom)
-- Web Authoring: HTML - Cascading Style Sheets (University of Cambridge, United Kingdom)
+`Corsi`
+- Machine Learning with caret in R [[Allegato H](allegati/AllegatoH.pdf)]
+- Introduction to Statistical Modeling in R [[Allegato I](allegati/AllegatoI.pdf)]
+- ARIMA modeling in R [[Allegato S](allegati/AllegatoS.pdf)]
+- Introduction to time series analysis [[Allegato T](allegati/AllegatoT.pdf)]
 - Visualizing Geospatioal data in R [[Allegato V](allegati/AllegatoV.pdf)]
+
+### Coursera
+
+`Descrizione`
+Coursera e' azienda statunitense che opera nel campo delle tecnologie didattiche fondata da docenti d'informatica dell'Universita' di Stanford.
+
+`Corsi`
+- Machine Learning [[Allegato L](allegati/AllegatoL.pdf)]
+- The Data Scientists Toolbox [[Allegato N](allegati/AllegatoP.pdf)]
+- R programming [[Allegato O](allegati/AllegatoO.pdf)]
+- Reproducible research [[Allegato P](allegati/AllegatoP.pdf)]
+- Getting and cleaning data [[Allegato Q](allegati/AllegatoQ.pdf)]
+- Exploratory data analysis [[Allegato R](allegati/AllegatoR.pdf)]
+
+### University of Cambridge (UK)
+`Descrizione`
+Corsi seguiti presso la Bioinformatics Training Facility [[Allegato M](allegati/AllegatoM.pdf)]
+
+`Corsi`
+- R object-oriented programming and package development  
+- Analysis of single cell RNA-seq data
+- Molecular Phylogenetics
+- Using the Ensembl Genome Browser
+- An Introduction to Solving Biological Problems with PERL
+- Statistics and R for the Life Sciences
+- Exploring Protein Sequenceand Functional Information with UniProt
+- Relational Database Design
+- MySQL: Implementing a Relational Database Design
+- Beginners guide to version control with git
+- Falcon: An Introduction for Content and Site Managers
+- Web Authoring: HTML - Cascading Style Sheets
+
+### Linda
+
+`Descrizione`
+Lynda era un sito di apprendimento online. Nel 2015 e' stato acquistato da LinkedIn e rinominato LinkedIn Learning.
+
+`Corsi`
+- The Basics of Data for Analytics 
+- Data Visualization for Data Analysts
+- Relational Database Fundamentals 
+- Git Essential Training 
+- Up and Running with vi 
+- Foundations of UX: Content Strategy 
+
+### BioBam
+`Descrizione`
+BioBam e' una compagnia di analisi bioinformatiche per la promozione di studi Next Generation Sequenceing (NGS) in camo genetico, microbiologico e ambientale (https://www.biobam.com).
+
+`Corso`
+- International Course in Automated Functional Annotation and Data Mining (Blast2GO).
+
+### Educative.io
+
+`Descrizione`
+Edicative.io e' una piattaforma di apprendimento online (https://www.educative.io).
+
+`Corso`
+- Working with Containers: Docker & Docker Compose [[Allegato AF]](allegati/AllegatoAF.pdf)
+
+### Swiss Institute for Bioinformatics (SIB)
+`Descrizione`
+SIB conduce e coordina il campo della bioinformatica in Svizzera (https://www.sib.swiss/).
+
+`Corso`
+- Version Control with Git - Advanced Topics 
+
+
 
 ## Attività di ricerca
 
 La mia attività di ricera e' stata  caratterizzata nei primi anni da due
 forze trainanti: l'interazione e l'utilizzo di tecniche -omiche. Durante il
 dottorato mi sono concentrato su due interazione: quella di un fungo ericoide
-(*Oidiodendron maius*) e due metalli pesanti inquinanti del suolo (Cadmio e
+ (*Oidiodendron maius*) e due metalli pesanti inquinanti del suolo (Cadmio e
 Zinco); e quella tra *Fusarium oxysporum* e l'amianto. La tecnica utilizzata
 per lo studio di entrambi i sistemi sperimentali e' stata la proteomica (in
 particolare l'utilizzo di gel bidimensionali), la difficile messa a punto della
@@ -1145,20 +1199,20 @@ Collaborazione con Revelo (https://revelodatalabs.com/), per analisi bioinformat
 ## Competenze informatiche 
 
 ### Bioinformatica
-- Base: Bioconda
-- Intermedio: Galaxy,  ncbi edirect
 - Avanzato: Trinity, bwa, bowtie2, samtools, CLARK, Kraken2, Diamond, Megan, Mega, Clustalo, IQTree, Bioconductor, Mascot, Protein Discoverer, Scaffold, Blast2GO, KEGG, MaxQuant, NCBI toolbox
+- Intermedio: Galaxy,  ncbi edirect
+- Base: Bioconda
 
 ### Grafica
 - Avanzato: InkScape, Scribus, Adobe Illustrator, Adobe Photoshop, Adobe Indesign, Adobe Premiere, Adobe After Effects
 
 ### OPEN SCIENCE
-- Intermedio: pandoc, Docker, CircleCI, Travis, MySQL
 - Avanzato: R, Nvim-R, RStudio, Unix Bash, tmux, Rmarkdown
+- Intermedio: pandoc, Docker, CircleCI, Travis, MySQL
 
 ### Sistemi operativi
-- Intermedio: Windows
 - Avanzato: Linux, MacOS 
+- Intermedio: Windows
 
 ### Editor di testo
 - Avanzato: Vim, Microsoft Office, LibreOffice, OpenOffice, Atom
@@ -1167,9 +1221,9 @@ Collaborazione con Revelo (https://revelodatalabs.com/), per analisi bioinformat
 - Intermedio: Shiny, HTML, CSS, Javascript, PHP, blogdown, pkgdown, distill
 
 ### Software collaborativi
-- Base: HackMD, Asana
-- Intermedio: Zoom, GoToMeeting, Meet, Webex, TeamViewer, Trello, Etherpad
 - Avanzato: Version control (git), GitLab, GitHub, Bitbucket, Google Drive, Dropbox, Mega, Skype, Slack
+- Intermedio: Zoom, GoToMeeting, Meet, Webex, TeamViewer, Trello, Etherpad
+- Base: HackMD, Asana
 
 
 ## Competenze linguistiche
