@@ -718,8 +718,8 @@ R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 insegnamento.    
 
 `Corsi`
-- Data Carpentry instructor training (Carpentry foundation) [[Allegato D](allegati/AllegatoD.pdf)]
-- Software Carpentry instructor training (Carpentry foundation) [[Allegato E](allegati/AllegatoE.pdf)]
+- Data Carpentry instructor training (Carpentry foundation) - 16 ore [[Allegato D](allegati/AllegatoD.pdf)]
+- Software Carpentry instructor training (Carpentry foundation) - 16 ore [[Allegato E](allegati/AllegatoE.pdf)]
 
 ### European Bioinformatics Institute (EBI)
 
@@ -727,7 +727,7 @@ insegnamento.
 L'Istituto europeo di bioinformatica, che fa capo al Laboratorio Europeo di Biologia Molecolare, è un centro di ricerca e servizi di bioinformatica. 
 
 `Corso`
-- Bioinformatics for Core Facility Managers [[Allegato F](allegati/AllegatoF.jpg)]
+- Bioinformatics for Core Facility Managers - 24 ore [[Allegato F](allegati/AllegatoF.jpg)]
 
 ### Elixir
 
@@ -739,8 +739,8 @@ partecipazione degli studenti, come preparare il materiale dei corsi e come
 sfruttare in maniera positiva il sistema dei feedbacks.
 
 `Corsi`
-- ELIXIR-EXCELERATE Train the Trainer course (ELIXIR-IT) [[Allegato G](allegati/AllegatoG.pdf)]
-- Docker for reproducibility [[Allegato U](allegati/AllegatoU.pdf)]
+- ELIXIR-EXCELERATE Train the Trainer course (ELIXIR-IT) - 16 ore [[Allegato G](allegati/AllegatoG.pdf)]
+- Docker for reproducibility - 16 ore [[Allegato U](allegati/AllegatoU.pdf)]
 
 ### Datacamp
 
@@ -749,11 +749,11 @@ DataCamp e' una piattaforma online per l'apprendimento e lo studio dell'analisi 
 
 
 `Corsi`
-- Machine Learning with caret in R [[Allegato H](allegati/AllegatoH.pdf)]
-- Introduction to Statistical Modeling in R [[Allegato I](allegati/AllegatoI.pdf)]
-- ARIMA modeling in R [[Allegato S](allegati/AllegatoS.pdf)]
-- Introduction to time series analysis [[Allegato T](allegati/AllegatoT.pdf)]
-- Visualizing Geospatioal data in R [[Allegato V](allegati/AllegatoV.pdf)]
+- Machine Learning with caret in R - self-paced [[Allegato H](allegati/AllegatoH.pdf)]
+- Introduction to Statistical Modeling in R  - self-paced[[Allegato I](allegati/AllegatoI.pdf)]
+- ARIMA modeling in R  - self-paced[[Allegato S](allegati/AllegatoS.pdf)]
+- Introduction to time series analysis  - self-paced[[Allegato T](allegati/AllegatoT.pdf)]
+- Visualizing Geospatial data in R  - self-paced[[Allegato V](allegati/AllegatoV.pdf)]
 
 ### Coursera
 
@@ -761,30 +761,30 @@ DataCamp e' una piattaforma online per l'apprendimento e lo studio dell'analisi 
 Coursera e' azienda statunitense che opera nel campo delle tecnologie didattiche fondata da docenti d'informatica dell'Universita' di Stanford.
 
 `Corsi`
-- Machine Learning [[Allegato L](allegati/AllegatoL.pdf)]
-- The Data Scientists Toolbox [[Allegato N](allegati/AllegatoP.pdf)]
-- R programming [[Allegato O](allegati/AllegatoO.pdf)]
-- Reproducible research [[Allegato P](allegati/AllegatoP.pdf)]
-- Getting and cleaning data [[Allegato Q](allegati/AllegatoQ.pdf)]
-- Exploratory data analysis [[Allegato R](allegati/AllegatoR.pdf)]
+- Machine Learning  - self-paced [[Allegato L](allegati/AllegatoL.pdf)]
+- The Data Scientists Toolbox - self-paced  [[Allegato N](allegati/AllegatoP.pdf)]
+- R programming - self-paced  [[Allegato O](allegati/AllegatoO.pdf)]
+- Reproducible research - self-paced  [[Allegato P](allegati/AllegatoP.pdf)]
+- Getting and cleaning data - self-paced  [[Allegato Q](allegati/AllegatoQ.pdf)]
+- Exploratory data analysis - self-paced  [[Allegato R](allegati/AllegatoR.pdf)]
 
 ### University of Cambridge (UK)
 `Descrizione`
 Corsi seguiti presso la Bioinformatics Training Facility [[Allegato M](allegati/AllegatoM.pdf)]
 
 `Corsi`
-- R object-oriented programming and package development  
-- Analysis of single cell RNA-seq data
-- Molecular Phylogenetics
-- Using the Ensembl Genome Browser
-- An Introduction to Solving Biological Problems with PERL
-- Statistics and R for the Life Sciences
-- Exploring Protein Sequenceand Functional Information with UniProt
-- Relational Database Design
-- MySQL: Implementing a Relational Database Design
-- Beginners guide to version control with git
-- Falcon: An Introduction for Content and Site Managers
-- Web Authoring: HTML - Cascading Style Sheets
+- R object-oriented programming and package development - 8 ore 
+- Analysis of single cell RNA-seq data - 8 ore
+- Molecular Phylogenetics - 24 ore
+- Using the Ensembl Genome Browser - 8 ore
+- An Introduction to Solving Biological Problems with PERL - 8 ore
+- Statistics and R for the Life Sciences - 16 ore
+- Exploring Protein Sequenceand Functional Information with UniProt - 8 ore
+- Relational Database Design - 16 ore
+- MySQL: Implementing a Relational Database Design - 16 ore
+- Beginners guide to version control with git - 16 ore
+- Falcon: An Introduction for Content and Site Managers - 16 ore
+- Web Authoring: HTML - Cascading Style Sheets - 8 ore
 
 ### Linda
 
@@ -792,19 +792,19 @@ Corsi seguiti presso la Bioinformatics Training Facility [[Allegato M](allegati/
 Lynda era un sito di apprendimento online. Nel 2015 e' stato acquistato da LinkedIn e rinominato LinkedIn Learning.
 
 `Corsi`
-- The Basics of Data for Analytics 
-- Data Visualization for Data Analysts
-- Relational Database Fundamentals 
-- Git Essential Training 
-- Up and Running with vi 
-- Foundations of UX: Content Strategy 
+- The Basics of Data for Analytics  - self-paced
+- Data Visualization for Data Analysts - self-paced
+- Relational Database Fundamentals - self-paced 
+- Git Essential Training - self-paced 
+- Up and Running with vi - self-paced 
+- Foundations of UX: Content Strategy - self-paced 
 
 ### BioBam
 `Descrizione`
 BioBam e' una compagnia di analisi bioinformatiche per la promozione di studi Next Generation Sequenceing (NGS) in camo genetico, microbiologico e ambientale (https://www.biobam.com).
 
 `Corso`
-- International Course in Automated Functional Annotation and Data Mining (Blast2GO).
+- International Course in Automated Functional Annotation and Data Mining (Blast2GO) - 24 ore.
 
 ### Educative.io
 
@@ -812,14 +812,14 @@ BioBam e' una compagnia di analisi bioinformatiche per la promozione di studi Ne
 Edicative.io e' una piattaforma di apprendimento online (https://www.educative.io).
 
 `Corso`
-- Working with Containers: Docker & Docker Compose [[Allegato AF]](allegati/AllegatoAF.pdf)
+- Working with Containers: Docker & Docker Compose - self-paced [[Allegato AF]](allegati/AllegatoAF.pdf)
 
 ### Swiss Institute for Bioinformatics (SIB)
 `Descrizione`
 SIB conduce e coordina il campo della bioinformatica in Svizzera (https://www.sib.swiss/).
 
 `Corso`
-- Version Control with Git - Advanced Topics 
+- Version Control with Git - Advanced Topics - 8 ore.
 
 
 
@@ -881,7 +881,7 @@ nel laboratorio del Dott. M. Turina su un progetto H2020 che mi vede impegnato
 nell'analisi di dati di metatranscrittomica per identificare il viroma di
 piante, funghi ed insetti.
 
-Nel novembre 2020 ho ricevuto l'Abilitazione Scientica Nazionale per il settore 05/A1 [[Allegato AC](allegati/AllegatoAC.pdf)].
+Nel novembre 2020 ho ricevuto l'**Abilitazione Scientica Nazionale per il settore 05/A1** [[Allegato AC](allegati/AllegatoAC.pdf)].
 
 ### Progetti di ricerca
 
@@ -889,19 +889,19 @@ Nel novembre 2020 ho ricevuto l'Abilitazione Scientica Nazionale per il settore 
 Studio dei meccanismi cellulari e molecolari che regolano l’interazione tra funghi del suolo e metalli pesanti. Come vincitore dell’assegno di ricerca, svolto presso il Dipartimento di Biologia Vegetale dell’Università degli Studi di Torino, ho svolto il ruolo di principale responsabilità per gli aspetti scientifici studiando i cambiamenti nell'espressione proteica di due funghi (*Oidiodendron maius* e *Fusarium oxysporum*) in condizioni di stress derivato dalla presenza di metalli pesanti. Questi lavori hanno portato alla pubblicazione di un articolo per fungo (*F. oxysporum*: Chiapello et al., 2010; *O. maius*: Chiapello et al., 2015).
 
 `2010-2013`
-PolarX: Pioneering in vivo proteomics and in planta live imaging for plant cell polarity. Università di Losanna, Svizzera. Vincitore di una fellowship della durata di 3 anni con l’obiettivo di decodificare il complesso network molecolare dello sviluppo della polarità cellulare. In particolare mi sono occupato dello studio delle proteine specifiche situate sulla membrana peri-arbuscolare nelle simbiosi micorriziche arbuscolari (progetto Towards deciphering plant-fungal dialogues, di cui avevo la responsabilità scientifica). La fellowship è stata poi rinnovata per 3 mesi (fino a completamento del progetto), durante i quali sono state effettuate le analisi bioinformatiche dei dati di proteomica raccolti negli anni precedenti. 
+**PolarX: Pioneering in vivo proteomics and in planta live imaging for plant cell polarity**. Università di Losanna, Svizzera. Vincitore di una fellowship della durata di 3 anni con l’obiettivo di decodificare il complesso network molecolare dello sviluppo della polarità cellulare. In particolare mi sono occupato dello studio delle proteine specifiche situate sulla membrana peri-arbuscolare nelle simbiosi micorriziche arbuscolari (progetto Towards deciphering plant-fungal dialogues, di cui avevo la responsabilità scientifica). La fellowship è stata poi rinnovata per 3 mesi (fino a completamento del progetto), durante i quali sono state effettuate le analisi bioinformatiche dei dati di proteomica raccolti negli anni precedenti. 
 
-Towards deciphering plant-fungal dialogues, Università di Losanna, Svizzera. Per questo progetto, parte del più ampio PolarX: Pioneering in vivo proteomics and in planta live imaging for plant cell polarity, sono stato responsabile scientifico delle metodologie di laboratorio e computazionali per lo sviluppo di una tecnica che ci permettesse di identificare le proteine specifiche della membrana peri-arbuscolare. Questo progetto mi ha portato ha lavorare con il mais come pianta modello per lo sviluppo della tecnica per via del colore giallo che sviluppa nelle sue radici quando è colonizzata da funghi micorrizzici arbuscolari. Successivamente, una volta messo a punto il protocollo sperimentale, su riso, il cui apparato radicale è molto meno esteso rispetto a quello del mais e non producendo alcun pigmento non c’è modo per arricchire il campione con radici sicuramente micorrizate. Questo lavoro ha posto le basi per la pubblicazione di un articolo come primo autore su Nature Communication (Roth, Chiapello et al., 2018; * equal contribution).
+**Towards deciphering plant-fungal dialogues**, Università di Losanna, Svizzera. Per questo progetto, parte del più ampio PolarX: Pioneering in vivo proteomics and in planta live imaging for plant cell polarity, sono stato **responsabile scientifico** delle metodologie di laboratorio e computazionali per lo sviluppo di una tecnica che ci permettesse di identificare le proteine specifiche della membrana peri-arbuscolare. Questo progetto mi ha portato ha lavorare con il mais come pianta modello per lo sviluppo della tecnica per via del colore giallo che sviluppa nelle sue radici quando è colonizzata da funghi micorrizzici arbuscolari. Successivamente, una volta messo a punto il protocollo sperimentale, su riso, il cui apparato radicale è molto meno esteso rispetto a quello del mais e non producendo alcun pigmento non c’è modo per arricchire il campione con radici sicuramente micorrizate. Questo lavoro ha posto le basi per la pubblicazione di un articolo come primo autore su Nature Communication (Roth, Chiapello et al., 2018; * equal contribution).
 
 `2013-2016`
-REPROGR_AM - Recruitment of preexisting cell programs in arbuscular mycorrhizas, Dipartimento di Scienze della Vita e Biologia dei Sistemi dell’Università degli Studi di Torino. Come vincitore di una borsa di studio sono stato coinvolto nell’analisi e nello sviluppo di costrutti GUS per il monitoraggio dello sviluppo della polarità cellulare nella simbiosi micorrizica arbuscolare. Ho anche contribuito alla creazione di una nuova linea di ricerca all’interno del progetto, portando la mia esperienza nel campo della proteomic.
+**REPROGR_AM - Recruitment of preexisting cell programs in arbuscular mycorrhizas**, Dipartimento di Scienze della Vita e Biologia dei Sistemi dell’Università degli Studi di Torino. Come vincitore di una borsa di studio sono stato coinvolto nell’analisi e nello sviluppo di costrutti GUS per il monitoraggio dello sviluppo della polarità cellulare nella simbiosi micorrizica arbuscolare. Ho anche contribuito alla creazione di una nuova linea di ricerca all’interno del progetto, portando la mia esperienza nel campo della proteomic.
 
-VIPs in early stages of AM symbiosis, Dipartimento di Scienze della Vita e Biologia dei Sistemi dell’Università degli Studi di Torino. Coinvolto nel progetto come esperto di proteomica ho avuto la responsabilità di creare un database di oltre 2000 proteine vegetali regolate nelle fasi precoci dell'interazione micorrizica arbuscolare utilizzato per identificare e caratterizzare nuovi marker delle risposte della pianta ospite e per contestualizzare analisi parallele di espressione genica. L'analisi proteomica ha anche identificato un buon numero di proteine fungine.
+**Very Important Proteins (VIPs) in early stages of AM symbiosis**, Dipartimento di Scienze della Vita e Biologia dei Sistemi dell’Università degli Studi di Torino. Coinvolto nel progetto come esperto di proteomica ho avuto la responsabilità di creare un database di oltre 2000 proteine vegetali regolate nelle fasi precoci dell'interazione micorrizica arbuscolare utilizzato per identificare e caratterizzare nuovi marker delle risposte della pianta ospite e per contestualizzare analisi parallele di espressione genica. L'analisi proteomica ha anche identificato un buon numero di proteine fungine.
 
-Key to symbiosis, Dipartimento di Scienze della Vita e Biologia dei Sistemi dell’Università degli Studi di Torino. Il progetto è stato scritto insieme al Prof. Andrea Genre, scopritore del pre-penetration apparatus (PPA) (Genre et al., 2008), e aveva lo scopo di identificare le proteine coinvolte nel meccanismo di accomodamento del fungo all’interno dele cellule vegetali durante le fasi precoci della simbiosi arbuscolare micorrizzica.
+**Key to symbiosis**, Dipartimento di Scienze della Vita e Biologia dei Sistemi dell’Università degli Studi di Torino. Il progetto è stato scritto insieme al Prof. Andrea Genre, scopritore del pre-penetration apparatus (PPA) (Genre et al., 2008), e aveva lo scopo di identificare le proteine coinvolte nel meccanismo di accomodamento del fungo all’interno dele cellule vegetali durante le fasi precoci della simbiosi arbuscolare micorrizzica.
 
 `2015-2016`
-MIC-CERES (Microbial eco-compatible strategies for improving wheat quality traits and rhizospheric soil sustainability).  Project (FC Project ID 2013–1888; AF Project ID 1301–003) jointly supported by Agropolis Fondation (through the Investissements d’avenir programme with reference number ANR-10-LABX-0001-01) and Fondazione Cariplo. Nell’ambito del summenzionato progetto mi sono occupato della parte tecnica per la progettazione e messa in funzione di due postazioni di bioinformatica, dell’iniziale formazione del personale presente (una dottoranda, una tecnica ed uno studente di laurea triennale) alla successiva analisi dei dati. Il progetto ha portato alla pubblicazione di due articoli (Fiorilli et al., 2018; Garcia-Seco et al., 2017 [Co-authorship]).
+**MIC-CERES (Microbial eco-compatible strategies for improving wheat quality traits and rhizospheric soil sustainability)**.  Project (FC Project ID 2013–1888; AF Project ID 1301–003) jointly supported by Agropolis Fondation (through the Investissements d’avenir programme with reference number ANR-10-LABX-0001-01) and Fondazione Cariplo. Nell’ambito del summenzionato progetto mi sono occupato della parte tecnica per la progettazione e messa in funzione di due postazioni di bioinformatica, dell’iniziale formazione del personale presente (una dottoranda, una tecnica ed uno studente di laurea triennale) alla successiva analisi dei dati. Il progetto ha portato alla pubblicazione di due articoli (Fiorilli et al., 2018; Garcia-Seco et al., 2017 [Co-authorship]).
 
 `2017-2018`
 Presso l’Università di Cambridge (UK), Dipartimento di Biochimica, Unità di Proteomica mi sono occupato dell’analisi dati di proteomica per i ricercatori del gruppo e i clienti del centro. Ero incaricato dello sviluppo del sistema di gestione dati dei clienti, della pianificazione degli esperimenti, dell’analisi e dell’interpretazione dei dati. Ho sviluppato un sistema di report dati, usato tutt’ora, per permettere ai ricercatori di interpretare e comprendere i loro dati.
@@ -910,13 +910,13 @@ Presso l’Università di Cambridge (UK), Dipartimento di Biochimica, Unità di 
 Ho lavorato come consulente per ProteiQ Biosciences GmbH (https://www.proteiq.com/), aiutando l’azienda a sviluppare ad automatizzare alcune analisi proteomiche con R e docker.
 
 `2018-2021`
-Sono uno dei promotori e fondatori dell'IBiG (Istituto per la Protezione Sostenibile delle Piante Bioinformatic Group) [[Allegato AD](allegati/AllegatoAD.pdf)]. La missione dell'IBiG prevede: fornire assistenza su misura nella progettazione sperimentale di sequenziamenti NGS, nelle analisi e nell’interpretazione dei dat; formare ed educare studenti e personale accademico su concetti di bioinformatica e buone pratiche di gestione dei dati; partecipare regolarmente a seminari, congressi e riunioni che consentano lo scambio delle migliori pratiche di analisi dei dati e l’aggiornamento sugli ultimi approcci e strumenti di bioinformatica; fare rete con altri gruppi bioinformatici nazionali e internazionali, condividere informazioni ed esperienze e contribuire a formare una vivace comunità di bioinformatica.
+Sono stato **promotore e fondatore dell'IBiG** (Istituto per la Protezione Sostenibile delle Piante Bioinformatic Group) [[Allegato AD](allegati/AllegatoAD.pdf)] con alcuni colleghi del IPSP-CNR. La missione dell'IBiG prevede: fornire assistenza su misura nella progettazione sperimentale di sequenziamenti NGS, nelle analisi e nell’interpretazione dei dat; formare ed educare studenti e personale accademico su concetti di bioinformatica e buone pratiche di gestione dei dati; partecipare regolarmente a seminari, congressi e riunioni che consentano lo scambio delle migliori pratiche di analisi dei dati e l’aggiornamento sugli ultimi approcci e strumenti di bioinformatica; fare rete con altri gruppi bioinformatici nazionali e internazionali, condividere informazioni ed esperienze e contribuire a formare una vivace comunità di bioinformatica.
 
-Phage search in insect vector microbiome - PHASER, DISBA project, CNR, Istituto per la Protezione Sostenibile delle Piante, Torino. Vincitore con la dott.ssa Marta Vallino del finanziamento di Dipartimento del progetto PHASER per identificare  la presenza di batteriofagi in quattro insetti vettori di malattie delle piante con due approcci: un approccio innovativo e originale basato su analisi di sequenze di RNAseq (di cui sono il responsabile) e un approccio classico, basato su osservazioni al microscopio elettronico.
+**Phage search in insect vector microbiome - PHASER**, DISBA project, CNR, Istituto per la Protezione Sostenibile delle Piante, Torino. Vincitore con la dott.ssa Marta Vallino del finanziamento di Dipartimento del progetto PHASER per identificare  la presenza di batteriofagi in quattro insetti vettori di malattie delle piante con due approcci: un approccio innovativo e originale basato su analisi di sequenze di RNAseq (di cui sono il responsabile) e un approccio classico, basato su osservazioni al microscopio elettronico.
 
 ### Prospettive future
 
-Nel futuro vorrei continuare a lavorare con metodologie -omics, utilizzando la biologia computazionale per rispondere a complesse domande biologiche su piante e le loro interazioni con altri microorganismi mutualistici/simbiotici o patogeni. Tecniche recentemente sviluppate come single cell transcriptomics, single cell proteomics, spatial transcriptomics dischiudono le porte ad un nuovo approccio alla studio delle interazioni tra gli organismi: come comunicano, come interagiscono, quali risposte attivano nell'ospite a livello di singola cellula. Ritengo cha la mia formazione a cavallo tra wet e dry lab mi renda un candidato qualificato per sviluppare progetti innovativi che richiedano avanzate competenze statistiche, informatiche e di biologia delle interazioni. Negli ultimi hanno ho avuto l'oppurtunità di lavorare in diversi laboratori in Italia e in Europa, questo mi ha permesso di  incontrare molti biologi vegetali e a costruire un network di possibili partners per progetti, come è stato per lo sviluppo di un pacchetto statistico di R sviluppato in collaborazione con la Prof. Gutjahr attualmente all'Università di Monaco in Germania, ma conosciuta a Losanna durante il mio primo PostDoc. 
+Nel futuro vorrei continuare a lavorare con **metodologie -omics**, utilizzando la **biologia computazionale** per rispondere a complesse domande biologiche su piante e le loro interazioni con altri microorganismi mutualistici/simbiotici o patogeni. Tecniche recentemente sviluppate come **single cell transcriptomics**, **single cell proteomics**, **spatial transcriptomics** dischiudono le porte ad un nuovo approccio alla studio delle interazioni tra gli organismi: come comunicano, come interagiscono, quali risposte attivano nell'ospite a livello di singola cellula. Ritengo cha la mia formazione a cavallo tra wet e dry lab mi renda un candidato qualificato per sviluppare progetti innovativi che richiedano avanzate competenze statistiche, informatiche e di biologia delle interazioni. Negli ultimi hanno ho avuto l'oppurtunità di lavorare in diversi laboratori in Italia e in Europa, questo mi ha permesso di  incontrare molti biologi vegetali e a costruire un **network di possibili partners** per progetti, come è stato per lo sviluppo di un pacchetto statistico di R in collaborazione con la Prof. Gutjahr attualmente all'Università di Monaco in Germania, ma conosciuta a Losanna durante il mio primo PostDoc. 
 
 ## Pubblicazioni
 
@@ -1152,23 +1152,23 @@ Proteomics analyses of symbiotic plant-fungus interaction. Giornata del DBIOS, U
 New viruses and new putative viral species from transcriptomic studies of samples from camellia, tomato and grapevine. Bari CNR. One Virology One Health. Societa italiana di virologia.     
 
 ## Collaborazioni 
-### Ramf
-Nel 2018 ho collaborato con la Prof. Caroline Gutjahr (University of Munich) per lo sviluppo di un pacchetto R per l'analisi statistica dei dati di micorrizzazione delle radici. La collaborazione che aveva l'obiettivo di promuovere l'utilizzoo del software R, la standardizzazione del metodo di analisi e delle visualizzazione grafiche ha portato alla pubblicazione di un articolo (Chiapello et al., 2019). E'  possibile scaricare il pacchetto su Github (https://github.com/mchiapello/Ramf).
+### University of Munich
+Nel 2018 ho collaborato con la Prof. Caroline Gutjahr per lo sviluppo di un pacchetto R per l'analisi statistica dei dati di micorrizzazione delle radici. La collaborazione che aveva l'obiettivo di promuovere l'utilizzoo del software R, la standardizzazione del metodo di analisi e delle visualizzazione grafiche ha portato alla pubblicazione di un articolo (Chiapello et al., 2019). E'  possibile scaricare il pacchetto su Github (https://github.com/mchiapello/Ramf).
 
-### Rwaves
+### Universita' degli Studi di Torino - Instituto de Ciencias Agrarias
 Nel 2020 ho iniziato una collaborazione con Matteo Ripamonti (Università degli Studi di Torino) e Alberto Fereres Castiel (Instituto de Ciencias Agrarias, Institute of Agricultural Sciences, Consejo Superior de Investigaciones Científicas, Spanish National Research Council) per sviluppare un pacchetto di R da utilizzare per le analisi di dati di electrical penetration graph (EPG), un sistema utilizzato per studiarel'interazione tra insetti (come afidi, cicaline o tripidi) e la pianta da cui si nutrono. Il pacchetto è in attiva fase di sviluppo, ma comunque scaricabile e utilizzabile (al momento solo per insetti floemomizi) da Github (https://github.com/mchiapello/Rwaves).
 
-### gggenes
-Ho contribuito allo sviluppo del pacchetto R gggenes, dedicato alla visualizzazione dell'organizzazioni genomiche.
-
-### Noemi Procopio, PhD
+### Northumbria University - CNR - Università  di Manchester
 Dal 2017 al 2020 una collaborazione con il laboratorio della Dr.ssa Noemi Procopio (Northumbria University), il CNR di Torino e l'Università di Manchester ha portato alla recente pubblicazione di un lavoro di ecologia forense (Procopio et al., 2020).
 
-### May Alqurashi, PhD
+### Università  King Abdulaziz
 Con la dottoressa May Alqurashi, ricercatore in visita all'Università di Cambridge dal'Università King Abdulaziz in Arabia Saudit, ho collaborato su un progetto legato allo stress idrico in *Arabidopsis thaliana* (Alqurashi et al., 2018).
 
-### Revelo
-Collaborazione con Revelo (https://revelodatalabs.com/), per analisi bioinformatiche e corsi di introduzione all'analisi dei dati e alla visualizzazione grafica con R.
+### Revelo Datalabs
+Collaborazione con Revelo (https://revelodatalabs.com/), per analisi bioinformatiche e corsi di introduzione all'analisi dei dati e alla visualizzazione grafica con R. Revelo Datalabs e' una start up di accademici e professionisti delle life science.
+
+### gggenes R package
+Ho contribuito allo sviluppo del pacchetto R gggenes, dedicato alla visualizzazione dell'organizzazioni genomiche.
 
 ## Competenza tecniche
 
@@ -1202,6 +1202,10 @@ Collaborazione con Revelo (https://revelodatalabs.com/), per analisi bioinformat
 - Avanzato: Trinity, bwa, bowtie2, samtools, CLARK, Kraken2, Diamond, Megan, Mega, Clustalo, IQTree, Bioconductor, Mascot, Protein Discoverer, Scaffold, Blast2GO, KEGG, MaxQuant, NCBI toolbox
 - Intermedio: Galaxy,  ncbi edirect
 - Base: Bioconda
+
+### Sviluppo tools bioinformatici
+- Ramf: un pacchetto di R per l'analisi statistica e la visualizzazione dei dati di colonizzazione dei funghi micorrizici arbuscolari (https://github.com/mchiapello/Ramf).
+- Rwaves: un pacchetto R per l'analisi statistica e l'automatizzazione dei dati di elettropenetrazione (https://github.com/mchiapello/Rwaves). 
 
 ### Grafica
 - Avanzato: InkScape, Scribus, Adobe Illustrator, Adobe Photoshop, Adobe Indesign, Adobe Premiere, Adobe After Effects
@@ -1263,7 +1267,7 @@ Selezione pubblica (numero di proteocollo IPSP 055 2020 TO) per il  conferimento
 
 ## Organizzazione congressi
 
-- Growing Inclusive, Computational Communities and Leaders, The Carpentries (https://2020.carpentrycon.org/task-force/)    
+- Growing Inclusive, Computational Communities and Leaders, The Carpentries (https://2020.carpentrycon.org/task-force/). Coinvolto in due sotto-gruppi: Content/Communications Subcommittee e Program Subcommittee.        
 dal 14-07-2020 al 31-08-2020 (online)
 - V International Mycovirus Symposium 2020, CNR, Istituto per la Protezione Sostenibile delle Piante, Gargnano.    
 dal 23-09-2020 al 26-09-2020 (Rimandato al 2021)
@@ -1276,13 +1280,15 @@ Dall'aprile 2020 sono membro dell' Editorial Board di Plant Symbiotic Interactio
 
 Da giugno 2020 sono membro dell’Editorial Board di Microbe and Virus Interactions with Plants (special section of Frontiers in Microbiology) in qualità  Review Editor. 
 
+Attività di revisore per diverse riviste: New Phytologist; ISME journal, Plant Cell and Environment; Mycorrhiza, Environmental Microbiology, Plos On, BMC genomics, Scientific Reports, Pedosphere, Archives of virology.
 
-## Attività di Tutorato
-### Tutorato
+
+## Attività di Tutoraggio
+### Tutoraggio
 `AA 2015-2016`
-- Andrea Modica (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)    
-- Lavinia Cagnina (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)    
-- Martina Capozzi (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)
+- Andrea Modica (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi - stage universitario per studenti magistrali)    
+- Lavinia Cagnina (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi - stage universitario per studenti magistrali)    
+- Martina Capozzi (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi - stage universitario per studenti magistrali)
 
 `AA 2019-2020`
 Per il master di primo livello "Controllo Biologico dei processi e dei prodotti dell'industria", ho vinto il concorso per ruolo di tutor accademico per il project work dello studente Mattia Schirrippa per la progettazione e scrittura di un report interattivo per l'analisi direzionale della produzione (in R).
@@ -1303,17 +1309,35 @@ Sono stato "Mentoring chair" della fondazione "The Carpentries". Ho coordinato a
 
 ###	Esercitazioni di laboratorio
 `AA 2004-2005`
-Esercitazioni di laboratorio per il corso di Biologia (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)
+Esercitazioni di laboratorio per l'insegnamento di Botanica Generale + Istologia Vegetale (corso A) (B8510) (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)
 
 `AA 2005-2006`
-Esercitazioni di laboratorio per il corso di Biologia (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)
+Esercitazioni di laboratorio per l'insegnamento di Botanica Generale + Istologia Vegetale (corso A) (B8510) (Università degli Studi di Torino - Dipartimento di Scienze della vita e Biologia dei Sistemi)
 
 `AA 2016-2017`
 Esercitazioni di laboratorio per studenti di dottorato sulle metodologie di preparazione del campione, analisi statistica e interpretazione dei dati (University of Cambridge, Cambridge Center for Proteomics)
 
+## Competenze trasversali
+
+### Competenze comunicative e interpersonali 
+- **Propensione all'ascolto** acquisita grazie all'esperienza di volontariato presso Comune di Torino e servizi sociali della circoscrizione 7, nell'ambito dei progetti "Provaci ancora Sam" e "Tutoraggio". Entrambi progetti coinvolgevamo minori e le loro famiglie con situazioni educative e economiche problematiche. Quest'esperienza mi ha permesso di imparare l'ascolto e l'empatia, nonche' la gestione di situazioni estremamente conflittuali sia in famiglia sia tra le famiglie e le istituzioni.
+- Ottime **capacita' comunicative verbali** acquisite in ambito universitario e internazionale. Sono in grado di parlare in pubblico grazie all'esperienza maturata durante gli ultimi anni in cui ho tenuto svariati workshop in diverse Universita' e centri di ricerca Europei. Anni di esperienza come allenatore di pallavolo (in Italia, Svizzere e Inghilterra) mi hanno permesso di migliorare la **capacita' di sintesi**: spiegare concetti complessi in poche e semplici parole.   
+- Ho acquisito la capacita' di **comunicare in modo scritto** grazie all'esperienza nella stesura di articoli scientifici, relazioni e progetti in ambito scientifico. 
+- **Ottima capacita' di adattamento** grazie all'esperienze lavorative e sociali in ambito internazionale. Negli ultimi 10 anni ho lavorato in diverse Universita' Europee e ogni volta ho dovuto ricreare relazioni lavorative e sociali. 
+
+### Competenze Organizzative e Gestionali
+- **Capacita' di lavorare in autonomia**. Negli ultimi anni ho svolto per diverse aziende (ProteiQ, Evo Pricing e Revelo Datalab) il lavoro di consulente su specifici progetti. Queste esperienze mi hanno permesso di maturare la capacita' di lavorare in autonomia, **rispettare le tempistiche** e **organizzare e gestire il tempo lavorativo**. 
+- **Capacita' di lavorare in gruppo**. Tutte le esperienze lavorative all'interno di gruppi di ricerca, hanno invece contribuito a migliorare  la mia capacita' di lavorare in gruppo: collaborazione, empatia, supporto, confronto e disponibilita' sono le parole con cui descrivo la mia presenza all'interno di un gruppo di lavoro.
+- Piu' di 10 anni di esperienza lavorativa in ambito scientifico universitario mi hanno permesso di sviluppare sotto la guida di diversi mentori (italiani e stranieri) spiccate capacita' di **pianificazione e gestione** di progetti ed esperimenti di ricerca.
+- L'esperienza di allenatore di pallavolo mi ha permesso di allenare squadre giovanili femminili e maschili; squadre di adulti maschili e femminili; nonche' squadre di adulti miste con giocatori provenienti da diverse nazionalita'. La grande etoregeita' delle squadre allenate mi ha permesso di sviluppare **adattabilita'** (saper modificare il proprio comportamento a seconda di quanto richiesto dalla situazione), **flessibilita'** (saper non irrigidirsi sulla propria posizione) e **capacita' gestionali di gruppi complessi in situazioni di stress** (come le due finali nazionali del campionato under 18 Svizzero).   
+
+### Competenze cognitive e intellettuali 
+- Durante i primi anni della mia carriera universitaria mi sono spesso trovato a lavorare su progetti nuovi o con l'utilizzo di tecniche nuove per il laboratorio di riferimento. Queste situazioni mi hanno aiutato accrescere le mie capacita' di **problem solving** per imparare a sviluppare nuovi protocolli o apprendere in autonomia tecniche nuove. 
+- In particolare, durante il mio postDoc in Svizzera, ho dovuto sviluppare un protocollo per estrazione ed l'identificazione di rare proteine di membrana. La messa appunto del protocollo ha richiesto due anni e innumerevoli fallimenti. Quest'esperienza mi ha fatto capire la mia **propensione al risultato**, la capacita' di non mollare e il tenace **spirito di iniziativa**.
+
 
 <br><br>
-Torino, il 11/01/2021
+Torino, il 18/01/2021
 <br><br>
 Autorizzo il trattamento e la comunicazione dei dati personali ai sensi del D.L. 196/03
 
