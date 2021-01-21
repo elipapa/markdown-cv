@@ -20,6 +20,13 @@ Senior-level infrastructure engineer with almost 20 years of experience in desig
 
 ## Experience
 
+`November 2020 - Present`
+**Grupo Masmovil, Senior DevOps Specialist**
+
+As part of the Systems tribe and inside the Chapter Runtime we take care and deploy the systems that are cross to the company in the compant cloud environment.
+
+Main technologies used: Kubernetes, Terraform, Helm, Google Cloud Plattform, Kafka, ElasticSearch, Redis, Prometheus, Grafana, Jenkins.
+
 `December 2019 - Present`
 **Qindel, Architect/Team Leader, Madrid**
 
