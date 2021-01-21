@@ -27,7 +27,7 @@ As part of the Systems tribe and inside the Chapter Runtime we take care and dep
 
 Main technologies used: Kubernetes, Terraform, Helm, Google Cloud Plattform, Kafka, ElasticSearch, Redis, Prometheus, Grafana, Jenkins.
 
-`December 2019 - Present`
+`December 2019 - November 2020`
 **Qindel, Architect/Team Leader, Madrid**
 
 Team Lead of the Vodafone account, End-to-end technical responsible of projects, including pre-sales, POCs and project execution stages.
