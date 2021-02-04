@@ -18,7 +18,7 @@ title: Sean Lo's Resume
 - __Languages:__ Python, C/C++, JavaScript, HTML, CSS, SQL 
 - __Development:__ AWS, React.js, Node.js, Git, Django, Jenkins, Selenium, Postgre, Docker  
 
-## Experiences  
+## Experience  
 
 `Jun. 2020 -`
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
