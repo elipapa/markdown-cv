@@ -16,7 +16,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
+	margin: 2;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -56,7 +56,7 @@ body {
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: Rubflama-Regular,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: RubFlama,sans-serif;
 	color: #aaa;
 }
 
@@ -86,24 +86,24 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 26%;
+	width: 50%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "›";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
+	color: #708090;
 }
 
 li ul {
@@ -115,7 +115,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: RubFlama-Regular,sans-serif;
 	width: 80%;
 }
 
@@ -135,12 +135,14 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
-	margin-top: 3em;
+	color: #e0551fef;
+	margin-top: 4em;
 	position: relative;
 	top: 1.4em;
-	text-align: right;
-	width: 20%;
+	text-align: left;
+	width: 10%;
+	position: relative;
+	left: 10%;
 }
 
 h3 {
@@ -148,8 +150,10 @@ h3 {
 	line-height: 2em;
 	position: relative;
 	top: 1.7em;
-	text-align: right;
-	width: 20%;
+	text-align: left;
+	/* width: 20%; */
+	position: relative;
+	left: 15%;
 }
 
 a {
@@ -165,7 +169,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
+	color: #708090;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
@@ -189,7 +193,7 @@ strong {
 
 
 
-/*
-@media only screen and (max-width: 480px) {
+
+/* @media only screen and (max-width: 480px) {
 	make one column somehow...
-}*/
+} */
