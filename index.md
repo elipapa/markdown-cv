@@ -63,28 +63,39 @@ __LiDAR and drone imaging__ of the Monte Vettore Fault System, Italy
 `07/2016`
 __Active seismic survey__ with geoFact, Freiburg, Germany
 
+## Skills
+
+`Languages`
+
+German – mother tongue, English – fluent, Latin
+
+`Tools`
+
+Python, Fortran, Linux, Matlab, Office
+
 ## Publications
 
+`Published`
 A list is also available [online](https://scholar.google.com/citations?user=QlxOvB0AAAAJ&hl=en&oi=ao)
-
-### Published
 
 `2020`
 __Kemna K. B.__, Peña Castro A. F.,Harrington R. M., Cochran E. S. (2020). Using a Large-n Seismic Array to explore the robustness of spectral estimations. Geophysical ResearchLetters, 47, e2020GL089342. [https://doi.org/10.1029/2020GL089342R](https://doi.org/10.1029/2020GL089342R)
 
-`2020`
 Cochran E. S., Wickham-Piotrowski A., __Kemna K. B.__, Harrington R. M., Dougherty S., Peña Castro A. F. (2020). Minimal Clustering of Injection-Induced Earthquakes Observed with a Large-n Seismic Array. Bulletin of the Seismological Society of America. [https://doi.org/10.1785/0120200101](https://doi.org/10.1785/0120200101)
 
 `2018`
+
 Hinzen K.-G., Maran J., Hinojosa-Prieto H., Damm-Meinhardt U., Reamer S. K., Tzislakis J., __Kemna K.__, Schweppe G., Fleischer C., Demakopoulou K. (2018). Reassessing the Mycenaean Earthquake Hypothesis: Results of the HERACLES Project from Tiryns and Midea, Greece. Bulletin of the Seismological Society of America, vol. 108, issue 3A, pp. 1046-1070. [https://doi.org/10.1785/0120170348](https://doi.org/10.1785/0120170348)
 
-### Submitted
+<br />
+
+`Submitted`
 
 Peña Castro A. F., __Kemna K. B.__, Harrington R. M., Liu Y., Roth M. P. Catalog enhancement and source properties of earthquakes in the last active coal mine in Germany before its  closure. [Under review at GJI]
 
 <!-- Coimbra R., Kemna K. B., Rocha F., Horikx M. Modelling mineralogical (XRD) data: geological advantages and applications. [Submitted to The Depositional Record 09/2020] -->
 
-### In Preparation
+`In Preparation`
 
 __Kemna K. B.__, Verdecchia Alessandro, Harrington R. M. – Spatio-temporal evolution of earthquake static stress drop values in the 2016–2017 Central Italy Seismic Sequence
 
@@ -129,6 +140,8 @@ __Kemna K. B.__, Harrington R. M., Cochran E. S., Wickham-Piotrowski A., Peña-C
 `09/2019`
 __Kemna K. B.__, Verdecchia A., Harrington R. M. Correlating earthquake static stress drop values with fault complexity in the 2016 Amatrice-Norcia earthquake sequence, Central Italy (2019). AG Seismologie, Rastatt, Deutschland.
 
+<br />
+
 `09/2019`
 Cochran E. S., Harrington, R. M., Dougherty S. L., Peña-Castro, A., __Kemna K. B.__, Wickham-Piotrowski A., Ross Z. E. Using a large-N seismic array to explore injection-induced earthquakes in northern Oklahoma (2019). Geological Society of America Meeting, Phoenix, Arizona, USA.
 
@@ -151,6 +164,6 @@ __Kemna, K. B.__, Peña-Castro, A. F., Harrington, R. M., Roth, M. P., Liu Y. So
 <br />
 <br />
 
-`Last updated: May 2013`
+`Last updated: February 2021`
 <br />
 <br />

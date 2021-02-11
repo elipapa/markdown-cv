@@ -227,7 +227,7 @@ h1+p {
 
 h2 {
     font-size: 1.4em;
-    /* color: #BC243C; */
+    color: #BC243C;
     margin-top: 1em;
     top: 1em;
     text-align: right;
@@ -263,7 +263,7 @@ a:hover {
     position: relative;
     left: 25%;
     color: #708090;
-    font-family: RubFlama, monospace, sans-serif;
+    font-family: RubFlama, sans-serif;
     font-size: 100%;
 }
 

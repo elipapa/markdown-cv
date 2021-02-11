@@ -175,7 +175,7 @@ p code {
 ul {
     position: relative;
     left: 41%;
-    width: 50%;
+    width: 55%;
     margin-bottom: 1em;
     /*margin-top: -0.5em;*/
 }
@@ -225,7 +225,7 @@ h1+p {
 
 h2 {
     font-size: 1.3em;
-    /* color: #BC243C; */
+    color: #A31F33;
     margin-top: 1em;
     top: 1em;
     text-align: right;
