@@ -1,3 +1,3 @@
 # CV
 
-Forked and edited from elipapa.github.io/markdown-cv
+Forked and edited from https://elipapa.github.io/markdown-cv
