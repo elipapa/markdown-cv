@@ -1,15 +1,16 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Frederick Thomas's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Frederick D. Thomas, Jr. 
+Minister | Full-Stack Developer | USMC War Veteran
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
+![Badge](https://img.shields.io/badge/GitHub-Pro%20%20%20-blue)&nbsp;![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-orange)
+<a href="https://www.youtube.com/playlist?list=PLnxMwdxjTgTEN-xRODXLJ6sI5hgz1lFbu" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a><a href="https://fb.com/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a><a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a><a href="https://github.com/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="discoverfrederickthomas" height="30" width="30" /></a><a href="mailto:SuperCodingNinja@outlook.com" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="supercodingninja" height="30" width="30"/></a>
+
+
+## ![fam](media/Fam.jpg)
 
 ## Currently
 
