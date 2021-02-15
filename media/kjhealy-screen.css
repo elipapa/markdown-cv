@@ -118,6 +118,26 @@ h1,h2,h3,h4 {
 	width: 65%;
 }
 
+.intro {
+	font-size: 1.1em;
+	color: #a00;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	align-items: right;
+	width: 20%;
+}
+
+.intro+p {
+	font-size: 1.1em;
+	color: #a00;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
+
 h1 {
 	text-align: left;
 	font-size: 3em;
