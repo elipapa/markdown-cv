@@ -12,7 +12,7 @@ Minister | Full-Stack Developer | USMC War Veteran
 
 ## <img class="intro" src="media/Fam.jpg" align="center"/>
 
-Hello.  My name is Frederick; and I want to change my world.
+Hello.  My name is Frederick; and I want to change my world!
 
 ## Currently
 
