@@ -1,92 +1,65 @@
----
-layout: cv
-title: Frederick Thomas's CV
----
-# Frederick D. Thomas, Jr. 
-Minister | Full-Stack Developer | USMC War Veteran
+# markdown-cv
 
+A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
-![Badge](https://img.shields.io/badge/GitHub-Pro%20%20%20-blue)&nbsp;![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-orange)
-<a href="https://www.youtube.com/playlist?list=PLnxMwdxjTgTEN-xRODXLJ6sI5hgz1lFbu" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a><a href="https://fb.com/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a><a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a><a href="https://github.com/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="discoverfrederickthomas" height="30" width="30" /></a><a href="mailto:SuperCodingNinja@outlook.com" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="supercodingninja" height="30" width="30"/></a>
+For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
+***
 
-## ![fam](media/Fam.jpg)
+## Customization
 
-## Currently
+Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
 
-Standing on the shoulders of giants
+![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-### Specialized in
+and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
+adding your skills, jobs and education.
 
-### Research interests
+![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Distribution
 
+To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
 
-## Education
+### I. Use Github Pages to publish it online
 
-`1654-1660`
-__The King's School, Grantham.__
+1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
+2. Create a new branch called `gh-pages`.
+3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-- Sizar
+### II. Build it locally and print a PDF
 
-`1667 - death`
-__Trinity College, Cambridge__
+1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
+3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
+3. Type `jekyll serve` to render your CV at http://localhost:4000.
+4. You can edit the `index.md` file and see the changes live in your browser.
+5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
-- Fellow
+## Styling
 
+The included CSS will render your CV in two styles:
+s
+1. `kjhealy` the original default, inspired by [kjhealy's vita
+template](https://github.com/kjhealy/kjh-vita).
+2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
+  right aligned.
 
+To change the default style, simply change the variable in the
+`_config.yml` file.
 
-## Awards
+Any other styling is possible. More CSS style contributions and forks are welcome!
 
-`2012`
-President, *Royal Society*, London, UK
+### Author
 
-Associate, *French Academy of Science*, Paris, France
+Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
+![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
+### License
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
