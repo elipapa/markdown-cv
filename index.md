@@ -10,10 +10,9 @@ Minister | Husband & Father | Full-Stack Developer | <img src="media/USMC.jpg" a
 <a href="https://github.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>&nbsp;<a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>&nbsp;<a href="mailto:SuperCodingNinja@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="supercodingninja" height="30" width="30"/></a>&nbsp;<a href="https://www.youtube.com/playlist?list=PLnxMwdxjTgTEN-xRODXLJ6sI5hgz1lFbu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>&nbsp;<a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30"/></a>
 
 
-## <img src="media/Fam.jpg" height="50%" width="50%"/>
+## Introduction
 
-
-<img align="center" src="media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="250" width="250"/>
+<img src="media/Fam.jpg" height="50%" width="50%"/><img align="center" src="media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="250" width="250"/>
 - <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank">Click 👉🏿 Here 👈🏿 To View With The Audio</a>
 
 Hello.  My name is Frederick; and I want to change my world!  I am an accomplished Independent Contractor, with over 24 years work experience, ranging from Major Social Media Corporations to High-risk specialty assignments.  I continued my professional studies, while operating at a high level; and I have performed exceptionally well out of country, in austere environments.  I aim to maintain a spotless record for safety throughout my career professions and businesses.  I am ethical, and I have character.
