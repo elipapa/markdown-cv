@@ -12,7 +12,7 @@ Minister | Husband & Father | Full-Stack Developer | <img src="media/USMC.jpg" a
 
 ## Introduction
 
-<img src="media/Fam.jpg" height="50%" width="50%"/><img align="center" src="media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="250" width="250"/>
+<img align="center" src="media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="50%" width="50%"/><img src="media/Fam.jpg" height="50%" width="50%"/>
 - <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank">Click 👉🏿 Here 👈🏿 To View With The Audio</a>
 
 Hello.  My name is Frederick; and I want to change my world!  I am an accomplished Independent Contractor, with over 24 years work experience, ranging from Major Social Media Corporations to High-risk specialty assignments.  I continued my professional studies, while operating at a high level; and I have performed exceptionally well out of country, in austere environments.  I aim to maintain a spotless record for safety throughout my career professions and businesses.  I am ethical, and I have character.
