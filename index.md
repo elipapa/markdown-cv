@@ -12,38 +12,39 @@ Minister | Husband & Father | Full-Stack Developer | <img src="media/USMC.jpg" a
 
 ## <img src="media/Fam.jpg" height="50%" width="50%"/>
 
-Hello.  My name is Frederick; and I want to change my world!
+Hello.  My name is Frederick; and I want to change my world!  I am an accomplished Independent Contractor, with over 24 years work experience, ranging from Major Social Media Corporations to High-risk specialty assignments.  I continued my professional studies, while operating at a high level; and I have performed exceptionally well out of country, in austere environments.  I aim to maintain a spotless record for safety throughout my career professions and businesses.  I am ethical, and I have character.
 
 ## Currently
 
-Standing on the shoulders of giants
+Preparing to graduate/earn my professional certificate, from the University of Washington.
 
 ### Languages and Tools
 
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;<a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>&nbsp;<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;<a href="https://travis-ci.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/></a>&nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 
 
-### Research interests
+### Research Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Typescript
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2020-April 2021`
+__UW Coding Bootcamp, Seattle, WA (Online)__
+- Full-Stack Web Developer, Certificate Course. Expecting Professional Certificate.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2017`
+__Code Fellows, Seattle, WA__
+- Full-Stack Web Developer, Code Bootcamp.  I completed Code Courses 101, 102; and 201 (scored 82.96 while working Full-Time, passed 301 Course Entrance Exam).
 
-- Sizar
+`Class of 2011`
+__New Testament Christian Seminary, Graham, WA__
+- Licensed Minister, Certificate of Religion.
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2009 to 2011`
+__DeVry University, Federal Way, WA [former campus]__
+- Sophomore, Majored in Network Communications Management
 
 ## Awards
 
