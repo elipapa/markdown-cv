@@ -6,7 +6,7 @@ title: Frederick Thomas's CV
 Minister | Husband & Father | Full-Stack Developer | <img src="media/USMC.jpg" alt="USMC Logo" width="40" height="40"/> War Veteran
 
 
-![Badge](https://img.shields.io/badge/GitHub-Pro%20%20%20-blue)&nbsp;![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-orange)<a href="https://github.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>&nbsp;<a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30"/></a>&nbsp;<a href="mailto:SuperCodingNinja@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="supercodingninja" height="30" width="30"/></a>&nbsp;<a href="tel:+1919-525-0548" target="blank"><img align="center" src="media/Mobile-phone-smartphone-telephone-01-512.png" alt="Call Frederick" height="30" width="30"/></a>&nbsp;<a href="https://www.youtube.com/playlist?list=PLnxMwdxjTgTEN-xRODXLJ6sI5hgz1lFbu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>&nbsp;<a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30"/></a>&nbsp;<a href="https://codepen.io/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30"/></a>
+![Badge](https://img.shields.io/badge/GitHub-Pro%20%20%20-blue)&nbsp;![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-orange)&nbsp;<a href="https://github.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>&nbsp;<a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30"/></a>&nbsp;<a href="mailto:SuperCodingNinja@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="supercodingninja" height="30" width="30"/></a>&nbsp;<a href="tel:+1919-525-0548" target="blank"><img align="center" src="media/Mobile-phone-smartphone-telephone-01-512.png" alt="Call Frederick" height="30" width="30"/></a>&nbsp;<a href="https://www.youtube.com/playlist?list=PLnxMwdxjTgTEN-xRODXLJ6sI5hgz1lFbu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>&nbsp;<a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30"/></a>&nbsp;<a href="https://codepen.io/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30"/></a>
 
 
 ## Introduction
@@ -65,7 +65,7 @@ United States Navy, *Marine Corps Good Conduct Medal (x2)*, Deployed Command (Op
 
 United States Marine Corps, *Iraq Campaign Medal*, Operation Iraqi Freedom
 
-United States Marine Corps, *Humanitarian Service Medal (x1 Star)*, Operation Enduring Freedom
+United States Marine Corps, *Humanitarian Service Medal (w/1 Star)*, Operation Enduring Freedom
 
 United States Marine Corps, *Global War on Terrorism Service Medal*, Operation Enduring Freedom
 
@@ -94,13 +94,13 @@ United States Marine Corps, *Certificate of Appreciation*, Operation Iraqi Freed
 United States Marine Corps, *Letter of Appreciation*, Operation Iraqi Freedom
 
 
-## Personal Activities
+## Personal Interests
 
 __Active Minister and Community Volunteer__
-- I am a licensed minister within my church organization; and I personally help the homeless, and families in need.  I try to help others, no matter what their beliefs are.
+- I am a licensed minister within my church organization; and I personally help the homeless, and families in need.  I try to help others, no matter what their beliefs are.  I love winning people.
 
 __Musician, Actor, Writer, Comedian__
-- I am a Musican over 32 years.  I have been a Saxophonist for 27 years.  Writing was once my weakest element; and now it is a great strength. I like to act, when given the opportunity.  I also love to laugh; and cause others to have a good time.   
+- I am a Musican for over 32 years.  I have been a Saxophonist for 27 years.  Writing was once, my weakest element; and now it is a great strength. I like to act, when given the opportunity.  I also love to laugh; and cause others to have a good time.   
 
 __Mixed Martial Arts and Sports__
 - I have practiced Mixed Martial Arts, played on Rugby, Football, Soccer, and Wrestling teams.  I enjoy watching NFL games with a few friends; or even professional colleagues.
