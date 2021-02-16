@@ -97,44 +97,18 @@ United States Marine Corps, *Letter of Appreciation*, Operation Iraqi Freedom
 
 ## Personal Activities
 
-- Active Minister and Community Volunteer.
+__Active Minister and Community Volunteer__
+- I am a licensed minister within my church organization; and I personally help the homeless, and families in need.  I try to help others, no matter what their beliefs are.
 
-- Saxophonist for over 26 years, Musician over 32 years.
+__Musician, Actor, Writer, Comedian__
+- I am a Musican over 32 years.  I have been a Saxophonist for 27 years.  Writing was once my weakest element; and now it is a great strength. I like to act, when given the opportunity.  I also love to laugh; and cause others to have a good time.   
 
-- Mixed Martial Arts, Rugby, Football, Soccer
-
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Mixed Martial Arts and Sports__
+- I have practiced Mixed Martial Arts, played on Rugby, Football, Soccer, and Wrestling teams.  I enjoy watching NFL games with a few friends; or even professional colleagues.
 
 
-## Occupation
+### Footer
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: February 2021
 
 
