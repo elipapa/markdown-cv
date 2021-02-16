@@ -3,7 +3,7 @@ layout: cv
 title: Frederick Thomas's CV
 ---
 # Frederick D. Thomas, Jr. 
-Minister | Husband & Father | Full-Stack Developer | USMC War Veteran
+Minister | Husband & Father | Full-Stack Developer | <img src="media/USMC.jpg" alt="USMC Logo" width="20" height="20"/> War Veteran
 
 
 ![Badge](https://img.shields.io/badge/GitHub-Pro%20%20%20-blue)&nbsp;![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-orange)
