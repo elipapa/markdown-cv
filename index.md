@@ -107,6 +107,18 @@ __Mixed Martial Arts and Sports__
 - I have practiced Mixed Martial Arts, played on Rugby, Football, Soccer, and Wrestling teams.  I enjoy watching NFL games with a few friends; or even professional colleagues.
 
 
+## Occupation
+
+`July 2020-Present`
+Independant Contractor, Markham Investigation and Protection Services
+
+`January 2020-June 2020`
+Protective Specialist, Markham Investigation and Protection Services
+
+`September 2016-May 2020`
+SRO, Star Protection Agency, LLC
+
+
 ### Footer
 
 Last updated: February 2021
