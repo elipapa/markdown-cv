@@ -20,7 +20,7 @@ Hello.  My name is Frederick; and I want to change my world!  I am an accomplish
 
 ## Currently
 
-Preparing to graduate/earn my professional certificate, from the University of Washington.
+<span style="font-size:larger;">Preparing to graduate/earn my professional certificate, from the *University of Washington*.</span>
 
 ### Languages and Tools
 
