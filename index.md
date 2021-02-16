@@ -13,7 +13,7 @@ Minister | Husband & Father | Full-Stack Developer | <img src="media/USMC.jpg" a
 
 ## Introduction
 
-<img src="media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="180%" width="50%"/><img src="media/Fam.jpg" height="37.5%" width="37.5%"/>
+<img src="media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="100%" width="50%"/><img src="media/Fam.jpg" height="37.5%" width="37.5%"/>
 
 - <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank">Click 👉🏿 Here 👈🏿 To View With The Audio</a>
 
