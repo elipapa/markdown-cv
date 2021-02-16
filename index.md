@@ -46,13 +46,49 @@ __New Testament Christian Seminary, Graham, WA__
 __DeVry University, Federal Way, WA [former campus]__
 - Sophomore, Majored in Network Communications Management
 
+
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`Spring 2016`
+SIS, *Operations' Coin (Honorable Mention by Client and Operations MGMNT)*, Seattle, WA
 
-Associate, *French Academy of Science*, Paris, France
+`November 2015`
+AlliedBarton, *Employee of The Month*, Seattle, WA
 
+`2001-2005`
+United States Marine Corps, *Rifle Marksmanship Badge*, MCB Camp Pendleton, CA
+
+United States Navy, *Marine Corps Good Conduct Medal (x2)*, Deployed Command (Operation Iraqi Freedom) and Parent Command
+
+United States Marine Corps, *Iraq Campaign Medal*, Operation Iraqi Freedom
+
+United States Marine Corps, *Humanitarian Service Medal (x1 Star)*, Operation Enduring Freedom
+
+United States Marine Corps, *Global War on Terrorism Service Medal*, Operation Enduring Freedom
+
+United States Marine Corps, *Sea Service Deployment Service Ribbon (w/2 Stars)*, Operations Enduring Freedom and Iraqi Freedom
+
+United States Marine Corps, *Global War on Terrorism Expeditionary Medal (Iraq)*, Operation Iraqi Freedom
+
+United States Marine Corps, *National Defense Service Medal*, Operations Enduring Freedom and Iraqi Freedom
+
+United States Navy, *Navy Meritorious Unit Commendation*, Operation Iraqi Freedom
+
+United States Navy, *Navy Unit Commendation*, Operation Enduring Freedom
+
+United States Navy, *Presidential Unit Citation- Navy*, Operation Iraqi Freedom
+
+United States Marine Corps, *Meritorious Mast (x3)*, Operations Enduring Freedom and Iraqi Freedom
+
+United States Marine Corps, *Iraq Campaign Medal*, Operation Iraqi Freedom
+
+United States Marine Corps, *Letter of Commendation*, Operation Enduring Freedom
+
+United States Marine Corps, *Certificate of Commendation*, Operation Enduring Freedom
+
+United States Marine Corps, *Certificate of Appreciation*, Operation Iraqi Freedom
+
+United States Marine Corps, *Letter of Appreciation*, Operation Iraqi Freedom
 
 
 ## Publications
