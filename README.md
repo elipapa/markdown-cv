@@ -78,9 +78,11 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 ### Contributors
 
 [Zoë Peterson](https://github.com/zpeterson)
+
 ![Zoë Peterson](media/Zoe.jpeg)
 
 [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), The [Super Coding Ninja™](https://github.com/supercodingninja)
+
 ![Super Coding Ninja](media/apple-touch-icon.png)
 
 ## License
