@@ -78,17 +78,17 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 ### Contributors
 
 <p>
-  <a href="https://github.com/aloupfor">aloupfor</a>
   <img src="media/Aloupfor.jpeg" height="120" width="120"/>
+  - <a href="https://github.com/aloupfor">aloupfor</a>
   
-  <a href="https://github.com/blmoore">Benjamin L. Moore</a>
   <img src="media/Ben.png" height="120" width="120"/>
+  - <a href="https://github.com/blmoore">Benjamin L. Moore</a>
   
-  <a href="https://github.com/zpeterson">Zoë Peterson</a>
   <img src="media/Zoe.jpeg" height="120" width="120"/>
+  - <a href="https://github.com/zpeterson">Zoë Peterson</a>
 
-  <a href="https://github.com/supercodingninja" height="120" width="120">Frederick Thomas, Super Coding Ninja™</a>
   <img src="media/apple-touch-icon.png"/>
+  - <a href="https://github.com/supercodingninja" height="120" width="120">Frederick Thomas, Super Coding Ninja™</a>
 </p>
 
 ## License
