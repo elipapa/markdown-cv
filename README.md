@@ -77,13 +77,15 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 
 ### Contributors
 
-[Zoë Peterson](https://github.com/zpeterson)
+<p>
+  <a href="https://github.com/aloupfor">aloupfor<img src="media/Aloupfor.jpeg" height="50%" width="50%"/></a>
+  
+  <a href="https://github.com/blmoore">Benjamin L. Moore<img src="media/Ben.png" height="50%" width="50%"/></a>
+  
+  <a href="https://github.com/zpeterson">Zoë Peterson<img src="media/Zoe.jpeg" height="50%" width="50%"/></a>
 
-![Zoë Peterson](media/Zoe.jpeg)
-
-[Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), The [Super Coding Ninja™](https://github.com/supercodingninja)
-
-![Super Coding Ninja](media/apple-touch-icon.png)
+  <a href="https://github.com/supercodingninja" height="50%" width="50%">Frederick Thomas, Super Coding Ninja™<img src="media/apple-touch-icon.png"/></a>
+</p>
 
 ## License
 ![License Icon](https://img.shields.io/badge/License-MIT-informational.svg)
