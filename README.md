@@ -49,7 +49,7 @@ Any change you want to make to your CV from then on would have to be done on the
 ### Alternative to Local Build
     1.Visit https://www.freepdfconvert.com/
     2. Select best option.
-    ![opt](media/Alt.png)
+   ![opt](media/Alt.png)
 
 
 ## Styling
