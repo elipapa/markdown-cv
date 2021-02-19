@@ -108,7 +108,7 @@ __Mixed Martial Arts and Sports__
 
 ## Occupation
 
-`July 2020-Present`
+`July 2020-February`
 *Independant Contractor*, Markham Investigation and Protection Services
 
 `January 2020-June 2020`
