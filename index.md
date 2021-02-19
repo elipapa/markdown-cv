@@ -108,13 +108,13 @@ __Mixed Martial Arts and Sports__
 
 ## Occupation
 
-`July 2020-February 2021`
+`July 2020 to February 2021`
 *Independant Contractor*, Markham Investigation and Protection Services
 
-`January 2020-June 2020`
+`January 2020 to June 2020`
 *Protective Specialist*, Markham Investigation and Protection Services
 
-`September 2016-May 2020`
+`September 2016 to May 2020`
 *SRO*, Star Protection Agency, LLC
 
 
