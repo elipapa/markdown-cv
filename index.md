@@ -30,25 +30,6 @@ Hello.  My name is Frederick; and I want to change my world!  I am an accomplish
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://emberjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 
 
-## Education
-
-`September 2020-April 2021`
-__UW Coding Bootcamp, Seattle, WA (Online)__
-- Full-Stack Web Developer, Certificate Course. Expecting Professional Certificate.
-
-`2016-2017`
-__Code Fellows, Seattle, WA__
-- Full-Stack Web Developer, Code Bootcamp.  I completed Code Courses 101, 102; and 201 (scored 82.96 while working Full-Time, passed 301 Course Entrance Exam).
-
-`Class of 2011`
-__New Testament Christian Seminary, Graham, WA__
-- Licensed Minister, Certificate of Religion.
-
-`2009 to 2011`
-__DeVry University, Federal Way, WA [former campus]__
-- Sophomore, Majored in Network Communications Management
-
-
 ## Awards
 
 `Spring 2016`
@@ -91,6 +72,25 @@ United States Marine Corps, *Certificate of Commendation*, Operation Enduring Fr
 United States Marine Corps, *Certificate of Appreciation*, Operation Iraqi Freedom
 
 United States Marine Corps, *Letter of Appreciation*, Operation Iraqi Freedom
+
+
+## Education
+
+`September 2020-April 2021`
+__UW Coding Bootcamp, Seattle, WA (Online)__
+- Full-Stack Web Developer, Certificate Course. Expecting Professional Certificate.
+
+`2016-2017`
+__Code Fellows, Seattle, WA__
+- Full-Stack Web Developer, Code Bootcamp.  I completed Code Courses 101, 102; and 201 (scored 82.96 while working Full-Time, passed 301 Course Entrance Exam).
+
+`Class of 2011`
+__New Testament Christian Seminary, Graham, WA__
+- Licensed Minister, Certificate of Religion.
+
+`2009 to 2011`
+__DeVry University, Federal Way, WA [former campus]__
+- Sophomore, Majored in Network Communications Management
 
 
 ## Personal Interests
