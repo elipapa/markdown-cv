@@ -78,7 +78,7 @@ United States Marine Corps, *Letter of Appreciation*, Operation Iraqi Freedom
 
 `Graduate 04/21`
 __UW Coding Bootcamp, Seattle, WA (Online)__
-- Full-Stack Web Developer, Professional Certification.
+- Full-Stack Web Developer, Professional Certificate.
 
 `2016-2017`
 __Code Fellows, Seattle, WA__
