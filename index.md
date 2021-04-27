@@ -2,87 +2,63 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hampus Kalén
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hampus95@gmail.com">hampus95@gmail.com</a>
+| <a href="https://www.linkedin.com/in/hampus-kalen/">My linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Analyst at If P&C Insurance, working primarily with statstical modelling.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2018`
+__Lund University__
+- Engineering Physics, specialized in statistics and machine learning.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2013`
+__Vittragymnasiet Sickla__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Science program
 
 
+## Notable previous work experience
 
-## Awards
+`2020`
+part time software engineer, *Voice Diagnostics*
 
-`2012`
-President, *Royal Society*, London, UK
+`2017`
+Software engineering intern, *Arm*, Lund
 
-Associate, *French Academy of Science*, Paris, France
+`2016-2018`
+Teaching assistant in basic courses in programming, control theory and statistics.
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2013, 2014`
+Configuration management intern, *Ericsson*, Kista
 
 
-## Occupation
+## Technical skills
+__Python__, Jupyter, Pandas, Matplotlib, Seaborn, Statsmodels, Statstical modelling, Machine learning  
+__SQL__  
+__Tableau__  
+__Git__  
+__SAS__  
+__Java__ 
 
-`1600`
-__Royal Mint__, London
+## Other experience
+`2003-2020`
+Basketball player, coach, referee and volunteer
+- Played at national level for five years.
 
-- Warden
-- Minted coins
+`2016-2017`
+Student council member at F-sektionen, at Lund University
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2012-2013`
+Volounteer math tutor in secondary school
 
 <!-- ### Footer
 
