@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hampus Kalén's CV
 ---
 # Hampus Kalén
 
