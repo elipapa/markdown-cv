@@ -10,9 +10,11 @@ title: Hampus Kalén's CV
 </div>
 
 
-## Currently
+## Current role
 
-Analyst at If P&C Insurance, working primarily with statstical modelling.
+`2019-ongoing`
+Analyst, *If P&C Insurance*
+- Working primarily with statstical modelling.
 
 ## Education
 
@@ -29,25 +31,26 @@ __Vittragymnasiet Sickla__
 ## Notable previous work experience
 
 `2020`
-part time software engineer, *Voice Diagnostics*
+Part time software engineer, *Voice Diagnostics*
 
 `2017`
 Software engineering intern, *Arm*, Lund
 
 `2016-2018`
-Teaching assistant in basic courses in programming, control theory and statistics.
+Teaching assistant, *Lund University
+- Teaching basic courses in programming, control theory and statistics.
 
 `2013, 2014`
 Configuration management intern, *Ericsson*, Kista
 
 
 ## Technical skills
-__Python__, Jupyter, Pandas, Matplotlib, Seaborn, Statsmodels, Statstical modelling, Machine learning  
-__SQL__  
-__Tableau__  
-__Git__  
-__SAS__  
-__Java__ 
+### Programming and software engineering
+Python, Java, SAS, Matlab and some R and Javascript.  
+Git, Azure Devops, Databricks. 
+
+### Data analysis and visualizations
+Pandas, Jupyter, Matplotlib,  SQL, Tableau, statsmodels, scikit-learn
 
 ## Other experience
 `2003-2020`
