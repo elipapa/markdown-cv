@@ -25,6 +25,7 @@ __Quality Assurance Analyst, Mekari__
 - Create automation test
 - Report bugs
 
+`December 2017 - December 2019`
 __Oracle Consulting Service, Streamworx Solutions__
 
 - Develop services using various Oracle products
@@ -32,7 +33,7 @@ __Oracle Consulting Service, Streamworx Solutions__
 - Provide solutions in a system architecture
 
 
-### Personal Skills
+## Personal Skills
 
 - Team Player
 - Fast Learner
@@ -41,7 +42,7 @@ __Oracle Consulting Service, Streamworx Solutions__
 - Professional
 - Time Management
 
-### Tools ,Technologies and Standards
+## Tools ,Technologies and Standards
 
 - Automation
 - Ruby
@@ -69,12 +70,12 @@ President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
-
+<!--
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
+<!--
 ### Journals
 
 `1669`
@@ -84,13 +85,13 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
+<!--
 ### Patents
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
-
+<!--
 ## Occupation
 
 `1600`
