@@ -58,8 +58,7 @@ __Oracle Consulting Service, Streamworx Solutions__
 
 `2013-2017`
 __Telkom University, Bandung__
-
-- B.A. in Informatics Engineering, GPA 3.29
+- B.A. in Informatics Engineering GPA 3.29
 
 <!-- ### Footer
 
