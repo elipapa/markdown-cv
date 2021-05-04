@@ -1,47 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Uswatun Hasanah's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Uswatun Hasanah
+Quality Assurance Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/uswatun-h-3479808b/">My LinkedIn Profile</a>
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+Quality Assurance Analyst with more than 1 year expertise in a fast-paced SaaS startup with quick application development life cycles. I am creating test cases to make better documentation for product and create automation code to maintain product quality.
 
-### Specialized in
+## Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`December 2019 - now`
+__Quality Assurance Analyst, Mekari__
+
+- Create test cases
+- Communicating with the IT and Products teams
+- Testing software
+- Create automation test
+- Report bugs
+
+__Oracle Consulting Service, Streamworx Solutions__
+
+- Develop services using various Oracle products
+- Strive to complete assigned projects in a timely manner
+- Provide solutions in a system architecture
 
 
-### Research interests
+### Personal Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Team Player
+- Fast Learner
+- Motivated
+- Reliable
+- Professional
+- Time Management
 
+### Tools ,Technologies and Standards
+
+- Automation
+- Ruby
+- Cucumber
+- Selenium
+- Oracle Service Bus
+- Oracle Database
+- JDeveloper
+- Integration Cloud Service
+- Sailpoint
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Telkom University, Bandung__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- B.A. in Informatics Engineering | GPA 3.29
 
 
-
+<!--
 ## Awards
 
 `2012`
@@ -81,8 +101,7 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
-
-
+-->
 
 <!-- ### Footer
 
