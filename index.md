@@ -6,7 +6,7 @@ title: Uswatun Hasanah's CV
 Quality Assurance Analyst
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/uswatun-h-3479808b/">My LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/uswatun-h-3479808b/">LinkedIn</a>
 </div>
 
 
@@ -58,6 +58,7 @@ __Oracle Consulting Service, Streamworx Solutions__
 
 `2013-2017`
 __Telkom University, Bandung__
+
 - B.A. in Informatics Engineering GPA 3.29
 
 <!-- ### Footer
