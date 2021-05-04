@@ -25,7 +25,7 @@ __Quality Assurance Analyst, Mekari__
 - Create automation test
 - Report bugs
 
-`December 2017 - December 2019`
+`Dec 2017 - Dec 2019`
 __Oracle Consulting Service, Streamworx Solutions__
 
 - Develop services using various Oracle products
@@ -63,6 +63,6 @@ __Telkom University, Bandung__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
 
 
