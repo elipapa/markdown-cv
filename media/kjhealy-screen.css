@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -83,7 +83,7 @@ p code {
 }
 
 
-ul { 
+ul {
 	position: relative;
 	left: 33%;
 	width: 65%;
@@ -126,7 +126,7 @@ h1 {
 	left: 33%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -144,7 +144,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
@@ -186,9 +186,50 @@ strong {
 	display: none;
 }
 
+/* This hack fixes scrollable on x for tablets */
+@media only screen and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
+}
 
+/* Mobile styling, starting at iPad portrait size */
+@media only screen and (max-width: 768px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  ul,
+  code,
+  #webaddress {
+    position: static;
+    width: 100%;
+    text-align: left;
+  }
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+  code {
+    width: auto;
+  }
+
+  h1 {
+    margin-bottom: 0.1em;
+  }
+
+  h2 {
+    margin-top: 1em;
+  }
+
+  body {
+  	margin-top: 0;
+  	margin-left: 0;
+    padding: 1em;
+  }
+
+  p code {
+    position: static;
+    margin-right: auto;
+    display: block;
+    text-align: left;
+  }
+}
