@@ -20,10 +20,20 @@ title: Sean Lo's Resume
 
 ## Experience  
 
+`Mar. 2021 -`
+__Software Development Engineer in Test, *Sony Interactive Entertainment PlayStation*__, San Francisco, CA 
+
+`Current` 
+
+- `-` Write automation scripts for features with key characteristics of stability and maintainability which prevents regressions in the product code.
+- `-` Build, maintain, and improve automated test suites for web interfaces on the PlayStation website
+- `-` Work with developers to ensure that all features and bug fixes come with automated test coverage
+- `-` Set up test frameworks and help teams set up automation infrastructure
+
 `Jun. 2020 -`
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
 
-`Current` 
+`Mar. 2021` 
 
 - `-` Oversee release and testing of five enterprise, web, iOS, and Android products, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker 
 - `-` Build and maintain automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins
@@ -65,13 +75,6 @@ __Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat
 - `-` Coacted in a three person agile-development team to develop a product that allows users to locate/organize study groups
 - `-` Deployed, hosted, and certified product on AWS's EC2, complete with database access and elastic load balancing 
 - `-` Utilized Typescript with React framework for front-end and Node.js for back-end development
-
-`Aug. 2019` 
-__CoffeeChat__  
-
-- `-` Created a dynamic forum/blog that connects individuals with the option to join groups 
-- `-` Deployed and hosted on Amazon Web Service and Trello for team/task management 
-- `-` Utilized HTML, CSS, and JavaScript for front-end and Python and Django for back-end
 
 `Apr. 2018` 
 __Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> <font color="blue"> Presentation </font> </a>
