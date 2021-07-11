@@ -2,22 +2,22 @@
 layout: cv
 title: Sayak Khatua's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sayak Khatua
+Economist | International Development
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sayakkhatua@3ieimpact.org">sayakkhatua@3ieimpact.org</a>
+| <a href="https://sayakkhatua.github.io">Website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Evaluation Specialist, International Initiative for Impact Evaluation (3ie)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Impact Evaluation, 
 
 
 ### Research interests
