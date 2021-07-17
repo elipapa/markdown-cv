@@ -6,7 +6,7 @@ title: Theo Rashid
 <!-- Physicist, Mathematician, Statistician. -->
 
 <div id="webaddress">
-<a href="theoaorashid@gmail.com">theoaorashid@gmail.com</a>
+<a href="mailto:theoaorashid@gmail.com">theoaorashid@gmail.com</a>
 | <a href="https://theorashid.github.io">theorashid.github.io</a>
 </div>
 
@@ -46,13 +46,13 @@ __Leicester Grammar School__
 ## Experience
 
 `Summer 2019`
-- Business Analyst, __Deecon Consulting__
+Business Analyst, __Deecon Consulting__
 
 `Summers 2018, 2019`
-- Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Imperial College London
+Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Imperial College London
 
 `Summer 2014`
-- Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of Chemistry, University of Leicester
+Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of Chemistry, University of Leicester
 
 
 
@@ -71,7 +71,7 @@ Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the life cycle of maj
 ## Conferences
 
 `2021`
-- High resolution analysis reveals widening 30-year life expectancy gap within London, poster, __International Conference on Urban Health__
+High resolution analysis reveals widening 30-year life expectancy gap within London, poster, __International Conference on Urban Health__
 
 
 ## Teaching
@@ -85,7 +85,7 @@ Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial Colleg
 
 ## Skills
 ### Statistical
-- Bayesian inference, geospatial statistics, machine learning
+Bayesian inference, geospatial statistics, machine learning
 
 ### Computational
 Highly proficient in R, Python
@@ -95,7 +95,7 @@ Experience in Julia, Stan, shell/ssh, git, high performance computing, LaTeX, Ma
 Familiar with the Microsoft Office suite and CAD
 
 ### Languages
-- French (C1/B2)
+French (C1/B2)
 
 
 
