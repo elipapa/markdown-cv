@@ -34,12 +34,12 @@ __PhD in Epidemiology & Biostatistics, Imperial College London__
 
 `2015-19`
 __MSci in Physics with Theoretical Physics, Imperial College London__
-- First
+- First Class Honours
 
 `2008-15`
 __Leicester Grammar School__
 - A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>)
-- GCSEs: 10 A<sup>*</sup>s including English.
+<!-- - GCSEs: 10 A<sup>*</sup>s including English. -->
 
 
 
@@ -90,9 +90,9 @@ Bayesian inference, geospatial statistics, machine learning
 ### Computational
 Highly proficient in R, Python
 
-Experience in Julia, Stan, shell/ssh, git, high performance computing, LaTeX, Markdown, HTML, D3,js
+Experience in Julia, Stan, shell/ssh, git, high performance computing, LaTeX, Markdown, HTML, D3.js
 
-Familiar with the Microsoft Office suite and CAD
+Proficiency in the Microsoft Office suite and CAD
 
 ### Languages
 French (C1/B2)
