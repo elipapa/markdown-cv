@@ -48,7 +48,7 @@ __Leicester Grammar School__
 `Summer 2019`
 Business Analyst, __Deecon Consulting__
 
-`Summers 2018, 2019`
+`Summers 2017-18`
 Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Imperial College London
 
 `Summer 2014`
