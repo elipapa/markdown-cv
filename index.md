@@ -71,6 +71,8 @@ Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the life cycle of maj
 ## Conferences
 
 `2021`
+Life expectancy inequality in London, presentation, __Conference of the International Society for Environmental Epidemiology__
+
 High resolution analysis reveals widening 30-year life expectancy gap within London, poster, __International Conference on Urban Health__
 
 
