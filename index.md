@@ -1,28 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kevin Towe's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kevin Towe
+Full Stack Dev, Small Business Operator, .
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="kevintowe27@gmail.com">kevintowe27@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Developing node servers and an Ionic front-end for a service business. Also, in the trenches on ocassion.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Cloud Engineering, Distributed Systems, Single Page Applications built with modern frameworks, NestJS Framework.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+OAuth 2.0
 
 
 ## Education
