@@ -3,7 +3,7 @@ layout: cv
 title: Kevin Towe's CV
 ---
 # Kevin Towe
-Full Stack Dev, Small Business Operator, .
+Full Stack Dev, Small Business Operator.
 
 <div id="webaddress">
 <a href="kevintowe27@gmail.com">kevintowe27@gmail.com</a>
@@ -13,11 +13,18 @@ Full Stack Dev, Small Business Operator, .
 
 ## Currently
 
-Developing node servers and an Ionic front-end for a service business. Also, in the trenches on ocassion.
+Developing node servers and an Ionic mobile app for a service business. Also, in the trenches on ocassion.
 
 ### Specialized in
 
-Cloud Engineering, Distributed Systems, Single Page Applications built with modern frameworks, NestJS Framework.
+- NestJS Framework
+- Cloud Engineering
+- Distributed Systems
+- Single Page Applications built with modern frameworks
+- OAuth 2.0
+- REST Api Design and consumption
+- [Twilio](https://www.twilio.com/), [Intuit](https://developer.intuit.com/), and [Particle](https://www.particle.io/tracker-one/) developer ecosystems
+- Maintaining large commercial irrigation systems
 
 
 ### Research interests
@@ -25,67 +32,37 @@ Cloud Engineering, Distributed Systems, Single Page Applications built with mode
 OAuth 2.0
 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2010 - now`
+__North Tx Sprinkler__, Dallas Tx
 
-- Warden
-- Minted coins
+- Developed + Deployed Servers and front end mobile application.
+- Fleet tracking services, from installing the [tracker devices](https://www.particle.io/tracker-one/), to configuring our server to receive location updates and relay them to the front end via websockets.
+- Integrated company server/database with Intuit QuickBooks.
+- Created a scheduling phone-number bot with [Twilio](https://www.twilio.com/).
+- Created estimate proposals for projects
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`May 2017 - Oct 2017`
+__Nile Delivery__, Dallas Tx
+
+- Acted as the sole programmer for an 'Uber like' service for commercial goods
+- Wrote 2 Ionic applications, customer and driver mobile applications
+- Developed the company website & administrate portal using the Angular (2)
+framework
+- Implemented Cloud functions to manage client orders effectively
+- Made executive decisions about the technologies used
+
+## Education
+
+`2012 - 2014`
+__Some college.__
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2021  -->
 
 
