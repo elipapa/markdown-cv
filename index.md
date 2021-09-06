@@ -1,28 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Max Bautista Perpinyà's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Max Bautista Perpinyà
+PhD student in the History and Philosophy of Science.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="maximilia.bautista@uclouvain.be">maximilia.bautista@uclouvain.be</a>
+| <a href="https://www.oliviodare.com/">My personal page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in Belgium. I study the concept of ‘biodiversity’ in non-scientific settings, analysing the diverse meanings and uses that different speakers (politicians, businesses, NGOs, invested scientists) make of it in their particular context. My PhD is part of a larger project that aims at clarifying the <a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/">‘Taxonomic Disorder’</a> in conservation biology.
 
 
 ## Education
