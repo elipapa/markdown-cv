@@ -18,22 +18,23 @@ I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in
 
 ## Education
 
+`2021-now`
+__PhD History and Philosophy of Science, Université catolique de Louvain (BE)__
+
 `2018-2020`
-__MSc History and Philosophy of Science, Utrecht University__  
-Graduated with Cum Laude  
-Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' 
+__MSc History and Philosophy of Science, Utrecht University (NL)__
+- Graduated with Cum Laude
+- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace' (supervision: Prof. Bert Theunissen)
 
+`2014-2016`
+__MSc Neuroscience, Université de Strasbourg (FR) & Universität Freiburg (DE)__
+- Graduated with High Honours (Mention Bien)
+- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder' (supervision: Prof. Gregor Domes)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2011-2014`
+__BSc Maastricht Science Programme, Maastricht University (NL)__
+- Graduated with Honours
+- Thesis: 'Neurodevelopmental programming by prenatal maternal infection' (suppervision: Dr. Daniël van den Hove, School for Mental Health and Neuroscience)
 
 
 ## Awards
