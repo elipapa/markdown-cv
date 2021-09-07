@@ -5,6 +5,9 @@ title: Max Bautista Perpinyà's CV
 # Max Bautista Perpinyà
 PhD student in the History and Philosophy of Science.
 
+
+# This online CV is under construction (see <a href="https://www.oliviodare.com/">oliviodare.com</a> for the most updated information).
+
 <div id="webaddress">
 <a href="mailto:maximilia.bautista@uclouvain.be">maximilia.bautista@uclouvain.be</a>
 | <a href="https://www.oliviodare.com/">My personal page</a>
@@ -81,6 +84,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 1664 -->
 
 
