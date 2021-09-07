@@ -21,7 +21,7 @@ I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in
 `2018-2020`
 __MSc History and Philosophy of Science, Utrecht University__  
 Graduated with Cum Laude  
-Thesis: _To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s Nature’s marketplace._  
+Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' 
 
 
 `June 1661 - now`
