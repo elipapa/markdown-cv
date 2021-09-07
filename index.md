@@ -6,7 +6,7 @@ title: Max Bautista Perpinyà's CV
 PhD student in the History and Philosophy of Science.
 
 <div id="webaddress">
-<a href="maximilia.bautista@uclouvain.be">maximilia.bautista@uclouvain.be</a>
+<a href="mailto:maximilia.bautista@uclouvain.be">maximilia.bautista@uclouvain.be</a>
 | <a href="https://www.oliviodare.com/">My personal page</a>
 </div>
 
@@ -18,8 +18,11 @@ I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2020`
+__MSc History and Philosophy of Science, Utrecht University__
+Graduated with Cum Laude
+Thesis: _To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s Nature’s marketplace._
+
 
 `June 1661 - now`
 __Trinity College, Cambridge__
