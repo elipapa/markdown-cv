@@ -107,6 +107,7 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 ---
-### Last updated: May 1664
+## Last updated
+__May 1664__
 
 
