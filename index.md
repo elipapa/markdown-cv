@@ -75,6 +75,7 @@ __Assistant Managing Editor @  Journal for the History of Knowledge__
 
 
 ## Publications
+
 A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
@@ -106,8 +107,8 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-### Footer
+<-- ### Footer
 
-Last updated: May 1664.
+Last updated: May 1664 -->
 
 
