@@ -1,2 +1,7 @@
 _site/
 .sass-cache/
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/hotkeys.json
+.obsidian/workspace
