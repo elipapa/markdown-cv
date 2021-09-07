@@ -39,6 +39,36 @@ __BSc Maastricht Science Programme, Maastricht University (NL)__
 - Graduated with Honours
 - Thesis: 'Neurodevelopmental programming by prenatal maternal infection' (suppervision: Dr. Daniël van den Hove, School for Mental Health and Neuroscience)
 
+## Research experience
+
+`September 2016-June 2017`
+__Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Díaz, Universidad Autónoma de Madrid (ES)__
+- Study of rodent model of rare epilepic disease (Lafora disease), supervision Dr. Marina Sánchez, Dr. MD José Serratosa.
+- Personal tasks: animal experimentation (behavioural testing, electrode implantation surgery, brain extraction), molecular research (analysis of neuroimaging data and histology).
+- Outcome:
+
+ 
+`October 2015-May 2016`
+__Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__ 
+- Study of rodent model of depression, supervision Dr. Máté Döbrössy, Dr. MD Volker Coenen.
+- Personal tasks: animal experimation (daily care and behavioural testing), molecular research (cryostat sectioning and histology), data analysis (analysis of ultrasonic vocalisation recordings).
+- Outcome:
+
+
+## Editorial experience
+
+`2018-now`
+__Co-founder, Creative Director @ Journal of Trial and Error__
+-  Interdisciplinary student initiative aimed at publishing and reflecting upon productive failure in scientific practice
+-  Personal tasks: developing working concepts and editorial policy, conferences talks, institutional contact, and design coordination
+
+`March 2021-August 2021`
+__Editorial Assistant, Project Management @ ARTECHNE__
+-   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge), and *The Making of Technique in the Art* (Brepols)
+
+ `January 2020-December 2020`
+__Assistant Managing Editor @  Journal for the History of Knowledge__
+- Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief
 
 ## Awards
 
