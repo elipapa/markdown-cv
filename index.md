@@ -27,12 +27,12 @@ __PhD History and Philosophy of Science, Université catolique de Louvain (BE)__
 `2018-2020`
 __MSc History and Philosophy of Science, Utrecht University (NL)__
 - Graduated with Cum Laude
-- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace' (supervision: Prof. Bert Theunissen)
+- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace' (supervision: Prof. Dr. Bert Theunissen)
 
 `2014-2016`
 __MSc Neuroscience, Université de Strasbourg (FR) & Universität Freiburg (DE)__
 - Graduated with High Honours (Mention Bien)
-- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder' (supervision: Prof. Gregor Domes)
+- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder' (supervision: Prof. Dr. Gregor Domes)
 
 `2011-2014`
 __BSc Maastricht Science Programme, Maastricht University (NL)__
@@ -63,8 +63,9 @@ __Co-founder, Creative Director @ Journal of Trial and Error__
 -  Personal tasks: developing working concepts and editorial policy, conferences talks, institutional contact, and design coordination
 
 `March 2021-August 2021`
-__Editorial Assistant, Project Management @ ARTECHNE__
+__Editorial Assistant, Project Management @ ARTECHNE, Utrecht University__
 -   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge), and *The Making of Technique in the Art* (Brepols)
+-   Supervision Prof. Dr. Sven Dupré.
 
  `January 2020-December 2020`
 __Assistant Managing Editor @  Journal for the History of Knowledge__
@@ -72,16 +73,9 @@ __Assistant Managing Editor @  Journal for the History of Knowledge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
 
@@ -112,8 +106,8 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 1664 -->
+Last updated: May 1664.
 
 
