@@ -184,12 +184,11 @@ a:hover {
 
 
 #currentlytext {
-	color: green;
 	position: relative;
-	left: 35%;
+	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 65%;
 }
 
 em {
