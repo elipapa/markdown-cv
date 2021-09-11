@@ -164,7 +164,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:#e49851
 }
 
 #webaddress {
@@ -187,8 +187,6 @@ em {
 
 strong {
 	font-weight: bold;
-	padding-left: 1.25em;
-	text-indent: -1.25em;
 	left: 25%;
 	width: 55%;
    	margin-top: 0.25em;
