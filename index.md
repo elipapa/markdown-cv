@@ -105,15 +105,19 @@ __Invited speaker, Sociedad Española de Bioquímica y Biología Molecular__
 - Roundtable: Jornadas sobre la carrera investigadora – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.” 
 - Talk: “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”
 
+`December 30, 2020`	
+__Organiser and host, Online event__
+- Journal Launch Online Event: Opening Issue, the Journal of Trial and Error.
+
 `October 29, 2020`	
 __Speaker, Descartes Center__
 - Department Master Thesis Colloqium Talk: “To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.”
 	
-(International) Organiser and host, Journal Launch Online Event: Opening Issue, the Journal of Trial and Error. 	Online
-Dec 30, 2020
-	
-(International) Invited speaker, IV Conveción Científica Internacional. Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’ Speach: “Ciencia Abierta: Globalidad y Localidad.”	Universidad Técnica de Manabí (online) 
-Oct 22, 2020
+`October 22, 2020, 2020`	
+__Invited speaker, IV Conveción Científica Internacional (Universidad Técnica de Manabí)__
+- Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’ 
+- Talk: “Ciencia Abierta: Globalidad y Localidad.”
+
 	
 (International) Panellist, Open Publishing Fest. Talk: “Presenting the Journal of Trial and Error”	Webinar
 May 25, 2020
