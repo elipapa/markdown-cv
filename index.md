@@ -45,9 +45,9 @@ __Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of
 
 `September 2016-June 2017`
 __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Díaz, Universidad Autónoma de Madrid (ES)__
-- Study of rodent model of rare epilepic disease (Lafora disease), supervision Dr. Marina Sánchez, Dr. MD José Serratosa.
+- Study of rodent model of rare epilepic disease (Lafora disease)
 - Personal tasks: animal experimentation (behavioural testing, electrode implantation surgery, brain extraction), molecular research (analysis of neuroimaging data and histology).
-- Outcome:
+- Dr. Marina Sánchez, Dr. MD José Serratosa.
 
 `September 2015-June 2016`
 __Researcher @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
@@ -57,9 +57,9 @@ __Researcher @ Biological and Personality Psychology Laboratory, Department of P
 
 `October 2015-May 2016`
 __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__ 
-- Study of rodent model of depression, supervision Dr. Máté Döbrössy, Dr. MD Volker Coenen.
+- Study of rodent model of depression
 - Personal tasks: animal experimation (daily care and behavioural testing), molecular research (cryostat sectioning and histology), data analysis (analysis of ultrasonic vocalisation recordings).
-- Outcome:
+- Dr. Máté Döbrössy, Dr. MD Volker Coenen.
 
 
 ## Editorial experience
@@ -72,7 +72,7 @@ __Co-founder, Creative Director @ Journal of Trial and Error__
 `March-August 2021`
 __Editorial Assistant, Project Management @ ARTECHNE, Utrecht University__
 -   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge), and *The Making of Technique in the Art* (Brepols)
--   Supervision Prof. Dr. Sven Dupré.
+-  Prof. Dr. Sven Dupré.
 
  `January-December 2020`
 __Assistant Managing Editor @  Journal for the History of Knowledge__
@@ -102,6 +102,12 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serrat
 Pfeiffer LM, Thiele S, Bautista Perpinyà ME, Coenen VA, Döbrössy MD (2016). “Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization”. Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
 
 ## Talks and public apperances
+`June 15, 2021`
+__Speaker at peer-reviewed conference, British Society for the History of Science__
+- Lightning Session: "Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries."
+- Talk: "‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community."
+
+
 `June 15, 2021`
 __Host and Moderator, Online event__
 - “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”
