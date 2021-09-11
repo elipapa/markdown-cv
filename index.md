@@ -26,31 +26,34 @@ __PhD History and Philosophy of Science, Université catolique de Louvain (BE)__
 
 `2018-2020`
 __MSc History and Philosophy of Science, Utrecht University (NL)__
-- Graduated with Cum Laude
+- Graduated with Cum Laude.
 
 `2014-2016`
 __MSc Neuroscience, Université de Strasbourg (FR) & Universität Freiburg (DE)__
-- Graduated with High Honours (Mention Bien)
-- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder' (supervision: Prof. Dr. Gregor Domes)
+- Graduated with High Honours (Mention Bien).
 
 `2011-2014`
 __BSc Maastricht Science Programme, Maastricht University (NL)__
-- Graduated with Honours
-- Thesis: 'Neurodevelopmental programming by prenatal maternal infection' (suppervision: Dr. Daniël van den Hove, School for Mental Health and Neuroscience)
+- Graduated with Honours.
 
 ## Research experience
 
 `September 2019-December 2020`
 __Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University__
-- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.'
+- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/">http://dspace.library.uu.nl/handle/1874/400784</a>.
 - Prof. Dr. Bert Theunissen
-- Outcome: <a href="http://dspace.library.uu.nl/handle/1874/400784/">http://dspace.library.uu.nl/handle/1874/400784</a>.
 
 `September 2016-June 2017`
 __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Díaz, Universidad Autónoma de Madrid (ES)__
 - Study of rodent model of rare epilepic disease (Lafora disease), supervision Dr. Marina Sánchez, Dr. MD José Serratosa.
 - Personal tasks: animal experimentation (behavioural testing, electrode implantation surgery, brain extraction), molecular research (analysis of neuroimaging data and histology).
 - Outcome:
+
+`September 2015-June 2016`
+__Researche @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
+- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder'
+- Prof. Dr. Gregor Domes.
+
 
 `October 2015-May 2016`
 __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__ 
