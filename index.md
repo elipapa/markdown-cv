@@ -27,7 +27,6 @@ __PhD History and Philosophy of Science, Université catolique de Louvain (BE)__
 `2018-2020`
 __MSc History and Philosophy of Science, Utrecht University (NL)__
 - Graduated with Cum Laude
-- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace' (supervision: Prof. Dr. Bert Theunissen)
 
 `2014-2016`
 __MSc Neuroscience, Université de Strasbourg (FR) & Universität Freiburg (DE)__
@@ -41,13 +40,18 @@ __BSc Maastricht Science Programme, Maastricht University (NL)__
 
 ## Research experience
 
+`September 2019-December 2020`
+__Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University__
+- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.'
+- Prof. Dr. Bert Theunissen
+- Outcome: <a href="http://dspace.library.uu.nl/handle/1874/400784/">http://dspace.library.uu.nl/handle/1874/400784</a>.
+
 `September 2016-June 2017`
 __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Díaz, Universidad Autónoma de Madrid (ES)__
 - Study of rodent model of rare epilepic disease (Lafora disease), supervision Dr. Marina Sánchez, Dr. MD José Serratosa.
 - Personal tasks: animal experimentation (behavioural testing, electrode implantation surgery, brain extraction), molecular research (analysis of neuroimaging data and histology).
 - Outcome:
 
- 
 `October 2015-May 2016`
 __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__ 
 - Study of rodent model of depression, supervision Dr. Máté Döbrössy, Dr. MD Volker Coenen.
