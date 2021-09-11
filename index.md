@@ -50,7 +50,7 @@ __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Dí
 - Dr. Marina Sánchez, Dr. MD José Serratosa.
 
 `September 2015-June 2016`
-__Researcher @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
+__Researcher, Master Thesis @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
 - Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder'
 - Prof. Dr. Gregor Domes.
 
