@@ -41,7 +41,7 @@ __BSc Maastricht Science Programme, Maastricht University (NL)__
 `September 2019-December 2020`
 __Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University__
 - Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/">http://dspace.library.uu.nl/handle/1874/400784</a>.
-- Prof. Dr. Bert Theunissen
+- Prof. Dr. Bert Theunissen.
 
 `September 2016-June 2017`
 __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Díaz, Universidad Autónoma de Madrid (ES)__
