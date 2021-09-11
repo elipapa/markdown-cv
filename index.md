@@ -51,13 +51,13 @@ __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Dí
 
 `September 2015-June 2016`
 __Researcher, Master Thesis @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
-- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder'
+- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder.'
 - Prof. Dr. Gregor Domes.
 
 
 `October 2015-May 2016`
 __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__ 
-- Study of rodent model of depression
+- Study of rodent model of depression.
 - Personal tasks: animal experimation (daily care and behavioural testing), molecular research (cryostat sectioning and histology), data analysis (analysis of ultrasonic vocalisation recordings).
 - Dr. Máté Döbrössy, Dr. MD Volker Coenen.
 
@@ -66,97 +66,97 @@ __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Unikli
 
 `2018-now`
 __Co-founder, Creative Director @ Journal of Trial and Error__
--  Interdisciplinary student initiative aimed at publishing and reflecting upon productive failure in scientific practice
--  Personal tasks: developing working concepts and editorial policy, conferences talks, institutional contact, and design coordination
+-  Interdisciplinary student initiative aimed at publishing and reflecting upon productive failure in scientific practice.
+-  Personal tasks: developing working concepts and editorial policy, conferences talks, institutional contact, and design coordination.
 
 `March-August 2021`
 __Editorial Assistant, Project Management @ ARTECHNE, Utrecht University__
--   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge), and *The Making of Technique in the Art* (Brepols)
+-   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge), and *The Making of Technique in the Art* (Brepols).
 -  Prof. Dr. Sven Dupré.
 
  `January-December 2020`
 __Assistant Managing Editor @  Journal for the History of Knowledge__
-- Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief
+- Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief.
 
 ## Awards
 `June 2020`
 __Freudenthal Institute, Utrecht University, 'Coronavirus crisis speed research'__
-- 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic'	
+- 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic.'	
 - 2000€ awarded to perform research.
 	
 `March-May 2016`
 __Scholarship Boussole, Region Alsace (FR)__
-- 900€ awarded to perform an internship abroad (Germany)
+- 900€ awarded to perform an internship abroad (Germany).
 	
 `November 2015-February 2016`
 __Scholarship Erasmus+,	European Commission__
-- 1256€ awarded to perform an internship abroad (Germany)
+- 1256€ awarded to perform an internship abroad (Germany).
 
 
 
 ## Publications
-Devine S, Bautista Perpinyà M, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. “Science Fails. Let’s Publish.” *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1">https://doi.org/10.36850/ed1</a>.
+Devine S, **Bautista Perpinyà M**, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. 'Science Fails. Let’s Publish.' *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1">https://doi.org/10.36850/ed1</a>.
 
-Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serratosa JM, Sánchez MP. "Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease." *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771">https://doi.org/10.3390/ijms21207771</a>.
+Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Perpinyà MB**, Desco M, Serratosa JM, Sánchez MP. 'Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.' *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771">https://doi.org/10.3390/ijms21207771</a>.
 
-Pfeiffer LM, Thiele S, Bautista Perpinyà ME, Coenen VA, Döbrössy MD (2016). “Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization”. Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
+Pfeiffer LM, Thiele S, **Bautista Perpinyà ME**, Coenen VA, Döbrössy MD (2016). 'Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization.' Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
 
 ## Talks and public apperances
 `June 15, 2021`
-__Speaker at peer-reviewed conference, British Society for the History of Science__
-- Lightning Session: "Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries."
-- Talk: "‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community."
+__Speaker, British Society for the History of Science__
+- Lightning Session: 'Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.'
+- Talk: "‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community."
 
 
 `June 15, 2021`
 __Host and Moderator, Online event__
-- “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”
+- 'Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.' <a href="https://www.youtube.com/watch?v=TMGaNvo-SgM">https://www.youtube.com/watch?v=TMGaNvo-SgM</a>.
 - A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden).
 	
 `February 2, 2021`
 __Invited speaker, Sociedad Española de Bioquímica y Biología Molecular__ 
-- Roundtable: Jornadas sobre la carrera investigadora – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.” 
-- Talk: “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”
+- Roundtable: Jornadas sobre la carrera investigadora – '¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.'
+- Talk: '¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.'
 
 `December 30, 2020`	
 __Organiser and host, Online event__
-- Journal Launch Online Event: Opening Issue, the Journal of Trial and Error.
+- Journal Launch Online Event: 'Opening Issue, the Journal of Trial and Error.'
 
 `October 29, 2020`	
 __Speaker, Descartes Center__
-- Department Master Thesis Colloqium Talk: “To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.”
+- Department Master Thesis Colloqium Talk: 'To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.'
 	
 `October 22, 2020, 2020`	
 __Invited speaker, IV Conveción Científica Internacional (Universidad Técnica de Manabí)__
 - Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’ 
-- Talk: “Ciencia Abierta: Globalidad y Localidad.”
+- Talk: 'Ciencia Abierta: Globalidad y Localidad.'
 
 	
 `May 25, 2020`
 __Panellist, Open Publishing Fest__
-- Talk: “Presenting the Journal of Trial and Error.”
+- Talk: 'Presenting the Journal of Trial and Error.'
 	
 `February 21, 2020`
 __Invited speaker and panellist, University of Bern__
-- Talk: “The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.”
+- Talk: 'The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.'
 
 	
 `February 12, 2020`
 __Invited speaker, Erasmus University Rotterdam__
 - Open Science Community Rotterdam
-- “ReproducibiliTea: Meet the Journal of Trial and Error.”	
+- 'ReproducibiliTea: Meet the Journal of Trial and Error.'
 
 	
 `November 26, 2019`
-__Seminar organiser and presenter, Utrecht University__ - Talk: “Engaged History: Should Academia Lead to Activism?"
+__Seminar organiser and presenter, Utrecht University__ - Talk: 'Engaged History: Should Academia Lead to Activism?'
 	
 `July 12, 2019`
 __Invited speaker, Laboratory of Molecular Biology, Cambridge University__
-- Talk: “The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science.”
+- Talk: 'The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science.'
 
 `June 14, 2019`
 __Speaker, Université de Strasbourg__
-- Talk: “The Journal of Trial and Error, the Joint Master in Neuroscience, and History and Philosophy of Science. A productive initiative?”
+- Talk: 'The Journal of Trial and Error, the Joint Master in Neuroscience, and History and Philosophy of Science. A productive initiative?'
 
 
 
