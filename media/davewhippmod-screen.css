@@ -183,8 +183,8 @@ a:hover {
 }
 
 
-#currently p {
-	display: none;
+#currentlytext {
+	color: green;
 }
 
 em {
