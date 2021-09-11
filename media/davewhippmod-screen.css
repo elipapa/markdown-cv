@@ -108,9 +108,12 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
-	width: 100%;
+	left: 25%;
+	width: 55%;
 	margin-top: 0.25em;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+
 }
 
 h1,h2,h3,h4 {
