@@ -119,30 +119,36 @@ __Invited speaker, IV Conveción Científica Internacional (Universidad Técnica
 - Talk: “Ciencia Abierta: Globalidad y Localidad.”
 
 	
-(International) Panellist, Open Publishing Fest. Talk: “Presenting the Journal of Trial and Error”	Webinar
-May 25, 2020
+`May 25, 2020`
+__Panellist, Open Publishing Fest__
+- Talk: “Presenting the Journal of Trial and Error.”
 	
-(National) Invited speaker and panellist, Society Symposium. Talk: “The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience”	University of Bern
-Feb 21, 2020
-	
-(Local) Invited speaker, Open Science Community meeting. Talk:  “ReproducibiliTea: Meet the Journal of Trial and Error”	Erasmus University Rotterdam
-Feb 12, 2020
-	
-(Local) Seminar organiser and presenter. Talk: “Engaged History: Should Academia Lead to Activism?”	Utrecht University
-Nov 26, 2019 
-	
-(International) Invited speaker, international symposium. Talk: “The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science”	Cambridge University, Laboratory of Molecular Biology  
-July 12, 2019
-	
-(Local) Speaker. Talk: “The Journal of Trial and Error, the Joint Master in Neuroscience, and History and Philosophy of Science. A productive initiative?”
-	Université de Strasbourg. 
-Jun 14 2019
+`February 21, 2020`
+__Invited speaker and panellist, University of Bern__
+- Talk: “The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.”
 
+	
+`February 12, 2020`
+__Invited speaker, Erasmus University Rotterdam__
+- Open Science Community Rotterdam
+- “ReproducibiliTea: Meet the Journal of Trial and Error.”	
+
+	
+`November 26, 2019`
+__Seminar organiser and presenter, Utrecht University__ - Talk: “Engaged History: Should Academia Lead to Activism?"
+	
+`July 12, 2019`
+__Invited speaker, Laboratory of Molecular Biology, Cambridge University__
+- Talk: “The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science.”
+
+`June 14, 2019`
+__Speaker, Université de Strasbourg__
+- Talk: “The Journal of Trial and Error, the Joint Master in Neuroscience, and History and Philosophy of Science. A productive initiative?”
 
 
 
 ---
 ## Last updated
-__August 2021__
+__September 2021__
 
 
