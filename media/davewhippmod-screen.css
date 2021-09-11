@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 55%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -80,13 +80,13 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	left: -40%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 55%;
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
