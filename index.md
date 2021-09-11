@@ -3,7 +3,8 @@ layout: cv
 title: Max Bautista Perpinyà's CV
 ---
 # Max Bautista Perpinyà
-PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia, and cofounders of the Journal of Trial and Error.
+
+PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error.
 <div id="webaddress">
 <a href="mailto:maximilia.bautista@uclouvain.be">maximilia.bautista@uclouvain.be</a>
 | <a href="https://www.oliviodare.com/">My personal page</a>
@@ -12,7 +13,7 @@ PhD student in the History and Philosophy of Science. Interested in Open Science
 
 ## Currently
 
-I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in Belgium. I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different community of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. He is particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
+I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in Belgium. I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different community of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
 
 My PhD is part of a larger project at the <a href="https://pencelab.be">Pence Lab</a> that aims at clarifying the <a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/">‘Taxonomic Disorder’</a> in conservation biology.
 
@@ -151,7 +152,6 @@ __Speaker, Université de Strasbourg__
 
 
 ## ---
----
 ## Last updated
 __September 2021__
 
