@@ -148,7 +148,8 @@ __Invited speaker, Erasmus University Rotterdam__
 
 	
 `November 26, 2019`
-__Seminar organiser and presenter, Utrecht University__ - Talk: 'Engaged History: Should Academia Lead to Activism?'
+__Seminar organiser and presenter, Utrecht University__
+- Talk: 'Engaged History: Should Academia Lead to Activism?'
 	
 `July 12, 2019`
 __Invited speaker, Laboratory of Molecular Biology, Cambridge University__
