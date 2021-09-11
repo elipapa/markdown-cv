@@ -42,12 +42,14 @@ Any change you want to make to your CV from then on would have to be done on the
 
 ## Styling
 
-The included CSS will render your CV in two styles:
-s
+The included CSS will render your CV in three styles:
+
 1. `kjhealy` the original default, inspired by [kjhealy's vita
 template](https://github.com/kjhealy/kjh-vita).
 2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
   right aligned.
+3. `benmeller` is a monochrome version of `davewhipp` with heavier headings
+  brought vertically inline with the main content.
 
 To change the default style, simply change the variable in the
 `_config.yml` file.
