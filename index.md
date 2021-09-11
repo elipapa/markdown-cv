@@ -148,7 +148,7 @@ __Speaker, Université de Strasbourg__
 
 
 ## ---
-__---__
+---
 ## Last updated
 __September 2021__
 
