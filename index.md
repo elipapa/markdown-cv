@@ -94,17 +94,20 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serrat
 
 Pfeiffer LM, Thiele S, Bautista Perpinyà ME, Coenen VA, Döbrössy MD (2016). “Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization”. Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
 
-### Talks and public apperances
-`Jun 15, 2021`
-__International Host, Online__
+## Talks and public apperances
+`June 15, 2021`
+__Host and Moderator, Online event__
 - “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”
 - A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden).
 	
-(International) Invited speaker, at Jornadas sobre la carrera investigadora – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.” Talk: “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.” 	Sociedad Española de Bioquímica y Biología Molecular (online) 
-Feb 02, 2021
-	
-(Local) Speaker at Department Master Thesis Colloqium Talk: “To be a molecular scientist: Technical social responsibility in 1970s Nature advertisements and leaders” 	Descartes Center (online)
-Oct 29, 2020
+`February 2, 2021`
+__Invited speaker, Sociedad Española de Bioquímica y Biología Molecular__ 
+- Roundtable: Jornadas sobre la carrera investigadora – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.” 
+- Talk: “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”
+
+`October 29, 2020`	
+__Speaker, Descartes Center__
+- Department Master Thesis Colloqium Talk: “To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.”
 	
 (International) Organiser and host, Journal Launch Online Event: Opening Issue, the Journal of Trial and Error. 	Online
 Dec 30, 2020
