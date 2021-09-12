@@ -41,24 +41,24 @@ __BSc Maastricht Science Programme, Maastricht University (NL)__
 - Graduated with Honours.
 
 ## Research experience
-`September 2019-December 2020`
+`Sep 2019-Dec 2020`
 __Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University (NL)__
 - Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/" target="_blank">http://dspace.library.uu.nl/handle/1874/400784</a>.
 - Prof. Dr. Bert Theunissen.
 
-`September 2016-June 2017`
+`Sep 2016-Jun 2017`
 __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Díaz, Universidad Autónoma de Madrid (ES)__
 - Study of rodent model of rare epilepic disease (Lafora disease)
 - Personal tasks: animal experimentation (behavioural testing, electrode implantation surgery, brain extraction), molecular research (analysis of neuroimaging data and histology).
 - Dr. Marina Sánchez, Dr. MD José Serratosa.
 
-`September 2015-June 2016`
+`Sep 2015-Jun 2016`
 __Researcher, Master Thesis @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
 - Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder.'
 - Prof. Dr. Gregor Domes.
 
 
-`October 2015-May 2016`
+`Oct 2015-May 2016`
 __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__ 
 - Study of rodent model of depression.
 - Personal tasks: animal experimation (daily care and behavioural testing), molecular research (cryostat sectioning and histology), data analysis (analysis of ultrasonic vocalisation recordings).
@@ -71,26 +71,26 @@ __Co-founder, Creative Director @ Journal of Trial and Error__
 -  Interdisciplinary student initiative aimed at publishing and reflecting upon productive failure in scientific practice. <a href="https://www.jtrialerror.com/" target="_blank">https://www.jtrialerror.com/</a>.
 -  Personal tasks: developing working concepts and editorial policy, conferences talks, institutional contact, and design coordination.
 
-`March-August 2021`
+`Mar-Aug 2021`
 __Editorial Assistant, Project Management @ ARTECHNE, Utrecht University__
 -   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge) and *The Making of Technique in the Art* (Brepols).
 -  Prof. Dr. Sven Dupré.
 
- `January-December 2020`
+ `Jan-Dec 2020`
 __Assistant Managing Editor @  Journal for the History of Knowledge__
 - Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief.
 
 ## Awards
-`June 2020`
+`Jun 2020`
 __'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University (NL)__
 - 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic.'	
 - 2000€ awarded to perform research.
 	
-`March-May 2016`
+`Mar-May 2016`
 __Scholarship Boussole, Region Alsace (FR)__
 - 900€ awarded to perform an internship abroad (Germany).
 	
-`November 2015-February 2016`
+`Nov 2015-Feb 2016`
 __Scholarship Erasmus+,	European Commission__
 - 1256€ awarded to perform an internship abroad (Germany).
 
@@ -104,31 +104,31 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Perpinyà MB**, Desco M, Se
 Pfeiffer LM, Thiele S, **Bautista Perpinyà ME**, Coenen VA, Döbrössy MD (2016). 'Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization.' Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
 
 ## Talks and public apperances
-`June 15, 2021`
+`Jul 13, 2021`
 __Speaker, British Society for the History of Science__
 - Lightning Session: 'Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.'
 - Talk: ‘"If You Need a New Microscope – Why Purchase an Old One?" Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community.’
 
 
-`June 15, 2021`
+`Jun 15, 2021`
 __Host and Moderator, Online event__
 - 'Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.' <a href="https://www.youtube.com/watch?v=TMGaNvo-SgM" target="_blank">https://www.youtube.com/watch?v=TMGaNvo-SgM</a>.
 - A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden).
 	
-`February 2, 2021`
+`Feb 2, 2021`
 __Invited speaker, Sociedad Española de Bioquímica y Biología Molecular__ 
 - Roundtable: 'Jornadas sobre la carrera investigadora – ¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.'
 - Talk: '¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.'
 
-`December 30, 2020`	
+`Dec 30, 2020`	
 __Organiser and host, Online event__
 - Journal Launch Online Event: 'Opening Issue, the Journal of Trial and Error.'
 
-`October 29, 2020`	
+`Oct 29, 2020`	
 __Speaker, Descartes Center__
 - Department Master Thesis Colloqium Talk: 'To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.'
 	
-`October 22, 2020`	
+`Oct 22, 2020`	
 __Invited speaker, IV Conveción Científica Internacional (Universidad Técnica de Manabí)__
 - Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’ 
 - Talk: 'Ciencia Abierta: Globalidad y Localidad.'
@@ -138,32 +138,32 @@ __Invited speaker, IV Conveción Científica Internacional (Universidad Técnica
 __Panellist, Open Publishing Fest__
 - Talk: 'Presenting the Journal of Trial and Error.'
 	
-`February 21, 2020`
+`Feb 21, 2020`
 __Invited speaker and panellist, University of Bern__
 - Talk: 'The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.'
 
 	
-`February 12, 2020`
+`Feb 12, 2020`
 __Invited speaker, Erasmus University Rotterdam__
 - Open Science Community Rotterdam
 - 'ReproducibiliTea: Meet the Journal of Trial and Error.'
 
 	
-`November 26, 2019`
+`Nov 26, 2019`
 __Seminar organiser and presenter, Utrecht University__
 - Talk: 'Engaged History: Should Academia Lead to Activism?'
 	
-`July 12, 2019`
+`Jul 12, 2019`
 __Invited speaker, Laboratory of Molecular Biology, Cambridge University__
 - Talk: 'The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science.'
 
-`June 14, 2019`
+`Jun 14, 2019`
 __Speaker, Université de Strasbourg__
 - Talk: 'The Journal of Trial and Error, the Joint Master in Neuroscience, and History and Philosophy of Science. A productive initiative?'
 
 
 ## Teaching
-`March 2021-September 2021`
+`Mar 2021-Sep 2021`
 __Internship Coordinator, Journal of Trial and Error & Utrecht University (NL)__
 - Support of 1 MSc HPS student from Utrecht University as intern at the journal. 
 - Design of internship goals and assessment of milestones.
