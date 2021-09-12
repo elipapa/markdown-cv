@@ -63,10 +63,10 @@ body {
 
 p {
 	position: relative;
-	left: 35%;
+	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 45%;
+	width: 60%;
 }
 
 code {
@@ -80,15 +80,15 @@ code {
 p code {
 	position: absolute;
 	text-align: left;
-	left: -20%;
-	width: 20%:
+	left: -17%;
+	max-width: 15%:
 }
 
 
 ul {
 	position: relative;
-	left: 35%;
-	width: 75%;
+	left: 33%;
+	width: 100%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -169,6 +169,15 @@ a:hover {
 	color:#03B5AA;
 }
 
+#myself {
+	position: relative;
+	left: 25%;
+	margin-bottom: 0.7em;
+	margin-top: 0.7em;
+	margin-right: 0;
+	width: 55%;
+}
+
 #webaddress {
 	margin-top: 1em;
 	position: relative;
@@ -185,10 +194,10 @@ a:hover {
 
 #currentlytext {
 	position: relative;
-	left: 25%;
+	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 45%;
+	width: 60%;
 }
 
 em {
