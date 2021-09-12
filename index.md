@@ -70,7 +70,7 @@ __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Unikli
 
 `2018-now`
 __Co-founder, Creative Director @ Journal of Trial and Error__
--  Interdisciplinary student initiative aimed at publishing and reflecting upon productive failure in scientific practice.
+-  Interdisciplinary student initiative aimed at publishing and reflecting upon productive failure in scientific practice. <a href="https://www.jtrialerror.com/" target="_blank">https://www.jtrialerror.com/</a>.
 -  Personal tasks: developing working concepts and editorial policy, conferences talks, institutional contact, and design coordination.
 
 `March-August 2021`
