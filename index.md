@@ -4,12 +4,13 @@ title: Max Bautista Perpinyà's CV
 ---
 # Max Bautista Perpinyà
 
+
 <div id="myself">
 PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error.
 </div>
 <div id="webaddress">
 <a href="mailto:maximilia.bautista@uclouvain.be">maximilia.bautista@uclouvain.be</a>
-| <a href="https://www.oliviodare.com/">My personal page</a>
+| <a href="https://www.oliviodare.com/" target="_blank" >My personal page</a>
 </div>
 
 
@@ -18,7 +19,7 @@ PhD student in the History and Philosophy of Science. Interested in Open Science
 <div id="currentlytext">
 I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in Belgium. I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different community of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
 
-My PhD is part of a larger project at the <a href="https://pencelab.be">Pence Lab</a> that aims at clarifying the <a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/">‘Taxonomic Disorder’</a> in conservation biology.
+My PhD is part of a larger project at the <a href="https://pencelab.be" target="_blank">Pence Lab</a> that aims at clarifying the <a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/" target="_blank">‘Taxonomic Disorder’</a> in conservation biology.
 </div>
 
 
@@ -43,7 +44,7 @@ __BSc Maastricht Science Programme, Maastricht University (NL)__
 
 `September 2019-December 2020`
 __Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University__
-- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/">http://dspace.library.uu.nl/handle/1874/400784</a>.
+- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/" target="_blank">http://dspace.library.uu.nl/handle/1874/400784</a>.
 - Prof. Dr. Bert Theunissen.
 
 `September 2016-June 2017`
@@ -98,9 +99,9 @@ __Scholarship Erasmus+,	European Commission__
 
 
 ## Publications
-Devine S, **Bautista Perpinyà M**, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. 'Science Fails. Let’s Publish.' *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1">https://doi.org/10.36850/ed1</a>.
+Devine S, **Bautista Perpinyà M**, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. 'Science Fails. Let’s Publish.' *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
 
-Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Perpinyà MB**, Desco M, Serratosa JM, Sánchez MP. 'Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.' *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771">https://doi.org/10.3390/ijms21207771</a>.
+Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Perpinyà MB**, Desco M, Serratosa JM, Sánchez MP. 'Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.' *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
 
 Pfeiffer LM, Thiele S, **Bautista Perpinyà ME**, Coenen VA, Döbrössy MD (2016). 'Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization.' Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
 
@@ -113,7 +114,7 @@ __Speaker, British Society for the History of Science__
 
 `June 15, 2021`
 __Host and Moderator, Online event__
-- 'Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.' <a href="https://www.youtube.com/watch?v=TMGaNvo-SgM">https://www.youtube.com/watch?v=TMGaNvo-SgM</a>.
+- 'Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.' <a href="https://www.youtube.com/watch?v=TMGaNvo-SgM" target="_blank">https://www.youtube.com/watch?v=TMGaNvo-SgM</a>.
 - A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden).
 	
 `February 2, 2021`
