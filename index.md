@@ -159,7 +159,16 @@ __Speaker, Université de Strasbourg__
 
 
 ## Teaching
-Under construction.
+`Academic years 2020-21, 2021-22`
+__Workshop speaker, Utrecht University (NL)__
+- 'Community Research Ethics and Publication Ethics', ‘Publication Possibilities, Scientific Outreach and Open Science.’  	
+- Life Science Faculty Introductory days for 500+ new master students. 
+
+	
+`2016`
+__Student supervisor, Biological & Personality Psychology Laboratory, Universität Freiburg (DE)__
+- Daily management of several undergraduates. Teaching a neuroimaging sectioning manual technique to the students.
+
 
 ## Journalistic publications
 Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?' *Journal of Trial and Error*.
