@@ -193,7 +193,8 @@ a:hover {
 	position: relative;
 	left: 33%;
 	/*color: #d94d70;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
+	font-family: Avenir,Verdana,sans-serif;
 	font-size: 100%;
 }
 
