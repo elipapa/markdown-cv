@@ -160,13 +160,13 @@ h3 {
 }
 
 a {
-	color: #111111;
+	color: #1d1d1d;
 	/*text-decoration:none;*/
 }
 
 a:hover {
 	color:#03B5AA;
-	transition: all 2.8 ease;
+	transition-duration: 2.8s;
 }
 
 #max-bautista-perpinyà {
