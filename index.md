@@ -181,20 +181,18 @@ Pure (management system for research publications) · Open Journal Systems · Py
 
 
 ## Languages
-Under construction.
 
-`Spanish`
-__Native__	
+__Spanish__
+Native
 
-`Catalan`
-__Native__
+__Catalan__
+Native
 
-`English`
-__Full Professional__
+__English__
+Full Professional
 
-`French`
-__Intermediate__
-
+__French__
+Intermediate
 
 
 
