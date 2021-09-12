@@ -55,7 +55,7 @@ __Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Dí
 `Sep 2015-Jun 2016`
 __Researcher, Master Thesis @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
 - Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder.'
-- Prof. Dr. Gregor Domes.
+- Prof. Dr. Gregor Domes, Dr. Bastian Schiller.
 
 
 `Oct 2015-May 2016`
