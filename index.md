@@ -4,7 +4,7 @@ title: Max Bautista Perpinyà's CV
 ---
 # Max Bautista Perpinyà
 <div id="myself">
-PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error. Based in Brussels, Belgium.
+PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error. Based in Brussels. 
 </div>
 <div id="webaddress">
 <a href="mailto:maximilia.bautista@uclouvain.be">maximilia.bautista@uclouvain.be</a>
