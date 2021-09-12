@@ -52,7 +52,9 @@ table {
 
 
 body {
-	font: normal normal 400;
+	/*font: normal normal 400;*/
+	font-family: normal;
+	font-weight: 400;
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
