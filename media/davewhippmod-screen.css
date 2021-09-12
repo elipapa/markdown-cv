@@ -232,8 +232,51 @@ strong {
 }
 
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+/* This hack fixes scrollable on x for tablets */
+@media only screen and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
+/* Mobile styling, starting at iPad portrait size */
+@media only screen and (max-width: 768px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  ul,
+  code,
+  #webaddress {
+    position: static;
+    width: 100%;
+    text-align: left;
+  }
+
+  code {
+    width: auto;
+  }
+
+  h1 {
+    margin-bottom: 0.1em;
+  }
+
+  h2 {
+    margin-top: 1em;
+  }
+
+  body {
+  	margin-top: 0;
+  	margin-left: 0;
+    padding: 1em;
+  }
+
+  p code {
+    position: static;
+    margin-right: auto;
+    display: block;
+    text-align: left;
+  }
+}
 
