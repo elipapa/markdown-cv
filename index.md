@@ -164,6 +164,39 @@ __Speaker, Université de Strasbourg__
 - Talk: 'The Journal of Trial and Error, the Joint Master in Neuroscience, and History and Philosophy of Science. A productive initiative?'
 
 
+## Teaching
+Under construction.
+
+## Journalistic publications
+Under construction.
+
+## Technical skills
+Under construction.
+
+`IT`	
+Pure (management system for research publications) · Open Journal Systems · Python · Front-end website design (CSS) · Graphic design (Photoshop, Lightroom) · Freesurfer · SPSS · ITK-Snap · Linux · ImageJ
+	
+`Laboratory`
+	Immunohistochemistry · (RT)-PCR · Western blot · Stereological methods · Rodent handling (European Certificate) · Tissue Sectioning (vibratome, cryostat)
+
+
+## Languages
+Under construction.
+
+`Spanish`
+__Native__	
+
+`Catalan`
+__Native__
+
+`English`
+__Full Professional__
+
+`French`
+__Intermediate__
+
+
+
 
 ## ---
 ## Last updated
