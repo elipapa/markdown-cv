@@ -162,7 +162,15 @@ __Speaker, Université de Strasbourg__
 Under construction.
 
 ## Journalistic publications
-Under construction.
+Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?' *Journal of Trial and Error*.
+
+Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.' *Journal of Trial and Error*.
+
+Max Bautista Perpinyà (2020). 'Open Science Symposium – Starting off with the Natural Sciences.' *The Road to Open Science*, Open Science Community Utrecht.
+
+Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.' *Journal of Trial and Error*.
+
+Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)*.
 
 ## Technical IT skills
 __Main__
