@@ -20,7 +20,7 @@ I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in
 My PhD is part of a larger project at the <a href="https://pencelab.be" target="_blank">Pence Lab</a> that aims at clarifying the ‘<a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/" target="_blank">Taxonomic Disorder</a>’ in conservation biology.</div>
 
 <div id="currentlytext">
-Member of <a href="https://www.bshs.org.uk/" target="blank">The British Society for the History of Science</a>, the <a href="https://www.gewina.nl/" target="blank">Belgian-Dutch Society for the History of Science and University (Gewina)</a>, and the <a href="https://sehcyt.es/" target="blank">Sociedad Española de Historia de las Ciencias y de las Técnicas</a>.
+I'm a member of <a href="https://www.bshs.org.uk/" target="blank">The British Society for the History of Science</a>, the <a href="https://www.gewina.nl/" target="blank">Belgian-Dutch Society for the History of Science and University (Gewina)</a>, and the <a href="https://sehcyt.es/" target="blank">Sociedad Española de Historia de las Ciencias y de las Técnicas</a>.
 </div>
 
 
