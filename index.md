@@ -163,7 +163,7 @@ __Speaker, Université de Strasbourg__
 
 
 ## Teaching
-`Mar 2021-Sep 2021`
+`Mar-Sep 2021`
 __Internship Coordinator, Journal of Trial and Error & Utrecht University (NL)__
 - Support of 1 MSc HPS student from Utrecht University as intern at the journal. 
 - Design of internship goals and assessment of milestones.
