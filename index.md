@@ -164,23 +164,22 @@ Under construction.
 ## Journalistic publications
 Under construction.
 
-## Technical skills
-__IT__	
-_Main_
+## Technical IT skills
+__Main__
 - Front-end website design (CSS, HTML)
 - Python
 - Pure (management system for research publications)
 - Open Journal Systems
 - Graphic design (Photoshop, Lightroom)
 
-_Secondary_
+__Secondary__
 - Freesurfer
 - SPSS
 - ITK-Snap
 - Linux
 - ImageJ
 	
-__Laboratory__
+## Molecular Laboratory skills
 - Immunohistochemistry
 - (RT)-PCR
 - Western blot
