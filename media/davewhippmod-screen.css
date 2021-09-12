@@ -160,8 +160,8 @@ h3 {
 }
 
 a {
-	color: #0c0c0c;
-	text-decoration:none;
+	color: #111111;
+	/*text-decoration:none;*/
 }
 
 a:hover {
