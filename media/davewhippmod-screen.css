@@ -226,6 +226,10 @@ strong {
 	display: none;
 }
 
+#main {
+	position: relative;
+	top: 10px;
+}
 
 
 /*
