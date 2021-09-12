@@ -166,10 +166,27 @@ Under construction.
 
 ## Technical skills
 __IT__	
-Pure (management system for research publications) · Open Journal Systems · Python · Front-end website design (CSS) · Graphic design (Photoshop, Lightroom) · Freesurfer · SPSS · ITK-Snap · Linux · ImageJ
+_Main_
+- Front-end website design (CSS, HTML)
+- Python
+- Pure (management system for research publications)
+- Open Journal Systems
+- Graphic design (Photoshop, Lightroom)
+
+_Secondary_
+- Freesurfer
+- SPSS
+- ITK-Snap
+- Linux
+- ImageJ
 	
 __Laboratory__
-Immunohistochemistry · (RT)-PCR · Western blot · Stereological methods · Rodent handling (European Certificate) · Tissue Sectioning (vibratome, cryostat)
+- Immunohistochemistry
+- (RT)-PCR
+- Western blot
+- Stereological methods
+- Rodent handling (European Certificate)
+- Tissue Sectioning (vibratome, cryostat)
 
 
 ## Languages
