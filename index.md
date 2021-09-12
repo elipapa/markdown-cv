@@ -159,6 +159,11 @@ __Speaker, Université de Strasbourg__
 
 
 ## Teaching
+`March 2021-September 2021`
+__Internship Coordinator, Journal of Trial and Error & Utrecht University (NL)__
+- Support of 1 MSc HPS student from Utrecht University as intern at the journal. 
+- Design of internship goals and assessment of milestones.
+
 `Academic years 2020-21, 2021-22`
 __Workshop speaker, Utrecht University (NL)__
 - 'Community Research Ethics and Publication Ethics', ‘Publication Possibilities, Scientific Outreach and Open Science.’  	
