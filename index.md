@@ -43,7 +43,7 @@ __BSc Maastricht Science Programme, Maastricht University (NL)__
 ## Research experience
 
 `September 2019-December 2020`
-__Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University__
+__Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University (NL)__
 - Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/" target="_blank">http://dspace.library.uu.nl/handle/1874/400784</a>.
 - Prof. Dr. Bert Theunissen.
 
@@ -84,7 +84,7 @@ __Assistant Managing Editor @  Journal for the History of Knowledge__
 
 ## Awards
 `June 2020`
-__Freudenthal Institute, Utrecht University, 'Coronavirus crisis speed research'__
+__'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University (NL)__
 - 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic.'	
 - 2000€ awarded to perform research.
 	
