@@ -107,7 +107,7 @@ Pfeiffer LM, Thiele S, **Bautista Perpinyà ME**, Coenen VA, Döbrössy MD (2
 `June 15, 2021`
 __Speaker, British Society for the History of Science__
 - Lightning Session: 'Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.'
-- Talk: "‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community."
+- Talk: ‘"If You Need a New Microscope – Why Purchase an Old One?" Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community.’
 
 
 `June 15, 2021`
