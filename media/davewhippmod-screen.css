@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 35%;
+	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 50%;
@@ -80,14 +80,14 @@ code {
 p code {
 	position: absolute;
 	text-align: left;
-	left: -22%;
-	max-width: 22%;
+	left: -16%;
+	max-width: 13%;
 }
 
 
 ul {
 	position: relative;
-	left: 35%;
+	left: 33%;
 	width: 100%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
