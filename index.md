@@ -75,7 +75,7 @@ __Co-founder, Creative Director @ Journal of Trial and Error__
 
 `March-August 2021`
 __Editorial Assistant, Project Management @ ARTECHNE, Utrecht University__
--   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge), and *The Making of Technique in the Art* (Brepols).
+-   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge) and *The Making of Technique in the Art* (Brepols).
 -  Prof. Dr. Sven Dupré.
 
  `January-December 2020`
@@ -119,7 +119,7 @@ __Host and Moderator, Online event__
 	
 `February 2, 2021`
 __Invited speaker, Sociedad Española de Bioquímica y Biología Molecular__ 
-- Roundtable: Jornadas sobre la carrera investigadora – '¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.'
+- Roundtable: 'Jornadas sobre la carrera investigadora – ¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.'
 - Talk: '¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.'
 
 `December 30, 2020`	
