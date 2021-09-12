@@ -160,12 +160,11 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #d94d70;
 	/*text-decoration:none*/
 }
 
 a:hover {
-	color:#e49851;
 	color:#03B5AA;
 }
 
@@ -190,7 +189,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #d94d70;
+	/*color: #d94d70;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
