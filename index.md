@@ -3,8 +3,6 @@ layout: cv
 title: Max Bautista Perpinyà's CV
 ---
 # Max Bautista Perpinyà
-
-
 <div id="myself">
 PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error.
 </div>
@@ -15,7 +13,6 @@ PhD student in the History and Philosophy of Science. Interested in Open Science
 
 
 ## Currently
-
 <div id="currentlytext">
 I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in Belgium. I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different community of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
 
@@ -24,7 +21,6 @@ My PhD is part of a larger project at the <a href="https://pencelab.be" target="
 
 
 ## Education
-
 `2021-now`
 __PhD History and Philosophy of Science, Université catolique de Louvain (BE)__
 
@@ -41,7 +37,6 @@ __BSc Maastricht Science Programme, Maastricht University (NL)__
 - Graduated with Honours.
 
 ## Research experience
-
 `September 2019-December 2020`
 __Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University (NL)__
 - Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/" target="_blank">http://dspace.library.uu.nl/handle/1874/400784</a>.
@@ -67,7 +62,6 @@ __Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Unikli
 
 
 ## Editorial experience
-
 `2018-now`
 __Co-founder, Creative Director @ Journal of Trial and Error__
 -  Interdisciplinary student initiative aimed at publishing and reflecting upon productive failure in scientific practice. <a href="https://www.jtrialerror.com/" target="_blank">https://www.jtrialerror.com/</a>.
@@ -171,17 +165,14 @@ Under construction.
 Under construction.
 
 ## Technical skills
-Under construction.
-
-`IT`	
+__IT__	
 Pure (management system for research publications) · Open Journal Systems · Python · Front-end website design (CSS) · Graphic design (Photoshop, Lightroom) · Freesurfer · SPSS · ITK-Snap · Linux · ImageJ
 	
-`Laboratory`
-	Immunohistochemistry · (RT)-PCR · Western blot · Stereological methods · Rodent handling (European Certificate) · Tissue Sectioning (vibratome, cryostat)
+__Laboratory__
+Immunohistochemistry · (RT)-PCR · Western blot · Stereological methods · Rodent handling (European Certificate) · Tissue Sectioning (vibratome, cryostat)
 
 
 ## Languages
-
 __Spanish__
 Native
 
