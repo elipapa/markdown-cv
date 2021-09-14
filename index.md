@@ -21,7 +21,7 @@ title: Sean Lo's Resume
 ## Experience  
 
 `Mar. 2021 -`
-__Software Development Engineer in Test, *Sony, PlayStation*__, San Francisco, CA 
+__Software Development Engineer in Test, *PlayStation - Sony*__, San Francisco, CA 
 
 `Current` 
 
