@@ -125,7 +125,8 @@ __Organiser and host, Online event__
 
 `Oct 29, 2020`	
 __Speaker, Descartes Center__
-- Department Master Thesis Colloqium Talk: 'To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.'
+- Department Master Thesis Colloqium 
+- Talk: 'To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.'
 	
 `Oct 22, 2020`	
 __Invited speaker, IV Conveción Científica Internacional (Universidad Técnica de Manabí)__
