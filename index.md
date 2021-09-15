@@ -179,13 +179,13 @@ __Student supervisor, Biological & Personality Psychology Laboratory, Universita
 
 
 ## Journalistic publications
-Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?' *Journal of Trial and Error*.
+Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/" target="_blank">Link</a>.
 
-Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.' *Journal of Trial and Error*.
+Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2020/03/05/jote-in-conversation-with-researchers-how-does-failure-arise-how-do-you-deal-with-it-lea-roumazeilles/" target="_blank">Link</a>.
 
-Max Bautista Perpinyà (2020). 'Open Science Symposium – Starting off with the Natural Sciences.' *The Road to Open Science*, Open Science Community Utrecht.
+Max Bautista Perpinyà (2020). 'Open Science Symposium – Starting off with the Natural Sciences.' *The Road to Open Science*, Open Science Community Utrecht. <a href="https://openscience-utrecht.com/open-science-symposium-starting-off-with-the-natural-sciences/" target="_blank">Link</a>.
 
-Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.' *Journal of Trial and Error*.
+Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2019/09/30/are-we-facing-a-bigger-monster-the-journal-of-trial-and-error-visits-cambridge/" target="_blank">Link</a>.
 
 Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)*.
 
