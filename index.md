@@ -190,14 +190,11 @@ Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger mo
 Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)*.
 
 ## Technical IT skills
-__Main__
 - Front-end website design (CSS, HTML)
 - Python
 - Pure (management system for research publications)
 - Open Journal Systems
 - Graphic design (Photoshop, Lightroom)
-
-__Secondary__
 - Freesurfer
 - SPSS
 - ITK-Snap
