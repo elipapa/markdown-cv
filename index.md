@@ -16,7 +16,7 @@ maximilia.[my first last name]@uclouvain.be | <a href="https://www.oliviodare.co
 I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in Belgium. I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different community of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.</div>
 
 <div id="currentlytext">
-My PhD is part of a larger project at the <a href="https://pencelab.be" target="_blank">Pence Lab</a> that aims at clarifying the ‘<a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/" target="_blank">Taxonomic Disorder</a>’ in conservation biology.</div>
+My PhD is part of a larger HPS project at the <a href="https://pencelab.be" target="_blank">Pence Lab</a> that aims at clarifying the ‘<a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/" target="_blank">Taxonomic Disorder</a>’ in conservation biology.</div>
 
 <div id="currentlytext">
 I'm a member of the British Society for the History of Science, the Belgian-Dutch Society for the History of Science and Universities (Gewina), and the Sociedad Española de Historia de las Ciencias y de las Técnicas.
