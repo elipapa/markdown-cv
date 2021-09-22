@@ -3,9 +3,9 @@ layout: cv
 title: David Riosalido's CV
 ---
 
-# David Riosalido
+# David Riosalido del Pozo
 
-Senior Infrastructure / DevOps Engineer.
+Senior Infrastructure / DevOps Engineer and other things
 
 <div id="webaddress">
   <a href="mailto:driosalido@gmail.com"><i class="fas fa-envelope"></i> driosalido@gmail.com</a> &nbsp;
