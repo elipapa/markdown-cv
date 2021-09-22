@@ -6,7 +6,7 @@ This is a fork from [Eliseo Papa's markdown-cv project](http://elipapa.github.io
 See the HTML version of my CV at [https://oliviodare.github.io/cv/](https://oliviodare.github.io/cv/).
 
 ### Status
-I am still perfecting the PDF output. 
+I am still perfecting the PDF output and making the site more mobile friendly.
 
 ### Local build for PDF
 1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
