@@ -29,7 +29,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 `2019-`
 __PhD in Epidemiology & Biostatistics, Imperial College London__
-- Modelling mortality in England, supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](https://sethrf.com) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano)
+- Modelling small-area mortality in England, supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](https://sethrf.com) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano)
 - Funded by the President’s Scholarship
 
 `2015-19`
@@ -57,6 +57,8 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 
 
 ## Selected Publications
+`2021`
+__Rashid, T.__, Bennett, J.E. _et al._ (2021). [Life expectancy and risk of death in 6,791 English communities from 2002 to 2019: high-resolution spatiotemporal analysis of civil registration data](). _The Lancet Public Health_ (in press).
 
 `2020`
 Kontis, V., Bennett, J.E., __Rashid, T.__ _et al._ (2020). [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0). _Nature Medicine_, 26, 1919–1928.
@@ -87,7 +89,7 @@ Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial Colleg
 
 ## Skills
 ### Statistical
-Bayesian inference, geospatial statistics, machine learning
+Bayesian modelling, spatiotemporal statistics, machine learning
 
 ### Computational
 Highly proficient in R, Python
