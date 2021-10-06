@@ -6,13 +6,13 @@ title: Uswatun Hasanah's CV
 Quality Assurance Analyst
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/uswatun-h-3479808b/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/uswatun-h-3479808b/">LinkedIn</a> | email: uusshana@gmail.com | phone: +6281391558343
 </div>
 
 
 ## Summary
 
-Quality Assurance Analyst with more than 1 year expertise in a fast-paced SaaS startup with quick application development life cycles. I am creating test cases to make better documentation for product and create automation code to maintain product quality.
+Quality Assurance Analyst with more than 1 year expertise in a fast-paced SaaS startup with quick application development life cycles. I am creating test cases to make better documentation for product, testing product manually, and create automation code to maintain product quality.
 
 ## Work Experience
 
@@ -21,7 +21,7 @@ __Quality Assurance Analyst, Mekari__
 
 - Create test cases
 - Communicating with the IT and Products teams
-- Testing software
+- Testing product
 - Create automation test
 - Report bugs
 
@@ -63,6 +63,6 @@ __Telkom University, Bandung__
 
 <!-- ### Footer
 
-Last updated: May 2021 -->
+Last updated: October 2021 -->
 
 
