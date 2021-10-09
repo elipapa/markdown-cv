@@ -281,5 +281,43 @@ strong {
     display: block;
     text-align: left;
   }
-	
+	#max-bautista-perpinyà {
+	text-align: left;
+    	font-size: 3em;
+    	line-height: 1em;
+    	position: relative;
+    	left: 33%;
+}
+
+#myself {
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.7em;
+	margin-top: 0.7em;
+	margin-right: 0;
+	width: 42%;
+}
+
+#webaddress {
+	margin-top: 1em;
+	position: relative;
+	left: 33%;
+	/*color: #d94d70;*/
+	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
+	font-family: Avenir,Verdana,sans-serif;
+	font-size: 100%;
+}
+
+#webaddress a {
+	text-decoration: none;
+}
+
+
+#currentlytext {
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 45%;
+}
 }
