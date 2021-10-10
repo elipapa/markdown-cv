@@ -145,7 +145,6 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #d94d70;
-	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -258,44 +257,54 @@ strong {
 		width: 100%;
 		}
 
+		h2 {
+			top:65px;
+			margin-top:53px;
+		}
+
+	#currently {
+		margin-top:0px;
+	}
+
 	#max-bautista-perpinyà {
 			font-size: 3em;
 		}
 
-	#myself, #webaddress, #currently {
+	#myself, #webaddress  {
 		left:8%;
 		width: 86%;
 	}
 
 	p {
-		top: 54px;
-		left:30%;
-		width: 65%;
-		margin-bottom: 22px;
+		top: 92px;
+		/*left:30%;*/
+		left:7%;
+		width: 90%;
+		margin-bottom: 45px;
 	}
 
 	#currentlytext {
-		top: 54px;
-		left: 8%;
-		width: 86%;
+		top: 65px;
+		left: 7.5%;
+		width: 89%;
 		margin-bottom: 22px
 	}
 
 	p code {
-	left: -35%;
-	max-width: 29%;
+	left:0px;
+	max-width: 100%;
 	font-size: 0.8em;
+	bottom:21px;
 	}
 
 	ul {
-		left:30%;
+		left:7%;
 		position: relative;
-    top: 51px;
+    top: 54px;
 		max-width: 100%
 	}
 
 	li {
-		width: 70%
+		width: 70%;
 	}
-
 }

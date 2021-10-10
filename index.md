@@ -190,6 +190,8 @@ Max Bautista Perpinyà (2020). 'Open Science Symposium – Starting off with th
 Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2019/09/30/are-we-facing-a-bigger-monster-the-journal-of-trial-and-error-visits-cambridge/" target="_blank">Link</a>.
 
 Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)*.
+- d
+
 
 ## Technical IT skills
 - Front-end website design (CSS, HTML)
