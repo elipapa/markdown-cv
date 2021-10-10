@@ -143,7 +143,7 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 1.43em;
 	color: #d94d70;
 	position: relative;
 	top: 1.4em;
@@ -170,12 +170,13 @@ a:hover {
 	transition-duration: 0.8s;
 }
 
-#max-bautista-perpinyà {
+h1 {
 	text-align: left;
     	font-size: 3em;
     	line-height: 1em;
     	position: relative;
     	left: 33%;
+			width: 50%;
 }
 
 #myself {
@@ -233,6 +234,10 @@ strong {
 	top: 10px;
 }
 
+:root
+{
+  --leftstart: 140px;}
+
 
 /* This hack fixes scrollable on x for tablets */
 @media only screen and (max-width: 1024px) {
@@ -242,69 +247,66 @@ strong {
 }
 
 @media only screen and (max-width: 1000px) {
-  body {
-		width: 100%
-		margin-top: 0em;
-		margin-left: 0.3em;
-  }
-
-	#max-bautista-perpinyà, h2 {
-	  text-align: left;
-	  font-size: 2em;
-	  line-height: 1em;
-	  position: relative;
-	  left: 7%;
-		width: 100%;
-		}
-
-		h2 {
-			top:65px;
-			margin-top:53px;
-		}
-
-	#currently {
-		margin-top:0px;
+	body, content {
+		width:100%;
 	}
 
-	#max-bautista-perpinyà {
-			font-size: 3em;
-		}
-
-	#myself, #webaddress  {
-		left:8%;
-		width: 86%;
+	p, #currentlytext, #myself, #webaddress {
+		left: 20px;
+		top: 29px;
+		width: 74%;
+		margin-bottom: 1.8em;
+		/*text-indent: var(--leftstart);*/
+		/*text-align: right;*/
 	}
 
-	p {
-		top: 92px;
-		/*left:30%;*/
-		left:7%;
-		width: 90%;
-		margin-bottom: 45px;
+#myself, #webaddress {
+	top: 0px;
+
+}
+
+	h1 {
+		font-size: 2.7em;
+		left:20px;
+		width: 80%;
 	}
 
-	#currentlytext {
-		top: 65px;
-		left: 7.5%;
-		width: 89%;
-		margin-bottom: 22px
-	}
-
+	strong {
+    left: 0%;
+    width: 45%;
+    margin-top: 0.25em;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    position: relative;
+    top: 21px;
+}
 	p code {
-	left:0px;
-	max-width: 100%;
-	font-size: 0.8em;
-	bottom:21px;
+		max-width: 100%;
+		left:0px;
+		text-indent: 0px;
 	}
 
 	ul {
-		left:7%;
 		position: relative;
-    top: 54px;
-		max-width: 100%
+		left: 20px;
+		top: 23px;
+		width: 100%;
+		margin-bottom: 0em;
+		margin-top: 0em;
 	}
 
 	li {
-		width: 70%;
+		width: 74%;
 	}
+
+	h2 {
+		font-size: 1.73em;
+		top:19px;
+		width: 100%;
+		text-align: left;
+		left: 20px;
+		margin-top: 40px;
+	}
+
+
 }

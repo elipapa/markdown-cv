@@ -2,7 +2,7 @@
 layout: cv
 title: Max Bautista Perpinyà's CV
 ---
-# Max Bautista Perpinyà
+# Max Bautista Perpinyà, *Curriculum Vitae*
 <div id="myself">
 PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error. Based in Brussels.
 </div>
@@ -96,11 +96,11 @@ __Scholarship Erasmus+,	European Commission__
 
 
 ## Publications
-Devine S, **Bautista Perpinyà M**, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. 'Science Fails. Let’s Publish.' *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
+Devine S, Bautista Perpinyà M, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. 'Science Fails. Let’s Publish.' *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
 
-Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Perpinyà MB**, Desco M, Serratosa JM, Sánchez MP. 'Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.' *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
+Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serratosa JM, Sánchez MP. 'Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.' *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
 
-Pfeiffer LM, Thiele S, **Bautista Perpinyà ME**, Coenen VA, Döbrössy MD (2016). 'Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization.' Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
+Pfeiffer LM, Thiele S, Bautista Perpinyà ME, Coenen VA, Döbrössy MD (2016). 'Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization.' Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
 
 
 ## Talks and public apperances
@@ -190,8 +190,6 @@ Max Bautista Perpinyà (2020). 'Open Science Symposium – Starting off with th
 Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2019/09/30/are-we-facing-a-bigger-monster-the-journal-of-trial-and-error-visits-cambridge/" target="_blank">Link</a>.
 
 Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)*.
-- d
-
 
 ## Technical IT skills
 - Front-end website design (CSS, HTML)
@@ -216,16 +214,16 @@ Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en
 
 ## Languages
 __Spanish__
-Native
+- Native
 
 __Catalan__
-Native
+- Native
 
 __English__
-Full Professional
+- Full Professional
 
 __French__
-Intermediate
+- Intermediate
 
 
 
