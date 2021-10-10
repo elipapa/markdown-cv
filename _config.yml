@@ -1,2 +1,5 @@
 markdown:   kramdown
 style:  davewhippmod
+
+plugins:
+  - jekyll-seo-tag
