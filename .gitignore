@@ -6,4 +6,5 @@ _site/
 .obsidian/hotkeys.json
 .obsidian/workspace
 .DS_Store
+.jekyll-cache
 .jekyll-cache/
