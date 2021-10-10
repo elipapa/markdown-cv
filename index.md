@@ -58,7 +58,7 @@ __Researcher, Master Thesis @ Biological and Personality Psychology Laboratory, 
 
 
 `Oct 2015-May 2016`
-__Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__ 
+__Research Assistant @ Lab of Stereotaxy and Interventional Neuroscience, Uniklinikum Freiburg (DE)__
 - Study of rodent model of depression.
 - Personal tasks: animal experimation (daily care and behavioural testing), molecular research (cryostat sectioning and histology), data analysis (analysis of ultrasonic vocalisation recordings).
 - Dr. Máté Döbrössy, Dr. MD Volker Coenen.
@@ -82,13 +82,13 @@ __Assistant Managing Editor @  Journal for the History of Knowledge__
 ## Awards
 `Jun 2020`
 __'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University (NL)__
-- 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic.'	
+- 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic.'
 - 2000€ awarded to perform research.
-	
+
 `Mar-May 2016`
 __Scholarship Boussole, Region Alsace (FR)__
 - 900€ awarded to perform an internship abroad (Germany).
-	
+
 `Nov 2015-Feb 2016`
 __Scholarship Erasmus+,	European Commission__
 - 1256€ awarded to perform an internship abroad (Germany).
@@ -102,6 +102,7 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Perpinyà MB**, Desco M, Se
 
 Pfeiffer LM, Thiele S, **Bautista Perpinyà ME**, Coenen VA, Döbrössy MD (2016). 'Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization.' Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
 
+
 ## Talks and public apperances
 `Jul 13, 2021`
 __Speaker, British Society for the History of Science__
@@ -113,46 +114,46 @@ __Speaker, British Society for the History of Science__
 __Host and Moderator, Online event__
 - 'Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.' <a href="https://www.youtube.com/watch?v=TMGaNvo-SgM" target="_blank">https://www.youtube.com/watch?v=TMGaNvo-SgM</a>.
 - A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden).
-	
+
 `Feb 2, 2021`
-__Invited speaker, Sociedad Española de Bioquímica y Biología Molecular__ 
+__Invited speaker, Sociedad Española de Bioquímica y Biología Molecular__
 - Roundtable: 'Jornadas sobre la carrera investigadora – ¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science.  Publicar resultados negativos.'
 - Talk: '¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.'
 
-`Dec 30, 2020`	
+`Dec 30, 2020`
 __Organiser and host, Online event__
 - Journal Launch Online Event: 'Opening Issue, the Journal of Trial and Error.'
 
-`Oct 29, 2020`	
+`Oct 29, 2020`
 __Speaker, Descartes Center__
-- Department Master Thesis Colloqium 
+- Department Master Thesis Colloqium
 - Talk: 'To be a molecular scientist: Technical social responsibility in 1970s *Nature* advertisements and leaders.'
-	
-`Oct 22, 2020`	
+
+`Oct 22, 2020`
 __Invited speaker, IV Conveción Científica Internacional (Universidad Técnica de Manabí)__
-- Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’ 
+- Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’
 - Talk: 'Ciencia Abierta: Globalidad y Localidad.'
 
-	
+
 `May 25, 2020`
 __Panellist, Open Publishing Fest__
 - Talk: 'Presenting the Journal of Trial and Error.'
-	
+
 `Feb 21, 2020`
 __Invited speaker and panellist, University of Bern__
 - Talk: 'The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.'
 
-	
+
 `Feb 12, 2020`
 __Invited speaker, Erasmus University Rotterdam__
 - Open Science Community Rotterdam
 - 'ReproducibiliTea: Meet the Journal of Trial and Error.'
 
-	
+
 `Nov 26, 2019`
 __Seminar organiser and presenter, Utrecht University__
 - Talk: 'Engaged History: Should Academia Lead to Activism?'
-	
+
 `Jul 12, 2019`
 __Invited speaker, Laboratory of Molecular Biology, Cambridge University__
 - Talk: 'The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science.'
@@ -165,15 +166,15 @@ __Speaker, Université de Strasbourg__
 ## Teaching
 `Mar-Sep 2021`
 __Internship Coordinator, Journal of Trial and Error & Utrecht University (NL)__
-- Support of 1 MSc HPS student from Utrecht University as intern at the journal. 
+- Support of 1 MSc HPS student from Utrecht University as intern at the journal.
 - Design of internship goals and assessment of milestones.
 
 `Academic years 2020-21, 2021-22`
 __Workshop speaker, Utrecht University (NL)__
 - 'Community Research Ethics and Publication Ethics', ‘Publication Possibilities, Scientific Outreach and Open Science.’  	
-- Life Science Faculty Introductory days for 500+ new master students. 
+- Life Science Faculty Introductory days for 500+ new master students.
 
-	
+
 `2016`
 __Student supervisor, Biological & Personality Psychology Laboratory, Universität Freiburg (DE)__
 - Daily management of several undergraduates. Teaching a neuroimaging sectioning manual technique to the students.
@@ -201,7 +202,7 @@ Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en
 - ITK-Snap
 - Linux
 - ImageJ
-	
+
 ## Molecular Laboratory skills
 - Immunohistochemistry
 - (RT)-PCR
@@ -229,5 +230,3 @@ Intermediate
 ## ---
 ## Last updated
 __September 2021__
-
-

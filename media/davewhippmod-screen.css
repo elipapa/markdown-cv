@@ -242,8 +242,61 @@ strong {
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
   body {
     background-color: lightblue;
+		width: 100%
+		margin-top: 0em;
+		margin-left: 0.3em;
   }
+
+	#max-bautista-perpinyà, h2 {
+	  text-align: left;
+	  font-size: 2em;
+	  line-height: 1em;
+	  position: relative;
+	  left: 7%;
+		width: 100%;
+		}
+
+	#max-bautista-perpinyà {
+			font-size: 3em;
+		}
+
+	#myself, #webaddress, #currently {
+		left:8%;
+		width: 86%;
+	}
+
+	p {
+		top: 54px;
+		left:30%;
+		width: 65%;
+		margin-bottom: 22px;
+	}
+
+	#currentlytext {
+		top: 54px;
+		left: 8%;
+		width: 86%;
+		margin-bottom: 22px
+	}
+
+	p code {
+	left: -35%;
+	max-width: 29%;
+	font-size: 0.8em;
+	}
+
+	ul {
+		left:30%;
+		position: relative;
+    top: 51px;
+		max-width: 100%
+	}
+
+	li {
+		width: 70%
+	}
+
 }
