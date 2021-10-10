@@ -242,82 +242,8 @@ strong {
   }
 }
 
-/* Mobile styling, starting at iPad portrait size */
-@media only screen and (max-width: 768px) {
-  h1,
-  h2,
-  h3,
-  h4,
-  p,
-  ul,
-  code,
-  #webaddress {
-    position: static;
-    width: 100%;
-    text-align: left;
-  }
-
-  code {
-    width: auto;
-  }
-
-  h1 {
-    margin-bottom: 0.1em;
-  }
-
-  h2 {
-    margin-top: 1em;
-  }
-
+@media only screen and (max-width: 600px) {
   body {
-  	margin-top: 0;
-  	margin-left: 0;
-    padding: 1em;
+    background-color: lightblue;
   }
-
-  p code {
-    position: static;
-    margin-right: auto;
-    display: block;
-    text-align: left;
-  }
-	#max-bautista-perpinyà {
-	text-align: left;
-    	font-size: 3em;
-    	line-height: 1em;
-    	position: relative;
-    	left: 33%;
-}
-
-#myself {
-	position: relative;
-	left: 33%;
-	margin-bottom: 0.7em;
-	margin-top: 0.7em;
-	margin-right: 0;
-	width: 42%;
-}
-
-#webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 33%;
-	/*color: #d94d70;*/
-	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
-	font-family: Avenir,Verdana,sans-serif;
-	font-size: 100%;
-}
-
-#webaddress a {
-	text-decoration: none;
-}
-
-
-#currentlytext {
-	position: relative;
-	left: 33%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 45%;
-}
 }
