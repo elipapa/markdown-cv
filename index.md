@@ -25,22 +25,12 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 
-## Education
+## Current
 
 `2019-`
 __PhD in Epidemiology & Biostatistics, Imperial College London__
 - Modelling small-area mortality in England, supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](https://sethrf.com) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano)
 - Funded by the President’s Scholarship
-
-`2015-19`
-__MSci in Physics with Theoretical Physics, Imperial College London__
-- First Class Honours
-
-`2008-15`
-__Leicester Grammar School__
-- A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>)
-<!-- - GCSEs: 10 A<sup>*</sup>s including English. -->
-
 
 
 ## Experience
@@ -60,7 +50,7 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 `2021`
 __Rashid, T.__, Bennett, J.E. _et al._ (2021). [Life expectancy and risk of death in 6791 communities in England from 2002 to 2019: high-resolution spatiotemporal analysis of civil registration data](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00205-X/fulltext). _The Lancet Public Health_ (online).
 
-Semenova, E., Xu, Y., Howes, A.T., __Rashid, T.__, _et al._ (2021). [Encoding spatiotemporal priors with VAEs for small-area estimation](). _AISTATS_ (submitted).
+Semenova, E., Xu, Y., Howes, A.T., __Rashid, T.__ _et al._ (2021). [Encoding spatiotemporal priors with VAEs for small-area estimation](). _AISTATS_ (submitted).
 
 `2020`
 Kontis, V., Bennett, J.E., __Rashid, T.__ _et al._ (2020). [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0). _Nature Medicine_, 26, 1919–1928.
@@ -86,6 +76,17 @@ High resolution analysis reveals widening 30-year life expectancy gap within Lon
 Teaching Assistant, __Population Health__ in the Health Data Analytics and Machine Learning MSc, Imperial College London
 
 Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial College London
+
+## Education
+
+`2015-19`
+__MSci in Physics with Theoretical Physics, Imperial College London__
+- First Class Honours
+
+`2008-15`
+__Leicester Grammar School__
+- A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>)
+<!-- - GCSEs: 10 A<sup>*</sup>s including English. -->
 
 
 
