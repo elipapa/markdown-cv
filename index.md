@@ -7,9 +7,9 @@ title: Stephen Doyle's CV
 UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 
 <div id="webaddress">
-<a href="stephen.doyle@sanger.ac.uk">stephen.doyle@sanger.ac.uk</a>
+<a href="mailto:stephen.doyle@sanger.ac.uk">stephen.doyle@sanger.ac.uk</a>
 | <a href="https://stephenrdoyle.github.io/">Lab website</a>
-| <a href="https://twitter.com/stephenrdoyle">Twitter</a><a href="#" class="fa fa-twitter"></a>
+| <a class="fa fa-twitter" href="https://twitter.com/stephenrdoyle">Twitter</a>
 | <a href="https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en">Google Scholar</a>
 </div>
 
