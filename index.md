@@ -63,22 +63,22 @@ La Trobe University, Australia
 -	Since 2016 (last 5 yrs): 34 publications; 8 first author; 1 senior author
 
 `2021`
-**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.
+41. **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.
 
-McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research. DOI: 
+40. McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research. DOI: 
 
-Buddenborg SK, Tracey A, Berger DJ, Lu Z, DOYLE SR, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) Assembled chromosomes of the blood fluke Schistosoma mansoni provide insight into the evolution of its ZW sex-determination system. bioRxiv. DOI: https://doi.org/10.1101/2021.08.13.456314
+39. Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) [Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314). bioRxiv.
 
-McLay TGB, Ladiges PY, DOYLE SR, Bayly MJ. (2021) Phylogeographic patterns of the sclerophyllous Australian grass tree (Xanthorrhoea Sm. Asphodelaceae) revealed using targeted amplicon sequencing. Australian Systematic Botany 34, 206-225
+38. McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. (2021) [Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea Sm. Asphodelaceae*) revealed using targeted amplicon sequencing](). Australian Systematic Botany 34, 206-225
 
 `2020`
-Kotze AC, Gilleard JS, DOYLE SR, Prichard RK. (2020) Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance. Int. J Parasitol-DDR DOI: https://doi.org/10.1016/j.ijpddr.2020.11.005 
+37. Kotze AC, Gilleard JS, DOYLE SR, Prichard RK. (2020) [Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance](https://doi.org/10.1016/j.ijpddr.2020.11.005 ). Int. J Parasitol-DDR
 
-DOYLE SR, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) Genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm. Communications Biology. DOI: https://doi.org/10.1038/s42003-020-01377-3
+36. **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Genomic and transcriptomic variation defines the chromosome-scale assembly of *Haemonchus contortus*, a model gastrointestinal worm.](https://doi.org/10.1038/s42003-020-01377-3) Communications Biology.
 
-Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, DOYLE SR, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. (2020) Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni. Nature Communications. DOI: https://doi.org/10.1038/s41467-020-20092-5
+35. Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. (2020) [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite *Schistosoma mansoni*](https://doi.org/10.1038/s41467-020-20092-5). Nature Communications.
 
-Durrant C, Thiele EA, Holroyd N, DOYLE SR, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. (2020) Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis. PLoS NTDs DOI: https://doi.org/10.1371/journal.pntd.0008623
+34. Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. (2020) [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1371/journal.pntd.0008623). PLoS NTD
 
 Olson PD, Tracey A, Bailie A, James K, Rodgers FH, DOYLE SR, Buddenborg S, Holroyd N, Berriman M. (2020) Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection. BMC Biology. DOI: https://doi.org/10.1186/s12915-020-00899-w
 
