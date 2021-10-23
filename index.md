@@ -26,9 +26,26 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ### Employment
 `2020 - now`
-Group Leader, UKRI Future Leaders Fellow / Career Development Fellow
-Wellcome Sanger Institute, UK
-Project: “The generation and maintenance of genetic novelty in parasitic helminths”
+**Group Leader, UKRI Future Leaders Fellow / Career Development Fellow**
+Wellcome Sanger Institute, UK  
+Project: *“The generation and maintenance of genetic novelty in parasitic helminths”*  
+
+`2015 - 2020`
+**Postdoctoral Fellow**
+Parasite Genomics Group, Wellcome Sanger Institute, UK  
+Project: *“Building Upon the Genome: using Haemonchus contortus genomic resources to develop novel interventions to control endemic GI parasites”*  
+
+`2012 - 2015`
+**Early Career Development Fellow**
+Department of Genetics / Dept. Animal, Plant, and Soil Sciences, La Trobe University, Australia  
+Project: *“Population genomics of ivermectin drug response in the human parasitic nematode, Onchocerca volvulus”* 
+
+`2011`
+**Postdoctoral Fellow**
+Department of Genetics, La Trobe University, Australia  
+Project: *“Development of Markers for Ivermectin Resistance monitoring in 
+Onchocerca volvulus”*  
+
 
 
 
