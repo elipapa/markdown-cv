@@ -52,7 +52,7 @@ Thesis title: *"Targeted non-viral gene delivery: Intracellular trafficking of p
 Advisor: Dr Chee Kai Chan
 
 `2001 - 2004`
-**Bachelor of Medical Science**
+**Bachelor of Medical Science**  
 La Trobe University, Australia  
 
 
@@ -63,31 +63,31 @@ La Trobe University, Australia
 -	Since 2016 (last 5 yrs): 34 publications; 8 first author; 1 senior author
 
 `2021`
-41. **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.
+41. **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.  
 
-40. McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research. DOI: 
+40. McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research.  
 
-39. Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) [Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314). bioRxiv.
+39. Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) [Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314). bioRxiv.  
 
-38. McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. (2021) [Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea Sm. Asphodelaceae*) revealed using targeted amplicon sequencing](). Australian Systematic Botany 34, 206-225
+38. McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. (2021) [Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea Sm. Asphodelaceae*) revealed using targeted amplicon sequencing](). Australian Systematic Botany 34, 206-225  
 
 `2020`
-37. Kotze AC, Gilleard JS, DOYLE SR, Prichard RK. (2020) [Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance](https://doi.org/10.1016/j.ijpddr.2020.11.005 ). Int. J Parasitol-DDR
+37. Kotze AC, Gilleard JS, DOYLE SR, Prichard RK. (2020) [Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance](https://doi.org/10.1016/j.ijpddr.2020.11.005 ). Int. J Parasitol-DDR  
 
-36. **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Genomic and transcriptomic variation defines the chromosome-scale assembly of *Haemonchus contortus*, a model gastrointestinal worm.](https://doi.org/10.1038/s42003-020-01377-3) Communications Biology.
+36. **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Genomic and transcriptomic variation defines the chromosome-scale assembly of *Haemonchus contortus*, a model gastrointestinal worm.](https://doi.org/10.1038/s42003-020-01377-3) Communications Biology.  
 
-35. Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. (2020) [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite *Schistosoma mansoni*](https://doi.org/10.1038/s41467-020-20092-5). Nature Communications.
+35. Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. (2020) [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite *Schistosoma mansoni*](https://doi.org/10.1038/s41467-020-20092-5). Nature Communications.  
 
-34. Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. (2020) [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1371/journal.pntd.0008623). PLoS NTD
+34. Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. (2020) [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1371/journal.pntd.0008623). PLoS NTD.  
 
-Olson PD, Tracey A, Bailie A, James K, Rodgers FH, DOYLE SR, Buddenborg S, Holroyd N, Berriman M. (2020) Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection. BMC Biology. DOI: https://doi.org/10.1186/s12915-020-00899-w
+33. Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1186/s12915-020-00899-w). BMC Biology.  
 
 `2019`
-Parisi K, DOYLE SR, Lee E, Lowe R, Weerden NVD, Anderson M, Bleackley M. (2019) Screening the Saccharomyces cerevisiae non-essential gene deletion library reveals diverse mechanisms of action for antifungal plant defensins. Antimicrobial Agents and Chemotherapy. DOI: https://doi.org/10.1128/AAC.01097-19 
+32. Parisi K, **DOYLE SR**, Lee E, Lowe R, Weerden NVD, Anderson M, Bleackley M. (2019) [Screening the *Saccharomyces cerevisiae* non-essential gene deletion library reveals diverse mechanisms of action for antifungal plant defensins](https://doi.org/10.1128/AAC.01097-19). Antimicrobial Agents and Chemotherapy.  
 
-Sallé G, DOYLE SR, Cortet J, Cabaret J, Berriman M, Holroyd N, Cotton JA (2019) The global diversity of Haemonchus contortus is shaped by human intervention and climate. Nature Communications, DOI: https://doi.org/10.1038/s41467-019-12695-4; Nat Micro Blog: https://go.nature.com/35VNdpt 
+31. Sallé G, **DOYLE SR**, Cortet J, Cabaret J, Berriman M, Holroyd N, Cotton JA (2019) [The global diversity of Haemonchus contortus is shaped by human intervention and climate](https://doi.org/10.1038/s41467-019-12695-4). Nature Communications. [Nat Micro Blog](https://go.nature.com/35VNdpt)  
 
-Rezansoff AM, Laing R, Martinelli A, Redman E, Bartley D, Holroyd N, Devaney E, DOYLE SR, Sargison ND, Cotton JA, Gilleard JS. (2019) The confounding effects of high genetic diversity on the determination and interpretation of differential gene expression analysis in the parasitic nematode Haemonchus contortus. Int. J Parasitol DOI: https://doi.org/10.1016/j.ijpara.2019.05.012
+30. Rezansoff AM, Laing R, Martinelli A, Redman E, Bartley D, Holroyd N, Devaney E, **DOYLE SR**, Sargison ND, Cotton JA, Gilleard JS. (2019) [The confounding effects of high genetic diversity on the determination and interpretation of differential gene expression analysis in the parasitic nematode *Haemonchus contortus*](https://doi.org/10.1016/j.ijpara.2019.05.012). Int. J Parasitol  
 
 DOYLE SR, Sankaranarayan G, Allan F, Berger D, Castro PDJ, Collins JB, Crellen T, Duque-Correa MA, Ellis P, Jaleta TG, Laing R, Maitland K, McCarthy C, Moundai T, Softley B, Thiele E, Ouakou PT, Tushabe JV, Webster JP, Weiss AJ, Lok J, Devaney E, Kaplan RM, Cotton JA, Berriman M, Holroyd N. (2019) Evaluation of DNA extraction methods on individual helminth egg and larval stages for whole genome sequencing. Frontiers in Genetics. DOI: https://doi.org/10.3389/fgene.2019.00826
 
