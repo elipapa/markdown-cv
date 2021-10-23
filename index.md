@@ -9,7 +9,8 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 <div id="webaddress">
 <a href="stephen.doyle@sanger.ac.uk">stephen.doyle@sanger.ac.uk</a>
 | <a href="https://stephenrdoyle.github.io/">Lab website</a>
-| <i class="fab fa-twitter"></i>
+| <a href="https://twitter.com/stephenrdoyle">Twitter</a>
+| <a href="https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en">Google Scholar</a>
 </div>
 
 
