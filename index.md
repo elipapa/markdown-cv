@@ -14,7 +14,7 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 </div>
 
 
-### Employment
+## Employment
 `2020 - now`
 **Group Leader, UKRI Future Leaders Fellow / Career Development Fellow**
 Wellcome Sanger Institute, UK  
@@ -63,9 +63,9 @@ La Trobe University, Australia
 -	Since 2016 (last 5 yrs): 34 publications; 8 first author; 1 senior author
 
 `2021`
-DOYLE SR, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) Population genomics of ancient and modern Trichuris trichiura. bioRxiv. DOI: https://doi.org/10.1101/2021.10.21.464505
+**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.
 
-McCann K, Grant W, DOYLE SR (2021) The genome sequence of the Australian filarial nematode, Cercopithifilaria johnstoni. Wellcome Open Research. DOI: https://doi.org/10.12688/wellcomeopenres.17258.1 
+McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research. DOI: 
 
 Buddenborg SK, Tracey A, Berger DJ, Lu Z, DOYLE SR, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) Assembled chromosomes of the blood fluke Schistosoma mansoni provide insight into the evolution of its ZW sex-determination system. bioRxiv. DOI: https://doi.org/10.1101/2021.08.13.456314
 
@@ -147,7 +147,7 @@ DOYLE SR, Kasinadhuni NRP, Chan CK, Grant WN, (2013). Evidence of evolutionary c
 `2011`
 DOYLE SR, Chan CK, and Grant WN, (2011). Enhanced annealing of mismatched oligonucleotides using a novel melting curve assay allows efficient in vitro discrimination and restriction of a single nucleotide polymorphism. BMC Biotechnology. DOI: https://doi.org/10.1186/1472-6750-11-83
 
-Chan CK, Hart AH, Lister AN, DOYLE SR. (2011) Learning styles of 3rd year genetics students and their affection and perception of effectiveness of a range of instructional modes. ACSME Proceedings 2011 | Teaching for Diversity – Challenges and Strategies. DOI: 
+Chan CK, Hart AH, Lister AN, DOYLE SR. (2011) Learning styles of 3rd year genetics students and their affection and perception of effectiveness of a range of instructional modes. ACSME Proceedings 2011 Teaching for Diversity – Challenges and Strategies. DOI: 
 
 `2008`
 DOYLE SR and Chan CK, (2008). Mitochondrial gene therapy an evaluation of strategies for the treatment of mitochondrial DNA disorders. Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue; DOI: https://doi.org/10.1089/hum.2008.090
