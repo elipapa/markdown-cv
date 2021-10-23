@@ -18,22 +18,22 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 `2020 - now`  
 **Group Leader, UKRI Future Leaders Fellow / Career Development Fellow**  
 Wellcome Sanger Institute, UK  
-Project: "<i>The generation and maintenance of genetic novelty in parasitic helminths</i>"  
+Project: "The generation and maintenance of genetic novelty in parasitic helminths"  
 
 `2015 - 2020`  
 **Postdoctoral Fellow**  
 Parasite Genomics Group, Wellcome Sanger Institute, UK  
-Project: *"Building Upon the Genome: using Haemonchus contortus genomic resources to develop novel interventions to control endemic GI parasites"*   
+Project: "Building Upon the Genome: using *Haemonchus contortus* genomic resources to develop novel interventions to control endemic GI parasites"   
 
 `2012 - 2015`  
 **Early Career Development Fellow**  
 Department of Genetics / Dept. Animal, Plant, and Soil Sciences, La Trobe University, Australia    
-Project: *"Population genomics of ivermectin drug response in the human parasitic nematode, Onchocerca volvulus"*  
+Project: "Population genomics of ivermectin drug response in the human parasitic nematode, *Onchocerca volvulus*"   
 
 `2011`  
 **Postdoctoral Fellow**  
 Department of Genetics, La Trobe University, Australia  
-Project: *"Development of Markers for Ivermectin Resistance monitoring in Onchocerca volvulus"*  
+Project: "Development of Markers for Ivermectin Resistance monitoring in *Onchocerca volvulus*"    
 
 
 
@@ -42,13 +42,13 @@ Project: *"Development of Markers for Ivermectin Resistance monitoring in Onchoc
 `2006 - 2010`  
 **PhD**  
 Department of Genetics, La Trobe University, Australia   
-Thesis title: *"Development of genetic strategies for the investigation and treatment of mitochondrial DNA disorders"*  
+Thesis title: "Development of genetic strategies for the investigation and treatment of mitochondrial DNA disorders"    
 Advisors: Dr Chee Kai Chan / Assoc. Prof. Warwick Grant  
 
 `2005`  
 **Honours**  
 Department of Genetics, La Trobe University, Australia    
-Thesis title: *"Targeted non-viral gene delivery: Intracellular trafficking of polyethylenimine-peptide bio-conjugates"*; First class honours awarded
+Thesis title: "Targeted non-viral gene delivery: Intracellular trafficking of polyethylenimine-peptide bio-conjugates"; First class honours awarded
 Advisor: Dr Chee Kai Chan  
 
 `2001 - 2004`  
@@ -145,15 +145,15 @@ La Trobe University, Australia
 5. **DOYLE SR**, Kasinadhuni NRP, Chan CK, Grant WN, (2013). [Evidence of evolutionary constraints on the sequence composition of mitochondrial matrix targeting sequences](https://doi.org/10.1371/journal.pone.0067938). PLoS One.
 
 `2011`  
-4. **DOYLE SR**, Chan CK, and Grant WN (2011). [Enhanced annealing of mismatched oligonucleotides using a novel melting curve assay allows efficient in vitro discrimination and restriction of a single nucleotide polymorphism](https://doi.org/10.1186/1472-6750-11-83). BMC Biotechnology.
+4. **DOYLE SR**, Chan CK, and Grant WN (2011). [Enhanced annealing of mismatched oligonucleotides using a novel melting curve assay allows efficient in vitro discrimination and restriction of a single nucleotide polymorphism](https://doi.org/10.1186/1472-6750-11-83). BMC Biotechnology.  
 
 3. Chan CK, Hart AH, Lister AN, **DOYLE SR** (2011) [Learning styles of 3rd year genetics students and their affection and perception of effectiveness of a range of instructional modes]. ACSME Proceedings 2011 Teaching for Diversity Challenges and Strategies.  
 
 `2008`  
-2. **DOYLE SR** and Chan CK (2008) [Mitochondrial gene therapy: an evaluation of strategies for the treatment of mitochondrial DNA disorders](https://doi.org/10.1089/hum.2008.090). Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue.  
+2. **DOYLE SR** and Chan CK (2008) [Mitochondrial gene therapy an evaluation of strategies for the treatment of mitochondrial DNA disorders](https://doi.org/10.1089/hum.2008.090). Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue.  
 
 `2007`  
-1. **DOYLE SR** and Chan CK, (2007). [Differential intracellular distribution of DNA complexed with polyethylenimine (PEI) and PEI-polyarginine PTD influences exogenous gene expression within live COS-7 cells](https://doi.org/10.1186/1479-0556-5-11). Genet Vaccines Ther.  
+1. **DOYLE SR** and Chan CK, (2007). [Differential intracellular distribution of DNA complexed with polyethylenimine PEI and PEI-polyarginine PTD influences exogenous gene expression within live COS-7 cells](https://doi.org/10.1186/1479-0556-5-11). Genet Vaccines Ther.  
 
 
 
