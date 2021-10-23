@@ -18,7 +18,7 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 `2020 - now`  
 **Group Leader, UKRI Future Leaders Fellow / Career Development Fellow**  
 Wellcome Sanger Institute, UK  
-Project: <i>"The generation and maintenance of genetic novelty in parasitic helminths"</i>   
+Project: "<i>The generation and maintenance of genetic novelty in parasitic helminths</i>"  
 
 `2015 - 2020`  
 **Postdoctoral Fellow**  
