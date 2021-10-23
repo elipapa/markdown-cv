@@ -3,11 +3,13 @@ layout: cv
 title: Stephen Doyle's CV
 ---
 # Stephen R Doyle
+
 UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 
 <div id="webaddress">
 <a href="stephen.doyle@sanger.ac.uk">stephen.doyle@sanger.ac.uk</a>
 | <a href="https://stephenrdoyle.github.io/">Lab website</a>
+| <i class="fab fa-twitter"></i>
 </div>
 
 
