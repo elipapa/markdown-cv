@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Stephen Doyle's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Stephen R Doyle
+UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="stephen.doyle@sanger.ac.uk">stephen.doyle@sanger.ac.uk</a>
+| <a href="https://stephenrdoyle.github.io/">Lab website</a>
 </div>
 
 
@@ -23,6 +23,14 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
+
+### Employment
+`2020 - now`
+Group Leader, UKRI Future Leaders Fellow / Career Development Fellow
+Wellcome Sanger Institute, UK
+Project: “The generation and maintenance of genetic novelty in parasitic helminths”
+
+
 
 
 ## Education
