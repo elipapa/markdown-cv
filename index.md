@@ -196,6 +196,69 @@ Title: “Transfer of high resolution melt genotyping technology form Australia 
 Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elegans”  
 
 
+## Presentations  
+### Departmental/Invited Talks  
+`2021`
+Berlin Parasitology Seminar series (virtual)  
+
+`2020`
+Department of Infectious Diseases, University of Georgia, USA (virtual)
+
+Host-Parasite Interactions Seminar Series, University of Calgary, Canada (virtual)
+
+`2019`
+London School of Hygiene & Tropical Medicine, London, UK
+
+Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, Scotland, UK
+
+Consortium for Anthelmintic and Susceptibility (CARS), Madison, USA
+
+`2018`
+Genetic diversity of NTD Pathogens, Natural History Museum, London, UK
+`2017`
+Innovative tools for NTD research: Exploiting genomics, RVC, London, UK.
+
+DIDE Seminar Series, Imperial College London, UK
+
+La Trobe University, Melbourne, Australia
+
+`2012`
+Institute of Parasitology, McGill University, Montreal, Canada
+
+`2011`
+Thomson Reuters System Biology Seminar Series Winter 2011, La Trobe University
+
+VLSCI NGS Informatics Retreat, Brighton, Australia
+
+### Conference talks / posters  
+`2021`
+Molecular Helminthology: An Integrated Approach (Invited plenary speaker)
+
+World Association for the Advancement of Veterinary Parasitology (WAAVP) (talk)
+
+5th Parasitic Nematode Workshop: Bridging the Divide (Invited plenary speaker) (virtual)
+
+`2019`
+World Association for the Advancement of Veterinary Parasitology (WAAVP), Madison, USA (talk & poster)
+
+`2018`
+Ecology, Evolution and Genomics of C. elegans and other Nematodes. Wellcome Sanger Institute, Cambridgeshire, UK.
+
+Meiosis and Beyond workshop, Earlham Institute, Norwich, UK
+
+`2017`
+British Society for Parasitology, Dundee, Scotland.
+
+`2016`
+INRA Parasitology Conference. Tours, France (Invited keynote speaker)
+
+British Society for Parasitology, Imperial College London, UK (poster)
+
+`2014`
+Anthelmintics: From Discovery to Resistance: San Francisco, USA (talk & poster)
+
+Australian Society for Parasitology Conference, Canberra, Australia
+
 
 
 
