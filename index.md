@@ -63,11 +63,11 @@ La Trobe University, Australia
 -	Since 2016 (last 5 yrs): 34 publications; 8 first author; 1 senior author  
 
 `2021`  
-41. **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.  
+- **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.  
 
-40. McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research.  
+- McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research.  
 
-39. Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) [Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314). bioRxiv.  
+- Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) [Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314). bioRxiv.  
 
 38. McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. (2021) [Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea Sm. Asphodelaceae*) revealed using targeted amplicon sequencing](). Australian Systematic Botany 34, 206-225  
 
