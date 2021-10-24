@@ -39,19 +39,19 @@ Project: "Development of Markers for Ivermectin Resistance monitoring in *Onchoc
 
 ## Education
 
-`2006 - 2010`  
+`2006 - 2010`
 **PhD**  
 Department of Genetics, La Trobe University, Australia   
 Thesis title: "Development of genetic strategies for the investigation and treatment of mitochondrial DNA disorders"    
 Advisors: Dr Chee Kai Chan / Assoc. Prof. Warwick Grant  
 
-`2005`  
+`2005`
 **Honours**  
 Department of Genetics, La Trobe University, Australia    
 Thesis title: "Targeted non-viral gene delivery: Intracellular trafficking of polyethylenimine-peptide bio-conjugates"; First class honours awarded
 Advisor: Dr Chee Kai Chan  
 
-`2001 - 2004`  
+`2001 - 2004`
 **Bachelor of Medical Science**   
 La Trobe University, Australia   
 
