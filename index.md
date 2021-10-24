@@ -15,22 +15,22 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 
 
 ## Employment
-`2020 - now`  
+`2020 - now`
 **Group Leader, UKRI Future Leaders Fellow / Career Development Fellow**  
 Wellcome Sanger Institute, UK  
 Project: "The generation and maintenance of genetic novelty in parasitic helminths"  
 
-`2015 - 2020`  
+`2015 - 2020`
 **Postdoctoral Fellow**  
 Parasite Genomics Group, Wellcome Sanger Institute, UK  
 Project: "Building Upon the Genome: using *Haemonchus contortus* genomic resources to develop novel interventions to control endemic GI parasites"   
 
-`2012 - 2015`  
+`2012 - 2015`
 **Early Career Development Fellow**  
 Department of Genetics / Dept. Animal, Plant, and Soil Sciences, La Trobe University, Australia    
 Project: "Population genomics of ivermectin drug response in the human parasitic nematode, *Onchocerca volvulus*"   
 
-`2011`  
+`2011`
 **Postdoctoral Fellow**  
 Department of Genetics, La Trobe University, Australia  
 Project: "Development of Markers for Ivermectin Resistance monitoring in *Onchocerca volvulus*"    
@@ -142,10 +142,10 @@ La Trobe University, Australia
 6. DOYLE SR, Griffiths IS, Murphy NP, Strugnell JM (2015) [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.
 
 `2013`  
-5. **DOYLE SR**, Kasinadhuni NRP, Chan CK, Grant WN, (2013). [Evidence of evolutionary constraints on the sequence composition of mitochondrial matrix targeting sequences](https://doi.org/10.1371/journal.pone.0067938). PLoS One.
+5. **DOYLE SR**, Kasinadhuni NRP, Chan CK, Grant WN (2013) [Evidence of evolutionary constraints on the sequence composition of mitochondrial matrix targeting sequences](https://doi.org/10.1371/journal.pone.0067938). PLoS One.  
 
 `2011`  
-4. **DOYLE SR**, Chan CK, and Grant WN (2011). [Enhanced annealing of mismatched oligonucleotides using a novel melting curve assay allows efficient in vitro discrimination and restriction of a single nucleotide polymorphism](https://doi.org/10.1186/1472-6750-11-83). BMC Biotechnology.  
+4. **DOYLE SR**, Chan CK, and Grant WN (2011) [Enhanced annealing of mismatched oligonucleotides using a novel melting curve assay allows efficient in vitro discrimination and restriction of a single nucleotide polymorphism](https://doi.org/10.1186/1472-6750-11-83). BMC Biotechnology.  
 
 3. Chan CK, Hart AH, Lister AN, **DOYLE SR** (2011) [Learning styles of 3rd year genetics students and their affection and perception of effectiveness of a range of instructional modes]. ACSME Proceedings 2011 Teaching for Diversity Challenges and Strategies.  
 
