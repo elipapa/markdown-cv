@@ -277,9 +277,11 @@ Genetics Society of AustralAsia, Melbourne, Australia (poster)
 
 ## Professional Associations and Contributions
 ### Associate Editor
+`2021 - now`
 Parasites and Vectors (Parasite genetics, genomics and proteomics section)
 
 ### Review Editor
+`2021 - now`
 Editorial Board of Neglected Tropical Diseases (specialty section of Frontiers in Tropical Diseases)
 
 ### Journal Referee
