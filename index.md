@@ -261,6 +261,51 @@ Anthelmintics: From Discovery to Resistance: San Francisco, USA (talk & poster)
 
 Australian Society for Parasitology Conference, Canberra, Australia
 
+Molecular and Cellular Biology of Helminth Parasites VIII, Hydra, Greece
+
+`2012`
+Australian Society for Parasitology Conference, Tasmania, Australia (talk & poster)
+
+Genetics Society of AustralAsia, Melbourne, Australia (poster)
+
+`2009`
+6th Annual Australian QPCR Meeting; Melbourne, Australia
+
+`2008`
+4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
+
+
+## Professional Associations and Contributions
+### Associate Editor
+Parasites and Vectors (Parasite genetics, genomics and proteomics section)
+
+### Review Editor
+Editorial Board of Neglected Tropical Diseases (specialty section of Frontiers in Tropical Diseases)
+
+### Journal Referee
+Bioinformatics, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, Scientific Reports, Trends in Parasitology.
+
+## Teaching Experience
+### Undergraduate
+**Practical Demonstrator**: supervising groups of 16-25 students, direct face-to-face contact
+
+**Head Practical Demonstrator**: delivery of pre-lab lectures and tutorials, supervision of 80-150 students and management of sessional demonstrators
+
+**Practical design / writing**: development of new, and, updating of existing practical material, redevelopment of practical manuals and assessment guidelines.
+
+**3rd year Genetics Practical Unit Coordination**: administration the 3rd year practical course, supervising up to 80 students, delivery of practical material including lectures and tutorials.
+
+### Postgraduate
+**Postgraduate supervision/mentoring**: Honours (5 students), Masters (4 students), PhD (6 students)
+
+**Course Lead Instructor, High Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
+
+**Course Instructor, Working with Pathogen Genomes**, Wellcome Trust Advanced Courses: Hinxton (Jan 2016), Ho Chi Minh City, Vietnam (November 2017), Cape Town, South Africa (2018), Montevideo, Uruguay (2018; lead instructor), Hinxton, UK (2019), Asia (online 2021).
+
+**Course Instructor, Helminth Bioinformatics**, Wellcome Trust Advanced Courses: Accra, Ghana (2019), Asia (online 2021).
+
+**Course Instructor, Pathogen Genomics MSc**, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, 2019, April 2020, 2021 (remote online teaching).
+
 
 
 
