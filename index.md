@@ -158,7 +158,7 @@ Chan CK, Hart AH, Lister AN, **DOYLE SR** (2011) [Learning styles of 3rd year ge
 
 
 ## Research Support
-Total: ~XXX
+Total: ~£2.14 M GBP
 
 `2020`
 **UKRI Future Leaders Fellowship**. Role: Principal Investigator. Amount: £1.3 M GBP / 4 yrs  
