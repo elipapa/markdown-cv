@@ -59,8 +59,8 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 41 publications; 13 first author; 1 senior author  
-Since 2016 (last 5 yrs): 34 publications; 8 first author; 1 senior author  
+Total: 41 publications; 13 first author; 2 last author  
+Since 2016 (last 5 yrs): 34 publications; 8 first author; 1 last author  
 
 `2021`
 **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.  
@@ -72,7 +72,7 @@ Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, R
 McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. (2021) [Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea Sm. Asphodelaceae*) revealed using targeted amplicon sequencing](). Australian Systematic Botany 34, 206-225  
 
 `2020`
-Kotze AC, Gilleard JS, DOYLE SR, Prichard RK. (2020) [Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance](https://doi.org/10.1016/j.ijpddr.2020.11.005 ). Int. J Parasitol-DDR  
+Kotze AC, Gilleard JS, **DOYLE SR**, Prichard RK. (2020) [Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance](https://doi.org/10.1016/j.ijpddr.2020.11.005 ). Int. J Parasitol-DDR  
 
 **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Genomic and transcriptomic variation defines the chromosome-scale assembly of *Haemonchus contortus*, a model gastrointestinal worm.](https://doi.org/10.1038/s42003-020-01377-3) Communications Biology.  
 
@@ -84,19 +84,20 @@ Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, H
 
 `2019`
 Parisi K, **DOYLE SR**, Lee E, Lowe R, Weerden NVD, Anderson M, Bleackley M. (2019) [Screening the *Saccharomyces cerevisiae* non-essential gene deletion library reveals diverse mechanisms of action for antifungal plant defensins](https://doi.org/10.1128/AAC.01097-19). Antimicrobial Agents and Chemotherapy.  
+
 Sallé G, **DOYLE SR**, Cortet J, Cabaret J, Berriman M, Holroyd N, Cotton JA (2019) [The global diversity of Haemonchus contortus is shaped by human intervention and climate](https://doi.org/10.1038/s41467-019-12695-4). Nature Communications. [Nat Micro Blog](https://go.nature.com/35VNdpt)  
 
 Rezansoff AM, Laing R, Martinelli A, Redman E, Bartley D, Holroyd N, Devaney E, **DOYLE SR**, Sargison ND, Cotton JA, Gilleard JS. (2019) [The confounding effects of high genetic diversity on the determination and interpretation of differential gene expression analysis in the parasitic nematode *Haemonchus contortus*](https://doi.org/10.1016/j.ijpara.2019.05.012). Int. J Parasitol  
 
 **DOYLE SR**, Sankaranarayan G, Allan F, Berger D, Castro PDJ, Collins JB, Crellen T, Duque-Correa MA, Ellis P, Jaleta TG, Laing R, Maitland K, McCarthy C, Moundai T, Softley B, Thiele E, Ouakou PT, Tushabe JV, Webster JP, Weiss AJ, Lok J, Devaney E, Kaplan RM, Cotton JA, Berriman M, Holroyd N. (2019) [Evaluation of DNA extraction methods on individual helminth egg and larval stages for whole genome sequencing](https://doi.org/10.3389/fgene.2019.00826). Frontiers in Genetics. 
 
-Hodgkinson JE, Kaplan RM, Kenyon F, Morgan ER, Park AW, Paterson S, Babayan SA, Beesley NJ, Britton C, Chaudray U, DOYLE SR, Ezenwa VO, Fenton A, Howell SB, Laing R, Mable BK, Matthews L, McIntyre J, Milne CE, Morrison TA, Prentice JC, Sargison ND, Williams DJL, Wolstenholme AJ, Devaney E. (2019) [Refugia and anthelmintic resistance: concepts and challenges](https://doi.org/10.1016/j.ijpddr.2019.05.001). Int. J Parasitol-DDR.
+Hodgkinson JE, Kaplan RM, Kenyon F, Morgan ER, Park AW, Paterson S, Babayan SA, Beesley NJ, Britton C, Chaudray U, **DOYLE SR**, Ezenwa VO, Fenton A, Howell SB, Laing R, Mable BK, Matthews L, McIntyre J, Milne CE, Morrison TA, Prentice JC, Sargison ND, Williams DJL, Wolstenholme AJ, Devaney E. (2019) [Refugia and anthelmintic resistance: concepts and challenges](https://doi.org/10.1016/j.ijpddr.2019.05.001). Int. J Parasitol-DDR.
 
 **DOYLE SR**, Cotton JA. (2019) [Genome-wide approaches to investigate anthelmintic resistance](https://doi.org/10.1016/j.pt.2019.01.004). Trends in Parasitology
 
 **DOYLE SR**, Illingworth CJR, Laing R, Bartley DJ, Redman E, Martinelli A, Holroyd N, Morrison AA, Rezansoff A, Tracey A, Devaney E, Berriman M, Sargison N, Cotton JA, Gilleard JS. (2019) [Population genomic and evolutionary modelling analyses reveal a single major QTL for ivermectin drug resistance in the pathogenic nematode, *Haemonchus contortus*](https://doi.org/10.1186/s12864-019-5592-6). BMC Genomics.
 
-Amor MD, DOYLE SR, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv
+Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv
 
 Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
 
@@ -133,12 +134,12 @@ Mehta B, Daniel R, Phillips C, **DOYLE SR**, Elvidge G, Mcnevin D. (2016) [Massi
 
 Dyson ZA, Brown TL, Farrar B, **DOYLE SR**, Tucci J, Seviour RJ, Petrovski S, (2016). [Locating and activating molecular 'time bombs': Induction of Mycolata prophages](https://doi.org/10.1371/journal.pone.0159957). PLoS One.
 
-Wong NC, Pope BJ, Candiloro I, Korbie D., Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, DOYLE SR, Dobrovic A. (2016) [MethPat: a tool for the analysis and visualisation of complex methylation patterns obtained by massively parallel sequencing](https://doi.org/10.1186/s12859-016-0950-8). BMC Bioinformatics.
+Wong NC, Pope BJ, Candiloro I, Korbie D., Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A. (2016) [MethPat: a tool for the analysis and visualisation of complex methylation patterns obtained by massively parallel sequencing](https://doi.org/10.1186/s12859-016-0950-8). BMC Bioinformatics.
 
 `2015`
 Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A (2015) [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](https://doi.org/10.1186/s13742-015-0098-x). GigaScience.
 
-DOYLE SR, Griffiths IS, Murphy NP, Strugnell JM (2015) [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.
+**DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM (2015) [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.
 
 `2013`
 **DOYLE SR**, Kasinadhuni NRP, Chan CK, Grant WN (2013) [Evidence of evolutionary constraints on the sequence composition of mitochondrial matrix targeting sequences](https://doi.org/10.1371/journal.pone.0067938). PLoS One.  
