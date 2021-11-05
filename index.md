@@ -288,6 +288,9 @@ Editorial Board of Neglected Tropical Diseases (specialty section of Frontiers i
 ### Journal Referee
 Bioinformatics, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, Scientific Reports, Trends in Parasitology.
 
+### Grant Referee
+Isaac Newton Trust
+
 ## Teaching Experience
 ### Undergraduate
 **Practical Demonstrator**: supervising groups of 16-25 students, direct face-to-face contact
