@@ -61,7 +61,7 @@ __Papanin Institute for Biology of Inland Waters Russian Academy of Sciences__
 Vladimir Potanin Foundation Fellowship for talented Master’s students
 
 `2020`
-Best Young Scientist Report,
+Best Young Scientist Report, IX International conference on aquatic macrophytes "Hydrobotany 2020" (Borok, Russia, 17—21 October 2020)
 
 `2020`
 Lomonosov Moscow State University scholarship for students with notable achievements in science, social activities, sports or art
