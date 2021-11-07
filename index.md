@@ -1,91 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nikita Tikhomirov's CV
+bibliography: publications_en.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles-distribution/master/apa-cv.csl
+nocite: '@*'
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nikita Tikhomirov
+Molecular genetics and plant geography
 
+Laboratory of Systematics and Geography of Aquatic Plants<br>
+Papanin Institute for Biology of Inland Waters Russian Academy of Sciences<br>
+152742 Borok, Nekouz district, Yaroslavl region, Russia
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nikita-tikhomirov@yandex.ru">nikita-tikhomirov@yandex.ru</a>
+</div>
+<div itemscope itemtype="https://schema.org/Person">
+<a itemprop="sameAs" content="https://orcid.org/0000-0003-1564-0265" href="https://orcid.org/0000-0003-1564-0265" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-1564-0265</a>
 </div>
 
+## Personal information
 
-## Currently
+`Date of birth`
+**20/10/1998**
 
-Standing on the shoulders of giants
+`Family status`
+**Single**
 
-### Specialized in
+`Nationality`
+**Russian**
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Research interests
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Topics: Evolution, biodiversity, biogeography<br>
+Methods: Bio- and geoinformatics, plant morphology and anatomy, field work
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020–2022 (expected)`
+__Lomonosov Moscow State University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- MSc, department of Ecology and Plant Geography
 
-- Sizar
+`2016–2020`
+__Lomonosov Moscow State University__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- BSc, department of Ecology and Plant Geography
 
-- Fellow
+`2012–2016`
+__Moscow South-West High School #1543__
 
+- Specialization in biology
 
+## Academic positions
 
-## Awards
+`2020–present`
+__Papanin Institute for Biology of Inland Waters Russian Academy of Sciences__
 
-`2012`
-President, *Royal Society*, London, UK
+- Senior laboratory assistant, Laboratory of Systematics and Geography of Aquatic Plants
 
-Associate, *French Academy of Science*, Paris, France
+## Awards and achievements
 
+`2021–2022 (expected)`
+Vladimir Potanin Foundation Fellowship for talented Master’s students
 
+`2020`
+Best Young Scientist Report,
+
+`2020`
+Lomonosov Moscow State University scholarship for students with notable achievements in science, social activities, sports or art
+
+`2016–2022 (expected)`
+Faculty of Biology merit scholarship, Lomonosov Moscow State University
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<div id="refs"></div>
