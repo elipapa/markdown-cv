@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -71,10 +71,10 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #555;
 }
 
 p code {
@@ -83,7 +83,7 @@ p code {
 }
 
 
-ul { 
+ul {
 	position: relative;
 	left: 33%;
 	width: 65%;
@@ -126,7 +126,7 @@ h1 {
 	left: 33%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -144,7 +144,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
@@ -164,9 +164,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
+	color: #555;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 90%;
 }
 
 #webaddress a {

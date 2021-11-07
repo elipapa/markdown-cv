@@ -8,28 +8,37 @@ nocite: '@*'
 # Nikita Tikhomirov
 Molecular genetics and plant geography
 
+<div id = "contacts">
+
+##  
+
+<span style = "font-size: 90%">
 Laboratory of Systematics and Geography of Aquatic Plants<br>
 Papanin Institute for Biology of Inland Waters Russian Academy of Sciences<br>
 152742 Borok, Nekouz district, Yaroslavl region, Russia
+</span>
 <div id="webaddress">
-<a href="nikita-tikhomirov@yandex.ru">nikita-tikhomirov@yandex.ru</a> | <a href="https://orcid.org/0000-0003-1564-0265" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-1564-0265</a>
+<a href="mailto:nikita-tikhomirov@yandex.ru">nikita-tikhomirov@yandex.ru</a> | <a href="https://orcid.org/0000-0003-1564-0265" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-1564-0265</a>
 </div>
-
+</div>
 ## Personal information
 
 `Date of birth`
-**20/10/1998**
+20/10/1998
 
 `Family status`
-**Single**
+Single
 
 `Nationality`
-**Russian**
+Russian
 
 ## Research interests
 
-Topics: Evolution, biodiversity, biogeography<br>
-Methods: Bio- and geoinformatics, plant morphology and anatomy, field work
+`Topics`
+Evolution, biodiversity, biogeography
+
+`Methods`
+Bio- and geoinformatics, plant morphology and anatomy, field work
 
 ## Education
 
@@ -57,18 +66,24 @@ __Papanin Institute for Biology of Inland Waters Russian Academy of Sciences__
 
 ## Awards and achievements
 
-`2021–2022 (expected)`
+```
+2021–2022
+(expected)
+```
 Vladimir Potanin Foundation Fellowship for talented Master’s students
 
 `2020`
-Best Young Scientist Report, IX International conference on aquatic macrophytes "Hydrobotany 2020" (Borok, Russia, 17—21 October 2020)
+Best Young Scientist's Report, IX International conference on aquatic macrophytes "Hydrobotany 2020" (Borok, Russia, 17—21 October 2020)
 
 `2020`
 Lomonosov Moscow State University scholarship for students with notable achievements in science, social activities, sports or art
 
-`2016–2022 (expected)`
-Faculty of Biology merit scholarship, Lomonosov Moscow State University
+```
+2016–2022
+(expected)
+```
+Merit scholarship, Faculty of Biology , Lomonosov Moscow State University
 
 ## Publications
 
-Available via [ORCID](#webaddress).
+Available via [ORCID](#contacts).
