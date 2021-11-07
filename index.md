@@ -12,10 +12,7 @@ Laboratory of Systematics and Geography of Aquatic Plants<br>
 Papanin Institute for Biology of Inland Waters Russian Academy of Sciences<br>
 152742 Borok, Nekouz district, Yaroslavl region, Russia
 <div id="webaddress">
-<a href="nikita-tikhomirov@yandex.ru">nikita-tikhomirov@yandex.ru</a>
-</div>
-<div itemscope itemtype="https://schema.org/Person">
-<a itemprop="sameAs" content="https://orcid.org/0000-0003-1564-0265" href="https://orcid.org/0000-0003-1564-0265" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-1564-0265</a>
+<a href="nikita-tikhomirov@yandex.ru">nikita-tikhomirov@yandex.ru</a> | <a href="https://orcid.org/0000-0003-1564-0265" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-1564-0265</a>
 </div>
 
 ## Personal information
@@ -74,4 +71,4 @@ Faculty of Biology merit scholarship, Lomonosov Moscow State University
 
 ## Publications
 
-<div id="refs"></div>
+Available via ORCID
