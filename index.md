@@ -200,6 +200,8 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 ## Presentations  
 ### Departmental/Invited Talks  
 `2021`
+Helminth Bioinformatics, Accra, Ghana (virtual)
+
 Berlin Parasitology Seminar series (virtual)  
 
 Barcelona Institute for Global Health (virtual)
