@@ -289,7 +289,7 @@ Editorial Board of Neglected Tropical Diseases (specialty section of Frontiers i
 Bioinformatics, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, Scientific Reports, Trends in Parasitology.
 
 ### Grant Referee
-Isaac Newton Trust
+Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development)
 
 ## Teaching Experience
 ### Undergraduate
