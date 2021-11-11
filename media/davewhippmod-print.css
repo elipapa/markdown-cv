@@ -3,6 +3,9 @@
    License: none (public domain)
 */
 
+
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -23,6 +26,12 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+@page {
+	            margin: 20px 20px 20px 50px !important;
+	            padding: 20px 20px 20px 50px !important;
+	        }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -50,49 +59,57 @@ table {
 /* end of reset */
 
 
+:root
+{
+  --leftstart: 18%;}
+
+
+
 
 body {
 	/*font: normal normal 400;*/
 	font-family: normal;
 	font-weight: 400;
-	font-size: 12pt;
-	line-height: 1.35em;
+	font-size: 93%;
+	line-height: 1.42em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	margin-top: 2em;
+	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 33%;
-	margin-bottom: 0.2em;
+	left: var(--leftstart);
+	margin-bottom: 0.4em;
 	margin-right: 0;
-	width: 55%;
+	width: 73%;
+	text-align: justify;
+
 }
 
 code {
 	font: normal normal;
-	font-size: 72%;
+	font-size: 75%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #aaa;
 }
 
 p code {
 	position: absolute;
 	text-align: left;
-	left: -16%;
-	max-width: 13%;
+	left: -25%;
+	max-width: 20%;
 }
 
 
 ul {
 	position: relative;
-	left: 33%;
+	left: var(--leftstart);
 	width: 100%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	margin-bottom: 0.15em;
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -107,10 +124,11 @@ li {
 	/*padding-left: 1.25em;*/
 	/*text-indent: -1.25em;*/
 	left: 25%;
-	width: 65%;
-   	margin-top: 0.25em;
-   	margin-bottom: 0.7em;
-    	margin-right: 0;
+	width: 73%;
+	margin-top: 0.25em;
+	margin-bottom: 0.35em;
+	margin-right: 0;
+	text-align: justify;
 	/*color: #777;*/
 
 }
@@ -120,20 +138,23 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	text-align: justify;
+
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	width: 100%;
 }
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: var(--leftstart);
+	width: 100%;
 }
 
 h1+p {
@@ -143,28 +164,28 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 1.43em;
 	color: #d94d70;
-	margin-top: 2em;
 	position: relative;
-	top: 1.2em;
-	text-align: right;
-	width: 20%;
+	bottom: 0.33em;
+	left: var(--leftstart);
+	text-align: left;
+	width: 73%;
+	margin-top: 23px;
 }
 
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
 	position: relative;
-	top: 1.6em;
+	top: 1.7em;
 	text-align: right;
 	width: 20%;
 }
 
 a {
 	color: #1d1d1d;
-	text-decoration:none;
+	/*text-decoration:none;*/
 }
 
 a:hover {
@@ -172,49 +193,45 @@ a:hover {
 	transition-duration: 0.8s;
 }
 
-#max-bautista-perpinyà {
-	text-align: left;
-    	font-size: 3em;
-    	line-height: 1em;
-    	position: relative;
-    	left: 33%;
-}
 
 #myself {
 	position: relative;
-	left: 33%;
+	left: var(--leftstart);
 	margin-bottom: 0.7em;
 	margin-top: 0.7em;
 	margin-right: 0;
-	width: 45%;
+	width: 73%;
+	text-align: justify;
 }
 
-#webaddress {
+#webaddress4print {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
-	color: #ccc;
+	left: var(--leftstart);
+	/*color: #d94d70;*/
 	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
 	font-family: Avenir,Verdana,sans-serif;
-	font-size: 90%;
+	font-size: 100%;
 }
 
-#webaddress a {
-	text-decoration: none;
-}
 
+#webaddress {
+	display: none
+}
 
 #currentlytext {
 	position: relative;
-	left: 33%;
-	margin-bottom: 0.7em;
+	left: var(--leftstart);
+	margin-bottom: 0.54em;
 	margin-right: 0;
-	width: 45%;
+	width: 75%;
+	text-align: justify;
+
 }
 
 em {
-	/* font-weight: normal; */
-	font-style: normal;
+	/* font-weight: bold; */
+	font-style: italic;
 }
 
 strong {
@@ -222,7 +239,7 @@ strong {
 	left: 25%;
 	width: 45%;
    	margin-top: 0.25em;
-   	margin-bottom: 0.7em;
+   	margin-bottom: 0.1em;
     	margin-right: 0;
 }
 
@@ -233,10 +250,4 @@ strong {
 #main {
 	position: relative;
 	top: 10px;
-}
-
-
-#ghbutton {
-	display:none;
-	visibility:hidden;
 }

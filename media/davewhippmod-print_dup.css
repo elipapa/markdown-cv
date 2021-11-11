@@ -55,20 +55,20 @@ body {
 	/*font: normal normal 400;*/
 	font-family: normal;
 	font-weight: 400;
-	font-size: 100%;
-	line-height: 1.5em;
+	font-size: 12pt;
+	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+	/*margin-top: 1em;
+	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 50%;
+	width: 55%;
 }
 
 code {
@@ -76,7 +76,7 @@ code {
 	font-size: 72%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #ccc;
 }
 
 p code {
@@ -91,8 +91,8 @@ ul {
 	position: relative;
 	left: 33%;
 	width: 100%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	margin-bottom: 1em;
+	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
@@ -107,7 +107,7 @@ li {
 	/*padding-left: 1.25em;*/
 	/*text-indent: -1.25em;*/
 	left: 25%;
-	width: 45%;
+	width: 65%;
    	margin-top: 0.25em;
    	margin-bottom: 0.7em;
     	margin-right: 0;
@@ -143,10 +143,11 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.43em;
+	font-size: 1.1em;
 	color: #d94d70;
+	margin-top: 2em;
 	position: relative;
-	top: 1.4em;
+	top: 1.2em;
 	text-align: right;
 	width: 20%;
 }
@@ -154,15 +155,16 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
+	color: #ccc;
 	position: relative;
-	top: 1.7em;
+	top: 1.6em;
 	text-align: right;
 	width: 20%;
 }
 
 a {
 	color: #1d1d1d;
-	/*text-decoration:none;*/
+	text-decoration:none;
 }
 
 a:hover {
@@ -170,13 +172,8 @@ a:hover {
 	transition-duration: 0.8s;
 }
 
-h1 {
-	text-align: left;
-    	font-size: 3em;
-    	line-height: 1em;
-    	position: relative;
-    	left: 33%;
-			width: 50%;
+#max-bautista-perpinyà {
+display: none;
 }
 
 #myself {
@@ -185,17 +182,17 @@ h1 {
 	margin-bottom: 0.7em;
 	margin-top: 0.7em;
 	margin-right: 0;
-	width: 42%;
+	width: 45%;
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	/*color: #d94d70;*/
+	color: #ccc;
 	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
 	font-family: Avenir,Verdana,sans-serif;
-	font-size: 100%;
+	font-size: 90%;
 }
 
 #webaddress a {
@@ -212,8 +209,8 @@ h1 {
 }
 
 em {
-	/* font-weight: bold; */
-	font-style: italic;
+	/* font-weight: normal; */
+	font-style: normal;
 }
 
 strong {
@@ -234,81 +231,8 @@ strong {
 	top: 10px;
 }
 
-:root
-{
-  --leftstart: 140px;}
 
-/* This hack fixes scrollable on x for tablets */
-@media only screen and (max-width: 1024px) {
-  body {
-    overflow-x: hidden;
-  }
-}
-
-@media only screen and (max-width: 1000px) {
-	body, content {
-		width:100%;
-	}
-
-	p, #currentlytext, #myself, #webaddress {
-		left: 20px;
-		top: 29px;
-		width: 74%;
-		margin-bottom: 1.8em;
-		/*text-indent: var(--leftstart);*/
-		/*text-align: right;*/
-	}
-
-#myself, #webaddress {
-	top: 0px;
-
-}
-
-#webaddress4print {
-	display: none !important;
-}
-
-	h1 {
-		font-size: 2.7em;
-		left:20px;
-		width: 80%;
-	}
-
-	strong {
-    left: 0%;
-    width: 45%;
-    margin-top: 0.25em;
-    margin-bottom: 0.7em;
-    margin-right: 0;
-    position: relative;
-    top: 21px;
-}
-	p code {
-		max-width: 100%;
-		left:0px;
-		text-indent: 0px;
-	}
-
-	ul {
-		position: relative;
-		left: 20px;
-		top: 23px;
-		width: 100%;
-		margin-bottom: 0em;
-		margin-top: 0em;
-	}
-
-	li {
-		width: 74%;
-	}
-
-	h2 {
-		font-size: 1.73em;
-		top:19px;
-		width: 100%;
-		text-align: left;
-		left: 20px;
-		margin-top: 40px;
-	}
-
+#ghbutton {
+	display:none;
+	visibility:hidden;
 }

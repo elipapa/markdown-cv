@@ -10,6 +10,9 @@ PhD student in the History and Philosophy of Science. Interested in Open Science
 maximilia ·dot· bautista ·at· uclouvain ·dot· be | <a href="https://www.oliviodare.com/" target="_blank" >My personal page</a>
 </div>
 
+<div id="webaddress4print">
+<a href="mailto:maximilia.bautista@uclouvain.be?subject=Hello!">maximilia.bautista@uclouvain.be</a> | My personal page: <a href="https://www.oliviodare.com/" target="_blank" >www.oliviodare.com</a>
+</div>
 
 ## Currently
 <div id="currentlytext">
