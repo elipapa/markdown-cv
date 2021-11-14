@@ -59,10 +59,14 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 41 publications; 13 first author; 2 last author  
-Since 2016 (last 5 yrs): 34 publications; 8 first author; 1 last author  
+Total: 43 publications; 14 first author; 2 last author  
+Since 2016 (last 5 yrs): 36 publications; 9 first author; 1 last author  
 
 `2021`
+**DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2021) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://www.biorxiv.org/content/10.1101/2021.11.12.465712v2). bioRxiv.
+
+Laing R, **DOYLE SR**, McIntyre J, Maitland K, Morrison A, Bartley DJ, Kaplan R, Chaudhry U, Sargison N, Tait A, Cotton JA, Britton C, Devaney E (2021) [Transcriptomic analyses implicate neuronal plasticity and chloride homeostasis in ivermectin resistance and recovery in a parasitic nematode](https://www.biorxiv.org/content/10.1101/2021.11.12.468372v2). bioRxiv.
+
 **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.  
 
 McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research.  
@@ -291,7 +295,7 @@ Editorial Board of Neglected Tropical Diseases (specialty section of Frontiers i
 Bioinformatics, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, Scientific Reports, Trends in Parasitology.
 
 ### Grant Referee
-Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development)
+Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC
 
 ## Teaching Experience
 ### Undergraduate
