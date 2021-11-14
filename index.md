@@ -48,7 +48,7 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 
 ## Selected Publications
 `2021`
-__Rashid, T.__, Bennett, J.E. _et al._ (2021). [Life expectancy and risk of death in 6791 communities in England from 2002 to 2019: high-resolution spatiotemporal analysis of civil registration data](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00205-X/fulltext). _The Lancet Public Health_, 6, 11, e805 - e816.
+__Rashid, T.__, Bennett, J.E. _et al._ (2021). [Life expectancy and risk of death in 6791 communities in England from 2002 to 2019: high-resolution spatiotemporal analysis of civil registration data](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00205-X/fulltext). _The Lancet Public Health_, 6, e805 - e816.
 
 Semenova, E., Xu, Y., Howes, A.T., __Rashid, T.__ _et al._ (2021). [Encoding spatiotemporal priors with VAEs for small-area estimation](https://arxiv.org/abs/2110.10422). _AISTATS_ (submitted).
 
