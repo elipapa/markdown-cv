@@ -63,7 +63,7 @@ Total: 44 publications; 14 first author; 2 last author
 Since 2016 (last 5 yrs): 37 publications; 9 first author; 1 last author  
 
 `2022`
-Morrison AA, Chaudhry U, Andrews L, Melville L, **DOYLE SR**, Sargison ND, Bartley DJ (2022) [Phenotypic and genotypic analysis of benzimidazole resistance in reciprocal genetic crosses of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.11.001Get). Int. J Parasitol-DDR 
+Morrison AA, Chaudhry U, Andrews L, Melville L, **DOYLE SR**, Sargison ND, Bartley DJ (2022) [Phenotypic and genotypic analysis of benzimidazole resistance in reciprocal genetic crosses of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.11.001). Int. J Parasitol-DDR 
 
 `2021`
 **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2021) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://www.biorxiv.org/content/10.1101/2021.11.12.465712v2). bioRxiv.
