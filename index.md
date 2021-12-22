@@ -1,91 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dmitrii Balabanov
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dmitrii Balabanov
+Developer, Software architect
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mail:dimonb@gmail.com">email: dimonb@gmail.com</a>
+| <a href="tel:+79269900327">phone: +79269900327</a>
 </div>
 
 
-## Currently
+## Work Experience
+`2021`
+__Software architect, Moscow__
 
-Standing on the shoulders of giants
+`2019`
+__Deputy Head of Department of automation and support of internal processes, Moscow__
 
-### Specialized in
+`2017`
+__Head of direction, Moscow__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2015` 
+__Head of service, Moscow__
 
+`2012`
+__Team lead Yandex, Moscow__
 
-### Research interests
+- Develop significant parts of billing core.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2010`
+__Senior developer Yandex, Moscow__
+
+- Develop significant parts of billing core.
+
+`2008`
+__Software developer Yandex, Moscow__
+
+- Python coding.
+
+`2006`
+__Team lead Intersoft Lab, Moscow__
+
+- *Data Warehouse and Business Performance Management software development company*
+
+Develop tools to build business reports. BI, OLAP. High performance library from scratch to access Oracle from Python.
+
+`2004`
+__Software developer Intersoft Lab, Moscow__
+
+- Lot of c++, pascal.
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2004`
+Moscow Institute of Physics and Technology (State University) (MIPT)
+*Master of mathematical science*
+Economics, Mathematics, Physics
 
 
+## Skills
+Software design
+Team leadership
+Code review
+Control development process HA Systems
+Linux (deep internals)
+Web technologies
+Python, C++, Bash and much more
+CI systems (Jenkins, Teamcity)
+Oracle, Mysql, MongoDB, Kafka, Zookeeper
 
-## Awards
+## Languages
 
-`2012`
-President, *Royal Society*, London, UK
+Russian: Native
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+English: Intermediate
 
 
-## Occupation
+## Interests and Activities
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Technology, Open-Source, Programming
+Psychoanalysis
+Yachting (YIT skipper license), Snowboard, Roller-skates, Photography, Hiking
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
