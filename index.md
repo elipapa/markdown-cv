@@ -81,7 +81,7 @@ __Writing Advisor__, Student Success Centre, McMaster University, Hamilton, ON.
 
 ## Projects
 
-### *Academic*
+### *Academic* 
 
 **Emotional Piano Project**
 
