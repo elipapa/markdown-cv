@@ -1,46 +1,40 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cameron Anderson CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Cameron Anderson
+PhD Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andersoc@mcmaster.ca">andersoc@mcmaster.ca</a>
+| <a href="https://cameronanderson.ca">Webpage</a>
 </div>
 
 
-## Currently
+## Summary
+-   PhD Student developing statistical methods to study how emotion perceived in music relates to its historic context and listeners' musical experiences.
+-   Research expertise includes developing accessible tools for communicating how nuanced relationships between musical features shape perceived emotion.
+- Developing software applications to make findings from quantitative music analyses accessible to listeners.
+- Avid composer, music producer and orchestral trombonist with degrees in Music (B.Mus.) and Psychology (M.S.).
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+### Proficiencies
+-   **Programming Languages:** *R*, *Python*, *Supercollider*, *Javascript*.
+- **Software Proficiencies:** *Git*, *Tidyverse*, *pandas*, *Shiny*, *PsychoPy*, *Hugo*.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+-   Data science, music analysis, experimental psychology, tone synthesis, machine learning, music information retrieval.
 
 
 ## Education
+`September 2021 - Present`
+__PhD in Psychology. McMaster University, Hamilton ON.__
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2019 - September 2021`
+**Master of Science in Psychology**. *McMaster University, Hamilton ON.*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`September 2015 - May 2019`
+**Bachelor of Music**, *McMaster University, Hamilton ON.*
 
 ## Awards
 
