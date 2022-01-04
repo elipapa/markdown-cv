@@ -59,10 +59,12 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 44 publications; 14 first author; 2 last author  
-Since 2016 (last 5 yrs): 37 publications; 9 first author; 1 last author  
+Total: 45 publications; 14 first author; 2 last author  
+Since 2017 (last 5 yrs): 32 publications; 8 first author; 1 last author  
 
 `2022`
+Baltrusis P, **DOYLE SR**, Halvarsson P, Hoglund J (2022) [Genome-wide analysis of response to ivermectin treatment by a Swedish field population of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.12.002). Int. J Parasitol-DDR 
+
 Morrison AA, Chaudhry U, Andrews L, Melville L, **DOYLE SR**, Sargison ND, Bartley DJ (2022) [Phenotypic and genotypic analysis of benzimidazole resistance in reciprocal genetic crosses of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.11.001). Int. J Parasitol-DDR 
 
 `2021`
