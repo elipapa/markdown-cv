@@ -16,20 +16,26 @@ PhD Student, Department of Psychology, Neuroscience & Behaviour, McMaster Univer
 </div>
 
 ## Summary
+
 -   PhD Student developing statistical methods to study how emotion perceived in music relates to its historic context and listeners' musical experiences.
+
 -   Research expertise includes developing accessible tools for communicating how nuanced relationships between musical features shape perceived emotion.
+  
 - Developing software applications to make findings from quantitative music analyses accessible to listeners.
+
 - Avid composer, music producer and orchestral trombonist with degrees in Music (B.Mus.) and Psychology (M.S.).
 
-### Proficiencies
+## Proficiencies
+
 -   **Programming Languages:** *R*, *Python*, *Supercollider*, *JavaScript*.
 - **Software Proficiencies:** *Git*, *Tidyverse*, *pandas*, *Shiny*, *PsychoPy*, *Hugo*.
 
-### Research interests
+## Research interests
 
 -   Data science, music analysis, experimental psychology, tone synthesis, machine learning, music information retrieval.
 
 ## Education
+
 `2021 - Present`
 **PhD in Psychology**. *McMaster University*, Hamilton ON.
 
@@ -56,11 +62,11 @@ PhD Student, Department of Psychology, Neuroscience & Behaviour, McMaster Univer
 `2017, 2018`
 *Waller Family Music Scholarship*. Value: Value: 2,000 CAD (x2).
 
-## Publications
+# Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### *Journal Articles*
+## *Journal Articles*
 
 **Anderson, C. J.**, & Schutz, M. (2021). [Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.](https://journals.sagepub.com/doi/10.1177/03057356211046375) *Psychology of Music*. OnlineFirst Publication.
 
