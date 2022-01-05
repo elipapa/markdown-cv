@@ -39,11 +39,11 @@ McMaster University, Hamilton, ON.
 
 `2019-2021`
 **Master of Science in Psychology**. *McMaster University*, Hamilton ON.
-Thesis: [*Elements of musically conveyed emotion:\n Insights from musical and perceptual analyses of historic preludes.*](https://macsphere.mcmaster.ca/handle/11375/27012)
+- Thesis: [*Elements of musically conveyed emotion:\n Insights from musical and perceptual analyses of historic preludes.*](https://macsphere.mcmaster.ca/handle/11375/27012)
 
 `2015-2019`
 **Bachelor of Music**, *McMaster University*, Hamilton ON.
-Thesis: *Making musical medical alarms: Examining melodic alarm recognition accuracy across contrasting timbres*
+- Thesis: *Making musical medical alarms: Examining melodic alarm recognition accuracy across contrasting timbres*
 
 ## Funding & Awards
 
