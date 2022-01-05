@@ -58,7 +58,7 @@ McMaster University, Hamilton, ON.
 `2017, 2018`
 *Waller Family Music Scholarship*. Value: Value: 2,000 CAD (x2).
 
-## *Journal Articles*
+## Journal Articles
 
 **Anderson, C. J.**, & Schutz, M. (2021). [Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.](https://journals.sagepub.com/doi/10.1177/03057356211046375) *Psychology of Music*. OnlineFirst Publication.
 
