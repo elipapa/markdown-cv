@@ -3,7 +3,8 @@ layout: cv
 title: Cameron Anderson CV
 ---
 # Cameron Anderson
-PhD Student, Department of Psychology, Neuroscience & Behaviour, McMaster University, Hamilton, ON.
+PhD Student, Department of Psychology, Neuroscience & Behaviour, 
+McMaster University, Hamilton, ON.
 
 <a href="andersoc@mcmaster.ca">andersoc@mcmaster.ca</a> - +1 (705) 500 5770
  
@@ -14,7 +15,6 @@ PhD Student, Department of Psychology, Neuroscience & Behaviour, McMaster Univer
   <a href="https://open.spotify.com/artist/1MdjdQbdns4hpnV7oymZsC"><i class="fab fa-spotify"></i> Cameron Anderson</a> - 
   <a href="https://twitter.com/cmndrsn"><i class="fab fa-twitter"></i> @cmndrsn</a>
 </div>
-
 ## Summary
 
 -   PhD Student developing statistical methods to study how emotion perceived in music relates to its historic context and listeners' musical experiences.
