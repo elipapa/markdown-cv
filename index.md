@@ -19,6 +19,7 @@ McMaster University, Hamilton, ON.
 -   PhD Student developing statistical methods to study how emotion perceived in music relates to its historic context and listeners' musical experiences.
 -   Research expertise includes developing accessible tools for communicating how nuanced relationships between musical features shape perceived emotion.
 - Developing software applications to make findings from quantitative music analyses accessible to listeners.
+- Master's thesis examined musical and psychological data, using data science methods to detect musical patterns in music from different periods.
 - Avid composer, music producer and orchestral trombonist with degrees in Music (B.Mus.) and Psychology (M.S.).
 
 ## Proficiencies
@@ -37,9 +38,11 @@ McMaster University, Hamilton, ON.
 
 `2019-2021`
 **Master of Science in Psychology**. *McMaster University*, Hamilton ON.
+Thesis: [*Elements of musically conveyed emotion:\n Insights from musical and perceptual analyses of historic preludes.*](https://macsphere.mcmaster.ca/handle/11375/27012)
 
 `2015-2019`
 **Bachelor of Music**, *McMaster University*, Hamilton ON.
+Thesis: *Making musical medical alarms: Examining melodic alarm recognition accuracy across contrasting timbres*
 
 ## Funding & Awards
 
