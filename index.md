@@ -5,7 +5,6 @@ title: Cameron Anderson CV
 # Cameron Anderson
 PhD Student
 
-
 <a href="andersoc@mcmaster.ca">andersoc@mcmaster.ca</a> - +1 (705) 500 5770
 
 <div id="webaddress">
@@ -31,13 +30,13 @@ PhD Student
 -   Data science, music analysis, experimental psychology, tone synthesis, machine learning, music information retrieval.
 
 ## Education
-`September 2021 - Present`
+`2021 - Present`
 **PhD in Psychology**. *McMaster University*, Hamilton ON.
 
-`September 2019 - September 2021`
+`2019 - 2021`
 **Master of Science in Psychology**. *McMaster University*, Hamilton ON.
 
-`September 2015 - May 2019`
+`2015 - 2019`
 **Bachelor of Music**, *McMaster University*, Hamilton ON.
 
 ## Funding & Awards
@@ -71,16 +70,16 @@ Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). [Re-Sounding Alarms: Design
 __Graduate Resident__, Lewis & Ruth Sherman Centre for Digital Scholarship
 - Designing interactive visualizations of music data in *Shiny* for *R*.
 
-`2019 - Present`
+`2019-Present`
 __Teaching Assistant__, Department of Psychology, Neuroscience & Behaviour,
 McMaster University, Hamilton, ON.
 - Courses: *Statistics for the Behavioural Sciences*; *Music Cognition*; *Human Evolution & Behaviour*.
 
-`2017 - 2019`
+`2017-2019`
 __Teaching Assistant__, School of the Arts, McMaster University, Hamilton, ON.
 - Courses: *Music Theory & Analysis*; *Practical Musicianship*.
 
-`2017 - Present`
+`2017-Present`
 __Writing Advisor__, Student Success Centre, McMaster University, Hamilton, ON.
 - Providing writing guidance to graduate and undergraduate students from a wide range of disciplines.
 
