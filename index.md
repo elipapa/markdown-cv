@@ -23,8 +23,8 @@ McMaster University, Hamilton, ON.
 
 ## Proficiencies
 
--   **Programming Languages:** *R*, *Python*, *Supercollider*, *JavaScript*.
-- **Software Proficiencies:** *Git*, *Tidyverse*, *pandas*, *Shiny*, *PsychoPy*, *Hugo*.
+- Programming Languages: *R*, *Python*, *Supercollider*, *JavaScript*.
+- Software Proficiencies: *Git*, *Tidyverse*, *pandas*, *Shiny*, *PsychoPy*, *Hugo*.
 
 ## Research interests
 
@@ -32,13 +32,13 @@ McMaster University, Hamilton, ON.
 
 ## Education
 
-`2021 - Present`
+`2021-Present`
 **PhD in Psychology**. *McMaster University*, Hamilton ON.
 
-`2019 - 2021`
+`2019-2021`
 **Master of Science in Psychology**. *McMaster University*, Hamilton ON.
 
-`2015 - 2019`
+`2015-2019`
 **Bachelor of Music**, *McMaster University*, Hamilton ON.
 
 ## Funding & Awards
@@ -52,7 +52,7 @@ McMaster University, Hamilton, ON.
 `2019`
 *Department Scholarship*. Value: 14,500 CAD.
 
-`2018,2019`
+`2018, 2019`
 *Undergraduate Student Research Award*. Value: 6,000 CAD (x2).
 
 `2017, 2018`
