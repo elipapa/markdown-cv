@@ -43,12 +43,16 @@ PhD Student, Department of Psychology, Neuroscience & Behaviour, McMaster Univer
 
 `2021`
 *Ontario Graduate Scholarship*. Value: 15,000 CAD.
+
 `2020`
 *Joseph Armand Bombardier Canada Graduate Scholarship (Masters)*. Value: 17,500 CAD.
+
 `2019`
 *Department Scholarship*. Value: 14,500 CAD.
+
 `2018,2019`
 *Undergraduate Student Research Award*. Value: 6,000 CAD (x2).
+
 `2017, 2018`
 *Waller Family Music Scholarship*. Value: Value: 2,000 CAD (x2).
 
