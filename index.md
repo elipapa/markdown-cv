@@ -3,13 +3,13 @@ layout: cv
 title: Cameron Anderson CV
 ---
 # Cameron Anderson
-PhD Student
+PhD Student, Department of Psychology, Neuroscience & Behaviour, McMaster University, Hamilton, ON.
 
 <a href="andersoc@mcmaster.ca">andersoc@mcmaster.ca</a> - +1 (705) 500 5770
  
 <div id="webaddress">
   <a href="https://cameronanderson.ca"><i class="fas fa-home"></i> cameronanderson.ca</a> - 
-  <a href="https://gitlab.com/cmndrsn"><i class="fab fa-gitlab"></i> cmndrsn</a> - 
+  <a href="https://gitlab.com/andersoc"><i class="fab fa-gitlab"></i> andersoc</a> - 
   <a href="https://www.linkedin.com/in/cmndrsn/"><i class="fab fa-linkedin"></i> cmndrsn</a> - 
   <a href="https://open.spotify.com/artist/1MdjdQbdns4hpnV7oymZsC"><i class="ai ai-spotify"></i> Spotify</a> - 
   <a href="https://twitter.com/cmndrsn"><i class="fab fa-twitter"></i> @cmndrsn</a>
@@ -56,7 +56,7 @@ PhD Student
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journal Articles
+### *Journal Articles*
 
 **Anderson, C. J.**, & Schutz, M. (2021). [Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.](https://journals.sagepub.com/doi/10.1177/03057356211046375) *Psychology of Music*. OnlineFirst Publication.
 
