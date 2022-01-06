@@ -64,11 +64,11 @@ McMaster University, Hamilton, ON.
 
 ## Journal Articles
 
-**Anderson, C. J.**, & Schutz, M. (2021). [Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.](https://journals.sagepub.com/doi/10.1177/03057356211046375).<i class="fab fa-link"> *Psychology of Music*. OnlineFirst Publication.
+**Anderson, C. J.**, & Schutz, M. (2021). [Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.](https://journals.sagepub.com/doi/10.1177/03057356211046375).<i class="fas fa-link"> *Psychology of Music*. OnlineFirst Publication.
 
-Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). [Exploring changes in the emotional classification of music between eras.](https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422).<i class="fab fa-link"> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
+Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). [Exploring changes in the emotional classification of music between eras.](https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422).<i class="fas fa-link"> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
 
-Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). [Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.](https://www.mdpi.com/2227-9032/8/4/389).<i class="fab fa-link"> *Healthcare 8 (4)*, 389.
+Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). [Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.](https://www.mdpi.com/2227-9032/8/4/389).<i class="fas fa-link"> *Healthcare 8 (4)*, 389.
 
 ## Positions
 
@@ -93,15 +93,15 @@ __Writing Advisor__, Student Success Centre, McMaster University, Hamilton, ON.
 
 ### *Academic* 
 
-[**Emotional Piano Project**](https://maplelab.net/overview/music-and-emotion/)<i class="fab fa-link">
+[**Emotional Piano Project**](https://maplelab.net/overview/music-and-emotion/)<i class="fas fa-link">
 
 My PhD research in the MAPLE Lab examines the relationship between composers' expressive choices and music's perceived emotion using a combination of formal music analysis, perceptual experiments, and machine learning approaches.
 
-[**Auditory Alarms Project**](https://maplelab.net/overview/auditory-alarms/)<i class="fab fa-link">
+[**Auditory Alarms Project**](https://maplelab.net/overview/auditory-alarms/)<i class="fas fa-link">
 
 I have also worked on a project examining how musical considerations in the design of medical auditory alarms can reduce their perceived annoyance, using the tone synthesis software *Supercollider* to generate novel timbres for auditory alarms.
 
-[**Cluster Analysis Explorer**](https://cmndrsn.shinyapps.io/clusterappgitlab/)<i class="fab fa-link">
+[**Cluster Analysis Explorer**](https://cmndrsn.shinyapps.io/clusterappgitlab/)<i class="fas fa-link">
 
 A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Sherman Centre for Digital Scholarship.
 
