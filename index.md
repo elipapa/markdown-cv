@@ -103,7 +103,7 @@ I have also worked on a project examining how musical considerations in the desi
 
 [**Cluster Analysis Explorer**](https://cmndrsn.shinyapps.io/clusterappgitlab/)<i class="fas fa-link">
 
-A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Sherman Centre for Digital Scholarship.
+A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Lewis & Ruth Sherman Centre for Digital Scholarship.
 
 ### *Other Projects*
 
