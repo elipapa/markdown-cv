@@ -10,11 +10,11 @@ McMaster University, Hamilton, ON.
 <a href="andersoc@mcmaster.ca">andersoc@mcmaster.ca</a> - +1 (705) 500 5770
  
 <div id="webaddress">
-  <a href="https://cameronanderson.ca"><i class="fas fa-home"></i> cameronanderson.ca</a> - 
-  <a href="https://gitlab.com/andersoc"><i class="fab fa-gitlab"></i> andersoc</a> - 
-  <a href="https://www.linkedin.com/in/cmndrsn/"><i class="fab fa-linkedin"></i> cmndrsn</a> - 
-  <a href="https://open.spotify.com/artist/1MdjdQbdns4hpnV7oymZsC"><i class="fab fa-spotify"></i> Cameron Anderson</a> - 
-  <a href="https://twitter.com/cmndrsn"><i class="fab fa-twitter"></i> @cmndrsn</a>
+  <a href="https://cameronanderson.ca" target="_blank"><i class="fas fa-home"></i> cameronanderson.ca</a> - 
+  <a href="https://gitlab.com/andersoc" target="_blank"><i class="fab fa-gitlab"></i> andersoc</a> - 
+  <a href="https://www.linkedin.com/in/cmndrsn/" target="_blank"><i class="fab fa-linkedin"></i> cmndrsn</a> - 
+  <a href="https://open.spotify.com/artist/1MdjdQbdns4hpnV7oymZsC" target="_blank"><i class="fab fa-spotify"></i> Cameron Anderson</a> - 
+  <a href="https://twitter.com/cmndrsn"><i class="fab fa-twitter" target="_blank"></i> @cmndrsn</a>
 </div>
 ## Summary
 -   PhD Student developing statistical methods to study how emotion perceived in music relates to its historic context and listeners' musical experiences.
@@ -39,7 +39,7 @@ McMaster University, Hamilton, ON.
 
 `2019-2021`
 **Master of Science in Psychology**. *McMaster University*, Hamilton ON.
-- Thesis:   <a href="https://macsphere.mcmaster.ca/handle/11375/27012"><i class="fas fa-link"></i>Elements of musically conveyed emotion: Insights from musical and perceptual analyses of historic preludes.</a>
+- Thesis:   <a href="https://macsphere.mcmaster.ca/handle/11375/27012" target="_blank"><i class="fas fa-link"></i>Elements of musically conveyed emotion: Insights from musical and perceptual analyses of historic preludes.</a>
 
 `2015-2019`
 **Bachelor of Music**, *McMaster University*, Hamilton ON.
@@ -64,11 +64,11 @@ McMaster University, Hamilton, ON.
 
 ## Journal Articles
 
-**Anderson, C. J.**, & Schutz, M. (2021). <a href="https://journals.sagepub.com/doi/10.1177/03057356211046375"><i class="fas fa-link"></i> Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.</a> *Psychology of Music*. OnlineFirst Publication.
+**Anderson, C. J.**, & Schutz, M. (2021). <a href="https://journals.sagepub.com/doi/10.1177/03057356211046375" target="_blank"><i class="fas fa-link"></i> Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.</a> *Psychology of Music*. OnlineFirst Publication.
 
-Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422"><i class="fas fa-link"></i> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
+Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422" target="_blank"><i class="fas fa-link"></i> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
 
-Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
+Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
 
 ## Positions
 
@@ -93,23 +93,23 @@ __Writing Advisor__, Student Success Centre, McMaster University, Hamilton, ON.
 
 ### *Academic* 
 
-**<a href="https://maplelab.net/overview/music-and-emotion/"><i class="fas fa-link"></i> Emotional Piano Project.</a>**
+**<a href="https://maplelab.net/overview/music-and-emotion/" target="_blank"><i class="fas fa-link"></i> Emotional Piano Project.</a>**
 
 My PhD research in the MAPLE Lab examines the relationship between composers' expressive choices and music's perceived emotion using a combination of formal music analysis, perceptual experiments, and machine learning approaches.
 
-**<a href="https://maplelab.net/overview/auditory-alarms/"><i class="fas fa-link"></i> Auditory Alarms Project.</a>**
+**<a href="https://maplelab.net/overview/auditory-alarms/" target="_blank"><i class="fas fa-link"></i> Auditory Alarms Project.</a>**
 
 I have also worked on a project examining how musical considerations in the design of medical auditory alarms can reduce their perceived annoyance, using the tone synthesis software *Supercollider* to generate novel timbres for auditory alarms.
 
-**<a href="https://cmndrsn.shinyapps.io/clusterappgitlab/"><i class="fas fa-link"></i> Cluster Analysis Explorer.</a>**
+**<a href="https://cmndrsn.shinyapps.io/clusterappgitlab/" target="_blank"><i class="fas fa-link"></i> Cluster Analysis Explorer.</a>**
 
 A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Lewis & Ruth Sherman Centre for Digital Scholarship.
 
 ### *Other Projects*
 
-**<a href="https://gitlab.com/andersoc/practice-scheduler"><i class="fab fa-gitlab"></i> Scale of the Day.</a>**
+**<a href="https://gitlab.com/andersoc/practice-scheduler" target="_blank"><i class="fab fa-gitlab"></i> Scale of the Day.</a>**
 
-A <a href="https://twitter.com/scaleoftheday"><i class="fab fa-twitter"></i> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
+A <a href="https://twitter.com/scaleoftheday" target="_blank"><i class="fab fa-twitter"></i> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
 
 ## Conference Activity
 
