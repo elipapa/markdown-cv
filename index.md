@@ -107,9 +107,9 @@ A common issue with musical analyses is the inability to *hear* what an analyst 
 
 ### *Other Projects*
 
-**<a href="https://gitlab.com/andersoc/practice-scheduler"><i class="fab fa-twitter"></i> Scale of the Day.</a>**
+**<a href="https://gitlab.com/andersoc/practice-scheduler"><i class="fab fa-gitlab"></i> Scale of the Day.</a>**
 
-A [Twitter Bot](https://twitter.com/scaleoftheday) I wrote in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
+A <a href="https://twitter.com/scaleoftheday"><i class="fab fa-twitter"></i> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
 
 ## Conference Activity
 
