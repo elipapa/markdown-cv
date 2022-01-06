@@ -101,13 +101,13 @@ My PhD research in the MAPLE Lab examines the relationship between composers' ex
 
 I have also worked on a project examining how musical considerations in the design of medical auditory alarms can reduce their perceived annoyance, using the tone synthesis software *Supercollider* to generate novel timbres for auditory alarms.
 
-[**Cluster Analysis Explorer**](https://gitlab.com/andersoc/cluster-analysis-preview)
+[**Cluster Analysis Explorer**<i class="fab fa-gitlab">](https://cmndrsn.shinyapps.io/clusterappgitlab/)
 
-I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality. Written in *Shiny* using *Javascript*. Developed during my graduate residency with the Sherman Centre for Digital Scholarship. *Available upon request*.
+A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Sherman Centre for Digital Scholarship.
 
 ### *Other Projects*
 
-[**Scale of the Day**](https://gitlab.com/andersoc/practice-scheduler)
+[**Scale of the Day**<i class="fab fa-gitlab">](https://gitlab.com/andersoc/practice-scheduler)
 
 A [Twitter Bot](https://twitter.com/scaleoftheday) I wrote in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
 
