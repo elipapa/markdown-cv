@@ -3,7 +3,7 @@ layout: cv
 title: Cameron Anderson CV
 ---
 # Cameron Anderson
-PhD Student, Department of Psychology, Neuroscience & Behaviour, 
+*PhD Student & Music Cognition Researcher*, Department of Psychology, Neuroscience & Behaviour, 
 
 McMaster University, Hamilton, ON.
 
@@ -35,7 +35,7 @@ McMaster University, Hamilton, ON.
 ## Education
 
 `2021-Present`
-**PhD in Psychology**. *McMaster University*, Hamilton ON.
+**PhD in Psychology (current degree)**. *McMaster University*, Hamilton ON.
 
 `2019-2021`
 **Master of Science in Psychology**. *McMaster University*, Hamilton ON.
@@ -47,13 +47,13 @@ McMaster University, Hamilton, ON.
 
 ## Funding & Awards
 
-`2021`
+`2021-2022`
 *Ontario Graduate Scholarship*. Value: 15,000 CAD.
 
-`2020`
+`2020-2021`
 *Joseph Armand Bombardier Canada Graduate Scholarship (Masters)*. Value: 17,500 CAD.
 
-`2019`
+`2019-2020`
 *Department Scholarship*. Value: 14,500 CAD.
 
 `2018, 2019`
@@ -72,7 +72,7 @@ Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.c
 
 ## Positions
 
-`2021`
+`2021-Present`
 __Graduate Resident__, Lewis & Ruth Sherman Centre for Digital Scholarship
 - Designing interactive visualizations of music data in *Shiny* for *R*.
 
