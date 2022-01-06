@@ -64,11 +64,11 @@ McMaster University, Hamilton, ON.
 
 ## Journal Articles
 
-**Anderson, C. J.**, & Schutz, M. (2021). [Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.](https://journals.sagepub.com/doi/10.1177/03057356211046375).<i class="fas fa-link"> *Psychology of Music*. OnlineFirst Publication.
+**Anderson, C. J.**, & Schutz, M. (2021). <a href="https://journals.sagepub.com/doi/10.1177/03057356211046375"><i class="fas fa-link"></i> Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.</a> *Psychology of Music*. OnlineFirst Publication.
 
-Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). [Exploring changes in the emotional classification of music between eras.](https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422).<i class="fas fa-link"> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
+Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422"><i class="fas fa-link"></i> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
 
-Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). [Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.](https://www.mdpi.com/2227-9032/8/4/389).<i class="fas fa-link"> *Healthcare 8 (4)*, 389.
+Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
 
 ## Positions
 
@@ -93,21 +93,21 @@ __Writing Advisor__, Student Success Centre, McMaster University, Hamilton, ON.
 
 ### *Academic* 
 
-[**Emotional Piano Project**](https://maplelab.net/overview/music-and-emotion/)<i class="fas fa-link">
+**<a href="https://maplelab.net/overview/music-and-emotion/"><i class="fas fa-link"></i> Emotional Piano Project.</a>**
 
 My PhD research in the MAPLE Lab examines the relationship between composers' expressive choices and music's perceived emotion using a combination of formal music analysis, perceptual experiments, and machine learning approaches.
 
-[**Auditory Alarms Project**](https://maplelab.net/overview/auditory-alarms/)<i class="fas fa-link">
+**<a href="https://maplelab.net/overview/auditory-alarms/"><i class="fas fa-link"></i> Auditory Alarms Project.</a>**
 
 I have also worked on a project examining how musical considerations in the design of medical auditory alarms can reduce their perceived annoyance, using the tone synthesis software *Supercollider* to generate novel timbres for auditory alarms.
 
-[**Cluster Analysis Explorer**](https://cmndrsn.shinyapps.io/clusterappgitlab/)<i class="fas fa-link">
+**<a href="https://cmndrsn.shinyapps.io/clusterappgitlab/"><i class="fas fa-link"></i> Cluster Analysis Explorer.</a>**
 
 A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Lewis & Ruth Sherman Centre for Digital Scholarship.
 
 ### *Other Projects*
 
-[**Scale of the Day**](https://gitlab.com/andersoc/practice-scheduler)<i class="fab fa-link">
+**<a href="https://gitlab.com/andersoc/practice-scheduler"><i class="fab fa-twitter"></i> Scale of the Day.</a>**
 
 A [Twitter Bot](https://twitter.com/scaleoftheday) I wrote in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
 
