@@ -113,7 +113,7 @@ A <a href="https://twitter.com/scaleoftheday" target="_blank"><i class="fab fa-t
 
 ## Conference Activity
 
-**Anderson, C.J.**, & Schutz, M. (2022, February). *Mode's Effect on Perceived Emotional Valence.* (Poster). Forthcoming presentation at 2022 Lake Ontario Visionary Establishment Conference.
+**Anderson, C.J.**, & Schutz, M. (2022, February). *Mode's Effect on Perceived Emotional Valence.* (Poster). Forthcoming presentation at 50th Annual Lake Ontario Visionary Establishment Conference. Niagara Falls, Canada.
 
 **Anderson, C.J.**, & Schutz, M. (2021, November). *Emotion Perception and Mode Recognition in a Music Cognition Classroom.* (Poster). Presented at 19th Annual Auditory Perception, Cognition and Action Meeting. Virtual conference.
 
@@ -121,11 +121,11 @@ A <a href="https://twitter.com/scaleoftheday" target="_blank"><i class="fab fa-t
 
 **Anderson, C.J.**, & Schutz, M. (2020, December). *Acoustic Elements in Emotion Expression.* (Talk). Presented at 19th Annual Auditory Perception and Cognition Action Meeting. Virtual Conference.
 
-**Anderson, C.J.**, Kelly, B. O., & Schutz, M. (2020, February). *A Tale of Two Composers: Acoustic Choices Affect Perceived Emotion.* (Poster). Presented at Lake Ontario Visionary Conference, Niagara Falls, Canada.
+**Anderson, C.J.**, Kelly, B. O., & Schutz, M. (2020, February). *A Tale of Two Composers: Acoustic Choices Affect Perceived Emotion.* (Poster). Presented at 49th Annual Lake Ontario Visionary Establishment Conference, Niagara Falls, Canada.
 
 **Anderson, C.J.**, & Schutz, M. (2019, November) *Historical Changes in Musical Expression* (Poster). Presented at 15th Annual NeuroMusic Conference, Hamilton, Canada.
 
-**Anderson, C. J.**, Sreetharan, S., & Schutz, M (2019, February). *Examining Melodic Alarm Recognition Accuracy Across Contrasting Timbres.* (Poster). Presented at Lake Ontario Visionary Conference, Niagara Falls, Canada.
+**Anderson, C. J.**, Sreetharan, S., & Schutz, M (2019, February). *Examining Melodic Alarm Recognition Accuracy Across Contrasting Timbres.* (Poster). Presented at 48th Annual Lake Ontario Visionary Establishment Conference, Niagara Falls, Canada.
 
 **Anderson, C. J.**, & Schutz, M. (2018, November). *Can Musical Cues Improve Auditory Alarms in the I.C.U.?* (Poster). Presented at McMaster Innovation Showcase: The Future is Here. Hamilton, Canada.
 
