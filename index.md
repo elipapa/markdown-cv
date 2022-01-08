@@ -73,11 +73,16 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`June 2019 - Present`
+__Panther OPD__, Ford Motor Company
+### Outline
 
-- Warden
-- Minted coins
+Job role description here, engine quality and product development. Etc 
+
+#### Key Responsibilities
+- Base Engine, Design issues etc
+- Understanding key roles
+- new item 
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
