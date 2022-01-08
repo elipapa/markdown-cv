@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Paul Etheridge's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Paul Etheridge
+Powertrain Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
