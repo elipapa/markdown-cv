@@ -59,10 +59,8 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 `June 2019 - Present`
 __Panther OPD__, Ford Motor Company
-
 ### Outline
 Job role description here, engine quality and product development. Etc 
-
 ### Key Responsibilities
 The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
 
@@ -71,13 +69,9 @@ The last drop was when I tried to update the overall look of my resume. I ended 
 
 `June 2019 - Present`
 __Puma OPD__, Ford Motor Company
-
 ### Outline
-
 The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
-
 ### Key Responsibilities
-
 Base Engine, Design issues etc
 
 The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
@@ -87,13 +81,10 @@ The last drop was when I tried to update the overall look of my resume. I ended 
 
 `June 2019 - Present`
 __Puma OPD__, Ford Motor Company
-
 ### Outline
-
 The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
 
 ### Key Responsibilities
-
 Base Engine, Design issues etc
 
 The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
