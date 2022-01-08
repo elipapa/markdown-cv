@@ -80,9 +80,9 @@ __Panther OPD__, Ford Motor Company
 Job role description here, engine quality and product development. Etc 
 
 ### Key Responsibilities
-- Base Engine, Design issues etc
-- Understanding key roles
-- new item 
+Base Engine, Design issues etc
+Understanding key roles
+new item 
 
 `June 2019 - Present`
 __Puma OPD__, Ford Motor Company
@@ -92,9 +92,9 @@ The last drop was when I tried to update the overall look of my resume. I ended 
 
 ### Key Responsibilities
 
-- Base Engine, Design issues etc
-- The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
-- The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
+Base Engine, Design issues etc
+The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
+The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
 
 <!-- ### Footer
 
