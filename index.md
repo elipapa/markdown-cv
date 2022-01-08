@@ -6,41 +6,27 @@ title: Paul Etheridge's CV
 Powertrain Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="paul.etheridge@cwgsy.net">paul.etheridge@cwgsy.net</a>
+| <a href="https://www.linkedin.com/in/pretheridge/">my LinkedIn</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Powertrain quality engineer looking for opportunities in electrification
 
-### Specialized in
+### Specialised in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
 
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2010-2014`
+__Masters in General Engineering, Durham University.__
+- Mechanical, Electrical, Electronics
 
 ## Awards
 
@@ -48,8 +34,6 @@ __Trinity College, Cambridge__
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
@@ -75,8 +59,8 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 `June 2019 - Present`
 __Panther OPD__, Ford Motor Company
-### Outline
 
+### Outline
 Job role description here, engine quality and product development. Etc 
 
 ### Key Responsibilities
@@ -86,6 +70,7 @@ new item
 
 `June 2019 - Present`
 __Puma OPD__, Ford Motor Company
+
 ### Outline
 
 The last drop was when I tried to update the overall look of my resume. I ended up having to rearrange paragraphs and dates, while making up obscure LaTeX macros just to move the years to a different place or change the color of a particular element.
