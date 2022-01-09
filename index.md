@@ -31,11 +31,11 @@ __Panther OPD__, Ford Motor Company
 
 Job role description here, engine quality and product development. Etc 
 
-The last drop was when I tried to update the overall look of my resume.
+- The last drop was when I tried to update the overall look of my resume.
 
-I ended up having to rearrange paragraphs and dates,
+- I ended up having to rearrange paragraphs and dates,
 
-while making up obscure LaTeX macros just to move the years to a different place 
+- while making up obscure LaTeX macros just to move the years to a different place 
 or change the color of a particular element.
 
 
