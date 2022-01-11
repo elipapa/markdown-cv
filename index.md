@@ -68,7 +68,9 @@ title: Cameron Anderson CV
 Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422" target="_blank"><i class="fas fa-link"></i> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
 
 Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
+
 \newpage
+
 ## Positions
 
 `2021-Present`
