@@ -3,8 +3,8 @@ layout: cv
 title: Cameron Anderson CV
 ---
 # Cameron Anderson
-*PhD Student & Music Cognition Researcher*, Department of Psychology, Neuroscience & Behaviour, 
-
+*PhD Student & Music Cognition Researcher*, 
+Department of Psychology, Neuroscience & Behaviour, 
 McMaster University, Hamilton, ON.
 
 <a href="andersoc@mcmaster.ca">andersoc@mcmaster.ca</a> - +1 (705) 500 5770
@@ -69,7 +69,7 @@ McMaster University, Hamilton, ON.
 Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422" target="_blank"><i class="fas fa-link"></i> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
 
 Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
-
+\newpage
 ## Positions
 
 `2021-Present`
@@ -111,7 +111,7 @@ A common issue with musical analyses is the inability to *hear* what an analyst 
 
 A <a href="https://twitter.com/scaleoftheday" target="_blank"><i class="fab fa-twitter"></i> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
 
-## Conference Activity
+## Seleceted Conference Activity
 
 **Anderson, C.J.**, & Schutz, M. (2022, February). *Mode's Effect on Perceived Emotional Valence.* (Poster). Forthcoming presentation at 50th Annual Lake Ontario Visionary Establishment Conference. Niagara Falls, Canada.
 
@@ -120,8 +120,6 @@ A <a href="https://twitter.com/scaleoftheday" target="_blank"><i class="fab fa-t
 **Anderson, C. J.**, (2021, March). *Analyzing Expressive Differences in Historic Prelude Sets Using Cluster Analysis.* (Video Poster Presentation). Presented at Future Directions of Music Cognition, Ohio State University. Virtual Conference. Retrieved from osf.io/qbz7g
 
 **Anderson, C.J.**, & Schutz, M. (2020, December). *Acoustic Elements in Emotion Expression.* (Talk). Presented at 19th Annual Auditory Perception and Cognition Action Meeting. Virtual Conference.
-
-**Anderson, C.J.**, Kelly, B. O., & Schutz, M. (2020, February). *A Tale of Two Composers: Acoustic Choices Affect Perceived Emotion.* (Poster). Presented at 49th Annual Lake Ontario Visionary Establishment Conference, Niagara Falls, Canada.
 
 **Anderson, C.J.**, & Schutz, M. (2019, November) *Historical Changes in Musical Expression* (Poster). Presented at 15th Annual NeuroMusic Conference, Hamilton, Canada.
 
