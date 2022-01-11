@@ -69,8 +69,6 @@ Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tan
 
 Foley, T., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
 
-\newpage
-
 ## Positions
 
 `2021-Present`
