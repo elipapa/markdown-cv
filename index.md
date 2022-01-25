@@ -38,7 +38,7 @@ __PhD in Epidemiology & Biostatistics, Imperial College London__
 `Summer 2019`
 Business Analyst, __Deecon Consulting__
 
-`Summers 2017-18`
+`Summer 2018`
 Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Imperial College London
 
 `Summer 2014`
@@ -74,9 +74,10 @@ High resolution analysis reveals widening 30-year life expectancy gap within Lon
 
 ## Teaching
 
-`2021`
+`2022`
 Teaching Assistant, __Population Health__ in the Health Data Analytics and Machine Learning MSc, Imperial College London
 
+`2021`
 Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial College London
 
 ## Education
