@@ -3,7 +3,7 @@ layout: cv
 title: Uswatun Hasanah's CV
 ---
 # Uswatun Hasanah
-Quality Assurance Analyst
+Quality Assurance
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/uswatun-h-3479808b/">LinkedIn</a> | email: uusshana@gmail.com | phone: +6281391558343
@@ -12,12 +12,12 @@ Quality Assurance Analyst
 
 ## Summary
 
-Quality Assurance Analyst with more than 1 year expertise in a fast-paced SaaS startup with quick application development life cycles. I am creating test cases to make better documentation for product, testing product manually, and create automation code to maintain product quality.
+Quality Assurance with more than 2 years expertise in a fast-paced SaaS startup with quick application development life cycles. I am creating test cases to make better documentation for product, testing product manually, and create automation code to maintain product quality.
 
 ## Work Experience
 
 `December 2019 - now`
-__Quality Assurance Analyst, Mekari__
+__Quality Assurance, Mekari__
 
 - Create test cases
 - Communicating with the IT and Products teams
