@@ -20,7 +20,7 @@ Quality Assurance with more than 2 years expertise in a fast-paced SaaS startup 
 __Quality Assurance, Mekari__
 
 - Create test cases
-- Communicating with the IT and Products teams
+- Communicating with the Developer and Product teams
 - Testing product
 - Create automation test
 - Report bugs
@@ -33,26 +33,11 @@ __Oracle Consulting Service, Streamworx Solutions__
 - Provide solutions in a system architecture
 
 
-## Personal Skills
-
-- Team Player
-- Fast Learner
-- Motivated
-- Reliable
-- Professional
-- Time Management
-
 ## Tools ,Technologies and Standards
 
-- Automation
 - Ruby
 - Cucumber
 - Selenium
-- Oracle Service Bus
-- Oracle Database
-- JDeveloper
-- Integration Cloud Service
-- Sailpoint
 
 ## Education
 
@@ -63,6 +48,6 @@ __Telkom University, Bandung__
 
 <!-- ### Footer
 
-Last updated: October 2021 -->
+Last updated: January 2022 -->
 
 
