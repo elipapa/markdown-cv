@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "ff30c89eec5ef19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f6b0532922450b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "eaea35be2fcd0a23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f89d80d4bf503947",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7c744f8f900868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3531639561d72013",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1af3c20457f3f7b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.83319473266602
+  },
+  "right": {
+    "id": "387595f747c68995",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b0a5b91faa625c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83a652f818413583",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d2f6b0532922450b",
+  "lastOpenFiles": [
+    "README.md",
+    "index.md"
+  ]
+}
