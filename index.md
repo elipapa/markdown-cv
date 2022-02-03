@@ -71,7 +71,7 @@ Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.c
 
 ## Other Publications
 
-**Anderson, C. J.** <a href="https://scds.ca/how-digital-tools-can-help-us-understand-music-analysis/" target="_blank"><i class="fas fa-link"> How Digital Tools Can Help Us Understand Music Analysis.</a> *Lewis & Ruth Sherman Centre For Digital Scholarship*.
+**Anderson, C. J.** <a href="https://scds.ca/how-digital-tools-can-help-us-understand-music-analysis/" target="_blank"><i class="fas fa-link"></i> How Digital Tools Can Help Us Understand Music Analysis.</a> *Lewis & Ruth Sherman Centre For Digital Scholarship*.
 
 ## Positions
 
