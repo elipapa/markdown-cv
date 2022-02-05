@@ -299,10 +299,10 @@ Parasites and Vectors (Parasite genetics, genomics and proteomics section)
 Editorial Board of Neglected Tropical Diseases (specialty section of Frontiers in Tropical Diseases)
 
 ### Journal Referee
-Bioinformatics, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, Scientific Reports, Trends in Parasitology.
+Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical Diseases, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nature Communications, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, PLoS Pathogens, Scientific Reports, Trends in Parasitology.
 
 ### Grant Referee
-Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC
+Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC
 
 ## Teaching Experience
 ### Undergraduate
@@ -319,7 +319,7 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 **Course Lead Instructor, High Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
 
-**Course Instructor, Working with Pathogen Genomes**, Wellcome Trust Advanced Courses: Hinxton (Jan 2016), Ho Chi Minh City, Vietnam (November 2017), Cape Town, South Africa (2018), Montevideo, Uruguay (2018; lead instructor), Hinxton, UK (2019), Asia (online 2021).
+**Course Instructor, Working with Pathogen Genomes**, Wellcome Trust Advanced Courses: Hinxton (Jan 2016), Ho Chi Minh City, Vietnam (November 2017), Cape Town, South Africa (2018), Montevideo, Uruguay (2018; lead instructor), Hinxton, UK (2019), Asia (online 2021), Latin America (online 2022).
 
 **Course Instructor, Helminth Bioinformatics**, Wellcome Trust Advanced Courses: Accra, Ghana (2019), Asia (online 2021).
 
