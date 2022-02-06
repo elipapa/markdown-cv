@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Theo Rashid
+# title: Theo Rashid
 ---
-<!-- # Theo Rashid -->
+# Theo Rashid
 <!-- Physicist, Mathematician, Statistician. -->
 
 <div id="webaddress">
@@ -55,7 +55,7 @@ Semenova, E., Xu, Y., Howes, A.T., __Rashid, T.__ _et al._ (2021). [Encoding spa
 `2020`
 Kontis, V., Bennett, J.E., __Rashid, T.__ _et al._ (2020). [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0). _Nature Medicine_, 26, 1919–1928.
 
-Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the life cycle of major tropical cyclones](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088589). _Geophysical Research Letters_, 47, e2020GL088589.
+Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the lifecycle of major tropical cyclones](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088589). _Geophysical Research Letters_, 47, e2020GL088589.
 
 
 <!-- A list is also available [online](https://theorashid.github.io/#publications) -->

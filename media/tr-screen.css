@@ -87,8 +87,8 @@ video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
   font: inherit;
+  font-size: 100%;
   vertical-align: baseline;
 }
 
@@ -110,17 +110,20 @@ ol,
 ul {
   list-style: none;
 }
+
 blockquote,
 q {
   quotes: none;
 }
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
+
+blockquote::before,
+blockquote::after,
+q::before,
+q::after {
   content: '';
   content: none;
 }
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -128,12 +131,10 @@ table {
 
 /* end of reset */
 
-
-
 body {
-  line-height: 1;
   font: normal normal 400;
   font-size: 80%;
+  /* line-height: 1; */
   line-height: 1.25em;
   /* also written as...  font: normal normal 400 100%/1.5em; */
   font-family: Verdana,sans-serif;
@@ -152,8 +153,8 @@ p {
 code {
   font: normal normal;
   font-size: 60%;
-  /*line-height: 1em;*/
-  font-family: Menlo,monospace,sans-serif;
+  /* line-height: 1em; */
+  font-family: Menlo, monospace, sans-serif;
   color: #aaa;
 }
 
@@ -179,10 +180,10 @@ ul {
 } */
 
 /* li {
-  /* second line indent */
-  /* padding-left: 1.25em; */
-  /* text-indent: -1.25em; */
-  /* color: #777;
+  second line indent
+  padding-left: 1.25em;
+  text-indent: -1.25em;
+  color: #777;
 } */
 
 li ul {
@@ -239,7 +240,7 @@ h3 {
 
 a {
   color: inherit;
-  text-decoration:none
+  text-decoration: none;
 }
 
 a:hover {
@@ -251,7 +252,7 @@ a:hover {
   position: relative;
   left: 33%;
   color: #737373;
-  font-family: Menlo,monospace,sans-serif;
+  font-family: Menlo, monospace, sans-serif;
   font-size: 80%;
 }
 
@@ -272,7 +273,6 @@ strong {
   display: none;
 }
 
-/* 
-@media only screen and (max-width: 480px) {
+/* @media only screen and (max-width: 480px) {
     make one column somehow...
 } */

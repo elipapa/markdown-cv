@@ -84,12 +84,12 @@ time,
 mark,
 audio,
 video {
-	margin: 0;
-	padding: 0;
-	border: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
   font: inherit;
-	font-size: 100%;
-	vertical-align: baseline;
+  font-size: 100%;
+  vertical-align: baseline;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -107,35 +107,38 @@ nav,
 section {
 	display: block;
 }
+
 ol,
 ul {
-	list-style: none;
+  list-style: none;
 }
+
 blockquote,
 q {
 	quotes: none;
 }
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-	content: '';
-	content: none;
+
+blockquote::before,
+blockquote::after,
+q::before,
+q::after {
+  content: '';
+  content: none;
 }
+
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 body {
-  line-height: 1;
 	font: normal normal 400;
 	font-size: 10pt;
 	line-height: 1.25em;
 	/* also written as...  font: normal normal 400 100%/1.5em; */
-	font-family: Verdana,sans-serif;
 	/* margin-top: 1em;
 	margin-left: 1em; */
+	font-family: Verdana,sans-serif;
 }
 
 p {
@@ -175,10 +178,10 @@ ul {
 } */
 
 /* li {
-	/* second line indent */
-	/* padding-left: 1.25em; */
-	/* text-indent: -1.25em; */
-	/* color: #777;
+	second line indent
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	color: #777;
 } */
 
 li ul {
