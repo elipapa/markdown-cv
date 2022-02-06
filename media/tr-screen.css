@@ -93,12 +93,18 @@ video {
 }
 
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block;
-}
-body {
-  line-height: 1;
 }
 ol,
 ul {
@@ -125,10 +131,11 @@ table {
 
 
 body {
+  line-height: 1;
   font: normal normal 400;
   font-size: 80%;
   line-height: 1.25em;
-  /*also written as...  font: normal normal 400 100%/1.5em;*/
+  /* also written as...  font: normal normal 400 100%/1.5em; */
   font-family: Verdana,sans-serif;
   margin-top: 1em;
   margin-left: 1em;
@@ -164,18 +171,18 @@ ul {
   margin-top: -0.5em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
+/* uncomment to get dashes in the list */
+/* li:before {
   content: "-";
   position: relative;
   left: -0.25em;
-}*/
+} */
 
 /* li {
-  /*second line indent*/
-  /* padding-left: 1.25em;*/
-  /* text-indent: -1.25em;*/
-  /*color: #777;
+  /* second line indent */
+  /* padding-left: 1.25em; */
+  /* text-indent: -1.25em; */
+  /* color: #777;
 } */
 
 li ul {
@@ -196,7 +203,7 @@ h4 {
 
 h1 {
   text-align: left;
-  color: #222222;
+  color: #222;
   font-size: 3em;
   line-height: 1em;
   position: relative;
@@ -204,15 +211,15 @@ h1 {
 }
 
 h1 + p {
-  /*subtitle*/
-  color: #222222;
+  /* subtitle */
+  color: #222;
   font-style: italic;
   font-size: 110%;
 }
 
 h2 {
   font-size: 1.1em;
-  color: #222222;
+  color: #222;
   margin-top: 3em;
   position: relative;
   top: 1.4em;
@@ -236,7 +243,7 @@ a {
 }
 
 a:hover {
-  color:#d9d9d9
+  color:#d9d9d9;
 }
 
 #webaddress {
@@ -265,7 +272,7 @@ strong {
   display: none;
 }
 
-/*
+/* 
 @media only screen and (max-width: 480px) {
     make one column somehow...
-}*/
+} */

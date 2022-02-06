@@ -2,7 +2,7 @@
 layout: cv
 title: Theo Rashid
 ---
-# Theo Rashid
+<!-- # Theo Rashid -->
 <!-- Physicist, Mathematician, Statistician. -->
 
 <div id="webaddress">
