@@ -122,7 +122,7 @@ blockquote::before,
 blockquote::after,
 q::before,
 q::after {
-  content: '';
+  content: "";
   content: none;
 }
 
@@ -135,10 +135,12 @@ body {
 	font: normal normal 400;
 	font-size: 10pt;
 	line-height: 1.25em;
+
 	/* also written as...  font: normal normal 400 100%/1.5em; */
+
 	/* margin-top: 1em;
 	margin-left: 1em; */
-	font-family: Verdana,sans-serif;
+	font-family: Verdana, sans-serif;
 }
 
 p {
@@ -152,8 +154,9 @@ p {
 code {
 	font: normal normal;
 	font-size: 60%;
+
 	/* line-height: 1em; */
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	color: #ccc;
 }
 
@@ -171,6 +174,7 @@ ul {
 }
 
 /* uncomment to get dashes in the list */
+
 /* li:before {
 	content: "-";
 	position: relative;
@@ -196,7 +200,7 @@ h2,
 h3,
 h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Cousine, Verdana, sans-serif;
 	width: 65%;
 }
 
@@ -238,11 +242,11 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none;
+	text-decoration: none;
 }
 
 a:hover {
-	color:#d9d9d9;
+	color: #d9d9d9;
 }
 
 #webaddress {
@@ -250,7 +254,7 @@ a:hover {
 	position: relative;
 	left: 28%;
 	color: #737373;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	font-size: 80%;
 }
 

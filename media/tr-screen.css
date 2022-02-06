@@ -106,6 +106,7 @@ nav,
 section {
   display: block;
 }
+
 ol,
 ul {
   list-style: none;
@@ -120,7 +121,7 @@ blockquote::before,
 blockquote::after,
 q::before,
 q::after {
-  content: '';
+  content: "";
   content: none;
 }
 
@@ -134,8 +135,10 @@ table {
 body {
   font: normal normal 400;
   font-size: 80%;
+
   /* line-height: 1; */
   line-height: 1.25em;
+
   /* also written as...  font: normal normal 400 100%/1.5em; */
   font-family: Verdana,sans-serif;
   margin-top: 1em;
@@ -153,6 +156,7 @@ p {
 code {
   font: normal normal;
   font-size: 60%;
+
   /* line-height: 1em; */
   font-family: Menlo, monospace, sans-serif;
   color: #aaa;
@@ -163,7 +167,6 @@ p code {
   left: -14%;
 }
 
-
 ul {
   position: relative;
   left: 33%;
@@ -173,6 +176,7 @@ ul {
 }
 
 /* uncomment to get dashes in the list */
+
 /* li:before {
   content: "-";
   position: relative;
@@ -198,7 +202,7 @@ h2,
 h3,
 h4 {
   font-weight: 400;
-  font-family: Cousine,Verdana,sans-serif;
+  font-family: Cousine, Verdana, sans-serif;
   width: 65%;
 }
 
@@ -244,7 +248,7 @@ a {
 }
 
 a:hover {
-  color:#d9d9d9;
+  color: #d9d9d9;
 }
 
 #webaddress {
