@@ -84,12 +84,12 @@ time,
 mark,
 audio,
 video {
-margin: 0;
-padding: 0;
-border: 0;
-font: inherit;
-font-size: 100%;
-vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -136,10 +136,10 @@ body {
   font-size: 10pt;
   line-height: 1.25em;
 
-/* also written as...  font: normal normal 400 100%/1.5em; */
+  /* also written as...  font: normal normal 400 100%/1.5em; */
 
-/* margin-top: 1em;
-margin-left: 1em; */
+  /* margin-top: 1em;
+  margin-left: 1em; */
   font-family: Verdana, sans-serif;
 }
 
