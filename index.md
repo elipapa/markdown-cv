@@ -15,6 +15,7 @@ Bioinformatics scientist working on genomics of plant pathogens with a backgroun
 ### Specialized in
 - Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
 - Developing bioinformatics pipelines for genome assembly, annotation, comparative genomics, microbial comunity analysis, copy number and variant analysis 
+- Presenting results in reports, manuscripts and oral presentations 
 
 ### Research interests
 Genome structure and organisation, variant analysis, evolution of pathogenesis, 
