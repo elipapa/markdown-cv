@@ -22,25 +22,28 @@ Genome structure and organisation, variant analysis, evolution of pathogenesis,
   
 ### Professional experience
 2020 - current:  Scientist, Scion (New Zealand Forest Research Insitute)
-                 - Genomics of forest pathogens
-                 - Microbial community analysis of Pine tissue using amplicon sequencing approaches
+                 - Comparing genomes of _Phytophthora agathidicida_ to identify structural and copy number variants and determine ploidy
+                 - 
+                 - Microbial community analysis of Pine needles using amplicon sequencing and multivariate statistics 
+                 - Genome assembly and annotation of the fungal pathogen, Cyclaneusma minus
+  
 2017 - 2019: Postdoctoral Researcher, Swedish University of Agricultural Sciences
-
+                 - Genome sequencing, assembly, annotation and comparative genomics of the plant pathogen _Phytophthora colocasiae _
+                 - Transcriptional response of
+                 - 
 ## Education
 
 `2007 - 2011`
 __The University of Idaho, U.S.A__
+  PhD in Bioinformatics and Computational Biology
   
 `2003 - 2005`
 __Sikkim Manipal University, India__
+  Master of Science in Bioinformatics
 
 `2000 - 2003`
 __The University of Calcutta, India__
- 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+  Bachelor of Science in Botany
 
 
 
