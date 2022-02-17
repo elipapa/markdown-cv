@@ -14,26 +14,28 @@ Bioinformatics scientist working on genomics of plant pathogens with a backgroun
 
 ### Specialized in
 - Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
-- Developing bioinformatics pipelines for whole genome sequencing, comparative genomics, microbial comunity analysis, copy number and variant analysis 
+- Developing bioinformatics pipelines for genome assembly, annotation, comparative genomics, microbial comunity analysis, copy number and variant analysis 
 
 ### Research interests
-Genome structure and organisation, variant analysis, 
+Genome structure and organisation, variant analysis, evolution of pathogenesis, 
   
 ### Professional experience
 2020 - current:  Scientist, Scion (New Zealand Forest Research Insitute)
                  - Genomics of forest pathogens
                  - Microbial community analysis of Pine tissue using amplicon sequencing approaches
+2017 - 2019: Postdoctoral Researcher, Swedish University of Agricultural Sciences
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007 - 2011`
+__The University of Idaho, U.S.A__
+  
+`2003 - 2005`
+__Sikkim Manipal University, India__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
+`2000 - 2003`
+__The University of Calcutta, India__
+ 
 `1667 - death`
 __Trinity College, Cambridge__
 
@@ -70,21 +72,10 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2022 -->
 
 
