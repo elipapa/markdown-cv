@@ -1,29 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Diya Sen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Diya Sen
+Bioinformatician, Genomicist, Biologist, Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+<a href="diya.sen@scionresearch.com">diya.sen@scionresearch.com</a>
+/div>
 
 ## Currently
-
-Standing on the shoulders of giants
+Bioinformatics scientist working on genomics of plant pathogens with a background in genomics and 
 
 ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+- Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
+- Developing bioinformatics pipelines for whole genome sequencing, comparative genomics, microbial comunity analysis, copy number and variant analysis 
 
 ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Genome structure and organisation, variant analysis, 
+  
+### Professional experience
+2020 - current:  Scientist, Scion (New Zealand Forest Research Insitute)
+                 - Genomics of forest pathogens
+                 - Microbial community analysis of Pine tissue using amplicon sequencing approaches
 
 ## Education
 
