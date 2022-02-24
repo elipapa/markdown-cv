@@ -10,7 +10,7 @@ Bioinformatician, Genomicist, Biologist, Scientist
 /div>
 
 ## Currently
-Bioinformatics scientist working on genomics of plant pathogens with a background in genomics and 
+Bioinformatics scientist working on genomics of plant pathogens with a background in Bioinformatics and Computational Biology
 
 ### Specialized in
 - Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
