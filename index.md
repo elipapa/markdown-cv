@@ -61,8 +61,11 @@ Associate, *French Academy of Science*, Paris, France
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 Dobbie, K., Scott, P., Taylor, P., Panda, P., Sen, D., Dick, M., & McDougal, R. (2022). Phytophthora podocarpi sp. nov. from Diseased Needles and Shoots of Podocarpus in New Zealand. Forests, 13(2), 214. 
+  
 Vetukuri, R. R., Kalyandurg, P. B., Saripella, G. V., Sen, D., Gil, J. F., Lukhovitskaya, N. I., . . . Savenkov, E. I. (2020). Effect of RNA silencing suppression activity of chrysanthemum virus B p12 protein on small RNA species. Archives of virology, 165(12), 2953-2959. 
+  
 Paul, K., Saha, C., Nag, M., Mandal, D., Naiya, H., Sen, D., . . . Mukherjee, G. (2020). A tripartite interaction among the basidiomycete Rhodotorula mucilaginosa, N2-fixing endobacteria, and rice improves plant nitrogen nutrition. The Plant Cell, 32(2), 486-507. 
+  
 Sen, D., Paul, K., Saha, C., Mukherjee, G., Nag, M., Ghosh, S., . . . Tripathy, S. (2019). A unique life-strategy of an endophytic yeast Rhodotorula mucilaginosa JGTA-S1—a comparative genomics viewpoint. DNA Research, 26(2), 131-146. 
 
 
