@@ -7,7 +7,7 @@ Bioinformatician, Genomicist, Biologist, Scientist
 
 <div id="webaddress">
 <a href="diya.sen@scionresearch.com">diya.sen@scionresearch.com</a>
-/div>
+
 
 ## Currently
 Bioinformatics scientist working on genomics of plant pathogens with a background in Bioinformatics and Computational Biology
