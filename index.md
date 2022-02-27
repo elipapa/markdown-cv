@@ -58,9 +58,11 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
--- A list is also available [online](http://scholar.google.co.uk/citations?hl=en&user=883GEboAAAAJ) --
+-- The full list is available [online](http://scholar.google.co.uk/citations?hl=en&user=883GEboAAAAJ) --
   
 Dobbie, K., Scott, P., Taylor, P., Panda, P., Sen, D., Dick, M., & McDougal, R. (2022). Phytophthora podocarpi sp. nov. from Diseased Needles and Shoots of Podocarpus in New Zealand. Forests, 13(2), 214. 
+  
+Armstrong, C., Sen, D., Walker, K., Garrett, L., Byers, A., & Wakelin, S. (2022). Genome Sequence of Dermacoccus Strain Tok2021, a Soil Actinobacterium Isolated from a Pinus radiata Forest. Microbiology Resource Announcements, 11(2), e00844-00821. 
   
 Vetukuri, R. R., Kalyandurg, P. B., Saripella, G. V., Sen, D., Gil, J. F., Lukhovitskaya, N. I., . . . Savenkov, E. I. (2020). Effect of RNA silencing suppression activity of chrysanthemum virus B p12 protein on small RNA species. Archives of virology, 165(12), 2953-2959. 
   
