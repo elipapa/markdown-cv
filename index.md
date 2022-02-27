@@ -69,16 +69,3 @@ Paul, K., Saha, C., Nag, M., Mandal, D., Naiya, H., Sen, D., . . . Mukherjee, G.
 Sen, D., Paul, K., Saha, C., Mukherjee, G., Nag, M., Ghosh, S., . . . Tripathy, S. (2019). A unique life-strategy of an endophytic yeast Rhodotorula mucilaginosa JGTA-S1—a comparative genomics viewpoint. DNA Research, 26(2), 131-146. 
 
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-
-
-<!-- ### Footer
-
-Last updated: Feb 2022 -->
-
-
