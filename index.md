@@ -58,7 +58,9 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+-- A list is also available [online](http://scholar.google.co.uk/citations?hl=en&user=883GEboAAAAJ) --
+  
+  citations?hl=en&user=883GEboAAAAJ
 
 Dobbie, K., Scott, P., Taylor, P., Panda, P., Sen, D., Dick, M., & McDougal, R. (2022). Phytophthora podocarpi sp. nov. from Diseased Needles and Shoots of Podocarpus in New Zealand. Forests, 13(2), 214. 
   
