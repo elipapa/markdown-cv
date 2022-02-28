@@ -10,19 +10,19 @@ Bioinformatician, Genomicist, Biologist, Scientist
 
 
 ## Currently
-Bioinformatics scientist working on genomics of plant pathogens with a background in Bioinformatics and Computational Biology
+Bioinformatics scientist working on genomics of forest pathogens and 
 
 ### Specialized in
 - Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
 - Developing bioinformatics pipelines for genome assembly, annotation, comparative genomics, microbial comunity analysis, copy number and variant analysis 
-- Presenting results in reports, manuscripts and oral presentations 
+
 
 ### Research interests
 Genome structure and organisation, variant analysis, evolution of pathogenesis, 
   
 ### Professional experience
 2020 - current:  Scientist, Scion (New Zealand Forest Research Insitute)
-                 - Comparing genomes of Phytophthora agathidicida to identify structural and copy number variants and determine ploidy
+                 - Comparative genomics of Phytophthora agathidicida to identify structural and copy number variants and determine ploidy
                  - 
                  - Microbial community analysis of Pine needles using amplicon sequencing and multivariate statistics 
                  - Genome assembly and annotation of fungal and oomycete plant pathogens
