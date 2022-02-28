@@ -23,14 +23,13 @@ Genome structure and organisation, variant analysis, evolution of pathogenesis,
 ### Professional experience
 2020 - current:  Scientist, Scion (New Zealand Forest Research Insitute)
                  - Comparative genomics of Phytophthora agathidicida to identify structural and copy number variants and determine ploidy
-                 - 
                  - Microbial community analysis of Pine needles using amplicon sequencing and multivariate statistics 
                  - Genome assembly and annotation of fungal and oomycete plant pathogens
   
 2017 - 2019: Postdoctoral Researcher, Swedish University of Agricultural Sciences
-                 - Genome sequencing, assembly, annotation and comparative genomics of the plant pathogen _Phytophthora colocasiae _
-                 - Analysis of i
-                 - 
+                 - Genome sequencing, assembly, annotation and comparative genomics of the plant pathogen Phytophthora colocasiae 
+                 - mRNA profiling from leaf tissue infected with Phytophthora colocasiae to identify genes responsible for pathogenesis 
+                 - sRNA profiling of infected leaf tissue to identify diversity and function of sRNA in Phytophthora colocasiae 
 ## Education
 
 `2007 - 2011`
