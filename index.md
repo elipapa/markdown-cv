@@ -59,10 +59,12 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 46 publications; 14 first author; 2 last author  
-Since 2017 (last 5 yrs): 33 publications; 8 first author; 1 last author  
+Total: 47 publications; 14 first author; 3 last author  
+Since 2017 (last 5 yrs): 34 publications; 8 first author; 2 last author  
 
 `2022`
+Cotton J, **DOYLE SR** (2022) [A genetic TRP down the channel to praziquantel resistance](https://www.sciencedirect.com/science/article/pii/S1471492222000368?dgcid=author). Trends in Parasitology
+
 Vianney JV, Berger D, **DOYLE SR**, Sankaranarayanan G, Serubanja J, Nakawungu PK, Besigye F, Sanya R, Holroyd N, Allan F, Webb E, Elliott A, Berriman M, Cotton J (2022) [Genome-wide analysis of *Schistosoma mansoni* reveals population structure and praziquantel drug selection pressure within Ugandan hot-spot communities](https://doi.org/10.1101/2022.01.25.477652). BioRxiv
 
 Baltrusis P, **DOYLE SR**, Halvarsson P, Hoglund J (2022) [Genome-wide analysis of response to ivermectin treatment by a Swedish field population of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.12.002). Int. J Parasitol-DDR 
