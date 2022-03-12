@@ -3,33 +3,40 @@ layout: cv
 title: Diya Sen's CV
 ---
 # Diya Sen
-Bioinformatician, Genomicist, Biologist, Scientist
+Bioinformatician, Genomicist, Biologist, Scientist. Experienced in genome analysis. Interested in coding and data analytics.  
 
 <div id="webaddress">
 <a href="diya.sen@scionresearch.com">diya.sen@scionresearch.com</a>
 
 
 ## Currently
-Bioinformatics scientist working on genomics of forest pathogens and 
+Bioinformatics scientist working on genomics of forest pathogens  
 
 ### Specialized in
 - Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
 - Developing bioinformatics pipelines for genome assembly, annotation, comparative genomics, microbial comunity analysis, copy number and variant analysis 
-
+- Working independently 
 
 ### Research interests
 Genome structure and organisation, variant analysis, evolution of pathogenesis, 
   
 ### Professional experience
-2020 - current:  Scientist, Scion (New Zealand Forest Research Insitute)
+2020 - current:  Scientist
+                 **Scion** 
+                  Crown research institute specialising in research and development for forestry
                  - Comparative genomics of Phytophthora agathidicida to identify structural and copy number variants and determine ploidy
                  - Microbial community analysis of Pine needles using amplicon sequencing and multivariate statistics 
                  - Genome assembly and annotation of fungal and oomycete plant pathogens
   
 2017 - 2019: Postdoctoral Researcher, Swedish University of Agricultural Sciences
-                 - Genome sequencing, assembly, annotation and comparative genomics of the plant pathogen Phytophthora colocasiae 
+                 - Genome assembly, annotation and comparative genomics of the plant pathogen Phytophthora colocasiae 
                  - mRNA profiling from leaf tissue infected with Phytophthora colocasiae to identify genes responsible for pathogenesis 
                  - sRNA profiling of infected leaf tissue to identify diversity and function of sRNA in Phytophthora colocasiae 
+
+2013 - 2017: Postdoctoral Researcher, Indian Institute of Chemical Biology
+                - Investigating the biodiversity of indigenous cyanobacteria using a comparative genomics approach 
+                - Whole genome sequencing and genome analysis of the endophytic yeast, Rhodotorula mucilaginosa, to understand its life cycle and
+                association with endobacteria.
 ## Education
 
 `2007 - 2011`
@@ -46,13 +53,14 @@ __The University of Calcutta, India__
 
 
 
-## Technical skills
+## Sills
 
-`2012`
-President, *Royal Society*, London, UK
+Languages
+Bash scripting, Perl, R
 
-Associate, *French Academy of Science*, Paris, France
-
+Platforms
+  
+Tools
 
 
 ## Publications
