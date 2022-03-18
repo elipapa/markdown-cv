@@ -17,7 +17,7 @@ Skilled bioinformatics scientist working on microbial genomics with over 10 year
 ### Specialized in
 - Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
 - Developing bioinformatics pipelines for genome assembly, annotation, comparative genomics, microbial comunity analysis, copy number and variant analysis 
-- Scientific writing and communication 
+- Scientific writing and communication, collaborative skills and strong publication record
   
 ### Experience
 2020 - current, **Bioinformatics Scientist**, **Scion** (New Zealand Forest Research Institute)
