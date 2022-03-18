@@ -11,20 +11,17 @@ Bioinformatician, Genomicist, Biologist.
   LinkedIn profile: 
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="diya-sen-8a8858180" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nz.linkedin.com/in/diya-sen-8a8858180?trk=profile-badge">Diya Sen</a></div>
            
-## Currently
-Bioinformatics scientist working on genomics of forest pathogens  
+## Professional summary
+Skilled bioinformatics scientist working on microbial genomics with over 10 years of experience in academia and industry
 
 ### Specialized in
 - Analysis of highthroughput sequence data from genomics, transcriptomics, metagenomics and amplicon sequencing projects
 - Developing bioinformatics pipelines for genome assembly, annotation, comparative genomics, microbial comunity analysis, copy number and variant analysis 
-- Working independently 
-
-### Research interests
-Genome structure and organisation, variant analysis, evolution of pathogenesis, 
+- Scientific writing and communication 
   
-### Professional experience
-2020 - current:  Scientist
-                 **Scion** New Zealand Forest Research Institute
+### Experience
+2020 - current: Bioinformatics Scientist
+       **Scion** New Zealand Forest Research Institute
                  - Comparative genomics of Phytophthora agathidicida to identify structural and copy number variants and determine ploidy
                  - Microbial community analysis of Pine needles using amplicon sequencing and multivariate statistics 
                  - Genome assembly and annotation of fungal and oomycete plant pathogens
