@@ -3,16 +3,14 @@ layout: cv
 title: Diya Sen's CV
 ---
 # Diya Sen
-Bioinformatician, Genomicist, Biologist, Scientist. Experienced in genome analysis. Interested in coding and data analytics.  
+Bioinformatician, Genomicist, Biologist.
 
 <div id="webaddress">
 <a href="diya.sen@scionresearch.com">diya.sen@scionresearch.com</a>
 
   LinkedIn profile: 
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="diya-sen-8a8858180" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nz.linkedin.com/in/diya-sen-8a8858180?trk=profile-badge">Diya Sen</a></div>
-              
-
-
+           
 ## Currently
 Bioinformatics scientist working on genomics of forest pathogens  
 
@@ -40,6 +38,7 @@ Genome structure and organisation, variant analysis, evolution of pathogenesis,
                 - Investigating the biodiversity of indigenous cyanobacteria using a comparative genomics approach 
                 - Whole genome sequencing and genome analysis of the endophytic yeast, Rhodotorula mucilaginosa, to understand its life cycle and
                 association with endobacteria.
+  
 ## Education
 
 `2007 - 2011`
