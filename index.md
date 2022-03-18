@@ -20,8 +20,9 @@ Skilled bioinformatics scientist working on microbial genomics with over 10 year
 - Scientific writing and communication 
   
 ### Experience
-2020 - current: Bioinformatics Scientist
-  -**Scion** -New Zealand Forest Research Institute
+2020 - current
+  -Bioinformatics Scientist
+  -**Scion** (New Zealand Forest Research Institute)
   - Comparative genomics of Phytophthora agathidicida to identify structural and copy number variants and determine ploidy
   - Microbial community analysis of Pine needles using amplicon sequencing and multivariate statistics 
   - Genome assembly and annotation of fungal and oomycete plant pathogens
