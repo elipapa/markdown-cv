@@ -35,7 +35,7 @@ Skilled bioinformatics scientist working on microbial genomics with over 10 year
   - Whole genome sequencing and genome analysis of the endophytic yeast, *Rhodotorula mucilaginosa*, to understand its life cycle and
     association with endobacteria.
   
-2007 - 2011, ""Graduate Student**, **University of Idaho**
+2007 - 2011, **Graduate Student**, **University of Idaho**
   - Phylogenetic and comparative genomic analysis of broad-host-range plasmids 
   - Comparison of plasmid diversity between wastewater and freshwater samples
   
