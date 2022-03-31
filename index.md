@@ -65,7 +65,7 @@ Platforms
 -HPC and Unix
   
 Tools
--GATK, Spades, Maker, Htseq, Dada2, 
+-GATK, CNVPytor, Manta, Spades, Maker, Htseq, Dada2, DESeq2
   
 Molecular Biology
 -PCR, qPCR, cell culture, DNA/RNA extraction, flow cytometry
