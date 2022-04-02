@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Denis Roussel's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Denis Roussel
+Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="deroussel@gmail.com">deroussel@gmail.com</a>
 </div>
 
 
@@ -42,50 +41,57 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## Skills
 
-`2012`
-President, *Royal Society*, London, UK
+`Machine Learning`
+Attentively design machine learning models based on data understanding and analysis through an investigation of the business.
 
-Associate, *French Academy of Science*, Paris, France
+`MLOps`
+Design architecture and deployment of MLOps services.
 
+`Project Direction`
+Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
+## Technical
 
-## Publications
+1. Python
+2. R
+3. Git
+4. Linux, OSX
+5. Docker
+6. AWS (ec2, s3, dynamodb)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Experience
 
-### Journals
+`September 2019 - Present`
+__Centreon__, remote
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Design, develop and deploy the first Machine Learning cloud services with Centreon.
 
-`1669`
-Lectiones opticæ.
+`December 2016 - August 2019`
+__Datapole__, remote
 
-etc. etc. etc.
+Manage a team of 5 data scientists and 1 data engineer.
 
-### Patents
+`April 2016 - December 2016`
+__Datapole__, Paris
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Develop machine learning models for time serie analysis.
 
+## Education
 
-## Occupation
+`July 2015`
+__PhD in Material Science__, Université de Grenoble Alpes
 
-`1600`
-__Royal Mint__, London
+`September 2011`
+__Master degree Physic__, Université de Lille
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`September 2011`
+__Engineering School Chemistry__, École Nationale Supérieure de Chimie de Lille
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Denis Roussel -- [droussel@centreon.com](droussel@centreon.com) -- +33 6 29 22 32 49 -->
 
 
