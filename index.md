@@ -2,12 +2,13 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# **Palash Tyagi**
+**BSc. (Hons.) in Physics | Programmer | Problem Solver | Valedictorian**
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="palash@tyagi.me">palash@tyagi.me</a>
+| <a href="https://github.com/Magnus167">My GitHub</a>
+| <a href="https://www.linkedin.com/in/palash-tyagi-207795191/">My LinkedIn</a>
 </div>
 
 
@@ -27,10 +28,10 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`SEP 2019 - - - - NOW` |
+__King's College London__
 
-`June 1661 - now`
+`MAR 2011 - JUN 2019` |
 __Trinity College, Cambridge__
 
 - Sizar
@@ -42,14 +43,15 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## **Achievements**
+`2022`
+Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://research.ibm.com/haifa/ponderthis/challenges/March2022.html)
 
-`2012`
-President, *Royal Society*, London, UK
+`2019`
+**Valedictorian** - [**Kāsiga School**](https://www.kasigaschool.com/)
 
-Associate, *French Academy of Science*, Paris, France
-
-
+`2019`
+[**SAT India Top Performer**](https://satsuite.collegeboard.org/)
 
 ## Publications
 
