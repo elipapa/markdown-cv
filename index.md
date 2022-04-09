@@ -59,10 +59,13 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 48 publications; 14 first author; 3 last author  
-Since 2017 (last 5 yrs): 35 publications; 8 first author; 2 last author  
+Total: 49 publications; 14 first author; 3 last author  
+Since 2017 (last 5 yrs): 36 publications; 8 first author; 2 last author  
 
 `2022`
+Antonopoulos A, **DOYLE SR**, Bartley DJ, Morrison A, Kaplan R, Howell S, Neveu C, Busin V, Devaney E, Laing R (2022) [Allele specific PCR for a major marker of levamisole resistance in <i>Haemonchus contortus</i>](https://doi.org/10.1101/2022.04.08.487639). BioRxiv
+
+
 Papaiakovou M, Littlewood TJ, **DOYLE SR**, Gasser R, Cantacessi C (2022) [Worms and bugs of the gut: the search for diagnostic signatures using barcoding, and metagenomics–metabolomics](https://doi.org/10.1186/s13071-022-05225-7). Parasites & Vectors
 
 Cotton J, **DOYLE SR** (2022) [A genetic TRP down the channel to praziquantel resistance](https://www.sciencedirect.com/science/article/pii/S1471492222000368?dgcid=author). Trends in Parasitology
