@@ -39,7 +39,20 @@ time, mark, audio, video {
 
 @page :right {
 	margin-left: 4cm;
+	@bottom-right {
+    content: counter(page);
+  }
 }
+
+
+@page :top {
+	margin-left: 10cm;
+}
+
+@page :bottom {
+	margin-left: 10cm;
+}
+
 
 
 /* HTML5 display-role reset for older browsers */
