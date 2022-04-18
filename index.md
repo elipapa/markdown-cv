@@ -73,9 +73,10 @@ __Editorial Assistant, Project Management @ ARTECHNE, Utrecht University__
 __Assistant Managing Editor @  Journal for the History of Knowledge__
 - Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief.
 
-## Awards / Fellowships
+## Awards and Fellowships
 `May 2022`
 __Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València (ES)__
+- 'Empirical ground: first round of archive-based enquiries for a historical project on the concept of biodiversidad in the Spanish conservation movement and the work of ICONA's 'ingenieros de montes' (1970-2000)'
 
 `Jun 2020`
 __'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University (NL)__
