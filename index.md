@@ -175,6 +175,9 @@ __Student supervisor, Biological & Personality Psychology Laboratory, Universita
 
 
 ## Journalistic publications
+Max Bautista Perpinyà (2021). “Online conferences won’t do it. Instead of ‘sustainable’ academic history, we need engaged historians working less and collaborating with activists”, Sustainable Academia seires, _Next Generation Action Team (NEXTGATe), European Society for Environmental History_ and _Historians for Future_. <a href="http://eseh.org/online-conferences-wont-do-it-instead-of-sustainable-academic-history-we-need-engaged-historians-working-less-and-collaborating-with-activists/" target="_blank">Link</a>
+
+
 Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/" target="_blank">Link</a>.
 
 Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2020/03/05/jote-in-conversation-with-researchers-how-does-failure-arise-how-do-you-deal-with-it-lea-roumazeilles/" target="_blank">Link</a>.
