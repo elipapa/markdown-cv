@@ -126,6 +126,7 @@ h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
+	padding-top: 2mm;
 }
 
 h1 {
