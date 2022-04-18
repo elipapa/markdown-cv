@@ -7,8 +7,6 @@ title: Max Bautista Perpinyà's CV
 PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error. Based in Brussels.
 <br/><br/>
 <a href="mailto:max.bautista@uclouvain.be?subject=Hello!">max.bautista@uclouvain.be</a> | Personal site: <a href="https://www.oliviodare.com/" target="_blank" >www.oliviodare.com</a>
-</div>
-
 
 ## Currently
 <div id="currentlytext">
@@ -189,22 +187,15 @@ Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en
 ## Technical IT skills
 Front-end website design (CSS, HTML), Python, Pure (management system for research publications), Open Journal Systems, Graphic design (Photoshop, Lightroom), Freesurfer, SPSS, ITK-Snap, Linux, ImageJ.
 
+<div id="hidediv">
 ## Molecular Laboratory skills
-Immunohistochemistry, (RT)-PCR, Western blot, Stereological methods, Rodent handling (European Certificate), Tissue Sectioning (vibratome, cryostat).
+</div>
+
+<div id="hidediv">
+Immunohistochemistry, (RT)-PCR, Western blot, Stereological methods, Rodent handling (European Certificate), Tissue Sectioning (vibratome, cryostat).</div>
 
 ## Languages
-__Spanish__
-- Native
-
-__Catalan__
-- Native
-
-__English__
-- Full Professional
-
-__French__
-- Intermediate
-
+__Spanish__ Native, __Catalan__ Native, __English__ Full Professional, __French__ Intermediate.
 
 
 ## ---
