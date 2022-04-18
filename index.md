@@ -187,36 +187,10 @@ Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger mo
 Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)*.
 
 ## Technical IT skills
-- Front-end website design (CSS, HTML)
-- Python
-- Pure (management system for research publications)
-- Open Journal Systems
-- Graphic design (Photoshop, Lightroom)
-- Freesurfer
-- SPSS
-- ITK-Snap
-- Linux
-- ImageJ
+Front-end website design (CSS, HTML), Python, Pure (management system for research publications), Open Journal Systems, Graphic design (Photoshop, Lightroom), Freesurfer, SPSS, ITK-Snap, Linux, ImageJ.
 
-<div id="molecular" style="display: none;">
 ## Molecular Laboratory skills
-- Immunohistochemistry
-- (RT)-PCR
-- Western blot
-- Stereological methods
-- Rodent handling (European Certificate)
-- Tissue Sectioning (vibratome, cryostat)
-</div>
-
-<div id="molecular">
-## Molecular Laboratory skills
-- Immunohistochemistry
-- (RT)-PCR
-- Western blot
-- Stereological methods
-- Rodent handling (European Certificate)
-- Tissue Sectioning (vibratome, cryostat)
-</div>
+Immunohistochemistry, (RT)-PCR, Western blot, Stereological methods, Rodent handling (European Certificate), Tissue Sectioning (vibratome, cryostat).
 
 ## Languages
 __Spanish__
