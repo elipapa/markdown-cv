@@ -202,5 +202,5 @@ Spanish: Native, Catalan: Native, English: Full Professional, French: Intermedia
 
 ## ---
 <br/><br/><br/><br/><br/><br/>
-## Last updated
+## Last update
 __April 2022__
