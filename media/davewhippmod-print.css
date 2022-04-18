@@ -16,15 +16,16 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
+	/*margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
+	vertical-align: baseline;*/
 }
 
 /* PRINTING STYLE */
+/*TAKEN FROM https://medium.com/@Idan_Co/the-ultimate-print-html-template-with-header-footer-568f415f6d2a*/
 
 .page-header, .page-header-space {
   height: 100px;
@@ -69,6 +70,8 @@ time, mark, audio, video {
 }
 
 
+/* END OF PRINTING STYLE */
+
 
 
 
@@ -109,7 +112,6 @@ table {
 
 
 
-
 body {
 	/*font: normal normal 400;*/
 	font-family: normal;
@@ -119,8 +121,8 @@ body {
 	line-height: 1.42em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 2em;
-	margin-left: 1em;
+	/*margin-top: 2em;
+	margin-left: 1em;*/
 }
 
 p {
