@@ -29,29 +29,10 @@ time, mark, audio, video {
 
 @page {
 	size: A4;
-	/*margin: 20px 20px 20px 50px !important;
-	padding: 20px 20px 20px 50px !important;*/
+	margin: 3cm 2cm 3cm 2cm !important;
+	/*padding: 20px 20px 20px 50px !important;*/
 	        }
 
-@page :left {
-	margin-left: 3cm;
-}
-
-@page :right {
-	margin-left: 4cm;
-	@bottom-right {
-    content: counter(page);
-  }
-}
-
-
-@page :top {
-	margin-left: 10cm;
-}
-
-@page :bottom {
-	margin-left: 10cm;
-}
 
 
 
