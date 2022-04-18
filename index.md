@@ -77,12 +77,12 @@ __Assistant Managing Editor @  Journal for the History of Knowledge__
 `May 2022`
 __Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València (ES)__
 
-
 `Jun 2020`
 __'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University (NL)__
 - 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic.'
 - 2000€ awarded to perform research.
 
+<p hidden>
 `Mar-May 2016`
 __Scholarship Boussole, Region Alsace (FR)__
 - 900€ awarded to perform an internship abroad (Germany).
@@ -90,7 +90,7 @@ __Scholarship Boussole, Region Alsace (FR)__
 `Nov 2015-Feb 2016`
 __Scholarship Erasmus+,	European Commission__
 - 1256€ awarded to perform an internship abroad (Germany).
-
+</p>
 
 
 ## Publications
