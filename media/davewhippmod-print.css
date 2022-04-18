@@ -253,15 +253,12 @@ strong {
   margin-left: 0%;
 }
 
-#address {
-	display: none;
+#address, #molecular {
+	display: none !important;
 }
+
 
 #main {
 	position: relative;
 	top: 10px;
-}
-
-#molecular {
-	display: none;
 }

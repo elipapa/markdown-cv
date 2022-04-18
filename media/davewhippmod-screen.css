@@ -264,14 +264,11 @@ strong {
 
 }
 
-#webaddress4print {
+#webaddress4print, #molecular {
 	display: none !important;
 }
 
 
-#molecular {
-	display: none;
-}
 
 	h1 {
 		font-size: 2.7em;
