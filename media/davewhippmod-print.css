@@ -185,8 +185,7 @@ h2 {
 	/*font-size: 1.43em;*/
 	font-size: 1.1em;
 	text-decoration: underline;
-	/*color: #d94d70;*/
-	color: #1d1d1d;
+	color: #d94d70 !important;
 	position: relative;
 	bottom: 0.33em;
 	left: var(--leftstart);
