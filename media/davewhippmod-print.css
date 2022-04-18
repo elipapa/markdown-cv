@@ -33,6 +33,13 @@ time, mark, audio, video {
 	padding: 20px 20px 20px 50px !important;*/
 	        }
 
+@page :left {
+	margin-left: 3cm;
+}
+
+@page :right {
+	margin-left: 4cm;
+}
 
 
 /* HTML5 display-role reset for older browsers */
