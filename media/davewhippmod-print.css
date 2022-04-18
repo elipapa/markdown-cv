@@ -63,7 +63,7 @@ table {
 {
   /*--leftstart: 18%;*/
 	--leftstart: 3%;
-	--thewidth: 93%;}
+	--thewidth: 90%;}
 
 
 
@@ -233,7 +233,7 @@ a:hover {
 	left: var(--leftstart);
 	margin-bottom: 0.54em;
 	margin-right: 0;
-	width: 75%;
+	width: var(--thewidth);
 	text-align: justify;
 
 }
