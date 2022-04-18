@@ -193,6 +193,18 @@ Front-end website design (CSS, HTML), Python, Pure (management system for resear
 <div id="hidediv">
 </div>Immunohistochemistry, (RT)-PCR, Western blot, Stereological methods, Rodent handling (European Certificate), Tissue Sectioning (vibratome, cryostat).</div>
 
+## Languages
+__Spanish__
+- Native
+
+__Catalan__
+- Native
+
+__English__
+- Full Professional
+
+__French__
+- Intermediate.
 
 
 ## ---
