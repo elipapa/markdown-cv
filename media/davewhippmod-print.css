@@ -109,7 +109,8 @@ code {
 p code {
 	font-size: 0.9em;
 	color: #1d1d1d;
-	text-decoration: underline;
+	font-style: italic;
+	text-decoration: none;
 	/*position: absolute;*/
 	text-align: left;
 	/*left: -25%;*/
@@ -182,6 +183,7 @@ h1+p {
 h2 {
 	/*font-size: 1.43em;*/
 	font-size: 1.1em;
+	text-decoration: italic;
 	/*color: #d94d70;*/
 	color: #1d1d1d;
 	position: relative;
