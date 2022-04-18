@@ -103,6 +103,7 @@ code {
 	/*font-size: 75%;*/
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
+	/*font-family: Avenir,Cousine,Verdana,sans-serif;*/
 	color: #aaa;
 }
 
@@ -183,7 +184,7 @@ h1+p {
 h2 {
 	/*font-size: 1.43em;*/
 	font-size: 1.1em;
-	text-decoration: italic;
+	text-decoration: underline;
 	/*color: #d94d70;*/
 	color: #1d1d1d;
 	position: relative;
