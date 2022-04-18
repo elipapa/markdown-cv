@@ -39,6 +39,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	margin: 25mm 25mm 25mm 25mm;
+
 }
 ol, ul {
 	list-style: none;
