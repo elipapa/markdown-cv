@@ -187,12 +187,6 @@ Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en
 ## Technical IT skills
 Front-end website design (CSS, HTML), Python, Pure (management system for research publications), Open Journal Systems, Graphic design (Photoshop, Lightroom), Freesurfer, SPSS, ITK-Snap, Linux, ImageJ.
 
-<div id="hidediv">
-## Molecular Laboratory skills
-</div>
-<div id="hidediv">
-</div>Immunohistochemistry, (RT)-PCR, Western blot, Stereological methods, Rodent handling (European Certificate), Tissue Sectioning (vibratome, cryostat).</div>
-
 ## Languages
 __Spanish__
 - Native
@@ -204,7 +198,7 @@ __English__
 - Full Professional
 
 __French__
-- Intermediate.
+- Intermediate
 
 
 ## ---
