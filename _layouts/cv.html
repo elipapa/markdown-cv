@@ -9,10 +9,28 @@
   <link rel="shortcut icon" type="image/png" href="favicon.png">
 </head>
 <body>
-  <div id="main">
+  <div class="page-header" style="text-align: center">
+    I'm The Header
+    <br/>
+    <button type="button" onClick="window.print()" style="background: pink">
+      PRINT ME!
+    </button>
+  </div>
+  <div class="page-footer">
+   I'm The Footer
+ </div>
+    <div id="main">
     <div id="content">
     {{ content }}
     </div>
   </div>
+  <tfoot>
+  <tr>
+    <td>
+      <!--place holder for the fixed-position footer-->
+      <div class="page-footer-space"></div>
+    </td>
+  </tr>
+</tfoot>
 </body>
 </html>
