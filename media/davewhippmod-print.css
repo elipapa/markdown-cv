@@ -28,8 +28,9 @@ time, mark, audio, video {
 }
 
 @page {
-	            margin: 20px 20px 20px 50px !important;
-	            padding: 20px 20px 20px 50px !important;
+	size: A4;
+	margin: 20px 20px 20px 50px !important;
+	padding: 20px 20px 20px 50px !important;
 	        }
 
 /* HTML5 display-role reset for older browsers */
