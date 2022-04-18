@@ -16,7 +16,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 4mm;
+	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -75,8 +75,8 @@ body {
 	line-height: 1.42em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 2em;
-	margin-left: 1em;
+	margin-top: 4mm;
+	margin-left: 1mm;
 }
 
 p {
