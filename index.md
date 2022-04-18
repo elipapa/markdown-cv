@@ -8,7 +8,7 @@ PhD student in the History and Philosophy of Science. Interested in Open Science
 </div>
 
 <div id="webaddress">
-<a href="mailto:max.bautista@uclouvain.be?subject=Hello!">max.bautista@uclouvain.be</a> | My personal page: <a href="https://www.oliviodare.com/" target="_blank" >www.oliviodare.com</a>
+<a href="mailto:max.bautista@uclouvain.be?subject=Hello!">max.bautista@uclouvain.be</a> | Personal site: <a href="https://www.oliviodare.com/" target="_blank" >www.oliviodare.com</a>
 </div>
 
 ## Currently
