@@ -194,7 +194,7 @@ a:hover {
 }
 
 
-#myself {
+#myself, #webaddress4print {
 	position: relative;
 	left: var(--leftstart);
 	margin-bottom: 0.7em;
@@ -206,8 +206,6 @@ a:hover {
 
 #webaddress4print {
 	margin-top: 1em;
-	position: relative;
-	left: var(--leftstart);
 	/*color: #d94d70;*/
 	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
 	font-family: Avenir,Verdana,sans-serif;
