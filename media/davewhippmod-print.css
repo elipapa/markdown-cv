@@ -114,6 +114,8 @@ table {
 
 body {
 	/*font: normal normal 400;*/
+	margin: 0;
+	position:relative;;
 	font-family: normal;
 	font-weight: 400;
 	/*font-size: 93%;*/
