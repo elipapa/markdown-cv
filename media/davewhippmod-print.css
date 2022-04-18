@@ -30,7 +30,7 @@ time, mark, audio, video {
 @page {
 	size: A4;
 	margin: 0.3cm 1.5cm 1.5cm 0.3cm !important;
-	margin: 0.3cm 1.5cm 1.5cm 0.3cm !important;
+	padding: 0.3cm 1.5cm 1.5cm 0.3cm !important;
 
 	/*padding: 20px 20px 20px 50px !important;*/
 	        }
@@ -187,7 +187,7 @@ h2 {
 	/*font-size: 1.43em;*/
 	font-size: 1.1em;
 	/*text-decoration: underline;*/
-	color: #d94d70 !important;
+	color: #d94d70;
 	position: relative;
 	bottom: 0.33em;
 	left: var(--leftstart);
