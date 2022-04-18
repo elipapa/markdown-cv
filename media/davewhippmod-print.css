@@ -261,3 +261,7 @@ strong {
 	position: relative;
 	top: 10px;
 }
+
+#molecular {
+	display: none;
+}

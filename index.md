@@ -202,6 +202,7 @@ Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en
 - Linux
 - ImageJ
 
+<div id="molecular">
 ## Molecular Laboratory skills
 - Immunohistochemistry
 - (RT)-PCR
@@ -209,7 +210,7 @@ Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en
 - Stereological methods
 - Rodent handling (European Certificate)
 - Tissue Sectioning (vibratome, cryostat)
-
+</div>
 
 ## Languages
 __Spanish__
