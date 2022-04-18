@@ -61,7 +61,9 @@ table {
 
 :root
 {
-  --leftstart: 18%;}
+  /*--leftstart: 18%;*/
+	--leftstart: 3%;
+	--thewidth: 93%;}
 
 
 
@@ -71,7 +73,7 @@ body {
 	font-family: normal;
 	font-weight: 400;
 	/*font-size: 93%;*/
-	font-size: 83%;
+	font-size: 73%;
 	line-height: 1.42em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
@@ -84,7 +86,8 @@ p {
 	left: var(--leftstart);
 	margin-bottom: 0.4em;
 	margin-right: 0;
-	width: 73%;
+	/*width: 73%;*/
+	width: var(--thewidth);
 	text-align: justify;
 
 }
@@ -99,9 +102,13 @@ code {
 }
 
 p code {
-	position: absolute;
+	font-size: 0.9em;
+	color: #1d1d1d;
+	text-decoration: underline;
+	/*position: absolute;*/
 	text-align: left;
-	left: -25%;
+	/*left: -25%;*/
+	/*left: -19%;*/
 	max-width: 20%;
 }
 
@@ -126,7 +133,8 @@ li {
 	/*padding-left: 1.25em;*/
 	/*text-indent: -1.25em;*/
 	left: 25%;
-	width: 73%;
+	/*width: 73%;*/
+	width: var(--thewidth);
 	margin-top: 0.25em;
 	margin-bottom: 0.35em;
 	margin-right: 0;
@@ -152,7 +160,8 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 2em;
+	/*font-size: 2em;*/
+	font-size: 1.5em;
 	line-height: 1em;
 	position: relative;
 	left: var(--leftstart);
@@ -166,13 +175,15 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.43em;
+	/*font-size: 1.43em;*/
+	font-size: 1.1em;
 	color: #d94d70;
 	position: relative;
 	bottom: 0.33em;
 	left: var(--leftstart);
 	text-align: left;
-	width: 73%;
+	/*width: 73%;*/
+	width: var(--thewidth);
 	margin-top: 23px;
 }
 
@@ -202,7 +213,8 @@ a:hover {
 	margin-bottom: 0.7em;
 	margin-top: 0.7em;
 	margin-right: 0;
-	width: 73%;
+	/*width: 73%;*/
+	width: var(--thewidth);
 	text-align: justify;
 }
 
@@ -235,9 +247,10 @@ strong {
 	font-weight: bold;
 	left: 25%;
 	width: 45%;
-   	margin-top: 0.25em;
-   	margin-bottom: 0.1em;
-    	margin-right: 0;
+  margin-top: 0.25em;
+  margin-bottom: 0.1em;
+  margin-right: 0;
+  margin-left: 1%;
 }
 
 #address {
