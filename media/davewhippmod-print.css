@@ -186,7 +186,7 @@ h1+p {
 h2 {
 	/*font-size: 1.43em;*/
 	font-size: 1.1em;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	color: #d94d70 !important;
 	position: relative;
 	bottom: 0.33em;
