@@ -198,7 +198,7 @@ Immunohistochemistry, (RT)-PCR, Western blot, Stereological methods, Rodent hand
 
 
 ## Languages
-__Spanish__ Native, __Catalan__, Native, __English__ Full Professional, __French__ Intermediate.
+__Spanish__: Native, __Catalan__: Native, __English__: Full Professional, __French__: Intermediate.
 
 ## ---
 ## Last updated
