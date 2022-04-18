@@ -136,15 +136,11 @@ ul {
 
 li {
 	/*second line indent*/
-	/*padding-left: 1.25em;*/
-	/*position:relative;*/
 	left: -3.3%;
 	/*width: 73%;*/
 	width: var(--thewidth);
-	/*margin-top: 0.25em;*/
-	margin-top: 0;
-	/*margin-bottom: 0.35em;*/
-	margin-bottom: 0;
+	margin-top: 0.25em;
+	margin-bottom: 0.35em;
 	margin-right: 0;
 	text-align: justify;
 	/*color: #777;*/
