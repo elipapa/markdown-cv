@@ -8,32 +8,13 @@
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
   <link rel="shortcut icon" type="image/png" href="favicon.png">
 </head>
-<body>
-  <div class="page-header" style="text-align: center">
-    I'm The Header
-    <br/>
-    <button type="button" onClick="window.print()" style="background: pink">
-      Print-friendly PDF!
-    </button>
-  </div>
+<body style="margin:0;padding:0">
+
     <div id="main">
     <div id="content">
     {{ content }}
     </div>
   </div>
-
-  <div class="page-footer">
-   I'm The Footer!
- </div>
-
-  <tfoot>
-  <tr>
-    <td>
-      <!--place holder for the fixed-position footer-->
-      <div class="page-footer-space"></div>
-    </td>
-  </tr>
-</tfoot>
 
 </body>
 </html>
