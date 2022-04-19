@@ -1,0 +1,329 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end of reset */
+
+
+
+body {
+	/*font: normal normal 400;*/
+	font-family: normal;
+	font-weight: 400;
+	font-size: 100%;
+	line-height: 1.5em;
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	font-family: Avenir,Verdana,sans-serif;
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
+p {
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 50%;
+}
+
+code {
+	font: normal normal;
+	font-size: 72%;
+	/*line-height: 1em;*/
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: #aaa;
+}
+
+p code {
+	position: absolute;
+	text-align: left;
+	left: -16%;
+	max-width: 13%;
+}
+
+
+ul {
+	position: relative;
+	left: 33%;
+	width: 100%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
+}
+
+/*uncomment to get dashes in the list*/
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}*/
+
+li {
+	/*second line indent*/
+	/*padding-left: 1.25em;*/
+	/*text-indent: -1.25em;*/
+	left: 25%;
+	width: 45%;
+   	margin-top: 0.25em;
+   	margin-bottom: 0.7em;
+    	margin-right: 0;
+	/*color: #777;*/
+
+}
+
+li ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.25em;
+}
+
+h1,h2,h3,h4 {
+	font-weight: 400;
+	font-family: Avenir,Cousine,Verdana,sans-serif;
+	width: 80%;
+	padding-top: 2mm;
+}
+
+h1 {
+	text-align: left;
+	font-size: 3em;
+	line-height: 1em;
+	position: relative;
+	left: 25%;
+}
+
+h1+p {
+	/*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+}
+
+h2 {
+	font-size: 1.43em;
+	color: #d94d70;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
+
+h3 {
+	font-size: 1em;
+	line-height: 2em;
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
+}
+
+a {
+	color: #1d1d1d;
+	/*text-decoration:none;*/
+}
+
+a:hover {
+	color:#03B5AA;
+	transition-duration: 0.8s;
+}
+
+h1 {
+	text-align: left;
+    	font-size: 3em;
+    	line-height: 1em;
+    	position: relative;
+    	left: 33%;
+			width: 50%;
+}
+
+#myself {
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.7em;
+	margin-top: 0.7em;
+	margin-right: 0;
+	width: 42%;
+}
+
+
+#hiddendiv {
+	display: none !important;
+}
+
+
+#currentlytext {
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 45%;
+}
+
+em {
+	/* font-weight: bold; */
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+	left: 25%;
+	width: 45%;
+   	margin-top: 0.25em;
+   	margin-bottom: 0.7em;
+    	margin-right: 0;
+}
+
+#main {
+	position: relative;
+	top: 10px;
+}
+
+:root
+{
+  --leftstart: 140px;}
+
+/* This hack fixes scrollable on x for tablets */
+@media only screen and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+	body, content {
+		width:100%;
+	}
+
+	p, #currentlytext, #myself  {
+		left: 20px;
+		top: 29px;
+		width: 74%;
+		margin-bottom: 1.8em;
+		/*text-indent: var(--leftstart);*/
+		/*text-align: right;*/
+	}
+
+#myself {
+	top: 0px;
+
+}
+
+
+	h1 {
+		font-size: 2.7em;
+		left:20px;
+		width: 80%;
+	}
+
+	strong {
+    left: 0%;
+    width: 45%;
+    margin-top: 0.25em;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    position: relative;
+    top: 21px;
+}
+	p code {
+		max-width: 100%;
+		left:0px;
+		text-indent: 0px;
+	}
+
+	ul {
+		position: relative;
+		left: 20px;
+		top: 23px;
+		width: 100%;
+		margin-bottom: 0em;
+		margin-top: 0em;
+	}
+
+	li {
+		width: 74%;
+	}
+
+	h2 {
+		font-size: 1.73em;
+		top:19px;
+		width: 100%;
+		text-align: left;
+		left: 20px;
+		margin-top: 40px;
+	}
+
+
+
+}
+
+#button-long {
+	  display: flex;
+	  flex-direction: column;
+	  align-items: center;
+	  padding: 6px 14px;
+	  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+	  border-radius: 6px;
+	  border: none;
+	  background: #6E6D70;
+	  box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+	  color: #DFDEDF;
+	  user-select: none;
+	  -webkit-user-select: none;
+	  touch-action: manipulation;
+		position: fixed;
+    z-index: 1;
+    bottom: 15px;
+		right:19px;
+	}
+
+#button-long:focus {
+	  box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+	  outline: 0;
+	}
+
+
+}
