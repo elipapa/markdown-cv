@@ -85,7 +85,7 @@ body {
 p {
 	position: relative;
 	left: var(--leftstart);
-	margin-bottom: 0.4em;
+	margin-bottom: 0.8em;
 	margin-right: 0;
 	/*width: 73%;*/
 	width: var(--thewidth);
