@@ -37,7 +37,7 @@ title: Cameron Anderson CV
 
 `2019-2021`
 **Master of Science in Psychology**. *McMaster University*, Hamilton ON.
-- <a href="https://macsphere.mcmaster.ca/handle/11375/27012" target="_blank"><i class="fas fa-link"></i><b>Thesis</b>: Elements of musically conveyed emotion: Insights from musical and perceptual analyses of historic preludes.</a>
+- <a href="https://macsphere.mcmaster.ca/handle/11375/27012" target="_blank"><b>Thesis</b>: Elements of musically conveyed emotion: Insights from musical and perceptual analyses of historic preludes.</a>
 
 `2015-2019`
 **Bachelor of Music**, *McMaster University*, Hamilton ON.
@@ -103,7 +103,7 @@ My PhD research in the MAPLE Lab examines the relationship between composers' ex
 
 I have also worked on a project examining how musical considerations in the design of medical auditory alarms can reduce their perceived annoyance, using the tone synthesis software *Supercollider* to generate novel timbres for auditory alarms.
 
-**<a href="https://cmndrsn.shinyapps.io/clusterappgitlab/" target="_blank"><i class="fas fa-link"></i> Cluster Analysis Explorer.</a>**
+**<a href="https://cmndrsn.shinyapps.io/clusterappgitlab/" target="_blank">Cluster Analysis Explorer.</a>**
 
 A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Lewis & Ruth Sherman Centre for Digital Scholarship.
 
