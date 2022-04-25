@@ -18,7 +18,6 @@ MSc Data Science Student
 
 
 ## Education
-
 `2022-2023`
 __Goldsmtiths, University of London__
 
@@ -44,7 +43,6 @@ Our research produced useful IP for the production of biofuels and biopolymers u
 
 
 ## Experience
-
 `March 2019 - November 2019`
 __University of Nottingham iGEM Team__, Nottingham
 
