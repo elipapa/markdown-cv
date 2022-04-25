@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yaseen Tengur's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yaseen Tengur
+
+MSc Data Science Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="yaseen.tengur@gmail.com">yaseen.tengur@gmail.com</a>
+| <a href="https://www.linkedin.com/in/yaseen-tengur/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+MSc Data Science Student
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-2023`
+__Goldsmtiths, University of London__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+MSc Data Science 
 
 
+`2018 - 2020`
+__University of Nottingham__
+
+Biochemistry and Biological Chemistry.
+
+  * Nottigham 2019 iGEM team
+  * Peer mentor
+  * Mauritian society secretary
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2019`
+__*Gold medal*, iGEM Competition__, Boston, MA.
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Nottingham 2019 iGEM Team. Our project focussed on creating a novel food-safety system for the detection of C. *botulinum* in food processing plants.
+Our research produced useful IP for the production of biofuels and biopolymers using anaerobic bacteria.
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`March 2019 - November 2019`
+__University of Nottingham iGEM Team__, Nottingham
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+An international genetic engineering competition
+  * Data collection
+  * Presentation ....
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Aptil 2022 -->
