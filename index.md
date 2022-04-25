@@ -69,7 +69,7 @@ Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tan
 
 Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
 
-## Other Publications
+## Other Written Contributions
 
 **Anderson, C. J.** <a href="https://scds.ca/how-digital-tools-can-help-us-understand-music-analysis/" target="_blank"><i class="fas fa-link"></i> How Digital Tools Can Help Us Understand Music Analysis.</a> *Lewis & Ruth Sherman Centre For Digital Scholarship*.
 
@@ -116,23 +116,32 @@ A <a href="https://twitter.com/scaleoftheday" target="_blank"><i class="fab fa-t
 
 ## Seleceted Conference Activity
 
-**Anderson, C.J.**, & Schutz, M. (2022, February). *Mode's Effect on Perceived Emotional Valence.* (Poster). Forthcoming presentation at 50th Annual Lake Ontario Visionary Establishment Conference. Niagara Falls, Canada.
+Anderson, C.J., & Schutz, M. (2022, August). *Demonstrating a Novel Method for Exploring Musical Changes Across History* (Talk). Forthcoming presentation at Society for Music Perception and Cognition. Portland, Oregon.
 
-**Anderson, C.J.**, & Schutz, M. (2021, November). *Emotion Perception and Mode Recognition in a Music Cognition Classroom.* (Poster). Presented at 19th Annual Auditory Perception, Cognition and Action Meeting. Virtual conference.
+Anderson, C.J., & Schutz, M. (2022, August). *The Role of Structural and Interpretive Cues in Emotional Communication: Analyzing Emotion in Expressive and Deadpan Excerpts of Bach’s The Well-Tempered Clavier* (Poster). Forthcoming presentation at Society for Music Perception and Cognition. Portland, Oregon, United States.
 
-**Anderson, C. J.**, (2021, March). *Analyzing Expressive Differences in Historic Prelude Sets Using Cluster Analysis.* (Video Poster Presentation). Presented at Future Directions of Music Cognition, Ohio State University. Virtual Conference. Retrieved from osf.io/qbz7g
+Anderson, C.J., Ertemin, D., Morgan, B., & Propst, A. (2022, May 4). *Towards More Meaningful Science Communication with the Benefit of Digital Scholarship* (Digital Workshop). Forthcoming workshop at Lewis & Ruth Sherman Centre for Digital Scholarship. Hamilton, Canada.
 
-**Anderson, C.J.**, & Schutz, M. (2020, December). *Acoustic Elements in Emotion Expression.* (Talk). Presented at 19th Annual Auditory Perception and Cognition Action Meeting. Virtual Conference.
+Anderson, C.J., & Schutz, M. (2021, November). *Emotion Perception and Mode Recognition in a Music Cognition Classroom.* (Poster). Presented at 19th Annual Auditory Perception, Cognition and Action Meeting. Virtual conference.
 
-**Anderson, C.J.**, & Schutz, M. (2019, November) *Historical Changes in Musical Expression* (Poster). Presented at 15th Annual NeuroMusic Conference, Hamilton, Canada.
+Anderson, C. J., (2021, March). *Analyzing Expressive Differences in Historic Prelude Sets Using Cluster Analysis.* (Video Poster Presentation). Presented at Future Directions of Music Cognition, Ohio State University. Virtual Conference. Retrieved from osf.io/qbz7g
 
-**Anderson, C. J.**, Sreetharan, S., & Schutz, M (2019, February). *Examining Melodic Alarm Recognition Accuracy Across Contrasting Timbres.* (Poster). Presented at 48th Annual Lake Ontario Visionary Establishment Conference, Niagara Falls, Canada.
+Anderson, C.J., & Schutz, M. (2020, December). *Acoustic Elements in Emotion Expression.* (Talk). Presented at 19th Annual Auditory Perception and Cognition Action Meeting. Virtual Conference.
 
-**Anderson, C. J.**, & Schutz, M. (2018, November). *Can Musical Cues Improve Auditory Alarms in the I.C.U.?* (Poster). Presented at McMaster Innovation Showcase: The Future is Here. Hamilton, Canada.
+Anderson, C.J., & Schutz, M. (2019, November) *Historical Changes in Musical Expression* (Poster). Presented at 15th Annual NeuroMusic Conference, Hamilton, Canada.
+
+Anderson, C. J., Sreetharan, S., & Schutz, M (2019, February). *Examining Melodic Alarm Recognition Accuracy Across Contrasting Timbres.* (Poster). Presented at 48th Annual Lake Ontario Visionary Establishment Conference, Niagara Falls, Canada.
+
+Anderson, C. J., & Schutz, M. (2018, November). *Can Musical Cues Improve Auditory Alarms in the I.C.U.?* (Poster). Presented at McMaster Innovation Showcase: The Future is Here. Hamilton, Canada.
+
+## Graduate Courses Taken
+
+**Statistical Learning** (STATS 790), **Data Science** (STATS 780), **Advanced Statistics & Computational Methods** (PSYCH 712), **Statistics & Research Design** (PSYCH 710), **Contemporary Problems in Psychology** (PSYCH 720). 
 
 ## References
 
 Available upon request.
+
 
 <!-- ### Footer
 
