@@ -20,7 +20,6 @@ title: Cameron Anderson CV
 -   PhD Student developing statistical methods to study how emotion perceived in music relates to its historic context and listeners' musical experiences.
 - Developing software applications to make findings from quantitative music analyses accessible to listeners.
 - Master's thesis examined musical and psychological data, using data science methods to detect musical patterns in music from different periods.
-- Avid composer, music producer and orchestral trombonist with degrees in Music (B.Mus.) and Psychology (M.S.).
 
 ## Proficiencies
 
@@ -136,7 +135,7 @@ Anderson, C. J., & Schutz, M. (2018, November). *Can Musical Cues Improve Audito
 
 ## Graduate Courses Taken
 
-**Statistical Learning** (STATS 790), **Data Science** (STATS 780), **Advanced Statistics & Computational Methods** (PSYCH 712), **Statistics & Research Design** (PSYCH 710), **Contemporary Problems in Psychology** (PSYCH 720). 
+*Statistical Learning* (STATS 790), *Data Science* (STATS 780), *Advanced Statistics & Computational Methods* (PSYCH 712), *Statistics & Research Design* (PSYCH 710), *Contemporary Problems in Psychology* (PSYCH 720). 
 
 ## References
 
