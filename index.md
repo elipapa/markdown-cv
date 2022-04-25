@@ -62,15 +62,15 @@ title: Cameron Anderson CV
 
 ## Journal Articles
 
-**Anderson, C. J.**, & Schutz, M. (2021). <a href="https://journals.sagepub.com/doi/10.1177/03057356211046375" target="_blank"><i class="fas fa-link"></i> Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.</a> *Psychology of Music*. OnlineFirst Publication.
+**Anderson, C. J.**, & Schutz, M. (2021). <a href="https://journals.sagepub.com/doi/10.1177/03057356211046375" target="_blank"> Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.</a> *Psychology of Music*. OnlineFirst Publication.
 
-Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422" target="_blank"><i class="fas fa-link"></i> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
+Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422" target="_blank"> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
 
-Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"><i class="fas fa-link"></i> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
+Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
 
 ## Other Written Contributions
 
-**Anderson, C. J.** <a href="https://scds.ca/how-digital-tools-can-help-us-understand-music-analysis/" target="_blank"><i class="fas fa-link"></i> How Digital Tools Can Help Us Understand Music Analysis.</a> *Lewis & Ruth Sherman Centre For Digital Scholarship*.
+**Anderson, C. J.** <a href="https://scds.ca/how-digital-tools-can-help-us-understand-music-analysis/" target="_blank"> How Digital Tools Can Help Us Understand Music Analysis.</a> *Lewis & Ruth Sherman Centre For Digital Scholarship*.
 
 ## Positions
 
@@ -95,11 +95,11 @@ __Writing Advisor__, Student Success Centre, McMaster University, Hamilton, ON.
 
 ### *Academic* 
 
-**<a href="https://maplelab.net/overview/music-and-emotion/" target="_blank"><i class="fas fa-link"></i> Emotional Piano Project.</a>**
+**<a href="https://maplelab.net/overview/music-and-emotion/" target="_blank"> Emotional Piano Project.</a>**
 
 My PhD research in the MAPLE Lab examines the relationship between composers' expressive choices and music's perceived emotion using a combination of formal music analysis, perceptual experiments, and machine learning approaches.
 
-**<a href="https://maplelab.net/overview/auditory-alarms/" target="_blank"><i class="fas fa-link"></i> Auditory Alarms Project.</a>**
+**<a href="https://maplelab.net/overview/auditory-alarms/" target="_blank"> Auditory Alarms Project.</a>**
 
 I have also worked on a project examining how musical considerations in the design of medical auditory alarms can reduce their perceived annoyance, using the tone synthesis software *Supercollider* to generate novel timbres for auditory alarms.
 
@@ -111,9 +111,9 @@ A common issue with musical analyses is the inability to *hear* what an analyst 
 
 **<a href="https://gitlab.com/andersoc/practice-scheduler" target="_blank"><i class="fab fa-gitlab"></i> Scale of the Day.</a>**
 
-A <a href="https://twitter.com/scaleoftheday" target="_blank"><i class="fab fa-twitter"></i> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
+A <a href="https://twitter.com/scaleoftheday" target="_blank"> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
 
-## Seleceted Conference Activity
+## Selected Conference Activity
 
 Anderson, C.J., & Schutz, M. (2022, August). *Demonstrating a Novel Method for Exploring Musical Changes Across History* (Talk). Forthcoming presentation at Society for Music Perception and Cognition. Portland, Oregon.
 
