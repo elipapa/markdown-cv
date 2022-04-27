@@ -1,16 +1,39 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
+
 <head>
   <meta charset=utf-8 />
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  <link href="/media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="/media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
 </head>
+
 <body>
+  <a href="/index.html" class="hide-print">Return to cvs</a>
+  <br>
+  <br>
   <div id="main">
     <div id="content">
-    {{ content }}
+      {% capture index %}
+      {% include cv_content.md %}
+      {% endcapture%}
+
+      {{ index | markdownify}}
+
+      <!-- Here comes additional content from post file-->
+      {{ content }}
+
+      {% if page.legal %}
+      <h2>
+        Legal
+      </h2>
+      <p>
+        {{page.legal}}
+      </p>
+      {% endif %}
+
     </div>
   </div>
 </body>
+
 </html>

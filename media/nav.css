@@ -1,0 +1,26 @@
+h1
+{
+    text-align: center;
+    margin-top: 30vh;
+}
+.nav {
+    margin: 0 auto;
+    width: 640px;
+}
+
+.nav>ul>li {
+    text-align: center;
+    font-size: 32px;
+    margin: 10px;
+}
+
+.nav>ul {
+    padding-inline-start: 0;
+    position: relative;
+    display: flex;
+    overflow-x: auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    list-style-type: none;
+}

@@ -3,19 +3,87 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -23,25 +91,44 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
-ol, ul {
+
+ol,
+ul {
 	list-style: none;
 }
-blockquote, q {
+
+blockquote,
+q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -49,16 +136,10 @@ table {
 
 /* end of reset */
 
-
-
 body {
-	font: normal normal 400;
-	font-size: 10pt;
-	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	font-size: 14px;
+	line-height: 1.5em;
+	font-family: Verdana, sans-serif;
 }
 
 p {
@@ -73,17 +154,18 @@ code {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Menlo, monospace, sans-serif;
+	text-align: right;
 	color: #ccc;
 }
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -13%;
 }
 
 
-ul { 
+ul {
 	position: relative;
 	left: 28%;
 	width: 65%;
@@ -91,12 +173,14 @@ ul {
 	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
+ul {
+    list-style-type: disc;
+    position: relative;
+    left: 33%;
+    width: 66%;
+    margin-bottom: 1.5em;
+    margin-top: -0.5em;
+}
 
 li {
 	/*second line indent*/
@@ -112,9 +196,12 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+h1,
+h2,
+h3,
+h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Cousine, Verdana, sans-serif;
 	width: 65%;
 }
 
@@ -126,7 +213,7 @@ h1 {
 	left: 28%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -145,7 +232,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
@@ -153,21 +240,29 @@ h3 {
 	width: 18%;
 }
 
+h4 {
+	font-size: 0.55em;
+	position: relative;
+	top: 3em;
+	text-align: right;
+	width: 18%;
+}
+
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration: none
 }
 
 a:hover {
-	color:#39f
+	color: #39f
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
+	color: #a00;
+	font-family: Menlo, monospace, sans-serif;
 	font-size: 80%;
 }
 
@@ -177,7 +272,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	color: #2d4e5e
 }
 
 strong {
@@ -193,5 +288,3 @@ strong {
 {
 	display: none;
 }
-
-

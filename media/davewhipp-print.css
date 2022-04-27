@@ -190,5 +190,8 @@ strong {
 	visibility: hidden;
 }
 
-
+.hide-print
+{
+	display: none;
+}
 
