@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cvs</title>
+    <link rel="stylesheet" href="/media/nav.css">
+</head>
+
+
+<body>
+    <div class="nav">
+        <h1>CVs rendered</h1> 
+        <ul>
+            {% for item in site.posts %}
+            <li>
+                <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+
+</html>

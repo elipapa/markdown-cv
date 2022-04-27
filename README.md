@@ -6,13 +6,23 @@ For more details, see the [project page](http://elipapa.github.io/markdown-cv), 
 
 ***
 
+Extended version:
+- added multiple CV support, now INDEX.md defines the navigation hub. To edit CV look at **_includes/cv_content.md**
+- added **legal** variable that generates additional info personalized for your employer in one paragraf
+
+this README.md file was edited by me to accomodate those changes.
+
+...Jacek
+
+***
+
 ## Customization
 
 Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
 
 ![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+and edit the `_includes/cv_content.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
 ![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
@@ -20,11 +30,21 @@ adding your skills, jobs and education.
 
 ![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
+after that you can create multiple cvs, via adding them in __posts using `YEAR-MONTH-DAY-name-.md`. All created cvs should appear at index.html page. They include **legal** variable, and content of file will be appear on the middle (below cv_content.md and above legal variable) of your cv page.
+
 ## Distribution
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+To transform your plain text CV into a beautiful and shareable HTML page, you have two options below. With this extended version I highly suggest using local build and printing.
 
-### I. Use Github Pages to publish it online
+### I. Build it locally and print a PDF
+
+1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
+3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
+3. Type `jekyll serve` to render your CV at http://localhost:4000.
+4. You can edit the `index.md` file and see the changes live in your browser.
+5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+   
+### II. Use Github Pages to publish it online
 
 1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
 2. Create a new branch called `gh-pages`.
@@ -32,33 +52,33 @@ To transform your plain text CV into a beautiful and shareable HTML page, you ha
 
 Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-### II. Build it locally and print a PDF
-
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
-
 ## Styling
 
-The included CSS will render your CV in two styles:
-s
+The included CSS will render your CV in three styles:
+
 1. `kjhealy` the original default, inspired by [kjhealy's vita
 template](https://github.com/kjhealy/kjh-vita).
 2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
   right aligned.
+3. `jacekwozniak` is extended version of those two before mentioned.
+
+In addition all styles got new `hide-print` class.
 
 To change the default style, simply change the variable in the
 `_config.yml` file.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+Any other styling is possible. More CSS style contributions and forks are welcome! 
 
 ### Author
 
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
+
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+
+
+Extended by Jacek Woźniak [Website](https://jacekwozniak12.github.io/)
+
 
 ### License
 
