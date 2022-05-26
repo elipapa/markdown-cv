@@ -47,6 +47,7 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 
 
 ## Selected Publications
+
 `2021`
 __Rashid, T.__, Bennett, J.E. _et al._ (2021). [Life expectancy and risk of death in 6791 communities in England from 2002 to 2019: high-resolution spatiotemporal analysis of civil registration data](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00205-X/fulltext). _The Lancet Public Health_, 6, e805 - e816.
 
@@ -62,14 +63,17 @@ Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the lifecycle of majo
 
 
 
-## Conferences
+## Talks
+
+`2022`
+The changing mortality patterns in 6791 communities in England, __6th Human Mortality Database Symposium, INED__
 
 `2021`
-High-resolution spatiotemporal analysis in 6,791 English areas reveals declines in life expectancy, presentation, __European Public Health Conference__
+High-resolution spatiotemporal analysis in 6,791 English areas reveals declines in life expectancy, __European Public Health Conference__
 
-Life expectancy inequality in London, presentation, __Conference of the International Society for Environmental Epidemiology__
+Life expectancy inequality in London, __Conference of the International Society for Environmental Epidemiology__
 
-High resolution analysis reveals widening 30-year life expectancy gap within London, poster, __International Conference on Urban Health__
+High resolution analysis reveals widening 30-year life expectancy gap within London, __International Conference on Urban Health__
 
 
 ## Teaching
