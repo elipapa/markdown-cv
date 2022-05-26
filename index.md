@@ -11,20 +11,6 @@ layout: cv
 </div>
 
 
-<!-- ## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples. -->
-
-
 ## Current
 
 `2019-`
@@ -69,7 +55,7 @@ Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the lifecycle of majo
 The changing mortality patterns in 6791 communities in England, __6th Human Mortality Database Symposium, INED__
 
 `2021`
-High-resolution spatiotemporal analysis in 6,791 English areas reveals declines in life expectancy, __European Public Health Conference__
+High-resolution spatiotemporal analysis in 6791 English areas reveals declines in life expectancy, __European Public Health Conference__
 
 Life expectancy inequality in London, __Conference of the International Society for Environmental Epidemiology__
 
