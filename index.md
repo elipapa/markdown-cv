@@ -108,6 +108,9 @@ __Mixed Martial Arts and Sports__
 
 ## Occupation
 
+`June 2021-Present`
+*Administrative Assistant | Team Mobile App Tester | Warehouse Clerk*, Backyard Products
+
 `July 2020-February`
 *Independant Contractor*, Markham Investigation and Protection Services
 
@@ -118,7 +121,7 @@ __Mixed Martial Arts and Sports__
 *SRO*, Star Protection Agency, LLC
 
 
-<h3 align="right">Last updated: February 2021</h3>
+<h3 align="right">Last updated: July 2022</h3>
 
 <span align="center"><b><a href="https://supercodingninja.github.io/Portfolio_Discover-Frederick-Thomas/">#DiscoverFrederickThomas</a></b></span>
 
