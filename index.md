@@ -100,7 +100,7 @@ __Active Minister and Community Volunteer__
 - I am a licensed minister within my church organization; and I personally help the homeless, and families in need.  I try to help others, no matter what their beliefs are.  I love winning people.
 
 __Musician, Actor, Writer, Comedian__
-- I am a Musican for over 32 years.  I have been a Saxophonist for 27 years.  Writing was once, my weakest element; and now it is a great strength. I like to act, when given the opportunity.  I also love to laugh; and cause others to have a good time.   
+- I am a Musican for over 33 years.  I have been a Saxophonist for 28 years.  Writing was once, my weakest element; and now it is a great strength. I like to act, when given the opportunity.  I also love to laugh; and cause others to have a good time.   
 
 __Mixed Martial Arts and Sports__
 - I have practiced Mixed Martial Arts, played on Rugby, Football, Soccer, and Wrestling teams.  I enjoy watching NFL games with a few friends; or even professional colleagues.
