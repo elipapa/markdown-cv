@@ -15,7 +15,7 @@ Minister | Husband & Father | Full-Stack Developer | <img src="media/USMC.jpg" a
 
 - <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank">Click 👉🏿 Here 👈🏿 To View With The Audio</a>
 
-Hello.  My name is Frederick; and I want to change my world!  I am an accomplished Independent Contractor, with over 24 years work experience, ranging from Major Social Media Corporations to High-risk specialty assignments.  I continued my professional studies, while operating at a high level; and I have performed exceptionally well out of country, in austere environments.  I aim to maintain a spotless record for safety throughout my career professions and businesses.  I am ethical, and I have character.
+Hello.  My name is Frederick; and I want to change my world!  I am an accomplished Independent Contractor, with over 25 years work experience, ranging from Major Social Media Corporations to High-risk specialty assignments.  I continued my professional studies, while operating at a high level; and I have performed exceptionally well out of country, in austere environments.  I aim to maintain a spotless record for safety throughout my career professions and businesses.  I am ethical, and I have character.
 
 ## Currently
 
@@ -33,9 +33,9 @@ Hello.  My name is Frederick; and I want to change my world!  I am an accomplish
 
 ## Education
 
-`September 2020-April 2021`
+`August 2020-March 2021`
 __UW Coding Bootcamp, Seattle, WA (Online)__
-- Full-Stack Web Developer, Certificate Course. Expecting Professional Certificate.
+- Graduate, Certificate for Full Stack Web Development.
 
 `2016-2017`
 __Code Fellows, Seattle, WA__
