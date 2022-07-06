@@ -19,7 +19,7 @@ Hello.  My name is Frederick; and I want to change my world!  I am an accomplish
 
 ## Currently
 
-<span style="font-size:larger;">Preparing to graduate/earn my professional certificate, from the *University of Washington*.</span>
+<span style="font-size:larger;">Working towards achieving my doctorate, CCNP certification, and studying the best practices for developing secured web applications</span>
 
 ### Languages and Tools
 
