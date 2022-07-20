@@ -1,9 +1,9 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Carlos Camacho
+Full Stack Developer
+
+## About
+I’m a driven and curious self taught Developer with 4+ years experience in designing, maintaining and developing customer driven Websites & Web Apps. With more than 10 years of previous experience in Marketing and Sales, as a freelancer, I’ve helped many clients, to go from initial idea to production ready sites.
+
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
