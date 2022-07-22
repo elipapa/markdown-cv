@@ -59,14 +59,21 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 50 publications; 14 first author; 3 last author  
-Since 2017 (last 5 yrs): 37 publications; 8 first author; 2 last author  
+Total: 53 publications; 14 first author; 4 senior author  
+Since 2017 (last 5 yrs): 38 publications; 8 first author; 3 senior author  
 
 `2022`.  
+**DOYLE SR** (2022) [Improving helminth genome resources in the post-genomic era](https://doi.org/10.1016/j.pt.2022.06.002). Trends in Parasitology
+
+**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2022) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). Nature Communications.  
+
+Gandasegui J, Onwuchekwa C, Krolewiecki AJ, **DOYLE SR**, Pullan RL, Enbiale W, Kepha S, Hatherell HA, van Lieshout L, Cambra-Pellejà M, Escola V, Muñoz J (2022) [Ivermectin and albendazole coadministration: opportunities for strongyloidiasis control](https://doi.org/10.1016/S1473-3099(22)00369-3). The Lancet Infectious Diseases
+
+Laing R, **DOYLE SR**, McIntyre J, Maitland K, Morrison A, Bartley DJ, Kaplan R, Chaudhry U, Sargison N, Tait A, Cotton JA, Britton C, Devaney E (2021) [Transcriptomic analyses implicate neuronal plasticity and chloride homeostasis in ivermectin resistance and recovery in a parasitic nematode](https://doi.org/10.1371/journal.ppat.1010545). PLoS Pathogens.
+
 Krolewiecki A, Enbiale W, Gandasegui J, van Lieshout L, Kepha S,  Messa Junior A, Bengtson M, Gelaye W, Escola V, Martinez-Valladares M, Cambra-Pellejà M, Algorta J, Martí-Soler H, Fleitas P, Ballester MR, **DOYLE SR**,  Williams NA,  Legarda A, Mandomando I, Mwandawiro C, Muñoz J (2022) [An adaptive phase II/III safety and efficacy randomized controlled trial of single day or three-day fixed-dose albendazole-ivermectin co-formulation versus albendazole for the treatment of *Trichuris trichiura* and other STH infections. ALIVE trial protocol](https://doi.org/10.12688/gatesopenres.13615.1).[version 1; peer review: awaiting peer review] Gates Open Research
 
 Antonopoulos A, **DOYLE SR**, Bartley DJ, Morrison A, Kaplan R, Howell S, Neveu C, Busin V, Devaney E, Laing R (2022) [Allele specific PCR for a major marker of levamisole resistance in <i>Haemonchus contortus</i>](https://doi.org/10.1101/2022.04.08.487639). BioRxiv
-
 
 Papaiakovou M, Littlewood TJ, **DOYLE SR**, Gasser R, Cantacessi C (2022) [Worms and bugs of the gut: the search for diagnostic signatures using barcoding, and metagenomics–metabolomics](https://doi.org/10.1186/s13071-022-05225-7). Parasites & Vectors
 
@@ -80,10 +87,6 @@ Morrison AA, Chaudhry U, Andrews L, Melville L, **DOYLE SR**, Sargison ND, Bartl
 
 `2021`
 **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2021) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://www.biorxiv.org/content/10.1101/2021.11.12.465712v2). bioRxiv.
-
-Laing R, **DOYLE SR**, McIntyre J, Maitland K, Morrison A, Bartley DJ, Kaplan R, Chaudhry U, Sargison N, Tait A, Cotton JA, Britton C, Devaney E (2021) [Transcriptomic analyses implicate neuronal plasticity and chloride homeostasis in ivermectin resistance and recovery in a parasitic nematode](https://www.biorxiv.org/content/10.1101/2021.11.12.468372v2). bioRxiv.
-
-**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2021) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). bioRxiv.  
 
 McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research.  
 
@@ -349,6 +352,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 10th May 2022 -->
+Last updated: 22nd July 2022 -->
 
 
