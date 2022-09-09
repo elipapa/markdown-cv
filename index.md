@@ -45,8 +45,18 @@ title: Cameron Anderson CV
 
 ## Funding & Awards
 
+`2022-2023`
+*Ontario Graduate Scholarship*. Value: 15,000 CAD.
+
+`2022`
+*McMaster School of Graduate Studies Summer Travel Award*. Value: 500 CAD.
+
 `2021-2022`
 *Ontario Graduate Scholarship*. Value: 15,000 CAD.
+
+`2021-2022`
+*Stephen and Tina Wilson Ontario Graduate Scholarship*. Value: 5,000 CAD.
+Provides one third of Ontario Graduate Scholarship.
 
 `2020-2021`
 *Joseph Armand Bombardier Canada Graduate Scholarship (Masters)*. Value: 17,500 CAD.
@@ -62,7 +72,8 @@ title: Cameron Anderson CV
 
 ## Journal Articles
 
-**Anderson, C. J.**, & Schutz, M. (2021). <a href="https://journals.sagepub.com/doi/10.1177/03057356211046375" target="_blank"> Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin.</a> *Psychology of Music*. OnlineFirst Publication.
+**Anderson, C. J.**, & Schutz, M. (2022). Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin. *Psychology of Music, 50(5)*, 1424–1442. https://doi.org/10.1177/03057356211046375
+
 
 Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422" target="_blank"> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
 
@@ -74,14 +85,14 @@ Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.c
 
 ## Positions
 
-`2021-Present`
-__Graduate Resident__, Lewis & Ruth Sherman Centre for Digital Scholarship
-- Designing interactive visualizations of music data in *Shiny* for *R*.
-
 `2019-Present`
 __Teaching Assistant__, Department of Psychology, Neuroscience & Behaviour,
 McMaster University, Hamilton, ON.
 - Courses: *Statistics for the Behavioural Sciences*; *Music Cognition*; *Human Evolution & Behaviour*.
+
+`2021-2022`
+__Graduate Resident__, Lewis & Ruth Sherman Centre for Digital Scholarship
+- Designing interactive visualizations of music data in *Shiny* for *R*.
 
 `2017-2019`
 __Teaching Assistant__, School of the Arts, McMaster University, Hamilton, ON.
@@ -113,11 +124,11 @@ A common issue with musical analyses is the inability to *hear* what an analyst 
 
 A <a href="https://twitter.com/scaleoftheday" target="_blank"> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
 
-## Selected Conference Activity
+## Selected Presentations
 
-Anderson, C.J., & Schutz, M. (2022, August). *Demonstrating a Novel Method for Exploring Musical Changes Across History* (Talk). Forthcoming presentation at Society for Music Perception and Cognition. Portland, Oregon.
+Anderson, C.J., & Schutz, M. (2022, August). *Demonstrating a Novel Method for Exploring Musical Changes Across History* (Talk). Presented at Society for Music Perception and Cognition. Portland, Oregon.
 
-Anderson, C.J., & Schutz, M. (2022, August). *The Role of Structural and Interpretive Cues in Emotional Communication: Analyzing Emotion in Expressive and Deadpan Excerpts of Bach’s The Well-Tempered Clavier* (Poster). Forthcoming presentation at Society for Music Perception and Cognition. Portland, Oregon, United States.
+Anderson, C.J., & Schutz, M. (2022, August). *The Role of Structural and Interpretive Cues in Emotional Communication: Analyzing Emotion in Expressive and Deadpan Excerpts of Bach’s The Well-Tempered Clavier* (Poster). Presented at Society for Music Perception and Cognition. Portland, Oregon, United States.
 
 Anderson, C.J., Ertemin, D., Morgan, B., & Propst, A. (2022, May 4). *Towards More Meaningful Science Communication with the Benefit of Digital Scholarship* (Digital Workshop). Forthcoming workshop at Lewis & Ruth Sherman Centre for Digital Scholarship. Hamilton, Canada.
 
