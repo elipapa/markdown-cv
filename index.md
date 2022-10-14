@@ -1,91 +1,34 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nenad Pajović
+
+
+
+Technical writer, father, non-tech guy trying to learn more each day.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nenadwritesdocs@gmail.com>nenadwritesdocs@gmail.com</a>
+| <a href="https://www.nenadwritesdocs.com/">My personal blog</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Email: nenadwritesdocs@gmail.com
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2016`
+__Faculty of Philology - English language and literature__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Professional technical writing experience
 
-- Sizar
+### Xentral (January 2022 - present)
 
-`1667 - death`
-__Trinity College, Cambridge__
+At Xentral I've worked on the...
 
-- Fellow
+### FIS (April 2020 - January 2022
 
+### CallidusCloud, part of SAP - (March 2019 - April 2020) 
 
+At CallidusCloud I had an opportunity to work in DITA environment. 
 
-## Awards
+### eFront (March 2018 - April 2019)
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
