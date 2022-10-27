@@ -15,14 +15,20 @@ layout: cv
 
 `2019-`
 __PhD in Epidemiology & Biostatistics, Imperial College London__
-- Modelling small-area mortality in England, supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](https://sethrf.com) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano)
+- Thesis title: Modelling small-area mortality in England
+- Applying and scaling Bayesian spatiotemporal models to civil registration data
+- Supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](https://sethrf.com) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano)
 - Funded by the President’s Scholarship
 
 
 ## Experience
 
+`2022`
+Applied Scientist intern, __Amazon__, Seattle
+- Implementing multivariate probabilistic time series methods to forecast product demand in the grocery sector.
+
 `Summer 2019`
-Business Analyst, __Deecon Consulting__
+Business Analyst, __Deecon Consulting__, London
 
 `Summer 2018`
 Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Imperial College London
@@ -65,7 +71,7 @@ High resolution analysis reveals widening 30-year life expectancy gap within Lon
 
 ## Teaching
 
-`2022`
+`2021-23`
 Teaching Assistant, __Population Health__ in the Health Data Analytics and Machine Learning MSc, Imperial College London
 
 `2021`
@@ -91,7 +97,7 @@ Bayesian modelling, spatiotemporal statistics, machine learning
 ### Computational
 Highly proficient in R, Python
 
-Experience in Julia, Stan, shell/ssh, git, high performance computing, LaTeX, Markdown, HTML, D3.js
+Experience in Julia, Stan, shell/ssh, git, high performance computing, data visualisation, LaTeX, Markdown, HTML, D3.js
 
 Proficiency in the Microsoft Office suite and CAD
 

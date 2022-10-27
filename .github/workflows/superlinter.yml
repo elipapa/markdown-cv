@@ -4,13 +4,13 @@ on: push
 
 jobs:
   super-lint:
-    name: Lint code base
+    name: lint code base
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: checkout code
         uses: actions/checkout@v2.4.0
 
-      - name: Run Super-Linter
+      - name: run super-linter
         uses: github/super-linter@v4.8.7
         env:
           DEFAULT_BRANCH: main
