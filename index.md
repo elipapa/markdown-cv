@@ -15,9 +15,9 @@ layout: cv
 
 `2019-`
 __PhD in Epidemiology & Biostatistics, Imperial College London__
-- Thesis title: Modelling small-area mortality in England
-- Applying and scaling Bayesian spatiotemporal models to civil registration data
-- Supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](https://sethrf.com) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano)
+- Thesis title: Modelling small-area mortality
+- Scaling Bayesian spatiotemporal models to civil registration data
+- Supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99) and [Seth Flaxman](https://sethrf.com)
 - Funded by the President’s Scholarship
 
 
