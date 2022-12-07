@@ -59,8 +59,8 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 55 publications; 14 first author; 4 senior author  
-Since 2017 (last 5 yrs): 42 publications; 9 first author; 3 senior author  
+Total: 54 publications; 14 first author; 4 senior author  
+Since 2017 (last 5 yrs): 41 publications; 9 first author; 3 senior author  
 
 `2022`.  
 **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance]([https://www.biorxiv.org/content/10.1101/2021.11.12.465712v2](https://doi.org/10.1016/j.celrep.2022.111522)). Cell Reports.
@@ -68,8 +68,6 @@ Since 2017 (last 5 yrs): 42 publications; 9 first author; 3 senior author
 Sargison N, Chambers A, Chaudhry U, Júnior LC, **DOYLE SR**, Ehimiyein A, Evans M, Jennings A, Kelly R, Sargison F, Sinclair M, Zahid O [Faecal egg counts and nemabiome metabarcoding highlight the genomic complexity of equine cyathostomin communities and provide insight into their dynamics in a Scottish native pony herd](https://doi.org/10.1016/j.ijpara.2022.08.002).  Int. J Parasitol
 
 Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.21203/rs.3.rs-2187875/v1) ResearchSquare (preprint)
-
-Papaiakovou M, Littlewood DTJ ,**DOYLE SR**, Gasser RB, Cantacessi C. [Worms and bugs of the gut: the search for diagnostic signatures using barcoding, and metagenomics–metabolomics](https://doi.org/10.1186/s13071-022-05225-7). Parasites and Vectors.
 
 **DOYLE SR** (2022) [Improving helminth genome resources in the post-genomic era](https://doi.org/10.1016/j.pt.2022.06.002). Trends in Parasitology
 
