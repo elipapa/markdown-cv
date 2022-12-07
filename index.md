@@ -59,35 +59,41 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 53 publications; 14 first author; 4 senior author  
-Since 2017 (last 5 yrs): 38 publications; 8 first author; 3 senior author  
+Total: 55 publications; 14 first author; 4 senior author  
+Since 2017 (last 5 yrs): 42 publications; 9 first author; 3 senior author  
 
 `2022`.  
+**DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance]([https://www.biorxiv.org/content/10.1101/2021.11.12.465712v2](https://doi.org/10.1016/j.celrep.2022.111522)). Cell Reports.
+
+Sargison N, Chambers A, Chaudhry U, Júnior LC, **DOYLE SR**, Ehimiyein A, Evans M, Jennings A, Kelly R, Sargison F, Sinclair M, Zahid O [Faecal egg counts and nemabiome metabarcoding highlight the genomic complexity of equine cyathostomin communities and provide insight into their dynamics in a Scottish native pony herd](https://doi.org/10.1016/j.ijpara.2022.08.002).  Int. J Parasitol
+
+Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.21203/rs.3.rs-2187875/v1) ResearchSquare (preprint)
+
+Papaiakovou M, Littlewood DTJ ,**DOYLE SR**, Gasser RB, Cantacessi C. [Worms and bugs of the gut: the search for diagnostic signatures using barcoding, and metagenomics–metabolomics](https://doi.org/10.1186/s13071-022-05225-7). Parasites and Vectors.
+
 **DOYLE SR** (2022) [Improving helminth genome resources in the post-genomic era](https://doi.org/10.1016/j.pt.2022.06.002). Trends in Parasitology
 
-**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2022) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). Nature Communications.  
+**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2022) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). Nature Communications
 
 Gandasegui J, Onwuchekwa C, Krolewiecki AJ, **DOYLE SR**, Pullan RL, Enbiale W, Kepha S, Hatherell HA, van Lieshout L, Cambra-Pellejà M, Escola V, Muñoz J (2022) [Ivermectin and albendazole coadministration: opportunities for strongyloidiasis control](https://doi.org/10.1016/S1473-3099(22)00369-3). The Lancet Infectious Diseases
 
-Laing R, **DOYLE SR**, McIntyre J, Maitland K, Morrison A, Bartley DJ, Kaplan R, Chaudhry U, Sargison N, Tait A, Cotton JA, Britton C, Devaney E (2021) [Transcriptomic analyses implicate neuronal plasticity and chloride homeostasis in ivermectin resistance and recovery in a parasitic nematode](https://doi.org/10.1371/journal.ppat.1010545). PLoS Pathogens.
+Laing R, **DOYLE SR**, McIntyre J, Maitland K, Morrison A, Bartley DJ, Kaplan R, Chaudhry U, Sargison N, Tait A, Cotton JA, Britton C, Devaney E (2021) [Transcriptomic analyses implicate neuronal plasticity and chloride homeostasis in ivermectin resistance and recovery in a parasitic nematode](https://doi.org/10.1371/journal.ppat.1010545). PLoS Pathogens
 
-Krolewiecki A, Enbiale W, Gandasegui J, van Lieshout L, Kepha S,  Messa Junior A, Bengtson M, Gelaye W, Escola V, Martinez-Valladares M, Cambra-Pellejà M, Algorta J, Martí-Soler H, Fleitas P, Ballester MR, **DOYLE SR**,  Williams NA,  Legarda A, Mandomando I, Mwandawiro C, Muñoz J (2022) [An adaptive phase II/III safety and efficacy randomized controlled trial of single day or three-day fixed-dose albendazole-ivermectin co-formulation versus albendazole for the treatment of *Trichuris trichiura* and other STH infections. ALIVE trial protocol](https://doi.org/10.12688/gatesopenres.13615.1).[version 1; peer review: awaiting peer review] Gates Open Research
+Krolewiecki A, Enbiale W, Gandasegui J, van Lieshout L, Kepha S,  Messa Junior A, Bengtson M, Gelaye W, Escola V, Martinez-Valladares M, Cambra-Pellejà M, Algorta J, Martí-Soler H, Fleitas P, Ballester MR, **DOYLE SR**,  Williams NA,  Legarda A, Mandomando I, Mwandawiro C, Muñoz J (2022) [An adaptive phase II/III safety and efficacy randomized controlled trial of single day or three-day fixed-dose albendazole-ivermectin co-formulation versus albendazole for the treatment of *Trichuris trichiura* and other STH infections. ALIVE trial protocol](https://doi.org/10.12688/gatesopenres.13615.1).[version 1; peer review: awaiting peer review]. Gates Open Research
 
-Antonopoulos A, **DOYLE SR**, Bartley DJ, Morrison A, Kaplan R, Howell S, Neveu C, Busin V, Devaney E, Laing R (2022) [Allele specific PCR for a major marker of levamisole resistance in <i>Haemonchus contortus</i>](https://doi.org/10.1016/j.ijpddr.2022.08.001). IJP-DDR
+Antonopoulos A, **DOYLE SR**, Bartley DJ, Morrison A, Kaplan R, Howell S, Neveu C, Busin V, Devaney E, Laing R (2022) [Allele specific PCR for a major marker of levamisole resistance in <i>Haemonchus contortus</i>](https://doi.org/10.1016/j.ijpddr.2022.08.001). Int. J Parasitol-DDR
 
 Papaiakovou M, Littlewood TJ, **DOYLE SR**, Gasser R, Cantacessi C (2022) [Worms and bugs of the gut: the search for diagnostic signatures using barcoding, and metagenomics–metabolomics](https://doi.org/10.1186/s13071-022-05225-7). Parasites & Vectors
 
 Cotton J, **DOYLE SR** (2022) [A genetic TRP down the channel to praziquantel resistance](https://www.sciencedirect.com/science/article/pii/S1471492222000368?dgcid=author). Trends in Parasitology
 
-Vianney JV, Berger D, **DOYLE SR**, Sankaranarayanan G, Serubanja J, Nakawungu PK, Besigye F, Sanya R, Holroyd N, Allan F, Webb E, Elliott A, Berriman M, Cotton J (2022) [Genome-wide analysis of *Schistosoma mansoni* reveals population structure and praziquantel drug selection pressure within Ugandan hot-spot communities](https://doi.org/10.1101/2022.01.25.477652). BioRxiv
+Vianney JV, Berger D, **DOYLE SR**, Sankaranarayanan G, Serubanja J, Nakawungu PK, Besigye F, Sanya R, Holroyd N, Allan F, Webb E, Elliott A, Berriman M, Cotton J (2022) [Genome-wide analysis of *Schistosoma mansoni* reveals population structure and praziquantel drug selection pressure within Ugandan hot-spot communities](https://doi.org/10.1101/2022.01.25.477652). PLoS NTD
 
 Baltrusis P, **DOYLE SR**, Halvarsson P, Hoglund J (2022) [Genome-wide analysis of response to ivermectin treatment by a Swedish field population of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.12.002). Int. J Parasitol-DDR 
 
 Morrison AA, Chaudhry U, Andrews L, Melville L, **DOYLE SR**, Sargison ND, Bartley DJ (2022) [Phenotypic and genotypic analysis of benzimidazole resistance in reciprocal genetic crosses of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.11.001). Int. J Parasitol-DDR 
 
 `2021`
-**DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2021) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://www.biorxiv.org/content/10.1101/2021.11.12.465712v2). bioRxiv.
-
 McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research.  
 
 Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) [Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314). bioRxiv.  
