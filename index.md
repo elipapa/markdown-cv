@@ -86,7 +86,7 @@ Autonomy in solving complex problems.
 - Java (version >= 8, Spring Boot, Spring Annotations, lambda expressions, design patterns, JPA, maven) 
 - Html (css, bootstrap, single page app) 
 - IDEs (VS Code, IntelliJ Idea)
-- Docker (Dockerfile, docker-compose, openshift)
+- Docker (Dockerfile, volumes, mounts, docker-compose, openshift)
 - Jenkins
 - Bash (ssh, scripting, awk)
 - SQL (Oracle and MySql)
