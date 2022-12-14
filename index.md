@@ -6,68 +6,33 @@ title: Tito Zoe Chiacchiera's CV
 Full stack developer
 
 <div id="webaddress">
-<a href="titozoe@gmail.com">titozoe@gmail.com</a>
-| <!--a href="https://github.com/titozoe"> Github </a-->
+<a href="mailto:titozoe@gmail.com">titozoe@gmail.com</a>
+|<a href="tel:+393273128353">+39 327 312 8353</a>    
 </div>
 
 
 ## Currently
 
-Waiting for my potential to be unleashed
+Working for my potential to be unleashed
 
 ### Specialized in
 
-Learning smart things, use of open source software, building microservices, use of cli tools, blaming companies for adopting java enterprise technology
+Recycle and reuse of smart ideas, getting rid of useless boring practices.
 
-### Research interests
+### Work related interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Machine and deep learning, microservices
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006 - 2008`
+__Master's Degree in Mathematics, University of Perugia__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2003 - 2006`
+__Master's Degree in Mathematics, University of Perugia__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`1998 - 2003`
+__Secondary School Diploma, Liceo Scientifico "G.Alessi" Perugia__
 
 
 ## Occupation
