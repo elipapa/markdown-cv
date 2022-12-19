@@ -28,7 +28,7 @@ M.Mus. Sonic Arts (Distinction)
 Awards: Excellence Fee Waiver, Sarah Caple Award (composition)  
 Thesis: Situating Machine Listening Algorithms in Responsive and Interactive Scores – Three Co-Design Workshops.  
 Advisor: Dr Jess Aslan  
-Mentor: Professor Atau Tanaka
+Mentor: Professor Atau Tanaka  
 
 `2016-2020`
 __University of Warwick__
@@ -48,7 +48,7 @@ Work across music and computing departments to synthesize technical and critical
 
 `2021 - Present`
 __Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)  
-Support development and evaluation of telematic motion capture technology for music and dance. 
+Support development and evaluation of telematic motion capture technology for music and dance.  
 
 
 `2021`
