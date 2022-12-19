@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: A.L's CV
+title: A.L Noel–Hirst
 ---
 # Ashley Laurent Noel-Hirst 
-ESPRC-funded PhD student in AI and music....computing researcher, designer, composer
+Creative Computing Researcher, Designer, Composer
 
 <div id="webaddress">
 <a href="A.l.noel-hirst@qmul.ac.uk">A.l.noel-hirst@qmul.ac.uk</a>
@@ -13,26 +13,23 @@ ESPRC-funded PhD student in AI and music....computing researcher, designer, comp
 
 ## Currently
 
-Standing on the shoulders of giants
-### Specialized in
-
-Explainable AI....., minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+ESPRC-funded PhD student in AI and music at the __Centre for Digital Music - Queen Mary, University of London__ 
 
 ### Research interests
 
-Explainable AI for Novel Multimedia Domains, Active Learning & Machine Teaching for Small Data, Human-Computer Interaction (HCI)
+Explainable Artificial Intelligence, Machine Teaching for Small Data, End-User Programming, Human-Computer Interaction
 
 
 ## Education
 
 `2016-2020`
 __University of Warwick__
-B.A. Major in Philosophy, Minor in Mathematics (First-Class)
+B.A. Major in Philosophy, Minor in Mathematics (First-Class)  
+
 Awards: Arts centre scholarship (jazz performance)
-Dissertation: Negotiation and identity in improvised ensemble performance – an analysis of jazz in the 20th century Black Atlantic.
-Jazz performance scholarship…
-Dissertation advisors:  Dr Kirsten Harris, Dr Bryan Brazeau 
+Dissertation: Interpersonal negotiation in improvised ensemble performance – an analysis of jazz and identity in the 20th century Black Atlantic.
+
+Advisors:  Dr Kirsten Harris, Dr Bryan Brazeau 
 
 
 `2020 - 2022`
