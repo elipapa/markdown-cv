@@ -102,7 +102,7 @@ __The Mocapstreamer Residency – Affordancies and Challenges of New Telematic 
 __Comparisson of Simple Classification and Active Learning Methods for Music Emotion Recognition__ (with A. Garrow, T. McIntosh, and A. Williams)  
 
 `Forthcoming`
-__Explainability in End-User Creative Artificial Intelligence__ (with N. Bryan-Kinns)
+__Explainability in Musical Artificial Intelligence Systems__ (with N. Bryan-Kinns)
 
 
 
