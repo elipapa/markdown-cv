@@ -17,7 +17,11 @@ ESPRC-funded PhD student in AI and music at the __Centre for Digital Music - Que
 
 ### Research interests
 
-Explainable Artificial Intelligence, Machine Learning with Small Data, End-User Programming, Human-Computer Interaction
+Explainable Artificial Intelligence, Machine Learning with Small Data, End-User Programming, Human-Computer Interaction  
+
+### Technologies  
+
+Max/MSP, Ableton, Arduino, Javascript (including frameworks/libraries: React, Vite/Vue, Electron, P5), Python (including PyTorch), HTML
 
 
 ## Education
