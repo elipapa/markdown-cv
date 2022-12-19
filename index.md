@@ -25,8 +25,7 @@ Explainable Artificial Intelligence, Machine Learning with Small Data, End-User 
 `2020 - 2022`
 __Goldsmiths College, University of London__
 M.Mus. Sonic Arts (Distinction)  
-Awards: Excellence fee waiver  
-Sarah Caple Award (alternative composition)  
+Awards: Excellence Fee Waiver, Sarah Caple Award (composition)  
 Thesis: Situating Machine Listening Algorithms in Responsive and Interactive Scores – Three Co-Design Workshops.  
 Advisor: Dr Jess Aslan  
 Mentor: Professor Atau Tanaka
