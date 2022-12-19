@@ -42,18 +42,18 @@ Advisors:  Dr Kirsten Harris, Dr Bryan Brazeau
 ## Occupation
 
 `2022 - Present`
-__Goldsmiths College__ Associate Lecturer, interactive and generative music
+__Goldsmiths College__ Associate Lecturer – interactive and generative music
 -	Develop and deliver classes/workshops on interactive and generative music (max/msp)
 -	Work across music and computing departments to synthesize technical and critical research and practice.
 
 
 `2021 - Present`
-__Goldsmiths College__ Research Assistant,[MocapStreamer](http://mocapstreamer.live/)
+__Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)
 - Support development and evaluation of telematic motion capture technology for music and dance. 
 
 
 `2021`
-__University of Oxford__ Research Assistant, AI and Music
+__University of Oxford__ Research Assistant – AI and Music
 -	Develop and assess computational composition tools built on Python/PyTorch. Methods include (auto) ethno-musical, interview and participatory design.
 
 ## Internships
@@ -64,17 +64,19 @@ __Imperial War Museum__
 
 
 `2021`
-__Stanford and Goldsmiths, UoL__ [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)
+__Stanford and Goldsmiths, University of London__ – [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)
 - Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools in telematic musical improvisation
 
 `2015 - 2016`
-__Kings College London and the University of Surrey__ Beyond HRV: attractor reconstruction with cardiovascular waveform data
+__Kings College London and the University of Surrey__ – Beyond HRV: attractor reconstruction with cardiovascular waveform data
 
 - Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)
 
 
 
-## Conferences, panels and presentations
+## Publications/presentations
+
+### Presentations
 `2023 (forthcoming)`
 Dance in the Metaverse: Tools for Accessibility, __SXSW__
 
@@ -85,28 +87,16 @@ Particular Granulator – Collaborating on Sonic Spaces with Granular Synthesis 
 Grain FM – An Anonymous Sampling Radio for Machine-Led Plunderphonics, __University of Aberdeen Sound Emporium Research Group__
 
 
+### Publications
 
+`Forthcoming`
+__Comparisson of Simple Classification and Active Learning Methods for Music Emotion Recognition__ (with A. Garrow, T. McIntosh, and A. Williams)
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Forthcoming`
+__The Mocapstreamer – Telematic Performance__ (with C. Debaig, C. Hilton, and D. Strutt)
 
 
 
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
