@@ -7,7 +7,7 @@ Creative Computing Researcher, Designer, Composer
 
 <div id="webaddress">
 <a href="A.l.noel-hirst@qmul.ac.uk">A.l.noel-hirst@qmul.ac.uk</a>
-| <a href="noelhirst.net"> www.noelhirst.net </a>
+| <a href="www.noelhirst.net"> noelhirst.net </a>
 </div>
 
 
