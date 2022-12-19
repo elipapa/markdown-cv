@@ -21,7 +21,7 @@ Explainable Artificial Intelligence, Machine Learning with Small Data, End-User 
 
 ### Technologies  
 
-Max/MSP, Ableton, Arduino, Javascript (including frameworks/libraries: React, Vite/Vue, Electron, P5), Python (including PyTorch), HTML
+Max/MSP, Ableton, Arduino, Python (including PyTorch), Javascript (including React, Vue, Electron, P5), HTML
 
 
 ## Education
@@ -82,6 +82,9 @@ Prototype biomedical signal processing software in MATLAB and write summary repo
 `2023 (forthcoming)`
 Dance in the Metaverse: Tools for Accessibility, __SXSW__
 
+`2022`
+Explainability in End-User Creative Artificial Intelligence, __Digital Music Research Network One-day Workshop__
+
 `2021`
 Particular Granulator – Collaborating on Sonic Spaces with Granular Synthesis and Particle Systems, __Goldsmiths Centre for Sound, Technology and Culture__
 
@@ -92,12 +95,14 @@ Grain FM – An Anonymous Sampling Radio for Machine-Led Plunderphonics, __Unive
 ### Publications
 
 `Forthcoming`
-__Comparisson of Simple Classification and Active Learning Methods for Music Emotion Recognition__ (with A. Garrow, T. McIntosh, and A. Williams)
+__The Mocapstreamer Residency – Affordancies and Challenges of New Telematic Performance Technologies__ (with C. Debaig, C. Hilton, and D. Strutt)  
+
 
 `Forthcoming`
-__The Mocapstreamer Residency – Affordancies and Challenges of New Telematic Performance Technologies__ (with C. Debaig, C. Hilton, and D. Strutt)
+__Comparisson of Simple Classification and Active Learning Methods for Music Emotion Recognition__ (with A. Garrow, T. McIntosh, and A. Williams)  
 
-
+`Forthcoming`
+__Explainability in End-User Creative Artificial Intelligence__ (with N. Bryan-Kinns)
 
 
 
