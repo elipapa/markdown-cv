@@ -41,9 +41,9 @@ Advisors:  Dr Kirsten Harris, Dr Bryan Brazeau
 ## Occupation
 
 `2022 - Present`
-__Goldsmiths College__ Associate Lecturer – interactive and generative music
--	Develop and deliver classes/workshops on interactive and generative music (max/msp)
--	Work across music and computing departments to synthesize technical and critical research and practice.
+__Goldsmiths College__ Associate Lecturer – Interactive and Generative Music  
+Develop and deliver classes/workshops on interactive and generative music (Max/MSP)  
+Work across music and computing departments to synthesize technical and critical research and practice.
 
 
 `2021 - Present`
@@ -52,24 +52,23 @@ Support development and evaluation of telematic motion capture technology for mu
 
 
 `2021`
-__University of Oxford__ Research Assistant – AI and Music
--	Develop and assess computational composition tools built on Python/PyTorch. Methods include (auto) ethno-musical, interview and participatory design.
+__University of Oxford__ Research Assistant – AI and Music  
+Develop and assess computational composition tools built on Python/PyTorch. Methods include (auto) ethno-musical, interview and participatory design.
 
 ## Internships
 
 `2021 - 2022`
-__Imperial War Museum__
-- Conduct and analyse focus group research on digital accessibility and museum informatics in the new hollocaust galleries 
+__Imperial War Museum__  
+Conduct and analyse focus group research on digital accessibility and museum informatics in the new hollocaust galleries 
 
 
 `2021`
-__Stanford and Goldsmiths, University of London__ – [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)
-- Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools in telematic musical improvisation
+__Stanford and Goldsmiths, University of London__ – [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)  
+Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools in telematic musical improvisation
 
 `2015 - 2016`
-__Kings College London and the University of Surrey__ – Beyond HRV: attractor reconstruction with cardiovascular waveform data
-
-- Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)
+__Kings College London and the University of Surrey__ – Beyond HRV: Attractor Reconstruction With Cardiovascular Waveform Data  
+Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)
 
 
 
@@ -92,7 +91,7 @@ Grain FM – An Anonymous Sampling Radio for Machine-Led Plunderphonics, __Unive
 __Comparisson of Simple Classification and Active Learning Methods for Music Emotion Recognition__ (with A. Garrow, T. McIntosh, and A. Williams)
 
 `Forthcoming`
-__The Mocapstreamer – Telematic Performance__ (with C. Debaig, C. Hilton, and D. Strutt)
+__The Mocapstreamer Residency – Affordancies and Challenges of New Telematic Performance Technologies__ (with C. Debaig, C. Hilton, and D. Strutt)
 
 
 
