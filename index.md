@@ -47,8 +47,8 @@ __Goldsmiths College__ Associate Lecturer – interactive and generative music
 
 
 `2021 - Present`
-__Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)
-- Support development and evaluation of telematic motion capture technology for music and dance. 
+__Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)  
+Support development and evaluation of telematic motion capture technology for music and dance. 
 
 
 `2021`
