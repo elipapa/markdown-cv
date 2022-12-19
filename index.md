@@ -1,45 +1,47 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: A.L's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ashley Laurent Noel-Hirst 
+ESPRC-funded PhD student in AI and music....computing researcher, designer, composer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="A.l.noel-hirst@qmul.ac.uk">A.l.noel-hirst@qmul.ac.uk</a>
+| <a href="noelhirst.net"> noelhirst.net </a>
 </div>
 
 
 ## Currently
 
 Standing on the shoulders of giants
-
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Explainable AI....., minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Explainable AI for Novel Multimedia Domains, Active Learning & Machine Teaching for Small Data, Human-Computer Interaction (HCI)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2020`
+__University of Warwick__
+B.A. Major in Philosophy, Minor in Mathematics (First-Class)
+Awards: Arts centre scholarship (jazz performance)
+Dissertation: Negotiation and identity in improvised ensemble performance – an analysis of jazz in the 20th century Black Atlantic.
+Jazz performance scholarship…
+Dissertation advisors:  Dr Kirsten Harris, Dr Bryan Brazeau 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2020 - 2022`
+__Goldsmiths College, University of London__
+M.Mus. Sonic Arts (Distinction)
+Awards: Excellence fee waiver, Sarah Caple Award (alternative composition)
+Thesis: Situating Machine Listening Algorithms in Responsive and Interactive Scores – Three Co-Design Workshops.
+Advisor: Dr Jess Aslan
+Mentor: Professor Atau Tanaka
 
 
 ## Awards
@@ -86,6 +88,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
