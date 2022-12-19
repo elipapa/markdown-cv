@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: A.L Noel–Hirst
+title: A.L. Noel–Hirst
 ---
-# Ashley Laurent Noel-Hirst 
+# A. L. Noel-Hirst 
 Creative Computing Researcher, Designer, Composer
 
 <div id="webaddress">
@@ -17,42 +17,75 @@ ESPRC-funded PhD student in AI and music at the __Centre for Digital Music - Que
 
 ### Research interests
 
-Explainable Artificial Intelligence, Machine Teaching for Small Data, End-User Programming, Human-Computer Interaction
+Explainable Artificial Intelligence, Machine Learning with Small Data, End-User Programming, Human-Computer Interaction
 
 
 ## Education
 
+`2020 - 2022`
+__Goldsmiths College, University of London__
+M.Mus. Sonic Arts (Distinction)  
+Awards: Excellence fee waiver  
+Sarah Caple Award (alternative composition)  
+Thesis: Situating Machine Listening Algorithms in Responsive and Interactive Scores – Three Co-Design Workshops.  
+Advisor: Dr Jess Aslan  
+Mentor: Professor Atau Tanaka
+
 `2016-2020`
 __University of Warwick__
 B.A. Major in Philosophy, Minor in Mathematics (First-Class)  
-
-Awards: Arts centre scholarship (jazz performance)
-Dissertation: Interpersonal negotiation in improvised ensemble performance – an analysis of jazz and identity in the 20th century Black Atlantic.
-
+Awards: Arts centre scholarship (jazz performance)  
+Dissertation: Interpersonal negotiation in improvised ensemble performance – an analysis of jazz and identity in the 20th century Black Atlantic.  
 Advisors:  Dr Kirsten Harris, Dr Bryan Brazeau 
 
 
-`2020 - 2022`
-__Goldsmiths College, University of London__
-M.Mus. Sonic Arts (Distinction)
-Awards: Excellence fee waiver, Sarah Caple Award (alternative composition)
-Thesis: Situating Machine Listening Algorithms in Responsive and Interactive Scores – Three Co-Design Workshops.
-Advisor: Dr Jess Aslan
-Mentor: Professor Atau Tanaka
+## Occupation
+
+`2022 - Present`
+__Goldsmiths College__ Associate Lecturer, interactive and generative music
+-	Develop and deliver classes/workshops on interactive and generative music (max/msp)
+-	Work across music and computing departments to synthesize technical and critical research and practice.
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2021 - Present`
+__Goldsmiths College__ Research Assistant,[MocapStreamer](http://mocapstreamer.live/)
+- Support development and evaluation of telematic motion capture technology for music and dance. 
 
 
+`2021`
+__University of Oxford__ Research Assistant, AI and Music
+-	Develop and assess computational composition tools built on Python/PyTorch. Methods include (auto) ethno-musical, interview and participatory design.
 
-## Publications
+## Internships
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2021 - 2022`
+__Imperial War Museum__
+- Conduct and analyse focus group research on digital accessibility and museum informatics in the new hollocaust galleries 
+
+
+`2021`
+__Stanford and Goldsmiths, UoL__ [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)
+- Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools in telematic musical improvisation
+
+`2015 - 2016`
+__Kings College London and the University of Surrey__ Beyond HRV: attractor reconstruction with cardiovascular waveform data
+
+- Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)
+
+
+
+## Conferences, panels and presentations
+`2023 (forthcoming)`
+Dance in the Metaverse: Tools for Accessibility, __SXSW__
+
+`2021`
+Particular Granulator – Collaborating on Sonic Spaces with Granular Synthesis and Particle Systems, __Goldsmiths Centre for Sound, Technology and Culture__
+
+`2021`
+Grain FM – An Anonymous Sampling Radio for Machine-Led Plunderphonics, __University of Aberdeen Sound Emporium Research Group__
+
+
+
 
 ### Journals
 
@@ -70,13 +103,7 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
