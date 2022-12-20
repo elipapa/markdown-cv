@@ -77,7 +77,7 @@ Prototype biomedical signal processing software in MATLAB and write summary repo
 ## Publications/presentations
 
 ### Presentations
-`2023 (forthcoming)`
+`2023`
 Dance in the Metaverse: Tools for Accessibility, __SXSW__
 
 `2022`
