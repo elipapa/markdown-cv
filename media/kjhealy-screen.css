@@ -3,6 +3,8 @@
    License: none (public domain)
 */
 
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=swap" rel="stylesheet">
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -114,7 +116,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: "Open Sans", sans-serif;
 	width: 65%;
 }
 
@@ -128,7 +130,7 @@ h1 {
 
 h1+p { 
 	/*subtitle*/
-	font-style: italic;
+/* 	font-style: italic; */
 	font-size: 110%;
 }
 
