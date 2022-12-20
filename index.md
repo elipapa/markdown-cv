@@ -13,7 +13,7 @@ Creative Computing Researcher, Designer, Composer
 
 ## Currently
 
-ESPRC-funded PhD student in AI and music at the __Centre for Digital Music - Queen Mary, University of London__ 
+EPSRC-funded PhD student in AI and music at the __Centre for Digital Music - Queen Mary, University of London__ 
 
 ### Research interests
 
