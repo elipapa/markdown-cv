@@ -114,13 +114,16 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+h2,h3,h4 {
 	font-weight: 400;
 	font-family: "Open Sans", sans-serif;
 	width: 65%;
 }
 
 h1 {
+	font-weight: 600;
+	font-family: "Open Sans", sans-serif;
+	width: 65%;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -131,6 +134,7 @@ h1 {
 h1+p { 
 	/*subtitle*/
 /* 	font-style: italic; */
+	font-weight: 300;
 	font-size: 110%;
 }
 
