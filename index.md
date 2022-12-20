@@ -72,9 +72,7 @@ Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools 
 
 `2015 - 2016`
 __Kings College London and the University of Surrey__ – Beyond HRV: Attractor Reconstruction With Cardiovascular Waveform Data  
-Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)
-
-
+Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)  
 
 ## Publications/presentations
 
