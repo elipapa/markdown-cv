@@ -34,6 +34,11 @@ body {
 ol, ul {
 	list-style: none;
 }
+
+ul ul {
+	list-style-type: circle;
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -77,11 +82,11 @@ code {
 	color: #aaa;
 }
 
-p code {
+/* p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
-}
+} */
 
 
 ul {
