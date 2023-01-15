@@ -17,6 +17,23 @@ title: Ishir Bhan's CV
 </div>
  -->
 
+## Employment
+
+`2019-Present` __Alnylam Pharmaceuticals, Cambirdge, MA__   
+>  `2019-2022` Director, Clinical Research  
+>  `2022-Present` Senior Director, Clinical Research  
+
+- Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients wih primary hyperoxaluria in advanced kidney disease)
+-- led cross functional clinical devleopment subteam
+-- successfully completed enrollment and led presentation of top-line data for company meetings, online presentations, and abstracts/publications
+-- in coordination with KOLs, developed and established validation strategy for novel scales of systemic oxalosis
+
+- Clinical lead for ALN-XDH (novel siRNA for treatment of gout)
+-- designed Phase 1/2 protocol for efficient evaluation of safety/efficacy using novel paradigm later adopted by other programs; led governance presentations
+-- led advisory board and 1:1 calls with KOLs to incorporate expert feedback
+-- successfully filed CTA and IND with MHRA and FDA
+-- led cross-functional team to rapidly assess therapeutic viability while minimizing time, cost, and subject exposure
+
 ## Education and Training
 
 ### Degrees
@@ -72,7 +89,7 @@ National Kidney Foundation Research Fellowship- Prinicipal Investigator
 
 *The goal of this project was to study inflammatory predictors of mortality in individuals with end-stage renal disease.*
 
-2007-2008` __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__
+`2007-2008` __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__
 NIDDK/5K23DK081677 - Prinicipal Investigator
 
 *The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.*
@@ -140,23 +157,6 @@ NIDDK/5K23DK081677 - Prinicipal Investigator
 
 
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
 
 `1600`
 __Royal Mint__, London
