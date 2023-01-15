@@ -44,13 +44,38 @@ __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Sci
 
 ## Awards and Honors
 
-`2015` Physician of the Year Massachusetts General Hospital
+`2015` Physician of the Year - Massachusetts General Hospital - Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.
 
-`2012`
-President, *Royal Society*, London, UK
+`2005-2006` Partners in Excellence Award - Partners Healthcare - Given in recognition of informatics contributions.
 
-Associate, *French Academy of Science*, Paris, France
+`2005-2006` Chief Resident in Medicine - Massachusetts General Hospital Department of Medicine - Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.
 
+## Grants
+
+`2016-2017` __Fanconi Syndrome, Mulitple Sclerosis, adnd Chronic Kidney Disease__
+BiogenIdec - Prinicipal Invvestigator
+
+*The goal of this project is to characterize urinary and renal function changes associated with multiple sclerosis.*
+
+`2014-2015` __Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__
+Massachusetts General Hospital Interim Support Fund - Prinicipal Investigator
+
+*The goal of this project is to define the relationship between  survival and ergocalciferol replacement in hemodialysis patients.*
+
+`2014-2015` __Multiple Sclerosis and Chronic Kidney Disease__
+BiogenIdec - Prinicipal Investigator
+
+*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.*
+
+`2007-2008` __Role of hCAP18/LL37 and Vitamin D in Dialysis Mortality__
+National Kidney Foundation Research Fellowship- Prinicipal Investigator
+
+*The goal of this project was to study inflammatory predictors of mortality in individuals with end-stage renal disease.*
+
+2007-2008` __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__
+NIDDK/5K23DK081677 - Prinicipal Investigator
+
+*The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.*
 
 
 ## Publications
