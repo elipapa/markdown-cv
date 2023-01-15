@@ -20,6 +20,8 @@ ishirbhan@gmail.com | 617-669-6797
 
 ## Employment
 
+### Pharmaceutical Industry
+
 `2019-Present` __Alnylam Pharmaceuticals, Cambirdge, MA__   
 >  `2019-2022` Director, Clinical Research  
 >  `2022-Present` Senior Director, Clinical Research  
@@ -51,6 +53,58 @@ ishirbhan@gmail.com | 617-669-6797
 - Clinical lead for pre-clinical complement assets
 -- led clinical assessment of potential indciations for novel agents directed against complement cascade, incorporating commercial assessments and pre-clincial data
 -- worked with collaborator to assess viability of combination therapeutic appraoches, presenting to leadership at both companies
+
+`2016-2019` __Biogen, Cambirdge, MA__   
+>  `2016-2018` Associate Medical Director, Drug Safety  
+>  `2018-2019` Medical Director, Drug Safety 
+
+- Global Safety Officer
+-- led medical safety activities for SPINRAZA and several developmental assets
+-- provided clinical oversight and authored relevant section for SPINRAZA PSUR and DSUR
+-- maintained relevant sections of Investigator Brochures, Core Data Sheet, Patient Safety Information, Expected Term Lists, and Informed Consent Forms
+-- Provided clinical oversight for analysis and characterization of clinical trial and postmarketing adverse events
+-- Represented safety issues in cross-function teams (including clinical study, program, communications, and publications teams) and governance committee presentations
+-- Supported successful registration of SPINRAZA in 13 regions including EU, Canada, Japan, Australia, and others
+-- Authored and edited responses to regulatory inquiries for both registration-related and postmarket settings
+-- Provided input and editing for revision to package inserts including USPI, SmPC, and other regional labels
+
+- Development and Diligence
+-- Assessed safety risks for potential asset acquisitions
+-- Reviewed and assessed pre-clinical and clinical trial data in context of competitive landscape
+-- Contributed to study design for gene therapy assets under development
+-- Worked on cross-functional team to develop strategy for accelerating development through innovative approaches including hybrid virtual trials and wearables for data collection
+
+### Academic Medicine
+
+`2008-2016` __Massachusetts General Hospital, Boston, MA__  
+ 
+>  `2014-2016` Associate Physician, Department of Medicine
+- Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.
+
+>  `2014-2016` Director of Nephrology Informatics, Department of Medicine, Division of Nephrology
+- Oversaw all information-technology based initiatives within the Division of Nephrology, including research activities, clinical activities, and administrative initiatives. Provided informatics support for research ventures.
+
+>  `2013-2016` Director of Collaborative Informatics, Department of Medicine, Laboratory of Computer Science
+- Designed, planned, and managed development of web and smartphone-based clinical task management, electronic documentation, and collaboration software used at four Boston-area hospitals.
+
+>  `2012-2016` Subspecialty Core Educator, Department of Medicine
+- Oversaw outpatient and inpatient nephrology rotations for medical residents. Developed educational program. Coordinated clinical experiences.
+
+>  `2012-2016` Associate Program Director, Nephrology Fellowship Program
+- Oversaw nephrology fellowship activities at Massachusetts General Hospital including clinical rotations and research education.
+
+  
+>  `2018-2019` Medical Director, Drug Safety 
+
+### Academic Appointments
+
+`2014-2016`
+__Assistant Professor in Medicine, Harvard Medical School__ - Boston, MA
+
+
+`2008-2014`
+__Instructor in Medicine, Harvard Medical School__ - Boston, MA
+
 
 
 ## Education and Training
@@ -117,7 +171,7 @@ NIDDK/5K23DK081677 - Prinicipal Investigator
 *The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.*
 
 
-## Publications
+## Selected Publications
 
 1. Berg AH, Bhan I, Powe C, Karumanchi SA, Xu D, Thadhani RI. Acute Homeostatic Changes Following Vitamin D2 Supplementation. J Endocr Soc. 2017;1(9):1135-1149.
 2. Darras BT, Farrar MA, Mercuri E, Finkel RS, Foster R, Hughes SG, Bhan I, Farwell W, Gheuens S. An Integrated Safety Analysis of Infants and Children with Symptomatic Spinal Muscular Atrophy (SMA) Treated with Nusinersen in Seven Clinical Trials. CNS Drugs. 2019;33(9):919-932.
