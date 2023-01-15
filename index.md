@@ -27,52 +27,52 @@ ishirbhan@gmail.com | 617-669-6797
 >  `2022-Present` Senior Director, Clinical Research  
 
 - Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients wih primary hyperoxaluria in advanced kidney disease)
--- led cross functional clinical devleopment subteam
--- successfully completed enrollment and led presentation of top-line data for company meetings, online presentations, and abstracts/publications
--- authored summary of clincial efficacy and clincial study report
--- filed successuful sNDA with FDA, leading to updated indication
--- in coordination with KOLs, developed and established validation strategy for novel scales of systemic oxalosis
+* led cross functional clinical devleopment subteam
+* successfully completed enrollment and led presentation of top-line data for company meetings, online presentations, and abstracts/publications
+* authored summary of clincial efficacy and clincial study report
+* filed successuful sNDA with FDA, leading to updated indication
+* in coordination with KOLs, developed and established validation strategy for novel scales of systemic oxalosis
 
 
 - Clinical lead for ALN-XDH (siRNA for treatment of gout)
--- designed and led authoring of Phase 1/2 protocol for efficient evaluation of safety/efficacy using novel paradigm later adopted by other programs; led governance presentations
--- led advisory board and 1:1 calls with KOLs to incorporate expert feedback
--- led authoring of investigator brochiure
--- successfully filed CTA and IND with MHRA and FDA
--- led cross-functional team to rapidly assess therapeutic viability while minimizing time, cost, and subject exposure
--- completed enrollment and analysis of SAD study in healthy volunteers
+* designed and led authoring of Phase 1/2 protocol for efficient evaluation of safety/efficacy using novel paradigm later adopted by other programs; led governance presentations
+* led advisory board and 1:1 calls with KOLs to incorporate expert feedback
+* led authoring of investigator brochiure
+* successfully filed CTA and IND with MHRA and FDA
+* led cross-functional team to rapidly assess therapeutic viability while minimizing time, cost, and subject exposure
+* completed enrollment and analysis of SAD study in healthy volunteers
 
 - Clnical lead for cemdisiran (siRNA for suppression of C5 complement component)
--- led phase 2 trial in IgA nephropathy, amending protocol to enable successful completion of enrollment despite chalenges from COVID-19 pandemic
--- led interpretation and presentation of positive top-line results, including internal presentaitons, international conferences, and manuscripts
--- worked with cross-functional team and external consultants to establish viability of phase 3 program
--- led authoring and design of phase 3 protocol including leading advisory boards and multiple KOL meetings to incorporate feedback
--- led successful end of phase 2 interactions with FDA (teleconference), EMA, and PMDA including development of briefing books and response to questions
--- worked with collaborator Regeneron to enable development and execution of phase 2 and 3 studies of cemdisiran/pozelimab combination in myasthemnia gravis and paroxysmal nocturnal hemoglobinuria
+* led phase 2 trial in IgA nephropathy, amending protocol to enable successful completion of enrollment despite chalenges from COVID-19 pandemic
+* led interpretation and presentation of positive top-line results, including internal presentaitons, international conferences, and manuscripts
+* worked with cross-functional team and external consultants to establish viability of phase 3 program
+* led authoring and design of phase 3 protocol including leading advisory boards and multiple KOL meetings to incorporate feedback
+* led successful end of phase 2 interactions with FDA (teleconference), EMA, and PMDA including development of briefing books and response to questions
+* worked with collaborator Regeneron to enable development and execution of phase 2 and 3 studies of cemdisiran/pozelimab combination in myasthemnia gravis and paroxysmal nocturnal hemoglobinuria
 
 - Clinical lead for pre-clinical complement assets
--- led clinical assessment of potential indciations for novel agents directed against complement cascade, incorporating commercial assessments and pre-clincial data
--- worked with collaborator to assess viability of combination therapeutic appraoches, presenting to leadership at both companies
+* led clinical assessment of potential indciations for novel agents directed against complement cascade, incorporating commercial assessments and pre-clincial data
+* worked with collaborator to assess viability of combination therapeutic appraoches, presenting to leadership at both companies
 
 `2016-2019` __Biogen, Cambirdge, MA__   
->  `2016-2018` Associate Medical Director, Drug Safety  
->  `2018-2019` Medical Director, Drug Safety 
+`2016-2018` Associate Medical Director, Drug Safety  
+`2018-2019` Medical Director, Drug Safety 
 
 - Global Safety Officer
--- led medical safety activities for SPINRAZA and several developmental assets
--- provided clinical oversight and authored relevant section for SPINRAZA PSUR and DSUR
--- maintained relevant sections of Investigator Brochures, Core Data Sheet, Patient Safety Information, Expected Term Lists, and Informed Consent Forms
--- Provided clinical oversight for analysis and characterization of clinical trial and postmarketing adverse events
--- Represented safety issues in cross-function teams (including clinical study, program, communications, and publications teams) and governance committee presentations
--- Supported successful registration of SPINRAZA in 13 regions including EU, Canada, Japan, Australia, and others
--- Authored and edited responses to regulatory inquiries for both registration-related and postmarket settings
--- Provided input and editing for revision to package inserts including USPI, SmPC, and other regional labels
+* led medical safety activities for SPINRAZA and several developmental assets
+* provided clinical oversight and authored relevant section for SPINRAZA PSUR and DSUR
+* maintained relevant sections of Investigator Brochures, Core Data Sheet, Patient Safety Information, Expected Term Lists, and Informed Consent Forms
+* Provided clinical oversight for analysis and characterization of clinical trial and postmarketing adverse events
+* Represented safety issues in cross-function teams (including clinical study, program, communications, and publications teams) and governance committee presentations
+* Supported successful registration of SPINRAZA in 13 regions including EU, Canada, Japan, Australia, and others
+* Authored and edited responses to regulatory inquiries for both registration-related and postmarket settings
+* Provided input and editing for revision to package inserts including USPI, SmPC, and other regional labels
 
 - Development and Diligence
--- Assessed safety risks for potential asset acquisitions
--- Reviewed and assessed pre-clinical and clinical trial data in context of competitive landscape
--- Contributed to study design for gene therapy assets under development
--- Worked on cross-functional team to develop strategy for accelerating development through innovative approaches including hybrid virtual trials and wearables for data collection
+* Assessed safety risks for potential asset acquisitions
+* Reviewed and assessed pre-clinical and clinical trial data in context of competitive landscape
+* Contributed to study design for gene therapy assets under development
+* Worked on cross-functional team to develop strategy for accelerating development through innovative approaches including hybrid virtual trials and wearables for data collection
 
 ### Academic Medicine
 
