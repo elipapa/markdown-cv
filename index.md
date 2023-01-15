@@ -176,8 +176,9 @@ NIDDK/5K23DK081677 - Prinicipal Investigator
 
 *The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.*
 
+## Publications
 
-## Selected Publications
+Selected from over 50 publications.
 
 1. Berg AH, Bhan I, Powe C, Karumanchi SA, Xu D, Thadhani RI. Acute Homeostatic Changes Following Vitamin D2 Supplementation. J Endocr Soc. 2017;1(9):1135-1149.
 2. Darras BT, Farrar MA, Mercuri E, Finkel RS, Foster R, Hughes SG, Bhan I, Farwell W, Gheuens S. An Integrated Safety Analysis of Infants and Children with Symptomatic Spinal Muscular Atrophy (SMA) Treated with Nusinersen in Seven Clinical Trials. CNS Drugs. 2019;33(9):919-932.
