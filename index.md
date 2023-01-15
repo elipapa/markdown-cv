@@ -137,11 +137,17 @@ __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Sci
 `2015` Physician of the Year  
 Massachusetts General Hospital
 
-* Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality. *
+*Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.*
 
-`2005-2006` Partners in Excellence Award - Partners Healthcare - Given in recognition of informatics contributions.
+`2005-2006` Partners in Excellence Award  
+Partners Healthcare
 
-`2005-2006` Chief Resident in Medicine - Massachusetts General Hospital Department of Medicine - Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.
+*Given in recognition of informatics contributions.*
+
+`2005-2006` Chief Resident in Medicine  
+Massachusetts General Hospital, Department of Medicine
+
+*Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.*
 
 ## Grants
 
