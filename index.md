@@ -22,7 +22,7 @@ title: Ishir Bhan's CV
 
 ### Pharmaceutical Industry
 
- #### Alnylam Pharmaceuticals, Cambirdge, MA 
+#### Alnylam Pharmaceuticals, Cambirdge, MA 
 `2019-2022` Director, Clinical Research                  
 `2022-    ` Senior Director, Clinical Research            
 
