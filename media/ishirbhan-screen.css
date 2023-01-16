@@ -81,7 +81,7 @@ code {
 }
 
 code::after {
-	content:' | '
+	content:' |'
 }
 
 /* p code {
