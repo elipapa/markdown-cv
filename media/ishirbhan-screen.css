@@ -76,14 +76,16 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+/* 	font-family: Monaco,Menlo,monospace,sans-serif; */
 	color: #aaa;
-	white-space: pre;
+/* 	white-space: pre; */
+	display: inline-block;
+	width: 4em;
 }
 
-code::after {
+/* code::after {
 	content:' |'
-}
+} */
 
 /* p code {
 	position: absolute;
