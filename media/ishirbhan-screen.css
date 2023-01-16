@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style-position: inside;
+/* 	list-style-position: inside; */
 }
 
 
@@ -104,6 +104,7 @@ ol, ul {
 	width: 75%;
 	margin-bottom: 1.5em;
 	/* margin-top: -0.5em; */
+	margin-left:1.25em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -114,9 +115,9 @@ ol, ul {
 }*/
 
 li {
-	/*second line indent*/
+/* 	second line indent
 	padding-left: 1em;
-	text-indent: -1em;
+	text-indent: -1em; */
 	color: #777;
 }
 
