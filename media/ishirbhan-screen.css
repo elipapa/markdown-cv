@@ -35,9 +35,6 @@ ol, ul {
 	list-style: inside;
 }
 
-ul ul {
-	color: #777
-}
 
 blockquote, q {
 	quotes: none;
@@ -83,6 +80,10 @@ code {
 	white-space: pre;
 }
 
+code:after {
+	content:' | '
+}
+
 /* p code {
 	position: absolute;
 	text-align: right;
@@ -109,7 +110,7 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
+	color: #777;
 }
 
 li ul {
