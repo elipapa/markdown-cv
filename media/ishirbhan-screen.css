@@ -4,9 +4,9 @@
 */
 
 :root {
-	--lighttext: silver;
-	--mediumtext: gray;
-	--accentcolor: maroon;
+	--lighttext: #757575;
+	--mediumtext: #505050;
+	--accentcolor: #800000;
 }
 
 
@@ -89,7 +89,7 @@ p, h4, table {
 	width: 55%;
 }
 
-p, h4, strong {
+h4, strong {
 	color: var(--mediumtext);
 }
 
