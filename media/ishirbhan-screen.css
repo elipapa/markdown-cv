@@ -80,6 +80,7 @@ code {
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
+	white-space: pre;
 }
 
 /* p code {
