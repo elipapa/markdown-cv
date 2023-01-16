@@ -181,8 +181,7 @@ Development and Diligence
 | 2014-2015 | __Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__<br/>Massachusetts General Hospital Interim Support Fund - Prinicipal Investigator<br/>*The goal of this project is to define the relationship between  survival and ergocalciferol replacement in hemodialysis patients.* |
 | 2014-2015 | __Multiple Sclerosis and Chronic Kidney Disease__<br/>BiogenIdec - Prinicipal Investigator<br/>*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.* |
 | 2009-2014 | __Multiple Sclerosis and Chronic Kidney Disease__<br/>BiogenIdec - Prinicipal Investigator<br/>*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.* |
-| 2007-2008 | __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__<br/>NIDDK/5K23DK081677 - Prinicipal Investigator<br/>
-*The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.* |
+| 2007-2008 | __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__<br/>NIDDK/5K23DK081677 - Prinicipal Investigator<br/>*The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.* |
 
 ## Publications
 
