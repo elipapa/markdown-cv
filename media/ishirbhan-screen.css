@@ -212,7 +212,7 @@ a:hover {
 em {
 	/* font-weight: bold; */
 	font-style: italic;
-	color: var(--lightgray);
+	color: var(--lighttext);
 }
 
 strong {
@@ -229,7 +229,7 @@ th {
 
 td:nth-child(1) {
 	width: 5.5em;
-	color: var(--lightgray);
+	color: var(--lighttext);
 	border-right: 1px solid #ccc;
 }
 
