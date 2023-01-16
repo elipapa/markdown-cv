@@ -49,6 +49,10 @@ table {
 	border-spacing: 0;
 }
 
+table em {
+	display:block;
+}
+
 /* end of reset */
 
 
