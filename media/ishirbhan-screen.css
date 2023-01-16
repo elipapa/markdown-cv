@@ -4,8 +4,9 @@
 */
 
 :root {
-	--lightgray: #aaa;
-	--mediumgray: #777;
+	--lighttext: silver;
+	--mediumtext: gray;
+	--accentcolor: maroon;
 }
 
 
@@ -89,7 +90,7 @@ p, h4, table {
 }
 
 p, h4, strong {
-	color: #777;
+	color: var(--mediumtext);
 }
 
 code {
@@ -97,7 +98,7 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 /* 	font-family: Monaco,Menlo,monospace,sans-serif; */
-	color: var(--lightgray);
+	color: var(--lighttext);
 /* 	white-space: pre; */
 	display: inline-block;
 	width: 4em;
@@ -134,11 +135,11 @@ li {
 /* 	second line indent
 	padding-left: 1em;
 	text-indent: -1em; */
-	color: var(--mediumgray);
+	color: var(--mediumtext);
 }
 
 li::marker {
-	color: #aaa;
+	color: var(--lighttext);
 }
 
 
@@ -154,18 +155,18 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
-	color: maroon;
+	color: var(--accentcolor);
 }
 
 h1+p {
 	/*subtitle*/
 	font-size: 100%;
-	color: #999;
+	color: var(--lighttext);
 }
 
 h2 {
 	font-size: 1.1em;
-	color: maroon;
+	color: var(--accentcolor);
 	margin-top: 1em;
 	position: relative;
 	top: 1.4em;
