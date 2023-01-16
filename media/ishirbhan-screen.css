@@ -69,6 +69,7 @@ p, h4 {
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
+	color: #777;
 }
 
 code {
@@ -91,7 +92,7 @@ code::after {
 } */
 
 
-ul {
+ol, ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
@@ -113,12 +114,6 @@ li {
 	color: #777;
 }
 
-li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
-}
 
 h1,h2,h3,h4 {
 	font-weight: 400;
