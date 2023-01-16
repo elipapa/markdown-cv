@@ -189,6 +189,7 @@ a:hover {
 em {
 	/* font-weight: bold; */
 	font-style: italic;
+	color: #aaa;
 }
 
 strong {
