@@ -20,7 +20,7 @@ title: Ishir Bhan's CV
 
 ## Employment
 
-### Pharmaceutical Industry
+### Industry
 
 #### Alnylam Pharmaceuticals, Cambridge, MA 
 
