@@ -32,11 +32,11 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: disc inside;
+	list-style: inside;
 }
 
 ul ul {
-	list-style-type: disc;
+	color: #777
 }
 
 blockquote, q {
