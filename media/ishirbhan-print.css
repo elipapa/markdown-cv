@@ -90,6 +90,7 @@ ul {
 	left: 25%;
 	width: 75%;
 	margin-bottom: 1em;
+	padding-left: 1.25em;
 	/*margin-top: -0.5em;*/
 }
 
@@ -102,8 +103,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+/* 	padding-left: 1.25em;
+	text-indent: -1.25em; */
 	/*color: #777;*/
 }
 
