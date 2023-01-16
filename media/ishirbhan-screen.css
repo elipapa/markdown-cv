@@ -63,7 +63,7 @@ body {
 	margin-left: 1em;
 }
 
-p, h4 {
+p, h4, table {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.7em;
@@ -195,6 +195,14 @@ strong {
 	display: none;
 }
 
+th {
+	display: none
+}
+
+td:nth-child(1) {
+	width: 5em;
+	color: #ccc;
+}
 
 
 /*
