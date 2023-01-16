@@ -36,7 +36,7 @@ ol, ul {
 }
 
 ul ul {
-	list-style-type: circle;
+	list-style-type: disc;
 }
 
 blockquote, q {
@@ -127,7 +127,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2em;
 	line-height: 1em;
 	position: relative;
 	left: 25%;
@@ -135,8 +135,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
 }
 
 h2 {
