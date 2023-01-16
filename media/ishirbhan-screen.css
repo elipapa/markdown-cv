@@ -131,6 +131,10 @@ li {
 	color: #777;
 }
 
+li::marker {
+	color: #ccc;
+}
+
 
 h1,h2,h3,h4 {
 	font-weight: 400;
