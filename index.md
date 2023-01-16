@@ -3,7 +3,7 @@ layout: cv
 title: Ishir Bhan's CV
 ---
 # Ishir Bhan, MD MPH
-[Email](mailto:ishirbhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ishirbhan/) 
+<i class="fa-regular fa-envelope"></i> ishirbhan@gmail.com | <i class="fa-brands fa-linkedin"></i> https://www.linkedin.com/in/ishirbhan/
 
 ## Summary of Key Experience
 - Physician trained, board certified in internal medicine and nephrology with 8 years as academic staff physician
