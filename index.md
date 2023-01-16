@@ -53,7 +53,7 @@ Clinical lead for pre-clinical complement assets
 - led clinical assessment of potential indciations for novel agents directed against complement cascade, incorporating commercial assessments and pre-clincial data
 - worked with collaborator to assess viability of combination therapeutic appraoches, presenting to leadership at both companies
 
-__Biogen, Cambirdge, MA__   
+#### Biogen, Cambirdge, MA 
 `2016-2018` Associate Medical Director, Drug Safety  
 `2018-2019` Medical Director, Drug Safety 
 
@@ -75,7 +75,7 @@ Development and Diligence
 
 ### Academic Medicine
 
-__Massachusetts General Hospital, Boston, MA__  
+#### Massachusetts General Hospital, Boston, MA 
  
 `2014-2016` Associate Physician, Department of Medicine
 - Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.
@@ -96,14 +96,10 @@ __Massachusetts General Hospital, Boston, MA__
 
 ### Academic Appointments
 
-`2014-2016`
-__Assistant Professor in Medicine, Harvard Medical School__ - Boston, MA
+#### Harvard Medical School, Boston, MA
 
-
-`2008-2014`
-__Instructor in Medicine, Harvard Medical School__ - Boston, MA
-
-
+`2014-2016` Assistant Professor in Medicine  
+`2008-2014` Instructor in Medicine
 
 ## Education and Training
 
@@ -132,44 +128,52 @@ __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Sci
 
 ## Awards and Honors
 
-`2015` Physician of the Year  
+`2015`
+__Physician of the Year__  
 Massachusetts General Hospital
 
 *Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.*
 
-`2005-2006` Partners in Excellence Award  
+`2005-2006`
+__Partners in Excellence Award__  
 Partners Healthcare
 
 *Given in recognition of informatics contributions.*
 
-`2005-2006` Chief Resident in Medicine  
+`2005-2006`
+__Chief Resident in Medicine__  
 Massachusetts General Hospital, Department of Medicine
 
 *Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.*
 
 ## Grants
 
-`2016-2017` __Fanconi Syndrome, Mulitple Sclerosis, adnd Chronic Kidney Disease__  
+`2016-2017`
+__Fanconi Syndrome, Mulitple Sclerosis, adnd Chronic Kidney Disease__  
 BiogenIdec - Prinicipal Invvestigator
 
 *The goal of this project is to characterize urinary and renal function changes associated with multiple sclerosis.*
 
-`2014-2015` __Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__  
+`2014-2015`
+__Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__  
 Massachusetts General Hospital Interim Support Fund - Prinicipal Investigator
 
 *The goal of this project is to define the relationship between  survival and ergocalciferol replacement in hemodialysis patients.*
 
-`2014-2015` __Multiple Sclerosis and Chronic Kidney Disease__  
+`2014-2015`
+__Multiple Sclerosis and Chronic Kidney Disease__  
 BiogenIdec - Prinicipal Investigator
 
 *The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.*
 
-`2007-2008` __Role of hCAP18/LL37 and Vitamin D in Dialysis Mortality__  
+`2007-2008`
+__Role of hCAP18/LL37 and Vitamin D in Dialysis Mortality__  
 National Kidney Foundation Research Fellowship- Prinicipal Investigator
 
 *The goal of this project was to study inflammatory predictors of mortality in individuals with end-stage renal disease.*
 
-`2007-2008` __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__  
+`2007-2008`
+__RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__  
 NIDDK/5K23DK081677 - Prinicipal Investigator
 
 *The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.*
