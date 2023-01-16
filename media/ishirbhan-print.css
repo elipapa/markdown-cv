@@ -4,6 +4,10 @@
    License: none (public domain)
 */
 
+body {
+	font-size:80%;
+}
+
 #ghbutton {
 	display: none;
 	visibility: hidden;
