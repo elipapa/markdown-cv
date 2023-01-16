@@ -3,6 +3,12 @@
    License: none (public domain)
 */
 
+:root {
+	--lightgray: #aaa;
+	--mediumgray: #777;
+}
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -91,7 +97,7 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 /* 	font-family: Monaco,Menlo,monospace,sans-serif; */
-	color: #aaa;
+	color: var(--lightgray);
 /* 	white-space: pre; */
 	display: inline-block;
 	width: 4em;
@@ -128,11 +134,11 @@ li {
 /* 	second line indent
 	padding-left: 1em;
 	text-indent: -1em; */
-	color: #777;
+	color: var(--mediumgray);
 }
 
 li::marker {
-	color: #ccc;
+	color: #aaa;
 }
 
 
@@ -205,7 +211,7 @@ a:hover {
 em {
 	/* font-weight: bold; */
 	font-style: italic;
-	color: #aaa;
+	color: var(--lightgray);
 }
 
 strong {
@@ -222,13 +228,13 @@ th {
 
 td:nth-child(1) {
 	width: 5.5em;
-	color: #ccc;
+	color: var(--lightgray);
 	border-right: 1px solid #ccc;
 }
 
 td:nth-child(2) {
 	padding-left: 1em;
-	color: #777;
+	color: var(--mediumgray);
 }
 
 
