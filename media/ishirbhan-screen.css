@@ -127,6 +127,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	color: maroon;
 }
 
 h1+p {
@@ -136,7 +137,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: maroon;
 	margin-top: 1em;
 	position: relative;
 	top: 1.4em;
