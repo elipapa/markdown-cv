@@ -57,8 +57,11 @@ Clinical lead for pre-clinical complement assets
 - worked with collaborator to assess viability of combination therapeutic appraoches, presenting to leadership at both companies
 
 #### Biogen, Cambirdge, MA 
-`2016-2018` Associate Medical Director, Drug Safety  
-`2018-2019` Medical Director, Drug Safety 
+
+| Date      | Description |
+| ----------| ---- |
+| 2016-2018 | Associate Medical Director, Drug Safety |                  
+| 2018-2019 | Medical Director, Drug Safety |
 
 Global Safety Officer
 - led medical safety activities for SPINRAZA and several developmental assets
@@ -80,76 +83,98 @@ Development and Diligence
 
 #### Massachusetts General Hospital, Boston, MA 
  
-`2014-2016` Associate Physician, Department of Medicine
+ | Date      | Description |
+| ----------| ---- |
+| 2014-2016 | Associate Physician, Department of Medicine |  
+ 
 - Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.
 
-`2014-2016` Director of Nephrology Informatics, Department of Medicine, Division of Nephrology
+| Date      | Description |
+| ----------| ---- |
+| 2014-2016 | Director of Nephrology Informatics, Department of Medicine, Division of Nephrology |  
+
 - Oversaw all information-technology based initiatives within the Division of Nephrology, including research activities, clinical activities, and administrative initiatives. Provided informatics support for research ventures.
 
-`2013-2016` Director of Collaborative Informatics, Department of Medicine, Laboratory of Computer Science
+| Date      | Description |
+| ----------| ---- |
+| 2013-2016 | Director of Collaborative Informatics, Department of Medicine, Laboratory of Computer Science |   
+
 - Designed, planned, and managed development of web and smartphone-based clinical task management, electronic documentation, and collaboration software used at four Boston-area hospitals.
 
-`2012-2016` Subspecialty Core Educator, Department of Medicine
+| Date      | Description |
+| ----------| ---- |
+| 2012-2016 | Subspecialty Core Educator, Department of Medicine |   
+
 - Oversaw outpatient and inpatient nephrology rotations for medical residents. Developed educational program. Coordinated clinical experiences.
 
-`2012-2016` Associate Program Director, Nephrology Fellowship Program
+| Date      | Description |
+| ----------| ---- |
+| 2012-2016 | Associate Program Director, Nephrology Fellowship Program |                  
+
 - Oversaw nephrology fellowship activities at Massachusetts General Hospital including clinical rotations and research education.
 
-`2006-2014` Assistant in Medicine, Department of Medicine
+| Date      | Description |
+| ----------| ---- |
+| 2006-2014 | Assistant in Medicine, Department of Medicine |                  
+
+
 
 ### Academic Appointments
 
 #### Harvard Medical School, Boston, MA
 
-`2014-2016` Assistant Professor in Medicine  
-`2008-2014` Instructor in Medicine
+| Date      | Description |
+| ----------| ---- |
+| 2014-2016 | Assistant Professor in Medicine |                  
+| 2008-2014 | Instructor in Medicine |
+
+
+
 
 ## Education and Training
 
 ### Degrees
 
-`1996`
-__AB, Harvard College__ - Cambirdge, MA - *Biology, Magna Cum Laude*
+| Date      | Description |
+| ----------| ---- |
+| 1996 | __AB, Harvard College__ - Cambirdge, MA - *Biology, Magna Cum Laude* |
+| 2001 | __MD, Harvard Medical School__ - Boston, MA |
+| 2008 | __MPH, Harvard School of Public Health__ - Boston, MA - *Clinical Effectiveness* |
+                 
 
-`2001`
-__MD, Harvard Medical School__ - Boston, MA
-
-`2008`
-__MPH, Harvard School of Public Health__ - Boston, MA - *Clinical Effectiveness*
 
 
 ### Post-Graduate Training
 
-`2001-2004`
-__Internship and Residency, Massachusetts General Hospital__ - Boston, MA - *Internal Medicine*
-
-`2004-2008`
-__Clinical and Research Felowship, Massachusetts General Hospital/Brigham and Women's Hospital__ - Boston, MA - *Nephrology*
-
-`2005-2008`
-__Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__ - Boston, MA - *Informatics*
+| Date      | Description |
+| ----------| ---- |
+| 2001-2004 | __Internship and Residency, Massachusetts General Hospital__ - Boston, MA - *Internal Medicine* |
+| 2004-2008 | __Clinical and Research Felowship, Massachusetts General Hospital/Brigham and Women's Hospital__ - Boston, MA - *Nephrology* |
+| 2005-2008 | __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__ - Boston, MA - *Informatics* |
+                 
 
 ## Awards and Honors
 
-`2015`
-__Physician of the Year__  
-Massachusetts General Hospital
+| Date      | Description |
+| ----------| ---- |
+| 2015 | __Physician of the Year__, Massachusetts General Hospital |
 
 *Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.*
 
-`2005-2006`
-__Partners in Excellence Award__  
-Partners Healthcare
+| Date      | Description |
+| ----------| ---- |
+| 2005-2006 | __Partners in Excellence Award__, Partners Healthcare |
 
 *Given in recognition of informatics contributions.*
 
-`2005-2006`
-__Chief Resident in Medicine__  
-Massachusetts General Hospital, Department of Medicine
+| Date      | Description |
+| ----------| ---- |
+| 2005-2006 | __Chief Resident in Medicine__, Massachusetts General Hospital, Department of Medicine |
 
 *Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.*
 
 ## Grants
+
 
 `2016-2017`
 __Fanconi Syndrome, Mulitple Sclerosis, adnd Chronic Kidney Disease__  
