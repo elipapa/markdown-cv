@@ -200,9 +200,16 @@ th {
 }
 
 td:nth-child(1) {
-	width: 5em;
+	width: 5.5em;
 	color: #ccc;
+	border-right: 1px solid #ccc;
 }
+
+td:nth-child(2) {
+	padding-left: 1em;
+	color: #777;
+}
+
 
 
 /*
