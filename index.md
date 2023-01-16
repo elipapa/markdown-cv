@@ -3,7 +3,7 @@ layout: cv
 title: Ishir Bhan's CV
 ---
 # Ishir Bhan, MD MPH
-ishirbhan@gmail.com | 617-669-6797
+[Email](mailto:ishirbhan@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ishirbhan/) 
 
 ## Summary of Key Experience
 - Physician trained, board certified in internal medicine and nephrology with 8 years as academic staff physician
@@ -22,9 +22,9 @@ ishirbhan@gmail.com | 617-669-6797
 
 ### Pharmaceutical Industry
 
-`2019-    ` __Alnylam Pharmaceuticals, Cambirdge, MA__   
-`2019-2022` Director, Clinical Research  
-`2022-    ` Senior Director, Clinical Research  
+ __Alnylam Pharmaceuticals, Cambirdge, MA__  
+`2019-2022` Director, Clinical Research                  
+`2022-    ` Senior Director, Clinical Research            
 
 - Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients wih primary hyperoxaluria in advanced kidney disease)
    - led cross functional clinical devleopment subteam
@@ -53,7 +53,7 @@ ishirbhan@gmail.com | 617-669-6797
    - led clinical assessment of potential indciations for novel agents directed against complement cascade, incorporating commercial assessments and pre-clincial data
    - worked with collaborator to assess viability of combination therapeutic appraoches, presenting to leadership at both companies
 
-`2016-2019` __Biogen, Cambirdge, MA__   
+__Biogen, Cambirdge, MA__   
 `2016-2018` Associate Medical Director, Drug Safety  
 `2018-2019` Medical Director, Drug Safety 
 
@@ -75,7 +75,7 @@ ishirbhan@gmail.com | 617-669-6797
 
 ### Academic Medicine
 
-`2008-2016` __Massachusetts General Hospital, Boston, MA__  
+__Massachusetts General Hospital, Boston, MA__  
  
 `2014-2016` Associate Physician, Department of Medicine
 - Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.
@@ -91,8 +91,8 @@ ishirbhan@gmail.com | 617-669-6797
 
 `2012-2016` Associate Program Director, Nephrology Fellowship Program
 - Oversaw nephrology fellowship activities at Massachusetts General Hospital including clinical rotations and research education.
-  
-`2018-2019` Medical Director, Drug Safety 
+
+`2006-2014` Assistant in Medicine, Department of Medicine
 
 ### Academic Appointments
 
