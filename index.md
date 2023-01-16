@@ -23,8 +23,11 @@ title: Ishir Bhan's CV
 ### Pharmaceutical Industry
 
 #### Alnylam Pharmaceuticals, Cambirdge, MA 
-`2019-2022` Director, Clinical Research                  
-`2022-    ` Senior Director, Clinical Research            
+
+| Date      | Description |
+| ----------| ---- |
+| 2019-2022 | Director, Clinical Research |                  
+| 2022-     | Senior Director, Clinical Research |
 
 Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients wih primary hyperoxaluria in advanced kidney disease)
 - led cross functional clinical devleopment subteam
