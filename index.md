@@ -137,7 +137,7 @@ Development and Diligence
 
 | Date      | Description |
 | ----------| ---- |
-| 1996 | __AB, Harvard College__.<br/>Cambirdge, MA<<br/>*Biology, Magna Cum Laude* |
+| 1996 | __AB, Harvard College__.<br/>Cambirdge, MA<br/>*Biology, Magna Cum Laude* |
 | 2001 | __MD, Harvard Medical School__<br/>Boston, MA |
 | 2008 | __MPH, Harvard School of Public Health__<br/>Boston, MA<br/>*Clinical Effectiveness* |
                  
@@ -148,9 +148,9 @@ Development and Diligence
 
 | Date      | Description |
 | ----------| ---- |
-| 2001-2004 | __Internship and Residency, Massachusetts General Hospital__ - Boston, MA - *Internal Medicine* |
-| 2004-2008 | __Clinical and Research Felowship, Massachusetts General Hospital/Brigham and Women's Hospital__ - Boston, MA - *Nephrology* |
-| 2005-2008 | __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__ - Boston, MA - *Informatics* |
+| 2001-2004 | __Internship and Residency, Massachusetts General Hospital__<br/>Boston, MA<br/>*Internal Medicine* |
+| 2004-2008 | __Clinical and Research Felowship, Massachusetts General Hospital/Brigham and Women's Hospital__<br/>Boston, MA<br/>*Nephrology* |
+| 2005-2008 | __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__<br/>Boston, MA<br/>*Informatics* |
                  
 
 ## Awards and Honors
@@ -175,36 +175,14 @@ Development and Diligence
 
 ## Grants
 
-
-`2016-2017`
-__Fanconi Syndrome, Mulitple Sclerosis, adnd Chronic Kidney Disease__  
-BiogenIdec - Prinicipal Invvestigator
-
-*The goal of this project is to characterize urinary and renal function changes associated with multiple sclerosis.*
-
-`2014-2015`
-__Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__  
-Massachusetts General Hospital Interim Support Fund - Prinicipal Investigator
-
-*The goal of this project is to define the relationship between  survival and ergocalciferol replacement in hemodialysis patients.*
-
-`2014-2015`
-__Multiple Sclerosis and Chronic Kidney Disease__  
-BiogenIdec - Prinicipal Investigator
-
-*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.*
-
-`2007-2008`
-__Role of hCAP18/LL37 and Vitamin D in Dialysis Mortality__  
-National Kidney Foundation Research Fellowship- Prinicipal Investigator
-
-*The goal of this project was to study inflammatory predictors of mortality in individuals with end-stage renal disease.*
-
-`2007-2008`
-__RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__  
-NIDDK/5K23DK081677 - Prinicipal Investigator
-
-*The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.*
+| Date      | Description |
+| ----------| ---- |
+| 2016-2017 | __Fanconi Syndrome, Mulitple Sclerosis, adnd Chronic Kidney Disease__<br/>BiogenIdec - Prinicipal Invvestigatorr<br/>*The goal of this project is to characterize urinary and renal function changes associated with multiple sclerosis.* |
+| 2014-2015 | __Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__<br/>Massachusetts General Hospital Interim Support Fund - Prinicipal Investigator<br/>*The goal of this project is to define the relationship between  survival and ergocalciferol replacement in hemodialysis patients.* |
+| 2014-2015 | __Multiple Sclerosis and Chronic Kidney Disease__<br/>BiogenIdec - Prinicipal Investigator<br/>*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.* |
+| 2009-2014 | __Multiple Sclerosis and Chronic Kidney Disease__<br/>BiogenIdec - Prinicipal Investigator<br/>*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.* |
+| 2007-2008 | __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__<br/>NIDDK/5K23DK081677 - Prinicipal Investigator<br/>
+*The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.* |
 
 ## Publications
 
