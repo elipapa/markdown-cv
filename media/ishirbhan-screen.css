@@ -150,6 +150,7 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-size: 100%;
+	color: #999;
 }
 
 h2 {
