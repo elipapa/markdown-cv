@@ -80,7 +80,7 @@ code {
 	white-space: pre;
 }
 
-code:after {
+code::after {
 	content:' | '
 }
 
