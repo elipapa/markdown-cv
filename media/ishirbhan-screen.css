@@ -73,12 +73,16 @@ body {
 	margin-left: 1em;
 }
 
+
 p, h4, table {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
+}
+
+p, h4, strong {
 	color: #777;
 }
 
