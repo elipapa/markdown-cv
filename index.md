@@ -85,36 +85,11 @@ Development and Diligence
  
  | Date      | Description |
 | ----------| ---- |
-| 2014-2016 | Associate Physician, Department of Medicine |  
- 
-- Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.
-
-| Date      | Description |
-| ----------| ---- |
-| 2014-2016 | Director of Nephrology Informatics, Department of Medicine, Division of Nephrology |  
-
-- Oversaw all information-technology based initiatives within the Division of Nephrology, including research activities, clinical activities, and administrative initiatives. Provided informatics support for research ventures.
-
-| Date      | Description |
-| ----------| ---- |
-| 2013-2016 | Director of Collaborative Informatics, Department of Medicine, Laboratory of Computer Science |   
-
-- Designed, planned, and managed development of web and smartphone-based clinical task management, electronic documentation, and collaboration software used at four Boston-area hospitals.
-
-| Date      | Description |
-| ----------| ---- |
-| 2012-2016 | Subspecialty Core Educator, Department of Medicine |   
-
-- Oversaw outpatient and inpatient nephrology rotations for medical residents. Developed educational program. Coordinated clinical experiences.
-
-| Date      | Description |
-| ----------| ---- |
-| 2012-2016 | Associate Program Director, Nephrology Fellowship Program |                  
-
-- Oversaw nephrology fellowship activities at Massachusetts General Hospital including clinical rotations and research education.
-
-| Date      | Description |
-| ----------| ---- |
+| 2014-2016 | Associate Physician, Department of Medicine *Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.*|  
+| 2014-2016 | Director of Nephrology Informatics, Department of Medicine, Division of Nephrology *Oversaw all information-technology based initiatives within the Division of Nephrology, including research activities, clinical activities, and administrative initiatives. Provided informatics support for research ventures.*|  
+| 2013-2016 | Director of Collaborative Informatics, Department of Medicine, Laboratory of Computer Science *Designed, planned, and managed development of web and smartphone-based clinical task management, electronic documentation, and collaboration software used at four Boston-area hospitals.*|   
+| 2012-2016 | Subspecialty Core Educator, Department of Medicine *Oversaw outpatient and inpatient nephrology rotations for medical residents. Developed educational program. Coordinated clinical experiences.*|   
+| 2012-2016 | Associate Program Director, Nephrology Fellowship Program *Oversaw nephrology fellowship activities at Massachusetts General Hospital including clinical rotations and research education.*|                  
 | 2006-2014 | Assistant in Medicine, Department of Medicine |                  
 
 
@@ -137,9 +112,9 @@ Development and Diligence
 
 | Date      | Description |
 | ----------| ---- |
-| 1996 | __AB, Harvard College__.<br/>Cambirdge, MA<br/>*Biology, Magna Cum Laude* |
+| 1996 | __AB, Harvard College__.<br/>Cambirdge, MA *Biology, Magna Cum Laude* |
 | 2001 | __MD, Harvard Medical School__<br/>Boston, MA |
-| 2008 | __MPH, Harvard School of Public Health__<br/>Boston, MA<br/>*Clinical Effectiveness* |
+| 2008 | __MPH, Harvard School of Public Health__<br/>Boston, MA *Clinical Effectiveness* |
                  
 
 
@@ -148,30 +123,28 @@ Development and Diligence
 
 | Date      | Description |
 | ----------| ---- |
-| 2001-2004 | __Internship and Residency, Massachusetts General Hospital__<br/>Boston, MA<br/>*Internal Medicine* |
-| 2004-2008 | __Clinical and Research Felowship, Massachusetts General Hospital/Brigham and Women's Hospital__<br/>Boston, MA<br/>*Nephrology* |
-| 2005-2008 | __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__<br/>Boston, MA<br/>*Informatics* |
+| 2001-2004 | __Internship and Residency, Massachusetts General Hospital__<br/>Boston, MA *Internal Medicine* |
+| 2004-2008 | __Clinical and Research Felowship, Massachusetts General Hospital/Brigham and Women's Hospital__<br/>Boston, MA *Nephrology* |
+| 2005-2008 | __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__<br/>Boston, MA *Informatics* |
                  
 
 ## Awards and Honors
 
 | Date      | Description |
 | ----------| ---- |
-| 2015 | __Physician of the Year__, Massachusetts General Hospital |
+| 2015 | __Physician of the Year__, Massachusetts General Hospital *Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.*
+ |
 
-*Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.*
-
-| Date      | Description |
-| ----------| ---- |
-| 2005-2006 | __Partners in Excellence Award__, Partners Healthcare |
-
-*Given in recognition of informatics contributions.*
 
 | Date      | Description |
 | ----------| ---- |
-| 2005-2006 | __Chief Resident in Medicine__, Massachusetts General Hospital, Department of Medicine |
+| 2005-2006 | __Partners in Excellence Award__, Partners Healthcare *Given in recognition of informatics contributions.*|
 
-*Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.*
+
+| Date      | Description |
+| ----------| ---- |
+| 2005-2006 | __Chief Resident in Medicine__, Massachusetts General Hospital, Department of Medicine *Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.* |
+
 
 ## Grants
 
