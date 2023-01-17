@@ -112,7 +112,7 @@ Development and Diligence
 
 | Date      | Description |
 | ----------| ---- |
-| 1996 | __AB, Harvard College__.<br/>Cambridge, MA *Biology, Magna Cum Laude* |
+| 1996 | __AB, Harvard College__<br/>Cambridge, MA *Biology, Magna Cum Laude* |
 | 2001 | __MD, Harvard Medical School__<br/>Boston, MA |
 | 2008 | __MPH, Harvard School of Public Health__<br/>Boston, MA *Clinical Effectiveness* |
                  
