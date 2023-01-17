@@ -76,7 +76,7 @@ body {
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin: 1em;
+	margin: 3em;
 }
 
 
@@ -120,7 +120,7 @@ ol, ul {
 	width: 70%;
 	margin-bottom: 1.5em;
 	/* margin-top: -0.5em; */
-	margin-left:1.25em;
+	padding-left:1.25em;
 }
 
 /*uncomment to get dashes in the list*/
