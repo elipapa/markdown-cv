@@ -13,8 +13,6 @@ title: Cameron Anderson CV
   <a href="https://cameronanderson.ca" target="_blank"><i class="fas fa-home"></i> cameronanderson.ca</a> - 
   <a href="https://gitlab.com/andersoc" target="_blank"><i class="fab fa-gitlab"></i> andersoc</a> - 
   <a href="https://www.linkedin.com/in/cmndrsn/" target="_blank"><i class="fab fa-linkedin"></i> cmndrsn</a> - 
-  <a href="https://open.spotify.com/artist/1MdjdQbdns4hpnV7oymZsC" target="_blank"><i class="fab fa-spotify"></i> Cameron Anderson</a> - 
-  <a href="https://twitter.com/cmndrsn" target="_blank"><i class="fab fa-twitter"></i> @cmndrsn</a>
 </div>
 ## Summary
 -   PhD Student developing statistical methods to study how emotion perceived in music relates to its historic context and listeners' musical experiences.
