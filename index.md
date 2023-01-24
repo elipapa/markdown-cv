@@ -88,7 +88,7 @@ Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.c
 `2019-Present`
 __Teaching Assistant__, Department of Psychology, Neuroscience & Behaviour,
 McMaster University, Hamilton, ON.
-- Courses: *Integrative PNB through Scientific Writing* (2023); *Statistics for the Behavioural Sciences*(2020-22); *Music Cognition* (2020-22); *Human Evolution & Behaviour* (2019).
+- Courses: *Integrative PNB through Scientific Writing* (2023); *Statistics for the Behavioural Sciences* (2020-22); *Music Cognition* (2020-22); *Human Evolution & Behaviour* (2019).
 
 `2021-2022`
 __Graduate Resident__, Lewis & Ruth Sherman Centre for Digital Scholarship
