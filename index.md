@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Wesley Motlow's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Wesley Motlow
+Geography, Remote Sensing, Land Cover 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
