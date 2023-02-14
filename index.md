@@ -6,7 +6,7 @@ title: Wesley Motlow's CV
 Geography, Remote Sensing, Land Cover Analysis
 
 <div id="webaddress">
-<a href="wesley.motlow@gmail.com">isaac@applesdofall.org</a>
+<a href="wesley.motlow@gmail.com"></a>
 | <a href="https://www.linkedin.com/in/wesley-motlow-a67bab172/">My Linkedin page</a>
 </div>
 
