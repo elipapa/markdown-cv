@@ -3,11 +3,11 @@ layout: cv
 title: Wesley Motlow's CV
 ---
 # Wesley Motlow
-Geography, Remote Sensing, Land Cover 
+Geography, Remote Sensing, Land Cover Analysis
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/wesley-motlow-a67bab172/">My Linkedin page</a>
 </div>
 
 
