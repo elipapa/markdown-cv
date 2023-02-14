@@ -7,7 +7,7 @@ Geography, Remote Sensing, Land Cover Analysis
 
 <div id="webaddress">
 <a href="wesley.motlow@gmail.com"></a>
-| <a href="https://www.linkedin.com/in/wesley-motlow-a67bab172/">My Linkedin page</a>
+<a href="https://www.linkedin.com/in/wesley-motlow-a67bab172/">My Linkedin page</a>
 </div>
 
 
@@ -17,9 +17,9 @@ A first year masters student at San Diego State University
 
 ### Specialized in
 
-Computer: ArcGIS Pro, ArcMap, EVNI, QGIS, Adobe Illustrator, Google Suite, Microsoft Office Suite
-Language: Beginning Spanish, Beginning Dutch
-Other: Eagle Scout
+-Computer: ArcGIS Pro, ArcMap, EVNI, QGIS, Adobe Illustrator, Google Suite, Microsoft Office Suite
+-Language: Beginning Spanish, Beginning Dutch
+-Other: Eagle Scout
 
 
 ### Research interests
