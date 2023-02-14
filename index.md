@@ -6,24 +6,25 @@ title: Wesley Motlow's CV
 Geography, Remote Sensing, Land Cover Analysis
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="wesley.motlow@gmail.com">isaac@applesdofall.org</a>
 | <a href="https://www.linkedin.com/in/wesley-motlow-a67bab172/">My Linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+A first year masters student at San Diego State University
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Computer: ArcGIS Pro, ArcMap, EVNI, QGIS, Adobe Illustrator, Google Suite, Microsoft Office Suite
+Language: Beginning Spanish, Beginning Dutch
+Other: Eagle Scout
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Thesis work on exploring land use analysis and crop identification using remote sensing.
 
 ## Education
 
