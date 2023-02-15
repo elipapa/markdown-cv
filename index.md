@@ -1,17 +1,16 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shamin Kinathil's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shamin Kinathil
+Machine Learner, Data Scientist, Product Manager.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="shamin.kinathil@gmail.com">shamin.kinathil@gmail.com</a>
 </div>
 
 
-## Currently
+## Experience
 
 Standing on the shoulders of giants
 
@@ -27,61 +26,61 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019`
+__Australian National University and Data61, CSIRO.__<br>
+Doctor of Philosophy (Computer Science)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Dissertation: Closed-form solutions to Sequential Decision Making within Markets.
 
-- Sizar
+`2012`
+__University of New South Wales__<br>
+Master of Science (Statistics)
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Dissertation: Nonlinear Filtering for Non-Stationary Multivariate Cointegration Models.
 
-- Fellow
+`2007`
+__University of New South Wales__<br>
+Bachelor of Engineering (Bioinformatics) / Bachelor of Science (Biotechnology)
+
+- Honours Class 1
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2017` __The Australian National University__<br>
+Vice-Chancellor’s HDR Travel Grant
+ 
+`2013 – 2017` __The Australian National University__<br>
+PhD Scholarship
+ 
+`2013 – 2017` __Data61, CSIRO__<br>
+Supplementary PhD Scholarship
+ 
+`2005` __University of New South Wales__<br>
+Summer Research Scholarship
+ 
+`2004` __University of New South Wales__<br>
+Summer Research Scholarship
+ 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2016` Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI)<br>
+A Symbolic Closed-form Solution to Sequential Market Making with Inventory<br>
+__Shamin Kinathil__, Scott Sanner, Sanmay Das and Nicolas Della Penna.<br>
+<!-- Twenty-Fifth International Joint Conference on Artificial Intelligence, IJCAI 2016. -->
+ 
+ `2017` Twenty-Seventh International Conference on Automated Planning and Scheduling (ICAPS)<br>
+Analytic Decision Analysis via Symbolic Dynamic Programming for Parameterized Hybrid MDPs<br>
+__Shamin Kinathil__, Harold Soh and Scott Sanner.<br>
+<!-- Twenty-Seventh International Conference on Automated Planning and Scheduling, ICAPS 2017. -->
+ 
+`2014` Thirtieth Conference on Uncertainty in Artificial Intelligence (UAI)<br>
+Closed-form Solutions to a Subclass of Continuous Stochastic Games via Symbolic Dynamic Programming<br>
+__Shamin Kinathil__, Scott Sanner and Nicolas Della Penna.<br>
+<!-- Thirtieth Conference on Uncertainty in Artificial Intelligence, UAI 2014. -->
 
 
 <!-- ### Footer
