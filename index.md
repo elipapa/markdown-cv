@@ -28,65 +28,31 @@ Thesis work on exploring land use analysis and crop identification using remote 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2020`
+__Peralta Community Colleges, Alameda County, California__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2020-2022`
+__University of California, Los Angeles__
 
-- Sizar
+`2022 - Present`
+__San Diego State University__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Graduate Student
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2022`
+Blackman Family Award, University of California, Los Angeles
+Departmental Honors, Geography Department 
 
-Associate, *French Academy of Science*, Paris, France
+`2009`
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Eagle Scout
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: February 2023 -->
 
 
