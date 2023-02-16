@@ -17,9 +17,9 @@ A first year masters student at San Diego State University
 
 ### Specialized in
 
--Computer: ArcGIS Pro, ArcMap, EVNI, QGIS, Adobe Illustrator, Google Suite, Microsoft Office Suite
--Language: Beginning Spanish, Beginning Dutch
--Other: Eagle Scout
+-Computer: ArcGIS Pro, ArcMap, EVNI, QGIS, Adobe Illustrator, Google Suite, Microsoft Office Suite  
+-Language: Beginning Spanish, Beginning Dutch  
+-Other: Eagle Scout  
 
 
 ### Research interests
