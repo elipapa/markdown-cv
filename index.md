@@ -1,91 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hannah Samy's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hannah Samy
+Graduate Student in Ecology
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+<a href="hsamy2254@sdsu.edu">hsamy2254@sdsu.edu</a>
 
 ## Education
+  
+`2020 - Present`
+M.S. in Biological Sciences, Concentration in Ecology
+- San Diego State University
+ 
+  
+`2015-2019`
+B.S. in Biological Sciences
+- University of California Irvine
 
-`1654-1660`
-__The King's School, Grantham.__
+## Work Experience
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`April 2021 - Present`
+Habitat Conservancy Intern
+  
+San Diego Habitat Conservancy, San Diego, CA
+- Monitor general conditions, wildlife, and vegetation across preserves in San Diego County
+- Promote habitat recovery and health by hand-weeding invasives, establishing native plants, and removing litter
+- Prepare annual reports that documented the conservatory’s activities and future goals for management
+- Utilize ESRI applications to create map layouts of preserves 
+- Engage in community education by developing social media content related to the organization’s projects and local flora and fauna
 
-- Sizar
+`Aug 2020 - Present`
+Biology Teaching Assistant
+  
+San Diego State University, San Diego, CA
+- Develop lesson plans, weekly lectures, assignments, and exams based on course material
+- Evaluate students’ laboratory work and reports and provide constructive feedback to facilitate their learning
+- Provide weekly office hours for students in need of tutoring or assistance
+- Lead discussion groups on scientific literature relevant to students’ coursework
 
-`1667 - death`
-__Trinity College, Cambridge__
+`June 2018 - June 2019`
+Undergraduate Research Assistant
+  
+University of California Irvine, Irvine, CA
+  
+- Prepared soil samples and necessary reagents for processing
+- Quantified enzymatic activity of soil microbial communities using fluorometry 
+- Statistically analyzed and interpreted quantitative data 
+- Developed an experimental protocol to evaluate the relationship between temperature and microbial enzymatic activity
 
-- Fellow
+## Presentations
+  
+`Feb. 2019`
+*Fungal Enzymatic Response to Climate Change in a Southern California Grassland*
+- American Association for the Advancement of Science, Washington D.C.
+  
+`Dec. 2018`
+ *Fungal Enzymatic Response to Climate Change in a Southern California Grassland*
+- Undergraduate Research Symposium, University of California Irvine
 
+## Recognitions and Awards
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Oct. 2022`
+Mabel Myers Memorial Scholarship
+- Merit-based scholarship for students in Biology
+- San Diego State University
+  
+`Aug. 2021`
+Jordan D. Corvin Memorial Scholarship
+- Recognition for graduate students who have presented original research at a recognized scientific meeting
+- San Diego State University
+  
+`Aug. 2020`
+Biology Scholarship 
+- Merit-based scholarship for students in Biology
+- San Diego State University
+  
+`Fall 2018 - Spring 2019`
+Dean's List
+- University of California Irvine
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2023 -->
 
 
