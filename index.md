@@ -1,12 +1,9 @@
----
-layout: cv
-title: Geoffrey Hughes's CV
----
+
 **Geoffrey Hughes**
 
 \(619\) 922-9284 -- geoffrey.hughes0049\@gmail.com
 
-**[EDUCATION]{.underline}**
+**[EDUCATION]**
 
 **BA in Anthropology**
 
@@ -16,12 +13,12 @@ title: Geoffrey Hughes's CV
 
 **Awards:** Dean's List Fall 2018 & Spring 2019
 
-**[EMPLOYMENT HISTORY]{.underline}**
+**[EMPLOYMENT HISTORY]**
 
 **ARCHAEOLOGICAL PROJECT LEADER -- CALIFORNIA STATE PARKS JULY 2022 --
 PRESENT**
 
--   **[Providence Mountain SRA Historic Mine Closure]{.underline}**
+-   **[Providence Mountain SRA Historic Mine Closure]**
 
 > **April 2022 -- Present**
 >
@@ -30,7 +27,7 @@ PRESENT**
 > survey work included creation of site records and report writing for
 > California State Parks.**
 
--   **[Hungry Valley SRA]{.underline}**
+-   **[Hungry Valley SRA]**
 
 > **February 2022 -- September 2023**
 >
@@ -47,7 +44,7 @@ PRESENT**
 > California State Parks.**
 
 -   **[El Capitan State Beach & Gaviota State Park Entrance Road
-    Improvements]{.underline}**
+    Improvements]**
 
 > **September 2021 -- Present**
 >
@@ -56,7 +53,7 @@ PRESENT**
 > report writing for California State Parks.**
 
 -   **[Old Town San Diego Caltrans Building Demolition and Immediate
-    Public Use]{.underline}**
+    Public Use]**
 
 > **November 2019 -- December 2022**
 >
@@ -71,7 +68,7 @@ PRESENT**
 **ARCHAEOLOGICAL SPECIALIST -- CALIFORNIA STATE PARKS SEPTEMBER 2019 --
 JUNE 2022**
 
--   **[Poleline Survey for Ocotillo Wells SRVA]{.underline}**
+-   **[Poleline Survey for Ocotillo Wells SRVA]**
 
 > **March 2019 -- September 2020**
 >
@@ -80,35 +77,35 @@ JUNE 2022**
 > included creation of site records and report writing for California
 > State Parks.**
 
--   **[Carpinteria State Beach ADA]{.underline}**
+-   **[Carpinteria State Beach ADA]**
 
 > **January -- July 2020**
 >
 > **Conducted Phase III artifact processing from a shell midden deposit
 > for California State Parks.**
 
--   **[Chino Hills State Park]{.underline}**
+-   **[Chino Hills State Park]**
 
 > **July 2020**
 >
 > **Established an update program for the Geographic Information Systems
 > (GIS) data location for Chino Hills State Park.**
 
--   **[Anza Borrego State Park]{.underline}**
+-   **[Anza Borrego State Park]**
 
 > **July 2020**
 >
 > **Established an update program for the Geographic Information Systems
 > (GIS) data location for Anza Borrego State Park.**
 
--   **[Los Angeles State Historic Park]{.underline}**
+-   **[Los Angeles State Historic Park]**
 
 > **July 2020**
 >
 > **Conducted research and preparation of reports for delivery to the
 > Los Angeles State Historic Park offices.**
 
--   **[Point Dume Nature Preserve ADA]{.underline}**
+-   **[Point Dume Nature Preserve ADA]**
 
 > **February -- March 2020**
 >
@@ -117,7 +114,7 @@ JUNE 2022**
 > Preserve. Documented and generated reports for construction activity
 > for California State Parks.**
 
--   **[Old Town ADA]{.underline}**
+-   **[Old Town ADA]**
 
 > **October 2019 -- February 2020**
 >
@@ -128,14 +125,14 @@ JUNE 2022**
 > Documented construction activity as well as writing report for
 > California State Parks.**
 
--   **[Cuyamaca Rancho State Park Green Valley ADA]{.underline}**
+-   **[Cuyamaca Rancho State Park Green Valley ADA]**
 
 > **October 2019 -- January 2020**
 >
 > **Conducted Phase III artifact processing from construction monitoring
 > for California State Parks.**
 
--   **[Crystal Cove State Beach ADA]{.underline}**
+-   **[Crystal Cove State Beach ADA]**
 
 > **January -- October 2019**
 >
@@ -145,7 +142,7 @@ JUNE 2022**
 **ON-CALL ARCHAEOLOGICAL TECHNICIAN -- DUDEK ENVIRONMENTAL JULY 2019 --
 SEPTEMBER 2021**
 
--   **[Block 1J Water Screening]{.underline}**
+-   **[Block 1J Water Screening]**
 
 > **October 2019-September 2021**
 >
@@ -154,7 +151,7 @@ SEPTEMBER 2021**
 > setup, and wet screen and drying rack construction and maintenance.**
 
 -   **[Pacifica and Princess Collection & Survey Inventory and Lab
-    Curation]{.underline}**
+    Curation]**
 
 > **April -- June 2020**
 >
