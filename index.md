@@ -1,86 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Osbaldo Aguilar CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Osbaldo Aguilar
+GIS Undergrad
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">oaguilar1544@sdsu.edu</a>
+| <a href="[http://en.wikipedia.org/wiki/Isaac_Newton](https://github.com/oaguilar1544)">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing Bachelors of Science in GIS
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Spatial Science, Data science, ArcGIS Pro, ESRI Storymaps, Erdas, Envi
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Urban transportation, Database Management, Real Estate, Geographic Processes, Data analysis, Sales.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2020 - now` 
+__San Diego State University.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`August 2014 - 2020`
+__Orange Coast College - Associate of Arts in Geography__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
-
+Eli Papa's  https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=LTOTl0YAAAAJ&citation_for_view=LTOTl0YAAAAJ:ULOm3_A8WrAC
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Summer 2022`
+__Aptive Sales Representative__, Nashville
 
-- Warden
-- Minted coins
+- Door to Door sales
+- Contract negotiator
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2012 - 2021`
+__Leo's Landscaping Service__, Huntington Beach
+
+`2022 - now`
+__Aztec Shops__, San Diego
+
+- Food Prep
+- Concessions
 
 
 
