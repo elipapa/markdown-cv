@@ -1,5 +1,4 @@
-
-**Geoffrey Hughes**
+**GEOFFREY HUGHES**
 
 \(619\) 922-9284 -- geoffrey.hughes0049\@gmail.com
 
@@ -196,7 +195,7 @@ SEPTEMBER 2021**
     sales projections, staff retention, inventory management and
     business relations management.
 
-**[PUBLICATIONS]{.underline}**
+**[PUBLICATIONS]**
 
 Mallios, S, et al. (2019) An Interim Technical Report for the 2019 Field
 Season: Archaeological Excavations at the Nathan "Nate" Harrison Site in 
@@ -207,7 +206,7 @@ Demolition and Immediate Public Use Project at the Former Caltrans
 District 11 Office Complex in Old Town San Diego State Historic Park.
 California State Parks
 
-**[SKILLS & CERTIFICATIONS]{.underline}**
+**[SKILLS & CERTIFICATIONS]**
 
 **ArcGIS, artifact analysis, excavation, writing, document editing,
 image analysis, GRASS GIS, QGIS, MS Word, MS Excel, MS Powerpoint,
