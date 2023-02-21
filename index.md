@@ -1,4 +1,8 @@
-**GEOFFREY HUGHES**
+---
+layout: cv
+title: Geoffrey Hughes's CV
+
+---**GEOFFREY HUGHES**
 
 \(619\) 922-9284 -- geoffrey.hughes0049\@gmail.com
 
