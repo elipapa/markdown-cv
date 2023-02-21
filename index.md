@@ -1,85 +1,214 @@
----
-layout: default
----
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
+**Geoffrey Hughes**
 
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
+\(619\) 922-9284 -- geoffrey.hughes0049\@gmail.com
 
-### what does that mean?
+**[EDUCATION]**
 
-Write your CV like this...
+**BA in Anthropology**
 
-<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+*San Diego State University,* *San Diego CA*
 
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
+**GPA in Major:** 3.96/4.00
 
-<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+**Awards:** Dean's List Fall 2018 & Spring 2019
 
+**[EMPLOYMENT HISTORY]**
 
+**ARCHAEOLOGICAL PROJECT LEADER -- CALIFORNIA STATE PARKS JULY 2022 --
+PRESENT**
 
-## Usage
+-   **[Providence Mountain SRA Historic Mine Closure]**
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+> **April 2022 -- Present**
+>
+> **Conducted Phase I surveys of exposed surface features and artifacts
+> as well as recordation of archaeological isolates and sites. Post
+> survey work included creation of site records and report writing for
+> California State Parks.**
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+-   **[Hungry Valley SRA]**
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+> **February 2022 -- September 2023**
+>
+> **Conducted Post Fire surveys of exposed surface features and
+> artifacts as well as recordation of archaeological isolates and sites.
+> Post survey work included creation of site records and report writing
+> for California State Parks.**
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+-   **[Crystal Cove State Beach Reef & Pelican Point Parking
+    Lot]{.underline} October 2021 -- April 2022**
 
-adding your skills, jobs and education.
+> **Conducted Phase II & III mitigation monitoring for parking lot
+> demolition and irrigation and sewer piping throughout the site for
+> California State Parks.**
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+-   **[El Capitan State Beach & Gaviota State Park Entrance Road
+    Improvements]**
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+> **September 2021 -- Present**
+>
+> **Conducted Phase I survey for proposed tree replanting for California
+> State Parks. Post survey work included creation of site records and
+> report writing for California State Parks.**
 
-### 1) Using Github Pages to publish it online
+-   **[Old Town San Diego Caltrans Building Demolition and Immediate
+    Public Use]**
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+> **November 2019 -- December 2022**
+>
+> **Conducted Phase II & III** **mitigation monitoring for sewer, water,
+> electrical and irrigation piping throughout the site, observed grading
+> throughout the site for construction of a parking lot and numerous
+> walking trails, as well as building foundational demolition, and
+> participated in archaeological testing of the site. Documented
+> construction activity as well as writing the final report for the
+> California State Parks.**
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+**ARCHAEOLOGICAL SPECIALIST -- CALIFORNIA STATE PARKS SEPTEMBER 2019 --
+JUNE 2022**
 
-### 2) Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
+-   **[Poleline Survey for Ocotillo Wells SRVA]**
 
-## How do I print the PDF?
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
+> **March 2019 -- September 2020**
+>
+> **Conducted Phase I surveys of surface features and artifacts as well
+> as recordation of archaeological isolates and sites. Post survey work
+> included creation of site records and report writing for California
+> State Parks.**
 
-## is this the only style available?
+-   **[Carpinteria State Beach ADA]**
 
-The included CSS renders your CV in different styles:
+> **January -- July 2020**
+>
+> **Conducted Phase III artifact processing from a shell midden deposit
+> for California State Parks.**
 
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
+-   **[Chino Hills State Park]**
 
-<img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+> **July 2020**
+>
+> **Established an update program for the Geographic Information Systems
+> (GIS) data location for Chino Hills State Park.**
 
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned, authored by [David Whipp](https://davewhipp.github.io/markdown-cv/)
+-   **[Anza Borrego State Park]**
 
-<img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+> **July 2020**
+>
+> **Established an update program for the Geographic Information Systems
+> (GIS) data location for Anza Borrego State Park.**
 
-To change the default style, one needs to simply change `site` the variable in the
-`_config.yml` file.
+-   **[Los Angeles State Historic Park]**
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+> **July 2020**
+>
+> **Conducted research and preparation of reports for delivery to the
+> Los Angeles State Historic Park offices.**
 
+-   **[Point Dume Nature Preserve ADA]**
 
+> **February -- March 2020**
+>
+> **Conducted Phase III mitigation monitoring for grading associated
+> with construction of ADA compliant pathways within Point Dume Nature
+> Preserve. Documented and generated reports for construction activity
+> for California State Parks.**
 
-### Author
+-   **[Old Town ADA]**
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+> **October 2019 -- February 2020**
+>
+> **Conducted Phase III mitigation monitoring for sewer, water,
+> electrical and irrigation piping as well as grading associated with
+> construction of ADA compliant pathways within Old Town State Historic
+> Park, and participated in archaeological testing of the site.
+> Documented construction activity as well as writing report for
+> California State Parks.**
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+-   **[Cuyamaca Rancho State Park Green Valley ADA]**
 
-### License
+> **October 2019 -- January 2020**
+>
+> **Conducted Phase III artifact processing from construction monitoring
+> for California State Parks.**
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+-   **[Crystal Cove State Beach ADA]**
 
-<a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+> **January -- October 2019**
+>
+> **Conducted Phase III artifact processing from construction monitoring
+> for California State Parks.**
+
+**ON-CALL ARCHAEOLOGICAL TECHNICIAN -- DUDEK ENVIRONMENTAL JULY 2019 --
+SEPTEMBER 2021**
+
+-   **[Block 1J Water Screening]**
+
+> **October 2019-September 2021**
+>
+> **Aided in site preparation including construction and maintenance of
+> the screening structure as well as running water and pump and disposal
+> setup, and wet screen and drying rack construction and maintenance.**
+
+-   **[Pacifica and Princess Collection & Survey Inventory and Lab
+    Curation]**
+
+> **April -- June 2020**
+>
+> **Prepared collections for curation and assisted with digitally
+> cataloguing collections including but not limited to the Pacifica and
+> Princess Collection.**
+
+-   **[Otay Ranch Village 14 Proctor Valley Project]{.underline}**
+
+> **August 2019**
+>
+> **Conducted Phase I survey and testing in Proctor Valley for proposed
+> land development. Prehistoric artifacts were recovered during
+> surveying.**
+
+**NATHAN HARRISON SITE FIELD SCHOOL** **-- SAN DIEGO STATE UNIVERSITY**
+**MAY 2019 -- AUGUST 2019**
+
+-   Participated in the Nathan "Nate" Harrison Field School under the
+    direction of Dr. Seth Mallios of San Diego State University.
+    Assisted in the laying out of site grids, mapping, filling of site
+    forms, excavation and screening, site preparation and cleanup, and
+    artifact identification.
+
+**INTERN -- CALIFORNIA STATE PARKS SOUTHERN SERVICE CENTER** **JANUARY
+2019 -- MAY 2019**
+
+-   Assisted State Parks archaeologists and other cultural staff in
+    field, laboratory, and office work including survey, artifact
+    processing, cataloging, form preparation, and other tasks.
+
+**SHIFT MANAGER -- ONG'S RESTAURANT GROUP** **FEBRUARY 2019 -- MARCH
+2020**
+
+-   Responsible for management of shifts in the busiest franchise
+    location in the state of California.
+
+**MANAGER/SUPERVISOR -- LUNCH BAG DELI** **SEPTEMBER 1996 -- MAY 2017**
+
+-   Managed overall operations for 4 delis (Lunch Bag Deli, Lunch Bag
+    Deli II, Lunch Bag Deli III, Anthony's Deli) including budgeting,
+    sales projections, staff retention, inventory management and
+    business relations management.
+
+**[PUBLICATIONS]{.underline}**
+
+Mallios, S, et al. (2019) An Interim Technical Report for the 2019 Field
+Season: Archaeological Excavations at the Nathan "Nate" Harrison Site in 
+San Diego County, California. Montezuma Publishing, San Diego.
+
+Hughes, G, et al. (2020) Archaeological Monitoring Report for Building
+Demolition and Immediate Public Use Project at the Former Caltrans
+District 11 Office Complex in Old Town San Diego State Historic Park.
+California State Parks
+
+**[SKILLS & CERTIFICATIONS]{.underline}**
+
+**ArcGIS, artifact analysis, excavation, writing, document editing,
+image analysis, GRASS GIS, QGIS, MS Word, MS Excel, MS Powerpoint,
+French and Spanish reading proficiency** 
