@@ -4,10 +4,6 @@ title: Geoffrey Hughes's CV
 ---
 **Geoffrey Hughes**
 
-10445 Mast Blvd. Apt 163
-
-Santee, CA 92071
-
 \(619\) 922-9284 -- geoffrey.hughes0049\@gmail.com
 
 **[EDUCATION]{.underline}**
@@ -206,10 +202,8 @@ SEPTEMBER 2021**
 **[PUBLICATIONS]{.underline}**
 
 Mallios, S, et al. (2019) An Interim Technical Report for the 2019 Field
-Season: Archaeological Excavations at the
-
-Nathan "Nate" Harrison Site in San Diego County, California. Montezuma
-Publishing, San Diego.
+Season: Archaeological Excavations at the Nathan "Nate" Harrison Site in 
+San Diego County, California. Montezuma Publishing, San Diego.
 
 Hughes, G, et al. (2020) Archaeological Monitoring Report for Building
 Demolition and Immediate Public Use Project at the Former Caltrans
