@@ -214,4 +214,4 @@ California State Parks
 
 **ArcGIS, artifact analysis, excavation, writing, document editing,
 image analysis, GRASS GIS, QGIS, MS Word, MS Excel, MS Powerpoint,
-French and Spanish reading proficiency**
+French and Spanish reading proficiency** 
