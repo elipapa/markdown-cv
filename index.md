@@ -2,7 +2,7 @@
 layout: cv
 title: Hargun Kaur's CV
 ---
-# Isaac Newton
+# Hargun kaur 
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
