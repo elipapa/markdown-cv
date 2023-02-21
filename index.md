@@ -36,29 +36,31 @@ Data Scientist
 
 - ...
 
-`May 2017 - Nov 2017` __Centre for Translational Data Science__<br>
+`May 2017 - Nov 2017` __Centre for Translational Data Science, The University of Sydney__<br>
 Data Scientist
 
-- ...
+- Led the development of a decision support system to optimise the cost of pharmacy procurement at Westmead Hospital, formulating a strategy to reduce procurement costs by 4.5%; the strategy was filed as an invention with the USYD Intellectual Property Committee.
+- Managed stakeholders across organisations by coordinating regular status reports and standups.
 
-`July 2010 - July 2013` __The Kirby Institute__<br>
-Quantiative Research Officer
+`July 2010 - July 2013` __The Kirby Institute, The University of New South Wales__<br>
+Quantitative Research Officer
 
-- ...
+- Designed and implemented a mathematical model to forecast the spread of Hepatitis C in prisons and determined the cost-effectiveness of treatment strategies; showed a 26% reduction in the infection with new treatment strategies.
 
 Research Assistant/Developer
 
-- ...
+- Designed and implemented agent based model to simulate the spread of the Hepatitis C virus in Australia and determine the effectiveness of new treatment strategies; the model's results were presented at The 33rd Annual Meeting of the Society for Medical Decision Making in Chicago, USA.
 
-`Mar 2009 - Mar 2010` __Service Oriented Computing Research Group__<br>
+`Mar 2009 - Mar 2010` __Service Oriented Computing Research Group, The University of New South Wales__<br>
 Research Assistant/Developer
 
-- ...
+- Developed graphical user interfaces for dynamic and distributed business process management.
 
-`May 2007 - Dec 2008` __Macquarie Group__<br>
-Quantitative Developer
+`May 2007 - Dec 2008` __The Quant Team, Macquarie Group__<br>
+Developer
 
-- ...
+- Created a fully-automated strategy back-testing suite, achieving an 85% reduction in the time to send Quant Team research to clients in both Australia and Japan.
+- Developed portfolio performance monitoring and quantitative database systems.
 
 
 ## Education
@@ -140,6 +142,7 @@ Summer Research Scholarship
 [Scrum Alliance]: https://www.scrumalliance.org/
 [IDEO U]: https://www.ideou.com/
 
+[PLOS One]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245896
 
 <!-- ### Footer
 
