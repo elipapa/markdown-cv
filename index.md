@@ -29,17 +29,22 @@ Senior Data Scientist
 `Apr 2019 - Aug 2019` __Munich RE Australia__<br>
 Data Scientist
 
-- ...
-
+- Designed and implemented a system to 
+- Trained and mentored 3 team members in machine learning algorithms and development.
+- 
 `Nov 2017 - Apr 2019` __QBE Australia Pacific__<br>
 Data Scientist
 
-- ...
+- Designed and developed machine learning models to predict conversion and churn of QBE customers, identifying strategies to decrease customer churn by 22%. 
+- Designed and implemented machine learning training and deployment pipelines that reduced the time to (re)train and deploy models.
+- Collaborated with national product managers and pricing actuaries to assess project design and outcomes and prioritise strategies.
+- Trained and mentored 3 data science team members in data analysis, machine learning algorithms and infrastructure.
+- Conducted interviews for 20+ data scientist and machine learning engineer candidates, growing the data science team from 4 to 15.
 
 `May 2017 - Nov 2017` __Centre for Translational Data Science, The University of Sydney__<br>
 Data Scientist
 
-- Led the development of a decision support system to optimise the cost of pharmacy procurement at Westmead Hospital, formulating a strategy to reduce procurement costs by 4.5%; the strategy was filed as an invention with the USYD Intellectual Property Committee.
+- Led the development of a decision support system to optimise the cost of pharmacy procurement at Westmead Hospital, formulating a strategy to reduce procurement costs by 4.5%; filed as an invention with the USYD Intellectual Property Committee.
 - Managed stakeholders across organisations by coordinating regular status reports and standups.
 
 `July 2010 - July 2013` __The Kirby Institute, The University of New South Wales__<br>
@@ -49,18 +54,18 @@ Quantitative Research Officer
 
 Research Assistant/Developer
 
-- Designed and implemented agent based model to simulate the spread of the Hepatitis C virus in Australia and determine the effectiveness of new treatment strategies; the model's results were presented at The 33rd Annual Meeting of the Society for Medical Decision Making in Chicago, USA.
+- Designed and implemented agent based model to simulate the spread of the Hepatitis C virus in Australia and determine the effectiveness of new treatment strategies; selected for The 33rd Annual Meeting of the Society for Medical Decision Making (SMDM).
 
 `Mar 2009 - Mar 2010` __Service Oriented Computing Research Group, The University of New South Wales__<br>
 Research Assistant/Developer
 
-- Developed graphical user interfaces for dynamic and distributed business process management.
+- Developed graphical user interfaces for real-time distributed business process management.
 
 `May 2007 - Dec 2008` __The Quant Team, Macquarie Group__<br>
 Developer
 
 - Created a fully-automated strategy back-testing suite, achieving an 85% reduction in the time to send Quant Team research to clients in both Australia and Japan.
-- Developed portfolio performance monitoring and quantitative database systems.
+- Developed portfolio performance monitoring and quantitative database systems used by the entire Quant Team.
 
 
 ## Education
