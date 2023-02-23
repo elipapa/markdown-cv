@@ -19,25 +19,33 @@ Manager, Data Science and Data Products
 
 Lead Data Scientist
 
-- ...
+- Initiatied 
 
 `Aug 2019 - Aug 2021` __QBE Australia Pacific__<br>
 Senior Data Scientist
 
-- ...
+- Led a team of 
+  - used by over 100 employees in Australia and the Philippines
+  - saved 5,300+ hours of person time
+  - used to 
+- 
+- Designed and implemented an A/B testing system used by the digital marketing team, used on a monthly basis to evaluate and re-strategise 10+ marketing campaigns.
+- Trained and mentored 4 team members on A/B testing, online controlled experiments, machine learning algorithms and software engineering.
+- Managed the performance and coordinated career development plans for 3 colleagues in the data science team.
 
 `Apr 2019 - Aug 2019` __Munich RE Australia__<br>
 Data Scientist
 
-- Designed and implemented a system to 
+- Spearheaded the redevelopment of a geospatial nearest neighbours algorithm, resulting in a reduction of 90% in search time and saving 40 hours per week. 
+- Championed the adoption of Agile project management, coordinating weekly status reports and daily standups.
 - Trained and mentored 3 team members in machine learning algorithms and development.
-- 
+  
 `Nov 2017 - Apr 2019` __QBE Australia Pacific__<br>
 Data Scientist
 
 - Designed and developed machine learning models to predict conversion and churn of QBE customers, identifying strategies to decrease customer churn by 22%. 
 - Designed and implemented machine learning training and deployment pipelines that reduced the time to (re)train and deploy models.
-- Collaborated with national product managers and pricing actuaries to assess project design and outcomes and prioritise strategies.
+- Co-ordinated with national product managers and pricing actuaries to assess project design and outcomes and prioritise strategies.
 - Trained and mentored 3 data science team members in data analysis, machine learning algorithms and infrastructure.
 - Conducted interviews for 20+ data scientist and machine learning engineer candidates, growing the data science team from 4 to 15.
 
@@ -100,7 +108,7 @@ Fundamentals of Product Management
 Certified Scrum Product Owner (CSPO)
 
 `2021` [IDEO U]<br>
-Advanced Design Thinking
+Advanced Design Thinking<br>
 Business Innovation
 
 
