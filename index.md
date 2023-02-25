@@ -13,15 +13,15 @@ Creative Computing Researcher, Designer, Composer
 
 ## Currently
 
-EPSRC-funded PhD student in AI and music at the __Centre for Digital Music - Queen Mary, University of London__ 
+EPSRC-funded PhD student in Artificial Intelligence and Music at the __Centre for Digital Music - Queen Mary, University of London__ 
 
 ### Research interests
 
-Explainable Artificial Intelligence, Machine Learning with Small Data, End-User Programming, Human-Computer Interaction  
+Explainable Artificial Intelligence, End-User Programming, Human-Computer Interaction  
 
-### Technologies  
+### Affiliations  
 
-Max/MSP, Ableton, Arduino, Python (including PyTorch), Javascript (including React, Vue, Electron, P5), HTML
+Sonic Interaction Design Lab, Communication Acoustics Lab, Cognitive Science Group
 
 
 ## Education
@@ -30,7 +30,7 @@ Max/MSP, Ableton, Arduino, Python (including PyTorch), Javascript (including Rea
 __Goldsmiths College, University of London__
 M.Mus. Sonic Arts (Distinction)  
 Awards: Excellence Fee Waiver, Sarah Caple Award (composition)  
-Thesis: Situating Machine Listening Algorithms in Responsive and Interactive Scores – Three Co-Design Workshops.  
+Thesis: Using Participatory Design to Situate Machine Listening Algorithms in Responsive and Interactive Scores.  
 Advisor: Dr Jess Aslan  
 Mentor: Professor Atau Tanaka  
 
@@ -38,17 +38,17 @@ Mentor: Professor Atau Tanaka
 __University of Warwick__
 B.A. Major in Philosophy, Minor in Mathematics (First-Class)  
 Awards: Arts centre scholarship (jazz performance)  
-Dissertation: Interpersonal negotiation in improvised ensemble performance – an analysis of jazz and identity in the 20th century Black Atlantic.  
-Advisors:  Dr Kirsten Harris, Dr Bryan Brazeau 
+Dissertation: Analysing Interpersonal Negotiation in Improvised Ensemble Performances
+Advisors: Dr Kirsten Harris, Dr Bryan Brazeau 
 
 
 ## Occupation
 
-`2022 - Present`
-__Goldsmiths College__ Associate Lecturer – Interactive and Generative Music  
-Develop and deliver classes/workshops on interactive and generative music (Max/MSP)  
-Work across music and computing departments to synthesize technical and critical research and practice.
 
+
+`2023 - Present`
+__Queen Mary, University of London__ Demonstrator – User Experience Design
+Support tutorials, providing feedback on student ethnographies, analyses and designs. 
 
 `2021 - Present`
 __Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)  
@@ -74,39 +74,31 @@ Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools 
 __Kings College London and the University of Surrey__ – Beyond HRV: Attractor Reconstruction With Cardiovascular Waveform Data  
 Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)  
 
-## Publications/presentations
+## Presentations/Publications
 
 ### Presentations
 `2023`
 Dance in the Metaverse: Tools for Accessibility, __SXSW__
 
+`2023`
+End-User Cross-Modality for Explainable Latent Spaces, __University College London Interaction Centre & Queen Mary Cognitive Science Group Workshop__
+
 `2022`
 Explainability in End-User Creative Artificial Intelligence, __Digital Music Research Network One-day Workshop__
 
 `2021`
-Particular Granulator – Collaborating on Sonic Spaces with Granular Synthesis and Particle Systems, __Goldsmiths Centre for Sound, Technology and Culture__
-
-`2021`
-Grain FM – An Anonymous Sampling Radio for Machine-Led Plunderphonics, __University of Aberdeen Sound Emporium Research Group__
-
+Particle-Based GUI for Collaborative Granular Synthesis, __Goldsmiths Centre for Sound, Technology and Culture__
 
 ### Publications
 
 `Forthcoming`
-__The Mocapstreamer Residency – Affordancies and Challenges of New Telematic Performance Technologies__ (with C. Debaig, C. Hilton, and D. Strutt)  
-
-
-`Forthcoming`
-__Comparisson of Simple Classification and Active Learning Methods for Music Emotion Recognition__ (with A. Garrow, T. McIntosh, and A. Williams)  
-
-`Forthcoming`
-__Explainability in Musical Artificial Intelligence Systems__ (with N. Bryan-Kinns)
+__Non-Conventional Applications of Rule-Based Systems to MeasureVAE, a Musical Deep Learning System__ (with N. Bryan-Kinns and Berker Banar)
 
 
 
 
 <!-- ### Footer
 
-Last updated: December 2022 -->
+Last updated: February 2023 -->
 
 
