@@ -15,14 +15,11 @@ Creative Computing Researcher, Designer, Composer
 
 EPSRC-funded PhD student in Artificial Intelligence and Music at the __Centre for Digital Music - Queen Mary, University of London__ 
 
+Also affiliated with the Sonic Interaction Design Lab, Communication Acoustics Lab, and Cognitive Science Group.
+
 ### Research interests
 
 Explainable Artificial Intelligence, End-User Programming, Human-Computer Interaction  
-
-### Affiliations  
-
-Sonic Interaction Design Lab, Communication Acoustics Lab, Cognitive Science Group
-
 
 ## Education
 
@@ -44,8 +41,6 @@ Advisors: Dr Kirsten Harris, Dr Bryan Brazeau
 
 ## Occupation
 
-
-
 `2023 - Present`
 __Queen Mary, University of London__ Demonstrator – User Experience Design
 Support tutorials, providing feedback on student ethnographies, analyses and designs. 
@@ -57,14 +52,13 @@ Support development and evaluation of telematic motion capture technology for mu
 
 `2021`
 __University of Oxford__ Research Assistant – AI and Music  
-Develop and assess computational composition tools built on Python/PyTorch. Methods include (auto) ethno-musical, interview and participatory design.
+Develop and assess computational composition tools built with Python (PyTorch). 
 
 ## Internships
 
 `2021 - 2022`
 __Imperial War Museum__  
 Conduct and analyse focus group research on digital accessibility and museum informatics in the new hollocaust galleries 
-
 
 `2021`
 __Stanford and Goldsmiths, University of London__ – [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)  
@@ -93,9 +87,6 @@ Particle-Based GUI for Collaborative Granular Synthesis, __Goldsmiths Centre for
 
 `Forthcoming`
 __Non-Conventional Applications of Rule-Based Systems to MeasureVAE, a Musical Deep Learning System__ (with N. Bryan-Kinns and Berker Banar)
-
-
-
 
 <!-- ### Footer
 
