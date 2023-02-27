@@ -37,7 +37,7 @@ Senior Data Scientist
 Data Scientist
 
 - Spearheaded the redevelopment of a geospatial nearest neighbours algorithm, resulting in a reduction of 90% in search time and saving 40 hours per week. 
-- Championed the adoption of Agile project management, coordinating weekly status reports and daily standups.
+- Championed the adoption of Agile project management, coordinating weekly status reports and daily stand-ups.
 - Trained and mentored 3 team members in machine learning algorithms and development.
   
 `Nov 2017 - Apr 2019` __QBE Australia Pacific__<br>
@@ -53,7 +53,7 @@ Data Scientist
 Data Scientist
 
 - Led the development of a decision support system to optimise the cost of pharmacy procurement at Westmead Hospital, formulating a strategy to reduce procurement costs by 4.5%; filed as an invention with the USYD Intellectual Property Committee.
-- Managed stakeholders across organisations by coordinating regular status reports and standups.
+- Managed stakeholders across 3 organisations by coordinating regular status reports and stand-ups.
 
 `Jul 2010 - Jul 2013` __The Kirby Institute, The University of New South Wales__<br>
 Quantitative Research Officer
