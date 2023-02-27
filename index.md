@@ -55,7 +55,7 @@ Data Scientist
 - Led the development of a decision support system to optimise the cost of pharmacy procurement at Westmead Hospital, formulating a strategy to reduce procurement costs by 4.5%; filed as an invention with the USYD Intellectual Property Committee.
 - Managed stakeholders across organisations by coordinating regular status reports and standups.
 
-`July 2010 - July 2013` __The Kirby Institute, The University of New South Wales__<br>
+`Jul 2010 - Jul 2013` __The Kirby Institute, The University of New South Wales__<br>
 Quantitative Research Officer
 
 - Designed and implemented a mathematical model to forecast the spread of Hepatitis C in prisons and determined the cost-effectiveness of treatment strategies; showed a 26% reduction in the infection with new treatment strategies.
@@ -98,7 +98,7 @@ Bachelor of Engineering (Bioinformatics) / Bachelor of Science (Biotechnology)
 
 ## Continuing Education and Certifications
 
-`2023 - Present` [RMIT]<br>
+`2023` [RMIT]<br>
 Advanced Product Management
 
 `2022` [RMIT]<br>
