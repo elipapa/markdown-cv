@@ -29,7 +29,7 @@ Senior Data Scientist
   - saved 5,300+ hours of person time
   - used to 
 - 
-- Designed and implemented an A/B testing system used by the digital marketing team, used on a monthly basis to evaluate and re-strategise 10+ marketing campaigns.
+- Designed and implemented an A/B testing system used by the digital marketing team, used on a monthly basis to evaluate and improve 10+ marketing campaigns.
 - Trained and mentored 4 team members on A/B testing, online controlled experiments, machine learning algorithms and software engineering.
 - Managed the performance and coordinated career development plans for 3 colleagues in the data science team.
 
