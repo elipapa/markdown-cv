@@ -12,10 +12,17 @@ Data Scientist, Design Thinker, Product Manager.
 
 ## Experience
 
+`Aug 2021 - Present` __Pepper Money Australia__<br>
+Lead Data Scientist<br>
+
+- 
+
 `Aug 2019 - Aug 2021` __QBE Australia Pacific__<br>
 Senior Data Scientist<br>
 
 - Led a team of 7 in the design and development of an intelligent underwriting platform for commercial liability insurance; used by 100+ underwriters globally and decreasing underwriting time by over 5,300 hours per year.
+- Owned the product roadmap and met over 90% of feature deadlines by proactively identifying and mitigating any development roadblocks.
+- Facilitated Scrum ceremonies such as daily stand-ups, backlog grooming, sprint planning and retrospectives.
 - Designed and implemented an A/B testing system used by the digital marketing team, used on a monthly basis to evaluate and improve 10+ marketing campaigns.
 - Trained and guided 4 team members on A/B testing, online controlled experiments, machine learning algorithms and software engineering.
 - Managed the performance and coordinated career development plans for 3 colleagues.
