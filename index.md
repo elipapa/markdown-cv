@@ -25,7 +25,7 @@ __PhD in Epidemiology & Biostatistics, Imperial College London__
 
 `2022`
 Applied Scientist intern, __Amazon__, Seattle
-- Implementing multivariate probabilistic time series methods to forecast product demand in the grocery sector.
+- Implementing multivariate probabilistic time series models to forecast product demand in the grocery sector.
 
 `Summer 2019`
 Business Analyst, __Deecon Consulting__, London
@@ -39,6 +39,9 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 
 
 ## Selected Publications
+
+`2023`
+__Rashid, T.__, Bennett, J.E. _et al._ (2023). [Changes in life expectancy and house prices in London from 2002 to 2019: hyper-resolution spatiotemporal analysis of death registration and real estate data](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(22)00276-9/fulltext). _The Lancet Regional Health Europe_.
 
 `2022`
 Semenova, E., Xu, Y., Howes, A.T., __Rashid, T.__ _et al._ (2022). [PriorVAE: encoding spatial priors with variational autoencoders for small-area estimation](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0094). _Journal of the Royal Society Interface_, 19, 20220094.
@@ -92,7 +95,7 @@ __Leicester Grammar School__
 
 ## Skills
 ### Statistical
-Bayesian modelling, spatiotemporal statistics, machine learning
+Bayesian modelling, forecasting, spatiotemporal statistics, machine learning
 
 ### Computational
 Highly proficient in R, Python
