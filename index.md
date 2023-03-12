@@ -100,9 +100,7 @@ Bayesian modelling, forecasting, spatiotemporal statistics, machine learning
 ### Computational
 Highly proficient in R, Python
 
-Experience in Julia, Stan, shell/ssh, git, high performance computing, data visualisation, LaTeX, Markdown, HTML, D3.js
-
-Proficiency in the Microsoft Office suite and CAD
+Experience in Julia, Stan, shell/ssh, git, high performance computing, data visualisation, LaTeX, Markdown, HTML, D3.js, CAD
 
 ### Languages
 French (C1/B2)
