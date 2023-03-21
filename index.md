@@ -40,6 +40,7 @@ __Oracle Consulting Service, Streamworx Solutions__
 - Cucumber
 - Selenium
 - Gherkin
+- Jmeter
 
 ## Education
 
