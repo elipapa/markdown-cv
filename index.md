@@ -21,7 +21,7 @@ title: Sean Lo's Resume
 ## Experience  
 
 `Nov. 2021 -`
-__Software Development Engineer in Test, *PlayStation - Sony*__, San Francisco, CA 
+__Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA 
 
 `Current` 
 
@@ -32,7 +32,7 @@ __Software Development Engineer in Test, *PlayStation - Sony*__, San Francisco, 
 - `-` Collaborated on the development and maintenance of various internal tools, including CLI and Appium-based solutions, for device management, localization, and Pytest plugins, providing critical support to QA and development teams in ensuring efficient and robust testing processes.
 
 `Mar. 2021 -`
-__Software Development Engineer in Test, *PlayStation - Sony*__, San Francisco, CA 
+__Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA 
 
 `Nov. 2021` 
 
