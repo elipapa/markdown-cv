@@ -77,27 +77,4 @@ __B.S. Computer Science__   Oregon State University
 __B.A. Business Economics__   University of California, Riverside
 
 `Jun. 2017`
-- GPA 3.5 / 4.0 
-
-## Personal Projects
-
-`Nov. 2019` 
-__Capstone Project: Study-Seat__  <a href="https://github.com/syranol/Study-Seat"> <font color="blue"> Project </font> </a>
-
-- `-` Coacted in a three person agile-development team to develop a product that allows users to locate/organize study groups
-- `-` Deployed, hosted, and certified product on AWS's EC2, complete with database access and elastic load balancing 
-- `-` Utilized Typescript with React framework for front-end and Node.js for back-end development
-
-`Apr. 2018` 
-__Hackathon: Hacking for Humanity__  <a href="https://xd.adobe.com/view/48a66b77-5435-4eb8-4328-1f67f7a879dc-3e97/"> <font color="blue"> Presentation </font> </a>
-
-- `-` Designed a function and modern web application to bridge the gap between non-profit organizations and volunteers 
-- `-` Implemented Google Maps API to provide an interactive map with search tools 
-- `-` Utilized HTML, CSS, and JavaScript for front-end and Node.js for back-end development
-
-## Other Experience  
-`Aug. 2018 -` 
-__Barista, *Philz Coffee*__, Fremont, CA  
-
-`Mar. 2020` - `-` Communicated effectively with the team and upheld an open work environment
-- `-` Built a culture of warmth, positivity, and human connection while interacting with the community  
+- GPA 3.5 / 4.0
