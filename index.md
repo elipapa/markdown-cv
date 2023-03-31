@@ -6,7 +6,14 @@ title: Sean Lo's Resume
 # S e a n     <span style="opacity:0;">_</span> <font color="teal">Lo
 
 <div id="webaddress">
-  <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color="DarkTurquoise"> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a>
+  <a>
+    <font color="black"> shon4081@gmail.com
+    <font color="black">|
+    <a href="https://seanlo.netlify.app">
+      <font color="DarkTurquoise">seanlo.netlify.app
+        </a> |
+          </font>  510-386-8647 
+  </a>
 </div>
   
 <div id="webaddress">
