@@ -8,12 +8,12 @@ title: Sean Lo's Resume
 <div id="webaddress">
 <font color="black"> shon4081@gmail.com
 |
-<a href="https://seanlo.netlify.app"> <font color="teal">seanlo.netlify.app
+<a href="https://seanlo.netlify.app"><font color="teal">seanlo.netlify.app
 | 
 510-386-8647
           
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/syranol"> <font color="teal">linkedin.com/in/syranol
+<a href="https://www.linkedin.com/in/syranol"><font color="teal">linkedin.com/in/syranol
 |
 <a href="https://github.com/syranol"> <font color="teal">github.com/syranol
 
@@ -22,6 +22,7 @@ title: Sean Lo's Resume
 - __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, Postgre, Docker, Appium, GraphQL, REST API
 
 
+          
 ## Experience  
 
 ### __Software Engineer__
