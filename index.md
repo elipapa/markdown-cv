@@ -3,15 +3,15 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">_</span> <font color=#044e53>Lo
+# S e a n     <span style="opacity:0;">_</span> <font color="teal">Lo
 
 <div id="webaddress">
-  <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color=#0a6c75> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a>
+  <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color="DarkCyan"> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a>
 </div>
   
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/syranol"><font color="blue">linkedin.com/in/syranol </font></a>
-  <font color="black">|</font> <a href="https://github.com/syranol"><font color=#0a6c75>github.com/syranol</font></a> 
+  <font color="black">|</font> <a href="https://github.com/syranol"><font color="DarkCyan">github.com/syranol</font></a> 
 </div>
 
 ## Technical Skills  
@@ -64,8 +64,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 - `-` Took ownership for the overall quality of products I am responsible for testing
 
 `Jun. 2019`
-__Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="[https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bx6lRpc6VRv6h80zWrUTwyw%3D%3D)"> <font 
-=#2caeba> Presentation </font> </a>
+__Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="[https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bx6lRpc6VRv6h80zWrUTwyw%3D%3D)"> <font color="DarkCyan"> Presentation </font> </a>
 
 `Sep. 2019` 
 - `-` Designed, managed, and maintained tools to automate and optimize software
