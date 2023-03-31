@@ -15,8 +15,9 @@ title: Sean Lo's Resume
 </div>
 
 ## Technical Skills  
-- __Languages:__ Python, JavaScript, C/C++, HTML5/CSS3, SQL 
-- __Tools/Frameworks:__ Git, AWS, React.js, Node.js, Django, Jenkins, Selenium, Postgre, Docker, Appium
+- __Languages:__ Python, JavaScript, C/C++, HTML5/CSS3, SQL, Groovy, Bash
+- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium React, Node.js, Django, Postgre, Docker, Appium, GraphQL, REST API
+
 
 ## Experience  
 
@@ -28,7 +29,7 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and websites, optimizing testing processes for QA and development teams across the globe
 - `-` Contributed to creating and implementing a CI/CD release pipeline that enabled automated releases across team repositories using Groovy, Jenkins, and Semantic Release
 - `-` Currently designing and leading the refactoring of a Python package and its CLI that dynamically create and retrieve database accounts through API calls, optimizing code efficiency and maintainability
-- `-` Supported development on a highly impactful internal Web Service tool built with Node.js and MongoDB that handles account retrieval with varying parameter queries used to support manual testing and automation testing
+- `-` Supported development on internal Web Service tool built with Node.js and MongoDB that handles account retrieval with varying parameter queries used to support manual testing and automation testing
 - `-` Collaborated on the development and maintenance of various internal tools, including CLI and Appium-based solutions, for device management, localization, and Pytest plugins, providing critical support to QA and development teams in ensuring efficient and robust testing processes
 
 `Mar. 2021 -`
@@ -37,10 +38,10 @@ __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, 
 `Nov. 2021` 
 
 - `-` Assisted in the successful launch of PlayStation Direct's expansion to Europe, which enabled direct purchases of PlayStation products via the web store, contributing to a smooth and seamless customer experience
-- `-` Developed automation scripts with a focus on stability and maintainability, ensuring prevention of regressions in the product code
+- `-` Developed Selenium automation scripts with a focus on stability and maintainability, ensuring prevention of regressions in the product code
 - `-` Designed, developed, and enhanced automated test suites for web interfaces on the PlayStation website, ensuring robust and efficient testing processes
 - `-` Collaborate with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites
-- `-` Assist team in establishing test frameworks and implementing automation infrastructure to improve testing efficiency and effectiveness
+- `-` Assist team in establishing test frameworks and Jenkins piplines and implementing automation infrastructure to improve testing efficiency and effectiveness
 
 `Jun. 2020 -`
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
