@@ -14,15 +14,14 @@ title: Sean Lo's Resume
       <b> |
       <b>  510-386-8647
     </li>
+  </ui>
   <ui>
-</div>
-  
-<div id="topline2">
-  <body>
-    <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol </a>
-    <b> <font color="black">|
-    <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol </a>
-  </body>
+    <li>
+      <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol </a>
+      <b> <font color="black">|
+      <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol </a>
+    </li>
+  </ui>
 </div>
 
 ## Technical Skills  
