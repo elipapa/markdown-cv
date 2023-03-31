@@ -5,7 +5,7 @@ title: Sean Lo's Resume
 
 # S e a n     <span style="opacity:0;">_</span> <font color="teal">Loaa
 
-<div id="webaddress">
+<div id="topline">
   <body>
     <b> <font color="black"> shon4081@gmail.com </b>
     <b> <font color="black">| <b> 
@@ -15,9 +15,12 @@ title: Sean Lo's Resume
   <body>
 </div>
   
-<div id="webaddress">
-  <a href="https://www.linkedin.com/in/syranol"><font color="teal">linkedin.com/in/syranol </font></a>
-  <font color="black">|</font> <a href="https://github.com/syranol"><font color="teal">github.com/syranol</font></a> 
+<div id="topline2">
+  <body>
+    <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol </a>
+    <b> <font color="black">|
+    <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol </a>
+  </body>
 </div>
 
 ## Technical Skills  
