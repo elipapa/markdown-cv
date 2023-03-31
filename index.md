@@ -9,7 +9,7 @@ title: Sean Lo's Resume
     <h4>
       <b> <font color="black"> shon4081@gmail.com
       <b> <font color="black">|
-      <a href="https://seanlo.netlify.app"> <font color="teal">seanlo.netlify.app </a>
+      <a href="https://seanlo.netlify.app"> <font color="teal">seanlo.netlify.app
       <b> |
       <b>  510-386-8647
     </h4>
