@@ -3,14 +3,14 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">_</span> <font color="teal">Lo
+# S e a n     <span style="opacity:0;">_</span> <font color="teal">Loa
 
 <div id="webaddress">
 <font color="black"> shon4081@gmail.com
 |
 <a href="https://seanlo.netlify.app"><font color="teal">seanlo.netlify.app
 | 
-510-386-8647
+510-386-8647</div>
           
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/syranol"><font color="teal">linkedin.com/in/syranol
