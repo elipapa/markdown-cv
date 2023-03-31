@@ -22,7 +22,7 @@ title: Sean Lo's Resume
 ## Experience  
 
 `Nov. 2021 - Current` 
-__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA                        `Nov. 2021 - Current` 
+__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA `Nov. 2021 - Current` 
 
 
 - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and websites, optimizing testing processes for QA and development teams across the globe
@@ -59,14 +59,12 @@ and omitted the need for boilerplates
 - `-` Participated in the planning and integration of infrastructure on Amazon Web Service
 - `-` Utilized C, C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js, and React
 
-
 ## Education
 
-`Sep. 2017 - Dec. 2019` 
-__B.S. Computer Science__   Oregon State University                                      GPA 3.8 / 4.0
+`Sep. 2017` __B.S. Computer Science__   Oregon State University
+`Dec. 2019` GPA 3.8 / 4.0
 
-- GPA 3.8 / 4.0
-
-`Sep. 2013 - Jun. 2017`
-__B.A. Business Economics__   University of California, Riverside                                      GPA 3.5 / 4.0
+`Sep. 2013`
+__B.A. Business Economics__   University of California, Riverside
+`Jun. 2017` GPA 3.5 / 4.0
 
