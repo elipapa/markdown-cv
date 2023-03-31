@@ -22,7 +22,7 @@ title: Sean Lo's Resume
 ## Experience  
 
 `Nov. 2021 - Current` 
-__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA 
+__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA                        `Nov. 2021 - Current` 
 
 
 - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and websites, optimizing testing processes for QA and development teams across the globe
