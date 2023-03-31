@@ -57,7 +57,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA
 
 `Sep. 2019` 
-<a href="(https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o)"> <font color="blue"> Presentation </font> </a>
+<a href="[https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o]"> <font color="blue"> Presentation </font> </a>
 
 - `-` Designed, managed, and maintained tools to automate and optimize software
 - `-` Researched and implemented JNA to convert C to Java, which reduced SDLC by 80% 
