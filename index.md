@@ -5,20 +5,15 @@ title: Sean Lo's Resume
 
 # S e a n     <span style="opacity:0;">_</span> <font color="teal">Lo
 
-<div id="topline">
-    <h4>
-      <b> <font color="black"> shon4081@gmail.com
-      <b> <font color="black">|
-      <a href="https://seanlo.netlify.app"> <font color="teal">seanlo.netlify.app
-      <b> |
-      <b>  510-386-8647
-    </h4>
-    <h4>
-      <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol</a>
-      <b> <font color="black">|
-      <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol</a>
-    </li>
-  </h4>
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| 
+<a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
+          
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 ## Technical Skills  
