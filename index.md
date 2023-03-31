@@ -36,20 +36,21 @@ __Software Development Engineer in Test, *PlayStation - Sony*__, San Francisco, 
 
 `Nov. 2021` 
 
-- `-` Write automation scripts for features with key characteristics of stability and maintainability which prevents regressions in the product code.
-- `-` Build, maintain, and improve automated test suites for web interfaces on the PlayStation website
-- `-` Work with developers to ensure that all features and bug fixes come with automated test coverage
-- `-` Set up test frameworks and help teams set up automation infrastructure
+- `-` Assisted in the successful launch of PlayStation Direct's expansion to Europe, which enabled direct purchases of PlayStation products via the web store, contributing to a smooth and seamless customer experience.
+- `-` Developed automation scripts with a focus on stability and maintainability, ensuring prevention of regressions in the product code.
+- `-` Designed, developed, and enhanced automated test suites for web interfaces on the PlayStation website, ensuring robust and efficient testing processes.
+- `-` Collaborate with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites.
+- `-` Assist team in establishing test frameworks and implementing automation infrastructure to improve testing efficiency and effectiveness.
 
 `Jun. 2020 -`
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
 
 `Mar. 2021` 
 
-- `-` Oversee release and testing of five enterprise, web, iOS, and Android products, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker 
-- `-` Build and maintain automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins
-- `-` Create test plans and build test matrices as part of the product release cycle
-- `-` Execute tests on Release Candidates for product releases
+- `-` Managed end-to-end release and testing of multiple enterprise products across web, iOS, and Android platforms, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker.
+- `-` Developed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products.
+- `-` Developed and executed comprehensive test plans and test matrices as part of the product release cycle
+- `-` Perform rigorous testing on Release Candidates to ensure the high quality and stability of product releases.
 - `-` Collaborate with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
 - `-` Take ownership for the overall quality of products I am responsible for testing
 
