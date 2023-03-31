@@ -19,9 +19,9 @@ title: Sean Looo's Resume
 - __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, Postgre, Docker, Appium, GraphQL, REST API
 
 
-## Experience  
+# Experience  
 
-### __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
+## __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 `Nov. 2021 -`
 
 
