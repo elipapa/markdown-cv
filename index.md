@@ -21,9 +21,9 @@ title: Sean Lo's Resume
 
 ## Experience  
 
-### Software Engineer
+### __Software Engineer__
   
-`*PlayStation (Sony)*__`
+`*PlayStation (Sony)*`
 
 `San Francisco, CA`
 
