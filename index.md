@@ -27,7 +27,7 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 
 `Current` 
 
-  - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and  websites, optimizing testing processes for QA and development teams across the globe
+- `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and  websites, optimizing testing processes for QA and development teams across the globe
 - `-` Contributed to creating and implementing a CI/CD release pipeline that enabled automated releases across team repositories using Groovy, Jenkins, and Semantic Release
 - `-` Currently designing and leading the refactoring of a Python package and its CLI that dynamically create and retrieve database accounts through API calls, optimizing code efficiency and maintainability
 - `-` Supported development on internal Web Service tool built with Node.js and MongoDB that handles account retrieval with varying parameter queries used to support manual testing and automation testing
