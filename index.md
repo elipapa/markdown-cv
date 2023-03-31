@@ -1,6 +1,6 @@
 --- 
 layout: cv
-title: Sean Lo's Resume
+title: Sean Loa's Resume
 --- 
 
 # S e a n     <span style="opacity:0;">_</span> L o 
