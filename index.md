@@ -51,7 +51,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 - `-` Developed and executed comprehensive test plans and test matrices as part of the product release cycle
 - `-` Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
 - `-` Collaborated with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
-- `-` Take ownership for the overall quality of products I am responsible for testing
+- `-` Took ownership for the overall quality of products I am responsible for testing
 
 `Jun. 2019`
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="[https://www.linkedin.com/in/syranol/detail/treasury/position:704626539/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o%2C1583300266405)&parentEntityUrn=urn%3Ali%3Afsd_profilePosition%3A(ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o%2C704626539)&section=position%3A704626539&treasuryCount=1&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgKmm3BbBQvyuBP8T4QC1lA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o)"> <font color="blue"> Presentation </font> </a>
