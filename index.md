@@ -22,7 +22,7 @@ title: Sean Lo's Resume
 ## Experience  
 
 `Nov. 2021 -`
-__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA `Nov. 2021 - Current` 
+__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 
 `Current` 
 
