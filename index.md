@@ -3,19 +3,16 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">_</span> <font color="teal">Loa
-
-<div id="webaddress">
-<font color="black"> shon4081@gmail.com
-|
-          <a href="https://seanlo.netlify.app"><font color="teal">seanlo.netlify.app</a>
-| 
-510-386-8647</div>
+# S e a n     <span style="opacity:0;">_</span> <font color="teal">Lo
           
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/syranol"><font color="teal">linkedin.com/in/syranol
-|
-<a href="https://github.com/syranol"> <font color="teal">github.com/syranol
+  <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color="teal"> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a>
+</div>
+  
+<div id="webaddress">
+  <a href="https://www.linkedin.com/in/syranol"><font color="teal">linkedin.com/in/syranol </font></a>
+  <font color="black">|</font> <a href="https://github.com/syranol"><font color="teal">github.com/syranol</font></a> 
+</div>
 
 ## Technical Skills  
 - __Languages:__ Python, JavaScript, C/C++, HTML5/CSS3, SQL, Groovy, Bash
