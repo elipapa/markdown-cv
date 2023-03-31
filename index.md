@@ -17,9 +17,9 @@ title: Sean Lo's Resume
   
 <div id="topline2">
   <body>
-    <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol </a>
+    <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol
     <b> <font color="black">|
-    <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol </a>
+    <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol
   </body>
 </div>
 
