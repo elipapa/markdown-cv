@@ -3,7 +3,7 @@ layout: cv
 title: Sean Looo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">_</span> Lo~
+# S e a n     <span style="opacity:0;">_</span> Lo
 
 <div id="webaddress">
   <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color="blue"> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a>
@@ -21,13 +21,14 @@ title: Sean Looo's Resume
 
 ## Experience  
 
+### __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 `Nov. 2021 -`
-__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
+
 
 `Current` 
 <body>
   <div id="E1">
-  - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and  websites, optimizing testing processes for QA and development teams across the globe
+  - `-`                 Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and  websites, optimizing testing processes for QA and development teams across the globe
   </div>
 </body>
 - `-` Contributed to creating and implementing a CI/CD release pipeline that enabled automated releases across team repositories using Groovy, Jenkins, and Semantic Release
