@@ -3,7 +3,7 @@ layout: cv
 title: Sean Lo's Resume
 --- 
 
-# S e a n     <span style="opacity:0;">_</span> <font color="teal">Lo
+# S e a n     <span style="opacity:0;">_</span> <font color="teal">L o
           
 <div id="webaddress">
   <a><font color="black"> shon4081@gmail.com <font color="black">| <a href="https://seanlo.netlify.app"><font color="teal"> seanlo.netlify.app</font></a> | </font>  510-386-8647 </font> </a>
@@ -16,7 +16,7 @@ title: Sean Lo's Resume
 
 ## Technical Skills  
 - __Languages:__ Python, JavaScript, C/C++, HTML5/CSS3, SQL, Groovy, Bash
-- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, Postgre, Docker, Appium, GraphQL, REST API
+- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Appium, GraphQL, REST APIs
 
 
           
@@ -27,14 +27,14 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 
 `Current` 
 
+- `-` Currently designing and leading the refactoring of a Python package and its CLI that dynamically create and retrieve database accounts through API calls, optimizing code efficiency and maintainability
 - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and  websites, optimizing testing processes for QA and development teams across the globe
 - `-` Contributed to creating and implementing a CI/CD release pipeline that enabled automated releases across team repositories using Groovy, Jenkins, and Semantic Release
-- `-` Currently designing and leading the refactoring of a Python package and its CLI that dynamically create and retrieve database accounts through API calls, optimizing code efficiency and maintainability
 - `-` Supported development on internal Web Service tool built with Node.js and MongoDB that handles account retrieval with varying parameter queries used to support manual testing and automation testing
 - `-` Collaborated on the development and maintenance of various internal tools, including CLI and Appium-based solutions, for device management, localization, and Pytest plugins, providing critical support to QA and development teams in ensuring efficient and robust testing processes
 
 
-`Mar. 2021`
+`Mar. 2021 -`
 __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA 
 
 `Nov. 2021`
@@ -44,7 +44,7 @@ __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, 
 - `-` Collaborated with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites
 - `-` Assisted team in establishing test frameworks and Jenkins piplines and implementing automation infrastructure to improve testing efficiency and effectiveness
 
-`Jun. 2020` 
+`Jun. 2020 -` 
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
 
 `Mar. 2021`
@@ -55,7 +55,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 - `-` Collaborated with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
 - `-` Took ownership for the overall quality of products I was responsible for testing
 
-`Jun. 2019`
+`Jun. 2019 -`
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="[https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bx6lRpc6VRv6h80zWrUTwyw%3D%3D)"> <font color="teal"> Presentation </font> </a>
 
 `Sep. 2019` 
@@ -67,13 +67,13 @@ and omitted the need for boilerplates
 
 ## Education
 
-`Sep. 2017` 
+`Sep. 2017 -` 
 __B.S. Computer Science__   Oregon State University
 
 `Dec. 2019`
 GPA 3.8 / 4.0
 
-`Sep. 2013`
+`Sep. 2013 -`
 __B.A. Business Economics__   University of California, Riverside
 
 `Jun. 2017`
