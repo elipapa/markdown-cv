@@ -23,6 +23,7 @@ title: Sean Lo's Resume
 
 `Nov. 2021 -`
 __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA `Nov. 2021 - Current` 
+
 `Current` 
 
 - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and websites, optimizing testing processes for QA and development teams across the globe
@@ -33,6 +34,7 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA `Nov. 2021 - Curr
 
 `Mar. 2021`
 __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA 
+
 `Nov. 2021`
 - `-` Assisted in the successful launch of PlayStation Direct's expansion to Europe, which enabled direct purchases of PlayStation products via the web store, contributing to a smooth and seamless customer experience
 - `-` Developed Selenium automation scripts with a focus on stability and maintainability, ensuring prevention of regressions in the product code
@@ -42,6 +44,7 @@ __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, 
 
 `Jun. 2020` 
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
+
 `Mar. 2021`
 - `-` Managed end-to-end release and testing of multiple enterprise products across web, iOS, and Android platforms, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker
 - `-` Developed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
@@ -52,6 +55,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 
 `Jun. 2019`
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="[https://www.linkedin.com/in/syranol/detail/treasury/position:704626539/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o%2C1583300266405)&parentEntityUrn=urn%3Ali%3Afsd_profilePosition%3A(ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o%2C704626539)&section=position%3A704626539&treasuryCount=1&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgKmm3BbBQvyuBP8T4QC1lA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o)"> <font color="blue"> Presentation </font> </a>
+
 `Sep. 2019` 
 - `-` Designed, managed, and maintained tools to automate and optimize software
 - `-` Researched and implemented JNA to convert C to Java, which reduced SDLC by 80% 
@@ -63,11 +67,13 @@ and omitted the need for boilerplates
 
 `Sep. 2017` 
 __B.S. Computer Science__   Oregon State University
+
 `Dec. 2019`
 GPA 3.8 / 4.0
 
 `Sep. 2013`
 __B.A. Business Economics__   University of California, Riverside
+
 `Jun. 2017`
 GPA 3.5 / 4.0
 
