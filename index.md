@@ -6,20 +6,22 @@ title: Sean Lo's Resume
 # S e a n     <span style="opacity:0;">_</span> <font color="teal">Lo
 
 <div id="topline">
-  <body>
-    <b> <font color="black"> shon4081@gmail.com
-    <b> <font color="black">|
-    <a href="https://seanlo.netlify.app"> <font color="teal">seanlo.netlify.app
-    <b> |
-    <b>  510-386-8647
-  <body>
+  <ui>
+    <li>
+      <b> <font color="black"> shon4081@gmail.com
+      <b> <font color="black">|
+      <a href="https://seanlo.netlify.app"> <font color="teal">seanlo.netlify.app </a>
+      <b> |
+      <b>  510-386-8647
+    </li>
+  <ui>
 </div>
   
 <div id="topline2">
   <body>
-    <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol
+    <a href="https://www.linkedin.com/in/syranol"> <font color="teal"> linkedin.com/in/syranol </a>
     <b> <font color="black">|
-    <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol
+    <a href="https://github.com/syranol"> <font color="teal"> github.com/syranol </a>
   </body>
 </div>
 
