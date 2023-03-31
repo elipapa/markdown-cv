@@ -61,7 +61,8 @@ and omitted the need for boilerplates
 
 ## Education
 
-`Sep. 2017` __B.S. Computer Science__   Oregon State University
+`Sep. 2017` 
+__B.S. Computer Science__   Oregon State University
 `Dec. 2019` GPA 3.8 / 4.0
 
 `Sep. 2013`
