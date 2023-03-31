@@ -37,8 +37,8 @@ __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, 
 - `-` Assisted in the successful launch of PlayStation Direct's expansion to Europe, which enabled direct purchases of PlayStation products via the web store, contributing to a smooth and seamless customer experience
 - `-` Developed Selenium automation scripts with a focus on stability and maintainability, ensuring prevention of regressions in the product code
 - `-` Designed, developed, and enhanced automated test suites for web interfaces on the PlayStation website, ensuring robust and efficient testing processes
-- `-` Collaborate with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites
-- `-` Assist team in establishing test frameworks and Jenkins piplines and implementing automation infrastructure to improve testing efficiency and effectiveness
+- `-` Collaborated with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites
+- `-` Assisted team in establishing test frameworks and Jenkins piplines and implementing automation infrastructure to improve testing efficiency and effectiveness
 
 `Jun. 2020` 
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
@@ -46,8 +46,8 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 - `-` Managed end-to-end release and testing of multiple enterprise products across web, iOS, and Android platforms, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker
 - `-` Developed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
 - `-` Developed and executed comprehensive test plans and test matrices as part of the product release cycle
-- `-` Perform rigorous testing on Release Candidates to ensure the high quality and stability of product releases
-- `-` Collaborate with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
+- `-` Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
+- `-` Collaborated with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
 - `-` Take ownership for the overall quality of products I am responsible for testing
 
 `Jun. 2019`
@@ -63,9 +63,11 @@ and omitted the need for boilerplates
 
 `Sep. 2017` 
 __B.S. Computer Science__   Oregon State University
-`Dec. 2019` GPA 3.8 / 4.0
+`Dec. 2019`
+GPA 3.8 / 4.0
 
 `Sep. 2013`
 __B.A. Business Economics__   University of California, Riverside
-`Jun. 2017` GPA 3.5 / 4.0
+`Jun. 2017`
+GPA 3.5 / 4.0
 
