@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Lorem Ipsum etc e tal
 
 ### Specialized in
 
