@@ -1,15 +1,13 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Vipin Pillai
+## Cloud Architect Specialed in DevOps and Infrastructure as Code.
+</br>
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vipin.pillai1988@gmail.com">vipin.pillai1988@gmail.com</a>
+| <a href="tel:+91 9873000306">+91 9873000306</a>
 </div>
 
+</br>
+</br>
 
 ## Currently
 
@@ -87,5 +85,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
