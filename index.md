@@ -1,9 +1,15 @@
 # Vipin Pillai
 ## Cloud Architect Specialed in DevOps and Infrastructure as Code.
 </br>
-<div id="webaddress">
-<a href="vipin.pillai1988@gmail.com">vipin.pillai1988@gmail.com</a>
-| <a href="tel:+91 9873000306">+91 9873000306</a>
+<div align="center">
+    <a href="vipin.pillai1988@gmail.com">
+        <img src="media/Email-vipin.pillai1988@gmail.svg">
+    </a>
+    <a href="tel:+919873000306">
+        <img src="media/Phone-+91 9873000306-blue.svg">
+    </a>
+    <img src="media/LinkedIn-Connect with Me-blue.svg">
+    </a>
 </div>
 
 </br>
