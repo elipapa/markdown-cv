@@ -1,12 +1,12 @@
 # Vipin Pillai
-## Cloud Architect Specialized in DevOps and Infrastructure as Code  <div align="right"> <img src="media/AZ-400.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> </div>
+## Cloud Architect Specialized in DevOps and Infrastructure as Code </br> <div align="right"> <img src="media/AZ-400.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> </div>
 </br>
 </br>
 <div align="left">
     <a href="vipin.pillai1988@gmail.com">
         <img src="media/Email-vipin.pillai1988@gmail.svg">
     </a>
-    <a href="tel:+919873000306">
+    <a href="tel:919873000306">
         <img src="media/Phone-+91 9873000306-blue.svg">
     </a>
     <a href="https://www.linkedin.com/in/vipinpillai88/">
@@ -31,7 +31,7 @@ As an experienced cloud professional, I excel in designing cutting-edge cloud in
 - ### Logging & Monitoring
 - ### Cloud Automation
 - ### Agile Methodologies
-- ### Team Mangement
+- ### Team Management
 - ### Employee Training
 
 </br>
@@ -111,7 +111,7 @@ As an experienced cloud professional, I excel in designing cutting-edge cloud in
 - Microsoft Certified (AZ-400): DevOps Engineer Expert
 - Microsoft Certified (AZ-104): Microsoft Azure Administrator
 
-
+</br>
 
 ## Hobbies
 
