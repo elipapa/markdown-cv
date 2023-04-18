@@ -10,21 +10,21 @@ layout: cv
 | <a href="https://theorashid.github.io">theorashid.github.io</a>
 </div>
 
-
 ## Current
 
 `2019-`
 __PhD in Epidemiology & Biostatistics, Imperial College London__
-- Thesis title: Modelling small-area mortality
-- Scaling Bayesian spatiotemporal models to civil registration data
+
+- Thesis title: Modelling the dead and what they died from
+- Scalable Bayesian models for estimating life expectancy over space and time
 - Supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99) and [Seth Flaxman](https://sethrf.com)
 - Funded by the President’s Scholarship
-
 
 ## Experience
 
 `2022`
 Applied Scientist intern, __Amazon__, Seattle
+
 - Implementing multivariate probabilistic time series models to forecast product demand in the grocery sector.
 
 `Summer 2019`
@@ -35,8 +35,6 @@ Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Impe
 
 `Summer 2014`
 Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of Chemistry, University of Leicester
-
-
 
 ## Selected Publications
 
@@ -54,10 +52,7 @@ Kontis, V., Bennett, J.E., __Rashid, T.__ _et al._ (2020). [Magnitude, demograph
 
 Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the lifecycle of major tropical cyclones](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088589). _Geophysical Research Letters_, 47, e2020GL088589.
 
-
 <!-- A list is also available [online](https://theorashid.github.io/#publications) -->
-
-
 
 ## Talks
 
@@ -71,11 +66,10 @@ Life expectancy inequality in London, __Conference of the International Society 
 
 High resolution analysis reveals widening 30-year life expectancy gap within London, __International Conference on Urban Health__
 
-
 ## Teaching
 
 `2021-23`
-Teaching Assistant, __Population Health__ in the Health Data Analytics and Machine Learning MSc, Imperial College London
+Head Teaching Assistant, __Population Health__ in the Health Data Analytics and Machine Learning MSc, Imperial College London
 
 `2021`
 Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial College London
@@ -84,31 +78,30 @@ Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial Colleg
 
 `2015-19`
 __MSci in Physics with Theoretical Physics, Imperial College London__
+
 - First Class Honours
 
-`2008-15`
+<!-- `2008-15`
 __Leicester Grammar School__
-- A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>)
+- A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>) -->
 <!-- - GCSEs: 10 A<sup>*</sup>s including English. -->
 
-
-
 ## Skills
+
 ### Statistical
-Bayesian modelling, forecasting, spatiotemporal statistics, machine learning
+
+Bayesian modelling, forecasting, spatiotemporal statistics, probabilistic programming, machine learning
 
 ### Computational
-Highly proficient in R, Python
 
-Experience in Julia, Stan, shell/ssh, git, high performance computing, data visualisation, LaTeX, Markdown, HTML, D3.js, CAD
+Highly proficient in R, python
+
+Experience in Julia, Stan, shell/ssh, git, high performance computing, data visualisation, Markdown, LaTeX, html, D3.js, CAD
 
 ### Languages
+
 French (C1/B2)
-
-
 
 <!-- ### Footer
 
 References on request. Last updated: July 2021 -->
-
-
