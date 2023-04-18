@@ -39,7 +39,7 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 ## Selected Publications
 
 `2023`
-__Rashid, T.__, Bennett, J.E. _et al._ (2023). [Changes in life expectancy and house prices in London from 2002 to 2019: hyper-resolution spatiotemporal analysis of death registration and real estate data](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(22)00276-9/fulltext). _The Lancet Regional Health Europe_.
+__Rashid, T.__, Bennett, J.E. _et al._ (2023). [Changes in life expectancy and house prices in London from 2002 to 2019: hyper-resolution spatiotemporal analysis of death registration and real estate data](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(22)00276-9/fulltext). _The Lancet Regional Health Europe_, 27, 100580.
 
 `2022`
 Semenova, E., Xu, Y., Howes, A.T., __Rashid, T.__ _et al._ (2022). [PriorVAE: encoding spatial priors with variational autoencoders for small-area estimation](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0094). _Journal of the Royal Society Interface_, 19, 20220094.
