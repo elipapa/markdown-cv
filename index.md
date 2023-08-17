@@ -15,7 +15,7 @@ layout: cv
 `2019-`
 __PhD in Epidemiology & Biostatistics, Imperial College London__
 
-- Thesis title: Modelling the dead and what they died from
+- Thesis title: Spatiotemporal mortality modelling
 - Scalable Bayesian models for estimating life expectancy over space and time
 - Supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99) and [Seth Flaxman](https://sethrf.com)
 - Funded by the President’s Scholarship
@@ -35,6 +35,18 @@ Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Impe
 
 `Summer 2014`
 Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of Chemistry, University of Leicester
+
+## Education
+
+`2015-19`
+__MSci in Physics with Theoretical Physics, Imperial College London__
+
+- First Class Honours
+
+<!-- `2008-15`
+__Leicester Grammar School__
+- A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>) -->
+<!-- - GCSEs: 10 A<sup>*</sup>s including English. -->
 
 ## Selected Publications
 
@@ -68,23 +80,14 @@ High resolution analysis reveals widening 30-year life expectancy gap within Lon
 
 ## Teaching
 
+`2023`
+Instructor, __Bayesian Modelling for Environmental Health__ workshop, Columbia University
+
 `2021-23`
 Head Teaching Assistant, __Population Health__ in the Health Data Analytics and Machine Learning MSc, Imperial College London
 
 `2021`
 Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial College London
-
-## Education
-
-`2015-19`
-__MSci in Physics with Theoretical Physics, Imperial College London__
-
-- First Class Honours
-
-<!-- `2008-15`
-__Leicester Grammar School__
-- A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>) -->
-<!-- - GCSEs: 10 A<sup>*</sup>s including English. -->
 
 ## Skills
 
