@@ -12,13 +12,10 @@ layout: cv
 
 ## Current
 
-`2019-`
-__PhD in Epidemiology & Biostatistics, Imperial College London__
+`2023-`
+__Research Associate, University of Oxford__
 
-- Thesis title: Spatiotemporal mortality modelling
-- Scalable Bayesian models for estimating life expectancy over space and time
-- Supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99) and [Seth Flaxman](https://sethrf.com)
-- Funded by the President’s Scholarship
+- Modelling food insecurity, in [Seth Flaxman's](https://sethrf.com) group in collaboration with the UN World Food Programme.
 
 ## Experience
 
@@ -33,10 +30,17 @@ Business Analyst, __Deecon Consulting__, London
 `Summer 2018`
 Researcher, __Space and Atmospheric Physics Group__, Department of Physics, Imperial College London
 
-`Summer 2014`
-Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of Chemistry, University of Leicester
+<!-- `Summer 2014`
+Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of Chemistry, University of Leicester -->
 
 ## Education
+
+`2019-2023`
+__PhD in Epidemiology & Biostatistics, Imperial College London__
+
+- Thesis title: Spatiotemporal modelling of all-cause and cause-specific mortality in England
+<!-- - Scalable Bayesian models for estimating life expectancy over space and time -->
+- Supervised by [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99) and [Seth Flaxman](https://sethrf.com), funded by the President’s Scholarship
 
 `2015-19`
 __MSci in Physics with Theoretical Physics, Imperial College London__
@@ -93,7 +97,7 @@ Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial Colleg
 
 ### Statistical
 
-Bayesian modelling, forecasting, spatiotemporal statistics, probabilistic programming, machine learning
+Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, probabilistic programming
 
 ### Computational
 
