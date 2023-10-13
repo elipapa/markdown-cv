@@ -50,7 +50,7 @@ __MSci in Physics with Theoretical Physics, Imperial College London__
 <!-- `2008-15`
 __Leicester Grammar School__
 - A Levels: Mathematics (A<sup>*</sup>), Further Mathematics (A<sup>*</sup>), Physics (A<sup>*</sup>), Chemistry (A<sup>*</sup>) -->
-<!-- - GCSEs: 10 A<sup>*</sup>s including English. -->
+<!-- - GCSEs: 10 A<sup>*</sup>s including English -->
 
 ## Selected Publications
 
