@@ -134,7 +134,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 80%;
+  font-size: 75%;
 
   /* line-height: 1; */
   line-height: 1.25em;
@@ -277,6 +277,12 @@ strong {
   display: none;
 }
 
-/* @media only screen and (max-width: 480px) {
-    make one column somehow...
-} */
+@media only screen and (max-width: 480px){
+  .container_12 {
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      max-width: 600px;
+      min-width: 320px;
+      display: block;
+  }}
