@@ -10,22 +10,24 @@ title: Hampus Kalén's CV
 </div>
 
 
-## Current role
+## Post graduation work experience
 
-`2019-ongoing`
+`2022-ongoing`
+Data scientist - Insurance, *Hedvig*
+- End-to-end data scientist working with full data use cases.
+- Responsibilities include pricing, reserving, and business analysis.
+- Primary tools include Python, dbt and GCP (including Vertex AI)
+
+`2019-2022`
 Analyst, *If P&C Insurance*
-- Working primarily with statstical modelling.
+- Statstical modelling
+- Development of processes, moving workflows to modern tools, using Python in Databrics
 
 ## Education
 
 `2014-2018`
 __Lund University__
 - Engineering Physics, specialized in statistics and machine learning.
-
-`2010-2013`
-__Vittragymnasiet Sickla__
-
-- Science program
 
 
 ## Notable previous work experience
@@ -37,20 +39,19 @@ Part time software engineer, *Voice Diagnostics*
 Software engineering intern, *Arm*, Lund
 
 `2016-2018`
-Teaching assistant, *Lund University
+Teaching assistant, *Lund University*
 - Teaching basic courses in programming, control theory and statistics.
 
 `2013, 2014`
 Configuration management intern, *Ericsson*, Kista
 
-
 ## Technical skills
 ### Programming and software engineering
-Python, Java, SAS, Matlab and some R and Javascript.  
-Git, Azure Devops, Databricks. 
+Python, SQL, SAS, Matlab and some R and Javascript.  
+Azure Devops, GCP, dbt, Databricks. 
 
 ### Data analysis and visualizations
-Pandas, Jupyter, Matplotlib,  SQL, Tableau, statsmodels, scikit-learn
+Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, statsmodels, scikit-learn
 
 ## Other experience
 `2003-2020`
