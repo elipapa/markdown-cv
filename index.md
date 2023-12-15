@@ -16,8 +16,7 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Data visualization and management in R, Observational data, Geographic data, ACS data, SEER data
 
 ### Research interests
 
