@@ -12,7 +12,7 @@ Email: uusshana@gmail.com | Phone: +6281391558343 | LinkedIn: https://www.linked
 
 ## Summary
 
-QA Engineer with over 3 years of experience working in a fast-paced SaaS startup, with a focus on delivering high-quality software solutions. I am proficient in designing and implementing testing strategies, test plans, and test cases, and have expertise in automated testing tools.
+QA Engineer with over 4 years of experience working in a fast-paced SaaS startup, with a focus on delivering high-quality software solutions. I am proficient in designing and implementing testing strategies, test plans, and test cases, and have expertise in automated testing tools.
 
 ## Work Experience
 
