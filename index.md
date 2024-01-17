@@ -1,29 +1,45 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Antonio D'Alessio CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Antonio D'Alessio
+Senior Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="antessio7@agmail.com">antessio7@gmail.com</a>
+| <a href="https://github.com/antessio">My github page</a>
 </div>
 
 
-## Currently
+## About me
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I'm a software engineer and open-source lover with a solid passion for
+TDD.
+Based in Milan, graduated at Università degli Studi di Salerno in Computer Engineering.
 
 
-### Research interests
+## Work experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`11/20222 - current`
+__Treatwell__ (remote)
+**Senior Software Engineer - Payment team**
 
+My team is responsible for the payment and the invoicing system.
+We use Domain-Driven-Design and hexagonal architecture as the
+architectural patterns. We work on a distributed system that use
+RabbitMQ events and HTTP APIs to communicate.
+In my team I'm responsible for some tech initiatives like: defining a
+testing strategy and defining a code review proces
+
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
+
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
 
 ## Education
 
