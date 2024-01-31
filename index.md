@@ -1,5 +1,7 @@
-# Vipin Pillai
-## Cloud Architect Specialized in DevOps and Infrastructure as Code </br> <div align="right"> <img src="media/AZ-400.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> </div>
+
+</br> <div align="right"> <img src="media/AZ-400.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> </div>
+# Vipin Pillai 
+## Cloud Architect Specialized in DevOps and Infrastructure as Code 
 </br>
 </br>
 <div align="left">
@@ -19,7 +21,8 @@
 
 ## Professionaly Summary
 
-As an experienced cloud professional, I excel in designing cutting-edge cloud infrastructure solutions and creating streamlined DevOps processes that drive productivity and success. My passion for empowering teams through training and automation, combined with my expertise in Infrastructure as Code (IAC), enable me to create efficient and scalable solutions that enable organizations to deploy code with ease. With a proven track record of delivering successful projects and a sharp eye for detail, I am dedicated to providing the highest level of service and driving innovation at every step of the way.
+Experienced IT professional with a strong focus on DevOps and Cloud Architecture. Demonstrates in-depth expertise in cloud-native technologies and a successful history of implementing scalable and resilient cloud solutions.
+Proficient in Azure solutioning, Terraform, Docker, Kubernetes, and CI/CD pipelines, actively seeking opportunities to drive innovation and streamline processes to achieve exceptional outcomes.
 
 </br>
 
@@ -28,10 +31,8 @@ As an experienced cloud professional, I excel in designing cutting-edge cloud in
 
 - ### Azure Devops
 - ### Cloud Solutions
-- ### Logging & Monitoring
 - ### Cloud Automation
-- ### Agile Methodologies
-- ### Team Management
+- ### Infra as Code
 - ### Employee Training
 
 </br>
@@ -107,17 +108,18 @@ As an experienced cloud professional, I excel in designing cutting-edge cloud in
 ## Educational Qualification
 
 - Graduation: Bachelors in Computer Application Sri Satya Sai University of Technology & Medical Sciences
-- Microsoft Certified (AZ-305): Azure Solutions Architect Expert
-- Microsoft Certified (AZ-400): DevOps Engineer Expert
-- Microsoft Certified (AZ-104): Microsoft Azure Administrator
+- HashiCorp Certified **Terraform Associate** (003)
+- Microsoft Certified **Azure Solutions Architect** Expert (AZ-305)
+- Microsoft Certified **DevOps Engineer** Expert (AZ-400)
+- Microsoft Certified Microsoft **Azure Administrator** (AZ-104)
 
 </br>
 
 ## Hobbies
 
-- I enjoy playing snooker, which requires me to think ahead and plan my moves strategically. 
-- I practice meditation regularly to stay centered and focused. In the fast-paced world, it's crucial to remain calm and mindful in the face of challenges and changing requirements.
-- Cycling is not just a hobby for me; Just as I navigate different terrains on my bike, I'm adept at adapting to changing environments and requirements in the world of DevOps.
+- Nature Hiking: I find solace in exploring the great outdoors and connecting with nature.
+- Avid Reader: Stay informed through technical blogs, fostering continuous learning and industry awareness.
+- Music Enthusiast: Seek comfort through music, using it as a calming mechanism.
 
 </br> </br>
 
