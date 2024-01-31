@@ -1,5 +1,5 @@
 
-</br> <div align="right"> <img src="media/AZ-400.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> </div>
+</br> <div align="right"> <img src="media/AZ-400.png" style="width:150px;height:150px;"> <img src="media/AZ-305.png" style="width:150px;height:150px;"> <img src="media/TerraformAssociate-003.png" style="width:150px;height:150px;"> </div>
 # Vipin Pillai 
 ## Cloud Architect Specialized in DevOps and Infrastructure as Code 
 </br>
