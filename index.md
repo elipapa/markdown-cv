@@ -43,6 +43,11 @@ title: Cameron Anderson CV
 
 ## Funding & Awards
 
+`2023-2024`
+*Mitacs Globalink Research Award Thematic*. Value: 6000 CAD.
+*McMaster School of Graduate Studies Fall Travel Award*. Value: 500 CAD.
+*Ontario Graduate Scholarship*. Value: 15,000 CAD.
+
 `2022-2023`
 *Ontario Graduate Scholarship*. Value: 15,000 CAD.
 
@@ -70,12 +75,20 @@ Provides one third of Ontario Graduate Scholarship.
 
 ## Journal Articles
 
+**Anderson, C. J.**, & Schutz, M. (2023). Understanding Feature Importance in Musical Works: Unpacking Predictive Contributions to Cluster Analyses. *Music & Science, 6*. https://doi.org/10.1177/20592043231216257
+
+**Anderson, C. J.**, Sreetharan, S., López, A. E. E., Schlesinger, J. J., & Schutz, M. (2023). Improving auditory alarms: Reducing perceived annoyance with musical timbres (a randomized trial). *Perioperative Care and Operating Room Management*, 100332. https://doi.org/10.1016/j.pcorm.2023.100332
+
 **Anderson, C. J.**, & Schutz, M. (2022). Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin. *Psychology of Music, 50(5)*, 1424–1442. https://doi.org/10.1177/03057356211046375
 
 
-Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2021.1988422" target="_blank"> Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131.
+Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). Exploring changes in the emotional classification of music between eras.</a> *Auditory Perception & Cognition, 4(1-2)*, 121-131. https://doi.org/10.1080/25742442.2021.1988422
 
-Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.com/2227-9032/8/4/389" target="_blank"> Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights.</a> *Healthcare 8 (4)*, 389.
+Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights. *Healthcare 8 (4)*, 389. https://doi.org/10.3390/healthcare8040389
+
+## Proceedings
+
+	Zhou, J., **Anderson, C. J.** & Schutz, M., (2023, October). <a href="https://maplelab.net/wp-content/uploads/2023/10/23_AWC_-_Accuracies_in_algorithmic_predictors_of_musical_emotion.pdf" target="_blank"> Accuracies in algorthimic predictors of musical emotion.</a> Proceedings of the Acoustics Week in Canada, 51 (3).
 
 ## Other Written Contributions
 
@@ -86,11 +99,11 @@ Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). <a href="https://www.mdpi.c
 `2019-Present`
 __Teaching Assistant__, Department of Psychology, Neuroscience & Behaviour,
 McMaster University, Hamilton, ON.
-- Courses: *Integrative PNB through Scientific Writing* (2023); *Statistics for the Behavioural Sciences* (2020-22); *Music Cognition* (2020-22); *Human Evolution & Behaviour* (2019).
+- Courses: *Python for PNB* (2024); *Integrative PNB through Scientific Writing* (2023); *Statistics for the Behavioural Sciences* (2020-23); *Music Cognition* (2020-22); *Human Evolution & Behaviour* (2019).
 
 `2021-2022`
 __Graduate Resident__, Lewis & Ruth Sherman Centre for Digital Scholarship
-- Designing interactive visualizations of music data in *Shiny* for *R*.
+- Designed interactive visualizations of music data in *Shiny* for *R*.
 
 `2017-2019`
 __Teaching Assistant__, School of the Arts, McMaster University, Hamilton, ON.
@@ -116,13 +129,9 @@ I have also worked on a project examining how musical considerations in the desi
 
 A common issue with musical analyses is the inability to *hear* what an analyst is describing in a musical work. To address this issue, I developed interactive visualization of a cluster analysis of musical data with interactive dendrograms, scatter plots, and audio playback functionality using *Shiny* for *R* and *JavaScript*. I developed the application during my graduate residency with the Lewis & Ruth Sherman Centre for Digital Scholarship.
 
-### *Other Projects*
-
-**<a href="https://gitlab.com/andersoc/practice-scheduler" target="_blank"><i class="fab fa-gitlab"></i> Scale of the Day.</a>**
-
-A <a href="https://twitter.com/scaleoftheday" target="_blank"> Twitter Bot </a> I developed in *R* to add some variety to my practice routine. Scale of the Day tweets a randomly selected musical scale each day, along with a new jazz tune to learn each week. Tweets posted daily through the Gitlab CI/CD pipeline.
-
 ## Selected Presentations
+
+Anderson, C.J., Ling, J., & Schutz, M. (2023, October). How Does Interpretation of Acoustic Features Affect Perceived Musical Emotion? (Talk). Presented at Acoustics Week in Canada. Montreal, Quebec.
 
 Anderson, C.J., & Schutz, M. (2022, August). *Demonstrating a Novel Method for Exploring Musical Changes Across History* (Talk). Presented at Society for Music Perception and Cognition. Portland, Oregon.
 
@@ -136,15 +145,13 @@ Anderson, C. J., (2021, March). *Analyzing Expressive Differences in Historic Pr
 
 Anderson, C.J., & Schutz, M. (2020, December). *Acoustic Elements in Emotion Expression.* (Talk). Presented at 19th Annual Auditory Perception and Cognition Action Meeting. Virtual Conference.
 
-Anderson, C.J., & Schutz, M. (2019, November) *Historical Changes in Musical Expression* (Poster). Presented at 15th Annual NeuroMusic Conference, Hamilton, Canada.
-
 Anderson, C. J., Sreetharan, S., & Schutz, M (2019, February). *Examining Melodic Alarm Recognition Accuracy Across Contrasting Timbres.* (Poster). Presented at 48th Annual Lake Ontario Visionary Establishment Conference, Niagara Falls, Canada.
 
 Anderson, C. J., & Schutz, M. (2018, November). *Can Musical Cues Improve Auditory Alarms in the I.C.U.?* (Poster). Presented at McMaster Innovation Showcase: The Future is Here. Hamilton, Canada.
 
 ## Graduate Courses Taken
 
-*Statistical Learning* (STATS 790), *Data Science* (STATS 780), *Advanced Statistics & Computational Methods* (PSYCH 712), *Statistics & Research Design* (PSYCH 710), *Contemporary Problems in Psychology* (PSYCH 720). 
+*Cognitive Psychology* (PSYCH 723), *Special Topics in Psychology I (PSYCH 713)* *Statistical Learning* (STATS 790), *Data Science* (STATS 780), *Advanced Statistics & Computational Methods* (PSYCH 712), *Statistics & Research Design* (PSYCH 710), *Contemporary Problems in Psychology* (PSYCH 720). 
 
 ## References
 
@@ -153,6 +160,6 @@ Available upon request.
 
 <!-- ### Footer
 
-Last updated: Jan 2022 -->
+Last updated: Feb 2024 -->
 
 
