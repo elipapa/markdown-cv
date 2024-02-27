@@ -23,14 +23,12 @@ title: Sean Lo's Resume
 ## Experience  
 
 `Nov. 2021 -`
-__Software Engineer, *PlayStation (Sony)*__, San Francisco, CA 
+__Software Engineer - Developer Productivity, *PlayStation (Sony)*__, San Francisco, CA 
 
 `Current` 
-
-- `-` Currently designing and leading the refactoring of a Python package and its CLI that dynamically create and retrieve database accounts through API calls, optimizing code efficiency and maintainability
 - `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and  websites, optimizing testing processes for QA and development teams across the globe
 - `-` Contributed to creating and implementing a CI/CD release pipeline that enabled automated releases across team repositories using Groovy, Jenkins, and Semantic Release
-- `-` Supported development on internal Web Service tool built with Node.js and MongoDB that handles account retrieval with varying parameter queries used to support manual testing and automation testing
+- `-` Supported development on internal Web Service tools built with Node.js and MongoDB that handles account retrieval with varying parameter queries used to support manual testing and automation testing
 - `-` Collaborated on the development and maintenance of various internal tools, including CLI and Appium-based solutions, for device management, localization, and Pytest plugins, providing critical support to QA and development teams in ensuring efficient and robust testing processes
 
 
