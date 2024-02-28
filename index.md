@@ -15,8 +15,8 @@ title: Sean Lo's Resume
 </div>
 
 ## Technical Skills  
-- __Languages:__ Python, JavaScript, C/C++, HTML5/CSS3, SQL, Groovy, Bash
-- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Appium, GraphQL, REST APIs
+- __Languages:__ Python, Bash, Groovy, JavaScript, C/C++, SQL, HTML5/CSS3
+- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Kubernetes, Appium, GraphQL, REST, Grafana, PyTorch, LLM/NLP
 
 
           
