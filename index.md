@@ -69,5 +69,6 @@ and omitted the need for boilerplates
 
 `2017 - 2019` 
 __B.S. Computer Science__   Oregon State University          GPA 3.8 / 4.0
-`2013 - 2017 -`
+
+`2013 - 2017`
 __B.A. Business Economics__   University of California, Riverside          GPA 3.5 / 4.0
