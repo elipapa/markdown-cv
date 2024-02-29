@@ -17,7 +17,7 @@ title: Sean Lo's Resume
 ## Technical Skills  
 - __Languages:__ Python, Bash, Groovy, JavaScript, C/C++, SQL, HTML5/CSS3
 - __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Kubernetes, Appium, GraphQL, REST, Grafana, PyTorch, LLM/NLP, qTest, Applitools
-            
+            f
 ## Experience  
 
 `Nov. 2021 -`
@@ -25,10 +25,10 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 
 `Mar. 2024` 
 
-- `-` Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web utilized all development and QA teams that allowed hundreds of developers and testers to execute all forms of testing including but not limited to end-to-end testing, component testing and unit testing
-- `-` Continuously developed and implemented a CI/CD release pipeline with Jenkins, Bash and, Groovy that enabled automated semantic releases of all teams delivering PlayStation React Native-based applications.
-- `-` Maintained and refactored development of a PlayStation Network account retrieval tool (API/Web/CLI) built with Node.js and MongoDB that handles hundreds of thousands calls weekly used by development and testing for PS5 and PlayStation websites used by all development teams and QA teams
-- `-` Proactively led effort in the refactoring of multiple Python-based internal tools that are leveraged by several dozens teams daily for development, testing, and nightly regression jobs
+- `-` Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by all development and QA teams that allowed hundreds of developers and testers to execute all forms of testing, including but not limited to end-to-end testing, component testing, and unit testing
+- `-` Continuously developed and implemented a CI/CD release pipeline with Jenkins, Bash, and Groovy that enabled automated semantic releases of all teams delivering PlayStation React Native-based applications
+- `-` Maintained and refactored development of a PlayStation Network account retrieval tool (API/Web/CLI) built with Node.js and MongoDB that handles hundreds of thousands of calls weekly for development and testing for PS5 and PlayStation websites used by all development teams and QA teams
+- `-` Proactively led effort in the refactoring of multiple Python-based internal tools that are leveraged by several dozens of teams daily for development, testing, and nightly regression jobs
 - `-` Collaborated on the development and maintenance of various internal tools for device management, localization, pytest, and visual testing providing critical support for QA teams and development teams around the globe ensuring efficient and robust testing processes
 - `-` Developed and built a Telemetry application with Python and MongoDB, enabling the collection, analysis, and visualization of metrics from all internal applications in Grafana, providing clear insights, engagement data, and error tracking for the applications
 - `-` Worked closely with cross-functional teams to collect project requirements and align on testing goals
