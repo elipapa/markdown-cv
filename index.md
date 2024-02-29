@@ -59,11 +59,9 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA <a href="https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bx6lRpc6VRv6h80zWrUTwyw%3D%3D](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKydn0%2FLdQY6Ut2HiDrOFtw%3D%3D"> <font color="teal"> Presentation </font> </a>
 
 `Sep. 2019` 
-- `-` Designed, managed, and maintained tools to automate and optimize software
-- `-` Researched and implemented JNA to convert C to Java, which reduced SDLC by 80% 
-and omitted the need for boilerplates
+- `-` Contributed to the design and maintaience of data collection and visualization tools utilizing JavaScript, MySQL, Node.js, and React
+- `-` Researched and implemented JNA to convert C to Java, which reduced SDLC by 80% and omitted the need for boilerplates
 - `-` Participated in the planning and integration of infrastructure on Amazon Web Service
-- `-` Utilized C, C++, Java, HTML, CSS, JavaScript, MySQL, AWS, Node.js, and React
 
 ## Education
 
