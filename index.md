@@ -67,14 +67,7 @@ and omitted the need for boilerplates
 
 ## Education
 
-`Sep. 2017 -` 
-__B.S. Computer Science__   Oregon State University
-
-`Dec. 2019`
-GPA 3.8 / 4.0
-
-`Sep. 2013 -`
-__B.A. Business Economics__   University of California, Riverside
-
-`Jun. 2017`
-GPA 3.5 / 4.0
+`2017 - 2019` 
+__B.S. Computer Science__   Oregon State University          GPA 3.8 / 4.0
+`2013 - 2017 -`
+__B.A. Business Economics__   University of California, Riverside          GPA 3.5 / 4.0
