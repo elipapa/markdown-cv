@@ -42,7 +42,7 @@ __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, 
 - `-` Developed Selenium automation strategy and drove implementation of end-to-end tests with a focus on stability and maintainability, ensuring prevention of regressions in the product code
 - `-` Designed, developed, and enhanced automated test suites for web interfaces on the PlayStation websites, ensuring robust and efficient testing processes
 - `-` Collaborated with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites
-- `-` Assisted team in establishing test frameworks and Jenkins piplines and implementing automation infrastructure to improve testing efficiency and effectiveness
+- `-` Assisted team in establishing test frameworks and Jenkins pipelines through implementing automation infrastructure to improve testing efficiency and effectiveness
 
 `Jun. 2020 -` 
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA 
