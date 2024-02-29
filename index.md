@@ -33,7 +33,7 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 - `-` Proactively led effort in the refactoring of multiple Python-based internal tools that are leveraged by several dozens teams daily for development, testing, and nightly regression jobs
 - `-` Collaborated on the development and maintenance of various internal tools for device management, localization, pytest, and visual testing providing critical support for QA teams and development teams around the globe ensuring efficient and robust testing processes
 - `-` Developed and built a Telemetry application with Python and MongoDB, enabling the collection, analysis, and visualization of metrics from all internal applications in Grafana, providing clear insights, engagement data, and error tracking for the applications
-- `-` Worked closely with cross-functional teams to collect project requirements and align testing goals
+- `-` Worked closely with cross-functional teams to collect project requirements and align on testing goals
 - `-` Developed and led training workshops and tutorials to hundreds of QA and developers on the testing framework and numerous other tools my team created
 
 `Mar. 2021 -`
