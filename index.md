@@ -16,7 +16,7 @@ title: Sean Lo's Resume
 
 ## Technical Skills  
 - __Languages:__ Python, Bash, Groovy, JavaScript, C/C++, SQL, HTML5/CSS3
-- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Kubernetes, Appium, GraphQL, REST, Grafana, PyTorch, LLM/NLP
+- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Kubernetes, Appium, GraphQL, REST, Grafana, PyTorch, LLM/NLP, qTest, Applitools
 
 
           
@@ -27,20 +27,22 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA
 
 `Mar. 2024` 
 
-- `-` Currently designing and leading the refactoring of a Python package and its CLI that dynamically create and retrieve database accounts through API calls, optimizing code efficiency and maintainability
-- `-` Collaborated on the development and maintenance of a wide range of internal tools for manual and automated testing of PlayStation hardware and  websites, optimizing testing processes for QA and development teams across the globe
-- `-` Contributed to creating and implementing a CI/CD release pipeline that enabled automated releases across team repositories using Groovy, Jenkins, and Semantic Release
-- `-` Supported development on internal Web Service tool built with Node.js and MongoDB that handles account retrieval with varying parameter queries used to support manual testing and automation testing
-- `-` Collaborated on the development and maintenance of various internal tools, including CLI and Appium-based solutions, for device management, localization, and Pytest plugins, providing critical support to QA and development teams in ensuring efficient and robust testing processes
-
+- `-` Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web utilized all development and QA teams that allowed hundreds of developers and testers to execute all forms of testing including but not limited to end-to-end testing, component testing and unit testing
+- `-` Continuously developed and implemented a CI/CD release pipeline with Jenkins, Bash and, Groovy that enabled automated semantic releases of all teams delivering PlayStation React Native-based applications.
+- `-` Maintained and refactored development of a PlayStation Network account retrieval tool (API/Web/CLI) built with Node.js and MongoDB that handles hundreds of thousands calls weekly used by development and testing for PS5 and PlayStation websites used by all development teams and QA teams
+- `-` Proactively led effort in the refactoring of multiple Python-based internal tools that are leveraged by several dozens teams daily for development, testing, and nightly regression jobs
+- `-` Collaborated on the development and maintenance of various internal tools for device management, localization, pytest, and visual testing providing critical support for QA teams and development teams around the globe ensuring efficient and robust testing processes
+- `-` Developed and built a Telemetry application with Python and MongoDB, enabling the collection, analysis, and visualization of metrics from all internal applications in Grafana, providing clear insights, engagement data, and error tracking for the applications
+- `-` Worked closely with cross-functional teams to collect project requirements and align testing goals
+- `-` Developed and led training workshops and tutorials to hundreds of QA and developers on the testing framework and numerous other tools my team created
 
 `Mar. 2021 -`
 __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA 
 
 `Nov. 2021`
-- `-` Assisted in the successful launch of PlayStation Direct's expansion to Europe, which enabled direct purchases of PlayStation products via the web store, contributing to a smooth and seamless customer experience
-- `-` Developed Selenium automation scripts with a focus on stability and maintainability, ensuring prevention of regressions in the product code
-- `-` Designed, developed, and enhanced automated test suites for web interfaces on the PlayStation website, ensuring robust and efficient testing processes
+- `-` Assisted in the successful launch of PlayStation Direct's expansion to Europe, which enabled direct purchases of PlayStation products via the web store for tens of countries in Europe
+- `-` Developed Selenium automation strategy and drove implementation of end-to-end tests with a focus on stability and maintainability, ensuring prevention of regressions in the product code
+- `-` Designed, developed, and enhanced automated test suites for web interfaces on the PlayStation websites, ensuring robust and efficient testing processes
 - `-` Collaborated with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites
 - `-` Assisted team in establishing test frameworks and Jenkins piplines and implementing automation infrastructure to improve testing efficiency and effectiveness
 
