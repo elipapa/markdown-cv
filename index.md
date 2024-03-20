@@ -26,6 +26,13 @@ ishirbhan@gmail.com | 617-669-6797
 >  `2019-2022` Director, Clinical Research  
 >  `2022-Present` Senior Director, Clinical Research  
 
+- Clinical lead for Phase 2 Study of Zilebesiran (siRNA targeting angiotensinogen for hypertension)
+* led clinical protocol development, coordinating cross-functinoal team and leading governance meeting presentations
+* coordinated input from partner pharmaceutical company, establishing alignment prior to cross-company governance
+* established study steering committtee to provide expert input on study design and execution
+* identified key metrics for site identification and selection
+* activated first site ahead of schedule
+
 - Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients wih primary hyperoxaluria in advanced kidney disease)
 * led cross functional clinical devleopment subteam
 * successfully completed enrollment and led presentation of top-line data for company meetings, online presentations, and abstracts/publications
