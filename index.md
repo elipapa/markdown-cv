@@ -23,8 +23,6 @@ title: Ishir Bhan's CV
 
 ### Pharmaceutical Industry
 
-
-=======
 #### Alnylam Pharmaceuticals, Cambridge, MA 
 
 | Date      | Description |
