@@ -3,7 +3,7 @@ layout: cv
 title: Ishir Bhan's CV
 ---
 # Ishir Bhan, MD MPH
-<i class="fa-regular fa-envelope"></i> ishirbhan@gmail.com   <i class="fa-brands fa-linkedin"></i> https://www.linkedin.com/in/ishirbhan/
+<i class="fa-regular fa-envelope"></i> ishirbhan@gmail.com   <i class="fa-brands fa-linkedin"></i> [https://www.linkedin.com/in/ishirbhan/](https://www.linkedin.com/in/ishirbhan/)
 
 ## Summary
 - Harvard Medical School trained physician, completing residency in internal medicine and fellowship in nephrology with  previously board certification in both; 8 years as academic staff physician at Massachusetts General Hospital
