@@ -3,9 +3,9 @@ layout: cv
 title: Ishir Bhan's CV
 ---
 # Ishir Bhan, MD MPH
-ishirbhan@gmail.com | 617-669-6797
+<i class="fa-regular fa-envelope"></i> ishirbhan@gmail.com   <i class="fa-brands fa-linkedin"></i> https://www.linkedin.com/in/ishirbhan/
 
-## Summary of Key Experience
+## Summary
 - Physician trained, board certified in internal medicine and nephrology with 8 years as academic staff physician
 - NIH-funded independent clinical research career with numerous publications and presentations at international conferences
 - Over 7 years of industry experience spanning drug safety and clinical development involving siRNA, ASO, and gene therapy
@@ -22,169 +22,141 @@ ishirbhan@gmail.com | 617-669-6797
 
 ### Pharmaceutical Industry
 
-`2019-Present` __Alnylam Pharmaceuticals, Cambirdge, MA__   
->  `2019-2022` Director, Clinical Research  
->  `2022-Present` Senior Director, Clinical Research  
 
-- Clinical lead for Phase 2 Study of Zilebesiran (siRNA targeting angiotensinogen for hypertension)
-* led clinical protocol development, coordinating cross-functinoal team and leading governance meeting presentations
-* coordinated input from partner pharmaceutical company, establishing alignment prior to cross-company governance
-* established study steering committtee to provide expert input on study design and execution
-* identified key metrics for site identification and selection
-* activated first site ahead of schedule
+=======
+#### Alnylam Pharmaceuticals, Cambridge, MA 
 
-- Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients wih primary hyperoxaluria in advanced kidney disease)
-* led cross functional clinical devleopment subteam
-* successfully completed enrollment and led presentation of top-line data for company meetings, online presentations, and abstracts/publications
-* authored summary of clincial efficacy and clincial study report
-* filed successuful sNDA with FDA, leading to updated indication
-* in coordination with KOLs, developed and established validation strategy for novel scales of systemic oxalosis
+| Date      | Description |
+| ----------| ---- |
+| 2019-2022 | Director, Clinical Research |                  
+| 2022-     | Senior Director, Clinical Research |
 
 
-- Clinical lead for ALN-XDH (siRNA for treatment of gout)
-* designed and led authoring of Phase 1/2 protocol for efficient evaluation of safety/efficacy using novel paradigm later adopted by other programs; led governance presentations
-* led advisory board and 1:1 calls with KOLs to incorporate expert feedback
-* led authoring of investigator brochiure
-* successfully filed CTA and IND with MHRA and FDA
-* led cross-functional team to rapidly assess therapeutic viability while minimizing time, cost, and subject exposure
-* completed enrollment and analysis of SAD study in healthy volunteers
+Clinical lead for Phase 2 Study of Zilebesiran (siRNA targeting angiotensinogen for hypertension)
+- led clinical protocol development, coordinating cross-functinoal team and leading governance meeting presentations
+- coordinated input from partner pharmaceutical company, establishing alignment prior to cross-company governance
+- established study steering committtee to provide expert input on study design and execution
+- identified key metrics for site identification and selection
+- activated first site ahead of schedule
 
-- Clnical lead for cemdisiran (siRNA for suppression of C5 complement component)
-* led phase 2 trial in IgA nephropathy, amending protocol to enable successful completion of enrollment despite chalenges from COVID-19 pandemic
-* led interpretation and presentation of positive top-line results, including internal presentaitons, international conferences, and manuscripts
-* worked with cross-functional team and external consultants to establish viability of phase 3 program
-* led authoring and design of phase 3 protocol including leading advisory boards and multiple KOL meetings to incorporate feedback
-* led successful end of phase 2 interactions with FDA (teleconference), EMA, and PMDA including development of briefing books and response to questions
-* worked with collaborator Regeneron to enable development and execution of phase 2 and 3 studies of cemdisiran/pozelimab combination in myasthemnia gravis and paroxysmal nocturnal hemoglobinuria
+Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients with primary hyperoxaluria in advanced kidney disease)
+- led cross-functional clinical development subteam
+- successfully completed enrollment and led presentation of top-line data for company meetings, online presentations, and abstracts/publications
+- authored summary of clinical efficacy and clinical study report
+- filed successful sNDA with FDA, leading to updated indication
+- in coordination with KOLs, developed and established validation strategy for novel scales of systemic oxalosis
 
-- Clinical lead for pre-clinical complement assets
-* led clinical assessment of potential indciations for novel agents directed against complement cascade, incorporating commercial assessments and pre-clincial data
-* worked with collaborator to assess viability of combination therapeutic appraoches, presenting to leadership at both companies
+Clinical lead for ALN-XDH (siRNA for treatment of gout)
+- designed and led authoring of Phase 1/2 protocol for efficient evaluation of safety/efficacy using novel paradigm later adopted by other programs; led governance presentations
+- led advisory board and 1:1 calls with KOLs to incorporate expert feedback
+- led authoring of investigator brochure
+- successfully filed CTA and IND with MHRA and FDA
+- led cross-functional team to rapidly assess therapeutic viability while minimizing time, cost, and subject exposure
+- completed enrollment and analysis of SAD study in healthy volunteers
 
-`2016-2019` __Biogen, Cambirdge, MA__   
-`2016-2018` Associate Medical Director, Drug Safety  
-`2018-2019` Medical Director, Drug Safety 
+Clinical lead for cemdisiran (siRNA for suppression of C5 complement component)
+- led phase 2 trial in IgA nephropathy, amending protocol to enable successful completion of enrollment despite challenges from COVID-19 pandemic
+- led interpretation and presentation of positive top-line results, including internal presentations, international conferences, and manuscripts
+- worked with cross-functional team and external consultants to establish viability of phase 3 program
+- led authoring and design of phase 3 protocol including leading advisory boards and multiple KOL meetings to incorporate feedback
+- led successful end of phase 2 interactions with FDA (teleconference), EMA, and PMDA including development of briefing books and response to questions
+- worked with collaborator Regeneron to enable development and execution of phase 2 and 3 studies of cemdisiran/pozelimab combination in myasthenia gravis and paroxysmal nocturnal hemoglobinuria
 
-- Global Safety Officer
-* led medical safety activities for SPINRAZA and several developmental assets
-* provided clinical oversight and authored relevant section for SPINRAZA PSUR and DSUR
-* maintained relevant sections of Investigator Brochures, Core Data Sheet, Patient Safety Information, Expected Term Lists, and Informed Consent Forms
-* Provided clinical oversight for analysis and characterization of clinical trial and postmarketing adverse events
-* Represented safety issues in cross-function teams (including clinical study, program, communications, and publications teams) and governance committee presentations
-* Supported successful registration of SPINRAZA in 13 regions including EU, Canada, Japan, Australia, and others
-* Authored and edited responses to regulatory inquiries for both registration-related and postmarket settings
-* Provided input and editing for revision to package inserts including USPI, SmPC, and other regional labels
+Clinical lead for pre-clinical complement assets
+- led clinical assessment of potential indications for novel agents directed against complement cascade, incorporating commercial assessments and pre-clinical data
+- worked with collaborator to assess viability of combination therapeutic approaches, presenting to leadership at both companies
 
-- Development and Diligence
-* Assessed safety risks for potential asset acquisitions
-* Reviewed and assessed pre-clinical and clinical trial data in context of competitive landscape
-* Contributed to study design for gene therapy assets under development
-* Worked on cross-functional team to develop strategy for accelerating development through innovative approaches including hybrid virtual trials and wearables for data collection
+#### Biogen, Cambridge, MA 
+
+| Date      | Description |
+| ----------| ---- |
+| 2016-2018 | Associate Medical Director, Drug Safety |                  
+| 2018-2019 | Medical Director, Drug Safety |
+
+Global Safety Officer
+- led medical safety activities for SPINRAZA and several developmental assets
+- provided clinical oversight and authored relevant section for SPINRAZA PSUR and DSUR
+- maintained relevant sections of Investigator Brochures, Core Data Sheet, Patient Safety Information, Expected Term Lists, and Informed Consent Forms
+- Provided clinical oversight for analysis and characterization of clinical trial and postmarketing adverse events
+- Represented safety issues in cross-function teams (including clinical study, program, communications, and publications teams) and governance committee presentations
+- Supported successful registration of SPINRAZA in 13 regions including EU, Canada, Japan, Australia, and others
+- Authored and edited responses to regulatory inquiries for both registration-related and postmarket settings
+- Provided input and editing for revision to package inserts including USPI, SmPC, and other regional labels
+
+Development and Diligence
+- Assessed safety risks for potential asset acquisitions
+- Reviewed and assessed pre-clinical and clinical trial data in context of competitive landscape
+- Contributed to study design for gene therapy assets under development
+- Worked on cross-functional team to develop strategy for accelerating development through innovative approaches including hybrid virtual trials and wearables for data collection
 
 ### Academic Medicine
 
-`2008-2016` __Massachusetts General Hospital, Boston, MA__  
+#### Massachusetts General Hospital, Boston, MA 
  
->  `2014-2016` Associate Physician, Department of Medicine
-- Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.
+ | Date      | Description |
+| ----------| ---- |
+| 2014-2016 | Associate Physician, Department of Medicine *Served as attending nephrologist. Covered the inpatient Nephrology consultation, dialysis, and intensive care unit services. Taught and supervised fellows, residents, and students.*|  
+| 2014-2016 | Director of Nephrology Informatics, Department of Medicine, Division of Nephrology *Oversaw all information-technology based initiatives within the Division of Nephrology, including research activities, clinical activities, and administrative initiatives. Provided informatics support for research ventures.*|  
+| 2013-2016 | Director of Collaborative Informatics, Department of Medicine, Laboratory of Computer Science *Designed, planned, and managed development of web and smartphone-based clinical task management, electronic documentation, and collaboration software used at four Boston-area hospitals.*|   
+| 2012-2016 | Subspecialty Core Educator, Department of Medicine *Oversaw outpatient and inpatient nephrology rotations for medical residents. Developed educational program. Coordinated clinical experiences.*|   
+| 2012-2016 | Associate Program Director, Nephrology Fellowship Program *Oversaw nephrology fellowship activities at Massachusetts General Hospital including clinical rotations and research education.*|                  
+| 2006-2014 | Assistant in Medicine, Department of Medicine |                  
 
->  `2014-2016` Director of Nephrology Informatics, Department of Medicine, Division of Nephrology
-- Oversaw all information-technology based initiatives within the Division of Nephrology, including research activities, clinical activities, and administrative initiatives. Provided informatics support for research ventures.
 
->  `2013-2016` Director of Collaborative Informatics, Department of Medicine, Laboratory of Computer Science
-- Designed, planned, and managed development of web and smartphone-based clinical task management, electronic documentation, and collaboration software used at four Boston-area hospitals.
-
->  `2012-2016` Subspecialty Core Educator, Department of Medicine
-- Oversaw outpatient and inpatient nephrology rotations for medical residents. Developed educational program. Coordinated clinical experiences.
-
->  `2012-2016` Associate Program Director, Nephrology Fellowship Program
-- Oversaw nephrology fellowship activities at Massachusetts General Hospital including clinical rotations and research education.
-
-  
->  `2018-2019` Medical Director, Drug Safety 
 
 ### Academic Appointments
 
-`2014-2016`
-__Assistant Professor in Medicine, Harvard Medical School__ - Boston, MA
+#### Harvard Medical School, Boston, MA
 
-
-`2008-2014`
-__Instructor in Medicine, Harvard Medical School__ - Boston, MA
-
-
+| Date      | Description |
+| ----------| ---- |
+| 2014-2016 | Assistant Professor in Medicine |                  
+| 2008-2014 | Instructor in Medicine |
 
 ## Education and Training
 
 ### Degrees
 
-`1996`
-__AB, Harvard College__ - Cambirdge, MA - *Biology, Magna Cum Laude*
+| Date      | Description |
+| ----------| ---- |
+| 1996 | __AB, Harvard College__<br/>Cambridge, MA *Biology, Magna Cum Laude* |
+| 2001 | __MD, Harvard Medical School__<br/>Boston, MA |
+| 2008 | __MPH, Harvard School of Public Health__<br/>Boston, MA *Clinical Effectiveness* |
+                 
 
-`2001`
-__MD, Harvard Medical School__ - Boston, MA
-
-`2008`
-__MPH, Harvard School of Public Health__ - Boston, MA - *Clinical Effectiveness*
 
 
 ### Post-Graduate Training
 
-`2001-2004`
-__Internship and Residency, Massachusetts General Hospital__ - Boston, MA - *Internal Medicine*
-
-`2004-2008`
-__Clinical and Research Felowship, Massachusetts General Hospital/Brigham and Women's Hospital__ - Boston, MA - *Nephrology*
-
-`2005-2008`
-__Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__ - Boston, MA - *Informatics*
+| Date      | Description |
+| ----------| ---- |
+| 2001-2004 | __Internship and Residency, Massachusetts General Hospital__<br/>Boston, MA *Internal Medicine* |
+| 2004-2008 | __Clinical and Research Fellowship, Massachusetts General Hospital/Brigham and Women's Hospital__<br/>Boston, MA *Nephrology* |
+| 2005-2008 | __Research Fellowship, Massachusetts General Hospital Laboratory of Computer Science__<br/>Boston, MA *Informatics* |
+                 
 
 ## Awards and Honors
 
-`2015` Physician of the Year  
-Massachusetts General Hospital
+| Date      | Description |
+| ----------| ---- |
+| 2015 | __Physician of the Year__, Massachusetts General Hospital *Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.* |
+| 2005-2006 | __Partners in Excellence Award__, Partners Healthcare *Given in recognition of informatics contributions.*|
+| 2005-2006 | __Chief Resident in Medicine__, Massachusetts General Hospital, Department of Medicine *Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.* |
 
-*Given in recognition of a physician who exemplifies dedication to nephrology education, patient care, and collegiality.*
-
-`2005-2006` Partners in Excellence Award  
-Partners Healthcare
-
-*Given in recognition of informatics contributions.*
-
-`2005-2006` Chief Resident in Medicine  
-Massachusetts General Hospital, Department of Medicine
-
-*Developed curriculum for internal medicine residency program. Oversaw educational programs and clinical rotations. Introduced web-based platform for program activities. Launched program providing all residents with internet-connected smartphones and developed clinical software for these devices.*
 
 ## Grants
 
-`2016-2017` __Fanconi Syndrome, Mulitple Sclerosis, adnd Chronic Kidney Disease__  
-BiogenIdec - Prinicipal Invvestigator
+| Date      | Description |
+| ----------| ---- |
+| 2016-2017 | __Fanconi Syndrome, Multiple Sclerosis, and Chronic Kidney Disease__<br/>BiogenIdec - Principal Investigator<br/>*The goal of this project is to characterize urinary and renal function changes associated with multiple sclerosis.* |
+| 2014-2015 | __Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__<br/>Massachusetts General Hospital Interim Support Fund - Principal Investigator<br/>*The goal of this project is to define the relationship between  survival and ergocalciferol replacement in hemodialysis patients.* |
+| 2014-2015 | __Multiple Sclerosis and Chronic Kidney Disease__<br/>BiogenIdec - Principal Investigator<br/>*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.* |
+| 2009-2014 | __Role of hCAP18/LL37 and Vitamin D in Dialysis Mortality__<br/>NIDDK/5K23DK081677 - Principal Investigator<br/>*The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.* |
+| 2007-2008 | __Human Cathelicidin (hCAP18) in Chronic Kidney Disease__<br/>National Kidney Foundation Research Fellowship - Principal Investigator<br/>*The goal of this project was to study inflammatory predictors of mortality in individuals with end-stage renal disease.* |
 
-*The goal of this project is to characterize urinary and renal function changes associated with multiple sclerosis.*
+## Publications
 
-`2014-2015` __Dialysis Extending Longevity With Intensive Vitamin Ergocalciferol Replacement__  
-Massachusetts General Hospital Interim Support Fund - Prinicipal Investigator
-
-*The goal of this project is to define the relationship between  survival and ergocalciferol replacement in hemodialysis patients.*
-
-`2014-2015` __Multiple Sclerosis and Chronic Kidney Disease__  
-BiogenIdec - Prinicipal Investigator
-
-*The goal of this project is to identify the association between chronic kidney disease and Fanconi syndrome in multiple sclerosis.*
-
-`2007-2008` __Role of hCAP18/LL37 and Vitamin D in Dialysis Mortality__  
-National Kidney Foundation Research Fellowship- Prinicipal Investigator
-
-*The goal of this project was to study inflammatory predictors of mortality in individuals with end-stage renal disease.*
-
-`2007-2008` __RHuman Cathelicidin (hCAP18) in Chronic Kidney Disease__  
-NIDDK/5K23DK081677 - Prinicipal Investigator
-
-*The goal of this project was to study the effects of vitamin D on the antimicrobial peptide hCAP18/LL37.*
-
-
-## Selected Publications
+Selected from over 50 publications.
 
 1. Berg AH, Bhan I, Powe C, Karumanchi SA, Xu D, Thadhani RI. Acute Homeostatic Changes Following Vitamin D2 Supplementation. J Endocr Soc. 2017;1(9):1135-1149.
 2. Darras BT, Farrar MA, Mercuri E, Finkel RS, Foster R, Hughes SG, Bhan I, Farwell W, Gheuens S. An Integrated Safety Analysis of Infants and Children with Symptomatic Spinal Muscular Atrophy (SMA) Treated with Nusinersen in Seven Clinical Trials. CNS Drugs. 2019;33(9):919-932.
