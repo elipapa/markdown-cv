@@ -6,11 +6,12 @@ title: Ishir Bhan's CV
 <i class="fa-regular fa-envelope"></i> ishirbhan@gmail.com   <i class="fa-brands fa-linkedin"></i> https://www.linkedin.com/in/ishirbhan/
 
 ## Summary
-- Physician trained, board certified in internal medicine and nephrology with 8 years as academic staff physician
+- Harvard Medical School trained physician, completing residency in internal medicine and fellowship in nephrology with  previously board certification in both; 8 years as academic staff physician at Massachusetts General Hospital
 - NIH-funded independent clinical research career with numerous publications and presentations at international conferences
-- Over 7 years of industry experience spanning drug safety and clinical development involving siRNA, ASO, and gene therapy
+- Over 7 years of industry experience spanning drug safety and clinical development involving siRNA, ASOs, and gene therapy
 - Clinical lead for Phase 1-3 studies across multiple assets
 - Multiple regulatory engagements involving FDA, EMA, MHRA, PDMA and others including face-to-face meetings, teleconferences, briefing document authoring, successful IND and sNDA submissions, and RTQs
+
 
 <!-- <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
