@@ -8,7 +8,7 @@ title: Ishir Bhan's CV
 ## Summary
 - Physician trained, board certified in internal medicine and nephrology with 8 years as academic staff physician
 - NIH-funded independent clinical research career with numerous publications and presentations at international conferences
-- Over 6 years of industry experience spanning drug safety and clinical development involving siRNA, ASO, and gene therapy
+- Over 7 years of industry experience spanning drug safety and clinical development involving siRNA, ASO, and gene therapy
 - Clinical lead for Phase 1-3 studies across multiple assets
 - Multiple regulatory engagements involving FDA, EMA, MHRA, PDMA and others including face-to-face meetings, teleconferences, briefing document authoring, successful IND and sNDA submissions, and RTQs
 
@@ -22,12 +22,22 @@ title: Ishir Bhan's CV
 
 ### Pharmaceutical Industry
 
+
+=======
 #### Alnylam Pharmaceuticals, Cambridge, MA 
 
 | Date      | Description |
 | ----------| ---- |
 | 2019-2022 | Director, Clinical Research |                  
 | 2022-     | Senior Director, Clinical Research |
+
+
+Clinical lead for Phase 2 Study of Zilebesiran (siRNA targeting angiotensinogen for hypertension)
+- led clinical protocol development, coordinating cross-functinoal team and leading governance meeting presentations
+- coordinated input from partner pharmaceutical company, establishing alignment prior to cross-company governance
+- established study steering committtee to provide expert input on study design and execution
+- identified key metrics for site identification and selection
+- activated first site ahead of schedule
 
 Clinical lead for ILLUMINATE C (Phase 3 trial of Lumasiran for patients with primary hyperoxaluria in advanced kidney disease)
 - led cross-functional clinical development subteam
@@ -102,9 +112,6 @@ Development and Diligence
 | ----------| ---- |
 | 2014-2016 | Assistant Professor in Medicine |                  
 | 2008-2014 | Instructor in Medicine |
-
-
-
 
 ## Education and Training
 
